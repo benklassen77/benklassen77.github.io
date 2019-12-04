@@ -3,6 +3,9 @@
 sPersonal websites
 s
 - [Example Course Page](example.md)
+- [Formula md](formulas.md)
+- [Formula html](formulas.html)
+
 
 ## Second Header
 
