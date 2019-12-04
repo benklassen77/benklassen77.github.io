@@ -1,6 +1,8 @@
 # First title (there should only be one)
 
-sPersonal website
+sPersonal websites
+s
+- [Example Course Page](example.md)
 
 ## Second Header
 
@@ -14,7 +16,7 @@ asdhfjasdfhdjsajfda;s **bolded text**, *italic text*.
 
 ![name-of-img](https://i.ytimg.com/vi/Sg14jNbBb-8/hqdefault.jpg)
 
-- list 1
+- list 1s
 - list 2
 - list 3
   - indented
