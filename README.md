@@ -4,17 +4,13 @@ sPersonal websites
 s
 
 - [Example Course Page](example.md)
-- 
+  
 - [Formula md](formulas.md)
-- 
+  
 - [Formula html](formulas.html)
-- 
+  
 - [How to code in Latex](syntax.md)
-- 
-
-
-
-s
+  
 ## Second Header
 
 asdhfjasdfhdjsajfda;s **bolded text**, *italic text*.
@@ -43,8 +39,6 @@ asdhfjasdfhdjsajfda;s **bolded text**, *italic text*.
 
 asdfsdafsa
 
-
 ### Third title
 
 asdfdsafds
-
