@@ -76,7 +76,6 @@ To add a partial derivative $\ref{partial}$
 ```
 
 $$
-\begin{equation}
 Y = \begin{bmatrix}
 a_{11} & a_{12} & a_{13}\\
 a_{21} & a_{22} & a_{23}\\
@@ -88,19 +87,14 @@ x_2\\
 x_3\\
 \end{bmatrix}
 \label{Matrix}
-\end{equation}
 $$
 
 $$
-\begin{equation}
 \frac{dy}{dt} = 2t^2
 \label{derivative}
-\end{equation}
 $$
 
 $$
-\begin{equation}
 \frac{du}{dt} = 2x\frac{\partial u}{\partial x)} + 2y\frac{\partial u}{\partial y}
 \label{partial}
-\end{equation}
 $$
