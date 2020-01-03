@@ -1,10 +1,43 @@
-# First title (there should only be one)
+# Hello!
 
-- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
-sPersonal websites
-s
+I am Benjamin Klassen, a 2nd-year student studying Civil Engineering at the University of Waterloo. 
 
-- [To Second Title](#Second-Title)
+## Solid Mechanics
+
+- Truss
+- Shear
+- Torsion
+- Deflection
+
+## Geotechnical Engineering and Materials
+
+- Concrete
+- Asphalt
+- Wood
+- Glass
+- Polymers
+- Corrosion/Fatigue
+
+## Transportation Engineering
+
+- Airport Design
+- Highway Design
+- Pavement Design
+
+## Mathematics
+
+- Statistics
+- Calculus
+- Linear Algebra
+- Differential Equations
+
+## Computer Languages
+
+- Matlab
+- Git
+- Markdown
+- VGA
+- Python
 
 - [Example Course Page](example.md)
 - [Formula md](formulas.md)
@@ -34,11 +67,4 @@ asdhfjasdfhdjsajfda;s **bolded text**, *italic text*.
 3. blah
 4. blah
    - stuffs
-
-## Second Title
-
-asdfsdafsa
-
-### Third title
-
-asdfdsafds
+- [To Second Title](#Second-Title)
