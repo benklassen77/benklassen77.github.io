@@ -6,5 +6,3 @@ Words
 
 > Block Quote thingy
 > Yeah baby
-
-- [HTML TEST](SolidMechanics.html)
