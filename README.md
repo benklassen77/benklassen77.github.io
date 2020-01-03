@@ -3,6 +3,8 @@
 sPersonal websites
 s
 
+- [To Second Title](#Second-Title)
+
 - [Example Course Page](example.md)
 - [Formula md](formulas.md)
 - [Formula html](formulas.html)
@@ -19,8 +21,6 @@ asdhfjasdfhdjsajfda;s **bolded text**, *italic text*.
 [linked-text](actual_link)
 
 ![name-of-img](https://i.ytimg.com/vi/Sg14jNbBb-8/hqdefault.jpg)
-
-![test image](https://i.imgur.com/ggx1D4d.jpg)
 
 - list 1s
 - list 2
