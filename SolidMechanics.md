@@ -1,6 +1,6 @@
 # Solid Mechanics
 
-Words 
+Words
 
 - list thingy
 
