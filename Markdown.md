@@ -1,6 +1,5 @@
 # Markdown
 
-'
 | Syntax | Description |
 |:--- | ---: |
 | - text | Point |
@@ -12,4 +11,3 @@
 | [Link-to-website](google.com)| Link |
 | [Link-to-chapter](#Markdown)| Link |
 | [Link-to-local-page](README.md)| Link |
-'
