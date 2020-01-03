@@ -1,8 +1,7 @@
 # Solid Mechanics
 
-Words
+This page contains the theory and procedures to complete a civil engineer's mechanics toolbelt.
 
-- list thingy
+## [Cive105](cive105.md)
 
-> Block Quote thingy
-> Yeah baby
+## [Cive204](cive204.md)
