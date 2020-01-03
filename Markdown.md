@@ -8,6 +8,6 @@
 | > text | Block Quote |
 | **text** | Bold|
 | *text* | Italic |
-| [Link-to-website](www.google.com)| Link |
+| [Link-to-website](http://www.google.com)| Link |
 | [Link-to-chapter](#Markdown)| Link |
 | [Link-to-local-page](README.md)| Link |
