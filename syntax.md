@@ -1,3 +1,0 @@
-# LATEX SYNTAX 
-
-Hello world

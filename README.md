@@ -39,10 +39,7 @@ My name is Benjamin Klassen. I am a 2nd-year student studying Civil Engineering 
 - VGA
 - Python
 
-- [Example Course Page](example.md)
 - [Formula md](formulas.md)
-- [Formula html](formulas.html)
-- [How to code in Latex](syntax.md)
   
 ## Second Header
 
