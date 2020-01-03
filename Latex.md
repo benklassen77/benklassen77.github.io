@@ -2,6 +2,8 @@
 
 [Greek-Symbol-Syntax](https://jblevins.org/log/greek)
 
+[Addional-Cheat-Sheet](https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/)
+
 To create separate equation
 
 $$ V = mg $$
