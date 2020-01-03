@@ -20,7 +20,7 @@ asdhfjasdfhdjsajfda;s **bolded text**, *italic text*.
 
 ![name-of-img](https://i.ytimg.com/vi/Sg14jNbBb-8/hqdefault.jpg)
 
-![test image](https://photos.google.com/photo/AF1QipPzRq4V-Jxl4r8cmfkyVX7XWfw7gTWQSgtWp-ya)
+![test image](https://imgur.com/a/L2iA9wc)
 
 - list 1s
 - list 2
