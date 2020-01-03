@@ -1,6 +1,6 @@
-# Hello!
+# Greetings
 
-I am Benjamin Klassen, a 2nd-year student studying Civil Engineering at the University of Waterloo. 
+My name is Benjamin Klassen. I am a 2nd-year student studying Civil Engineering at the University of Waterloo. 
 
 ## Solid Mechanics
 
