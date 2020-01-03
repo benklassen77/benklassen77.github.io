@@ -9,3 +9,4 @@
 
 - [Methology](Methology.md)
 - [Weekly-Reflection](Weekly-fitness-reflection.md)
+- [Personal-Records](PR.md)
