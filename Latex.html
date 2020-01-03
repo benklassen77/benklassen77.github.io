@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Latex</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
+    <body class="vscode-light">
+        <h1 id="latex">Latex</h1>
+<p><a href="https://jblevins.org/log/greek">Greek-Symbol-Syntax</a></p>
+<p>To create separate equation</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>V</mi><mo>=</mo><mi>m</mi><mi>g</mi></mrow><annotation encoding="application/x-tex">V = mg 
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.22222em;">V</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault" style="margin-right:0.03588em;">g</span></span></span></span></span></p>
+<pre><code class="language-latex"><code><div>$$ V = mg $$
+</div></code></code></pre>
+<p>To tag a number</p>
+<pre><code class="language-latex"><code><div>\tag
+</div></code></code></pre>
+<p>To create intext reference</p>
+<pre><code class="language-latex"><code><div>\ref{equationname}
+\label{equationname}
+</div></code></code></pre>
+<p>To begin and end equation</p>
+<pre><code class="language-latex"><code><div>\begin{equation}
+\end{equation}
+or
+\begin{equation*}
+\end{equation*}
+</div></code></code></pre>
+<p>To add an intext formula</p>
+<pre><code class="language-latex"><code><div>$equation$
+</div></code></code></pre>
+<p>To add a matrix \ref{Matrix}</p>
+<pre><code class="language-latex"><code><div>\begin{equation}
+Y = \begin{bmatrix}
+a_{11} &amp; a_{12} &amp; a_{13}\\
+a_{21} &amp; a_{22} &amp; a_{23}\\
+a_{31} &amp; a_{32} &amp; a_{33}\\
+\end{bmatrix}
+\begin{bmatrix}
+x_1\\
+x_2\\
+x_3\\
+\end{bmatrix}
+\label{matrix}
+\end{equation}
+</div></code></code></pre>
+<p>To add a derivative \ref{Derivative}</p>
+<pre><code class="language-latex"><code><div>\begin{equation}
+\frac{dy}{dt} = 2t^2
+\label{derivative}
+\end{equation}
+</div></code></code></pre>
+<p>To add a partial derivative \ref{partial}</p>
+<pre><code class="language-latex"><code><div>\begin{equation}
+\frac{du}{dt} = 2x\frac{\partial u}{\partial x)} + 2y\frac{\partial u}{\partial y}
+\label{partial}
+\end{equation}
+</div></code></code></pre>
+<p>\begin{equation}
+Y = \begin{bmatrix}
+a_{11} &amp; a_{12} &amp; a_{13}\
+a_{21} &amp; a_{22} &amp; a_{23}\
+a_{31} &amp; a_{32} &amp; a_{33}\
+\end{bmatrix}
+\begin{bmatrix}
+x_1\
+x_2\
+x_3\
+\end{bmatrix}
+\label{Matrix}
+\end{equation}</p>
+<p>\begin{equation}
+\frac{dy}{dt} = 2t^2
+\label{derivative}
+\end{equation}</p>
+<p>\begin{equation}
+\frac{du}{dt} = 2x\frac{\partial u}{\partial x)} + 2y\frac{\partial u}{\partial y}
+\label{partial}
+\end{equation}</p>
+
+    </body>
+    </html>
