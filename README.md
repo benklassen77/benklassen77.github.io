@@ -2,7 +2,7 @@
 
 My name is Benjamin Klassen. I am a 2nd-year student studying Civil Engineering at the University of Waterloo.
 
-## Solid Mechanics
+## [Solid Mechanics](SolidMechanics.md)
 
 - Truss
 - Shear
@@ -31,7 +31,7 @@ My name is Benjamin Klassen. I am a 2nd-year student studying Civil Engineering 
 - Linear Algebra
 - Differential Equations
 
-## Computer Languages
+## [Computer Languages](Computer-Languages.md)
 
 - Matlab
 - Git
