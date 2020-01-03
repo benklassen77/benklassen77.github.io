@@ -39,7 +39,7 @@ My name is Benjamin Klassen. I am a 2nd-year student studying Civil Engineering 
 - VGA
 - Python
 
-- [Formula md](formulas.md)
+- [Formula md](formulas.html)
   
 ## Second Header
 
