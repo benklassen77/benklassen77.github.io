@@ -39,7 +39,7 @@ To add an intext formula
 $equation$
 ```
 
-To add a matrix \ref{Matrix}
+To add a matrix $\ref{Matrix}$
 
 ```latex
 \begin{equation}
@@ -57,7 +57,7 @@ x_3\\
 \end{equation}
 ```
 
-To add a derivative \ref{Derivative}
+To add a derivative $\ref{Derivative}$
 
 ```latex
 \begin{equation}
@@ -66,7 +66,7 @@ To add a derivative \ref{Derivative}
 \end{equation}
 ```
 
-To add a partial derivative \ref{partial}
+To add a partial derivative $\ref{partial}$
 
 ```latex
 \begin{equation}
@@ -75,8 +75,7 @@ To add a partial derivative \ref{partial}
 \end{equation}
 ```
 
-
-
+$$
 \begin{equation}
 Y = \begin{bmatrix}
 a_{11} & a_{12} & a_{13}\\
@@ -90,13 +89,18 @@ x_3\\
 \end{bmatrix}
 \label{Matrix}
 \end{equation}
+$$
 
+$$
 \begin{equation}
 \frac{dy}{dt} = 2t^2
 \label{derivative}
 \end{equation}
+$$
 
+$$
 \begin{equation}
 \frac{du}{dt} = 2x\frac{\partial u}{\partial x)} + 2y\frac{\partial u}{\partial y}
 \label{partial}
 \end{equation}
+$$
