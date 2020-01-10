@@ -1,6 +1,6 @@
 # Shalom
 
-I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
+Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 
 ## [Solid Mechanics](SolidMechanics.md)
 
