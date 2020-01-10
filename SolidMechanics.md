@@ -1,7 +1,38 @@
 # Solid Mechanics
 
-This page contains the theory and procedures to complete a civil engineer's mechanics toolbelt.
+## Trusses
 
-## [Cive105](cive105.md)
+- Simple Trusses
+- Method of joints
+- Method of sections
+- Frames
 
-## [Cive204](cive204.md)
+## Axial Loading
+
+- Statically indeterminate axially loaded member
+- Thermal stresses
+
+## Bending
+
+- Shear and moment diagrams
+
+## 2D and 3D Equilibrium
+
+## Shear
+
+- Shear in straight members
+- Shear flow buildup
+- Shear center
+
+## Torsion
+
+## Combined Loading
+
+## Deflection of beams
+
+Prodedure
+
+1. Check for points where slope or deflection is known
+2. Solve for reactions at supports
+3. Take a cut any distance x from a reaction and find Mo equation
+4. Integrate equations according to
