@@ -12,4 +12,3 @@
 | [Link-to-chapter](#Markdown)| Link |
 | [Link-to-local-page](README.md)| Link |
 | ![Link-to-image](image12345.jpg) | Link |
-
