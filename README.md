@@ -39,11 +39,5 @@ My name is Benjamin Klassen. I am a 2nd-year student studying Civil Engineering 
 - VGA
 - Python
 
-## [Fitness](Fitness.md)
-
-- Weekly reflection
-- Goals
-- Personal Record Updates
-
 - [Formula md](formulas.html)
   
