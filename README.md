@@ -2,12 +2,10 @@
 
 Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 
-## [Solid Mechanics](Mechanics.md)
+## [Mechanics](Mechanics.md)
 
-- Truss
-- Shear
-- Torsion
-- Deflection
+- Solid Mechanics
+- Fluid Mechanics
 
 ## Geotechnical Engineering and Materials
 
