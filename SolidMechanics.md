@@ -35,4 +35,8 @@ Prodedure
 1. Check for points where slope or deflection is known
 2. Solve for reactions at supports
 3. Take a cut any distance x from a reaction and find Mo equation
-4. Integrate equations according to hey baby
+4. Integrate equations according to the following equation
+
+$$
+EI\frac{d^2 y}{d x^2}=\int_0^x M(x) dx
+$$
