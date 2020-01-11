@@ -39,4 +39,4 @@ Prodedure
 
 $$EI\frac{d^2 y}{d x^2}=M(x)\tag{Moment Equation}$$
 $$EI\sigma(x) = \int_0^x M(x)dx + C\tag{Slope Equation}$$
-$$EIy(x)=\iint M(x)dx+C_1 + C_2\tag{Deflection Equation}$$
+$$EIy(x)=\iint{M(x)dx+C_1} + C_2\tag{Deflection Equation}$$
