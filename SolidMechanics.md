@@ -41,6 +41,6 @@
 4. Integrate equations according to the following equation.
 5. Plug in knowns and solve.
 
-$$EI\frac{d^2 y}{d x^2}=M(x)\tag{Moment Equation}$$
-$$EI\theta(x) = \int{M(x)dx} + C\tag{Slope Equation}$$
-$$EIy(x)=\int{\int{M(x)+C_1dx}} + C_2\tag{Deflection Equation}$$
+$$EI\frac{d^2 y}{d x^2}=M_O\tag{Moment Equation}$$
+$$EI\theta(x) = \int{M_O dx} + C\tag{Slope Equation}$$
+$$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
