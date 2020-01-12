@@ -1,34 +1,55 @@
 # Solid Mechanics
 
-## Trusses
+## Structural Analysis
+
+### Trusses
 
 - Simple Trusses
-- Method of joints
-- Method of sections
+- Method of Joints
+- Method of Sections
 - Frames
 
-## Axial Loading
+### 3D Force System
 
-- Statically indeterminate axially loaded member
-- Thermal stresses
+- Adding cartesian vectors
+- Moment about an axis
 
-## Bending
+## Geometric Properties
 
-- Shear and moment diagrams
-
-## 2D and 3D Equilibrium
+- Center of gravity / centroid including composite bodies
+- how to reduce distributed load to simple loading
+- Moment of inertia (areas, parallel-axis theorem, composite areas
 
 ## Shear
 
-- Shear in straight members
-- Shear flow buildup
-- Shear center
+- Diameter of pins given allowable stress
+- shear formula
+- shear centre
+- shear flow
+
+## Axial
+
+- statically indeterminate member
+- thermal stress
+
+## Bending
+
+- how to make bending moment diagram
+- 2D flexture formula
 
 ## Torsion
 
-## Combined Loading
+- torsion formula
+- angle of twist
+- statically indeterminate torque-loaded members
+- thin-walled
 
-## Deflection of beams
+## Combined Loadings
+
+- unsymmetrical bending
+- inelastic bending
+
+## Deflection
 
 ### Procedure
 
@@ -44,3 +65,5 @@
 $$EI\frac{d^2 y}{d x^2}=M_O\tag{Moment Equation}$$
 $$EI\theta(x) = \int{M_O dx} + C\tag{Slope Equation}$$
 $$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
+
+## Design

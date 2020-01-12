@@ -22,32 +22,55 @@
     </head>
     <body class="vscode-light">
         <h1 id="solid-mechanics">Solid Mechanics</h1>
-<h2 id="trusses">Trusses</h2>
+<h2 id="structural-analysis">Structural Analysis</h2>
+<h3 id="trusses">Trusses</h3>
 <ul>
 <li>Simple Trusses</li>
-<li>Method of joints</li>
-<li>Method of sections</li>
+<li>Method of Joints</li>
+<li>Method of Sections</li>
 <li>Frames</li>
 </ul>
-<h2 id="axial-loading">Axial Loading</h2>
+<h3 id="3d-force-system">3D Force System</h3>
 <ul>
-<li>Statically indeterminate axially loaded member</li>
-<li>Thermal stresses</li>
+<li>Adding cartesian vectors</li>
+<li>Moment about an axis</li>
+</ul>
+<h2 id="geometric-properties">Geometric Properties</h2>
+<ul>
+<li>Center of gravity / centroid including composite bodies</li>
+<li>how to reduce distributed load to simple loading</li>
+<li>Moment of inertia (areas, parallel-axis theorem, composite areas</li>
+</ul>
+<h2 id="shear">Shear</h2>
+<ul>
+<li>Diameter of pins given allowable stress</li>
+<li>shear formula</li>
+<li>shear centre</li>
+<li>shear flow</li>
+</ul>
+<h2 id="axial">Axial</h2>
+<ul>
+<li>statically indeterminate member</li>
+<li>thermal stress</li>
 </ul>
 <h2 id="bending">Bending</h2>
 <ul>
-<li>Shear and moment diagrams</li>
-</ul>
-<h2 id="2d-and-3d-equilibrium">2D and 3D Equilibrium</h2>
-<h2 id="shear">Shear</h2>
-<ul>
-<li>Shear in straight members</li>
-<li>Shear flow buildup</li>
-<li>Shear center</li>
+<li>how to make bending moment diagram</li>
+<li>2D flexture formula</li>
 </ul>
 <h2 id="torsion">Torsion</h2>
-<h2 id="combined-loading">Combined Loading</h2>
-<h2 id="deflection-of-beams">Deflection of beams</h2>
+<ul>
+<li>torsion formula</li>
+<li>angle of twist</li>
+<li>statically indeterminate torque-loaded members</li>
+<li>thin-walled</li>
+</ul>
+<h2 id="combined-loadings">Combined Loadings</h2>
+<ul>
+<li>unsymmetrical bending</li>
+<li>inelastic bending</li>
+</ul>
+<h2 id="deflection">Deflection</h2>
 <h3 id="procedure">Procedure</h3>
 <ol>
 <li>Check for points where slope or deflection is known.
@@ -71,6 +94,7 @@
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="mopen">(</span><span class="mord mathdefault">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.22225em;vertical-align:-0.86225em;"></span><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">O</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathdefault">d</span><span class="mord mathdefault">x</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span><span class="tag"><span class="strut" style="height:2.22225em;vertical-align:-0.86225em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">S</span><span class="mord">l</span><span class="mord">o</span><span class="mord">p</span><span class="mord">e</span><span class="mord"> </span><span class="mord">E</span><span class="mord">q</span><span class="mord">u</span><span class="mord">a</span><span class="mord">t</span><span class="mord">i</span><span class="mord">o</span><span class="mord">n</span></span><span class="mord">)</span></span></span></span></span></span></p>
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>E</mi><mi>I</mi><mi>y</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo>∫</mo><mrow><mo>∫</mo><mrow><msub><mi>M</mi><mi>O</mi></msub><mo>+</mo><msub><mi>C</mi><mn>1</mn></msub><mi>d</mi><mi>x</mi></mrow></mrow><mo>+</mo><msub><mi>C</mi><mn>2</mn></msub></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Deflection Equation)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mopen">(</span><span class="mord mathdefault">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.22225em;vertical-align:-0.86225em;"></span><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">O</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathdefault">d</span><span class="mord mathdefault">x</span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span><span class="tag"><span class="strut" style="height:2.22225em;vertical-align:-0.86225em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">D</span><span class="mord">e</span><span class="mord">f</span><span class="mord">l</span><span class="mord">e</span><span class="mord">c</span><span class="mord">t</span><span class="mord">i</span><span class="mord">o</span><span class="mord">n</span><span class="mord"> </span><span class="mord">E</span><span class="mord">q</span><span class="mord">u</span><span class="mord">a</span><span class="mord">t</span><span class="mord">i</span><span class="mord">o</span><span class="mord">n</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<h2 id="design">Design</h2>
 
     </body>
     </html>
