@@ -2,7 +2,7 @@
 
 Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 
-## [Mechanics](mechanics/a.md)
+## [Mechanics](mechanics/mechanicstitle.md)
 
 - Solid Mechanics
 - Fluid Mechanics
@@ -29,7 +29,7 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 - Linear Algebra
 - Differential Equations
 
-## [Computer Languages](computer/a.md)
+## [Computer Languages](computer/computertitle.md)
 
 - Matlab
 - Git
