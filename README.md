@@ -7,7 +7,7 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 - Solid Mechanics
 - Fluid Mechanics
 
-## Geotechnical Engineering and Materials
+## [Geotechnical Engineering and Materials](geo/geotitle.md)
 
 - Concrete
 - Asphalt
@@ -16,13 +16,13 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 - Polymers
 - Corrosion/Fatigue
 
-## Transportation Engineering
+## [Transportation Engineering](transpo/transpotitle.md)
 
 - Airport Design
 - Highway Design
 - Pavement Design
 
-## Mathematics
+## [Mathematics](math/mathtitle.md)
 
 - Statistics
 - Calculus
