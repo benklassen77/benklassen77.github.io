@@ -1,5 +1,5 @@
 # Computer Languages
 
-[Markdown](Markdown.md)
+## [Markdown](Markdown.md)
 
-[Latex](Latex.md)
+## [Latex](Latex.md)
