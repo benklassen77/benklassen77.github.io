@@ -34,5 +34,5 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 - Matlab
 - Git
 - Markdown
-- VGA
+- VBA
   
