@@ -1,5 +1,5 @@
 # Mechanics
 
-[Solid-Mechanics](mechanics/SolidMechanics.md)
+[Solid-Mechanics](SolidMechanics.md)
 
-[Fluid-Mechanics](mechanics/FluidMechanics.md)
+[Fluid-Mechanics](FluidMechanics.md)
