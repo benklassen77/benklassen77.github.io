@@ -42,7 +42,7 @@
 - torsion formula
 - angle of twist
 - statically indeterminate torque-loaded members
-- thin-walled
+- thin-walled sections
 
 ## Combined Loadings
 
