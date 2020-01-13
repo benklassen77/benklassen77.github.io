@@ -2,4 +2,4 @@
 
 [Solid-Mechanics](SolidMechanics.md)
 
-[Fluid-Mechanics](mechanics/FluidMechanics.md)
+[Fluid-Mechanics](FluidMechanics.md)
