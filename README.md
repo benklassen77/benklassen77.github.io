@@ -7,7 +7,9 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 - Solid Mechanics
 - Fluid Mechanics
 
-## [Geotechnical Engineering and Materials](geo/geotitle.md)
+## [Geotechnical Engineering](geo/geotitle.md)
+
+## [Material Engineering](materials/materialstitle.md)
 
 - Concrete
 - Asphalt
@@ -35,4 +37,3 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 - Git
 - Markdown
 - VBA
-  
