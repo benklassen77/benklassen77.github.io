@@ -1,4 +1,4 @@
 # Fitness
 
 ## [Methology](Methology.md)
-## [Weekly-Reflection](Weekly-fitness-reflection.md)
+## [Weekly Reflection](Weekly-fitness-reflection.md)
