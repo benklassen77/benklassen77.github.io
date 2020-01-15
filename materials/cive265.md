@@ -59,4 +59,4 @@ To calculate the compressive strength, use the following equations
 
 $$E_c=4500\sqrt{f\prime_c}\tag{Simplified}$$
 
-$$E_c=(3300\sqrt{f\prime_c}+6900)(\frac{\gamma_c}{2300})^1.5\tag{General}$$
+$$E_c=(3300\sqrt{f\prime_c}+6900)(\frac{\gamma_c}{2300})^(1.5)\tag{General}$$
