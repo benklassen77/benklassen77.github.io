@@ -111,8 +111,6 @@ Concrete consists of cement (10-15%), fine and course aggregate (60-75%), water(
   - Ductile and stiff
   - Fatigue resistant
 
-![Classifications](https://i.imgur.com/M5KvbLs.png)
-
 ## Properties of Cured Concrete
 
 ### Strength
