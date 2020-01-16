@@ -1,5 +1,6 @@
 # Structural Materials and Corrosion
 
+- [Stress and Strain](#stress-and-strain)
 - [Concrete](#concrete)
 - [Wood](#wood)
 
@@ -32,7 +33,7 @@ Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 - A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
 - Corresponds to breaking of atomic bonds
 
-### Properties
+## Properties
 
 **Proportionality Limit (P)** = point where linear region transitions to non-linear region
 
@@ -60,7 +61,22 @@ $$ Ur = \int_0^{\varepsilon_y}{\sigma\cdot d\varepsilon}$$
 
 > If the behaviour is linear elastic, $U_r = 0.5\cdot\sigma_y\cdot\varepsilon_y$
 
+**Toughness** = capacity of a material to absorb energy up to fracture
+
+- Area under the stress-strain curve up to fracture
+- Also a measure of resistance to crack propagation
+- Materials with high ductility tend to be tough because plastic flow reduces stress concentration at tip of crack
+
 # Concrete
+
+## Composition
+
+Concrete consists of cement (10-15%), fine and course aggregate (60-75%), water(15-20%), and air (5-8%).
+
+1. Paste - 25 to 40% of volume (cement and water)
+2. Aggregate - 60 to 76% by volume (fine sand or course gravel)
+
+**Portland Cement** = Made primarily of lime (CaO) from chalk or limestone and silica ($SiO_2$) from clay or shale.
 
 ## Concrete Classification
 
@@ -94,6 +110,8 @@ $$ Ur = \int_0^{\varepsilon_y}{\sigma\cdot d\varepsilon}$$
   - Higher tensile strength
   - Ductile and stiff
   - Fatigue resistant
+
+![Classifications](https://i.imgur.com/M5KvbLs.png)
 
 ## Properties of Cured Concrete
 
@@ -137,6 +155,12 @@ Below are some the most common causes of concrete corrosion and the ways to miti
 3. Alkali-aggregate rxn, mitigated by using non-reactive aggregate
 4. Acid attack, mitigated by reducing permeability
 5. Sulphate attack (reaction of sulphates with compounds formed as concrete cures, forming expansive compounds which crack concrete surface). Mitigated with low w/c ratio and mineral admixtures
+
+## Properties of Fresh Concrete
+
+- Workability = ease of placement, consolidation, and finishing
+- Consistency = resistance to segregation or settling
+- Setting time = time of curing until sufficient strength reached
 
 # Wood
 
