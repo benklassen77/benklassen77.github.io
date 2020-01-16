@@ -9,7 +9,7 @@
 
 $$\sigma = F/A_o\tag{Engineering Stress}$$
 $$\epsilon = \frac{\deltal}{l_o}{Engineering Strain}$$
-$$\tau = \frac{F}{A_o}\tag{Shear Stress}
+$$\tau = \frac{F}{A_o}\tag{Shear Stress}$$
 
 # Concrete
 
