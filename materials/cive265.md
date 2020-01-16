@@ -1,24 +1,46 @@
 # Structural Materials and Corrosion
 
-- [Stress and Strain](#stress-and-strain)
-- [Concrete](#concrete)
-- [Wood](#wood)
+- [Structural Materials and Corrosion](#structural-materials-and-corrosion)
+  - [Stress and Strain](#stress-and-strain)
+    - [Basic formulae](#basic-formulae)
+    - [Stress-strain relationships](#stress-strain-relationships)
+      - [Elastic](#elastic)
+      - [Plastic or elasto-plastic](#plastic-or-elasto-plastic)
+    - [Properties](#properties)
+  - [Concrete](#concrete)
+    - [Composition](#composition)
+    - [Concrete Classification](#concrete-classification)
+      - [Type Classification](#type-classification)
+      - [Production](#production)
+      - [Strength/Density](#strengthdensity)
+      - [Special](#special)
+    - [Properties of Cured Concrete](#properties-of-cured-concrete)
+      - [Strength](#strength)
+      - [Creep](#creep)
+      - [Corrosion](#corrosion)
+    - [Properties of Fresh Concrete](#properties-of-fresh-concrete)
+      - [Tests to measure properties](#tests-to-measure-properties)
+        - [Admixtures](#admixtures)
+          - [Chemical Admixtures](#chemical-admixtures)
+          - [Mineral Admixtures](#mineral-admixtures)
+  - [Wood](#wood)
+    - [Types of wood](#types-of-wood)
 
-# Stress and Strain
+## Stress and Strain
 
-## Basic formulae
+### Basic formulae
 
 $$\sigma = F/A_o\tag{Engineering Stress}$$
 $$\epsilon = \frac{\Delta{l}}{l_o}\tag{Engineering Strain}$$
 $$\tau = \frac{F}{A_o}\tag{Shear Stress}$$
 
-## Stress-strain relationships
+### Stress-strain relationships
 
 Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 
 - E is the slope of the linear elastic region
 
-### Elastic
+#### Elastic
 
 - A deformation is elastic is the stress-strain relationship is proportional upon loading/unloading
 - Non-permanent
@@ -28,12 +50,12 @@ Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 
 **Nonlinear elastic** = nonlinear relationship between stress and strain
 
-### Plastic or elasto-plastic
+#### Plastic or elasto-plastic
 
 - A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
 - Corresponds to breaking of atomic bonds
 
-## Properties
+### Properties
 
 **Proportionality Limit (P)** = point where linear region transitions to non-linear region
 
@@ -67,9 +89,9 @@ $$ Ur = \int_0^{\varepsilon_y}{\sigma\cdot d\varepsilon}$$
 - Also a measure of resistance to crack propagation
 - Materials with high ductility tend to be tough because plastic flow reduces stress concentration at tip of crack
 
-# Concrete
+## Concrete
 
-## Composition
+### Composition
 
 Concrete consists of cement (10-15%), fine and course aggregate (60-75%), water(15-20%), and air (5-8%).
 
@@ -78,27 +100,27 @@ Concrete consists of cement (10-15%), fine and course aggregate (60-75%), water(
 
 **Portland Cement** = Made primarily of lime (CaO) from chalk or limestone and silica ($SiO_2$) from clay or shale.
 
-## Concrete Classification
+### Concrete Classification
 
-### Type Classification
+#### Type Classification
 
 - Unreinforced (regular concrete)
 - Reinforced (regular w/ rebar)
 - Prestressed (w/ tensioned wire strands)
 
-### Production
+#### Production
 
 - Ready-mix (small projects)
 - Cast-in-place (transported to site and poured)
 - Precast (premade pieces)
 
-### Strength/Density
+#### Strength/Density
 
 - Low (<20 MPa)/(240-1800 kg/m^3)
 - Normal (20-60 MPa)/(2150-2500 kg/m^3)
 - High (>60 MPa)/(6400 kg/m^3)
 
-### Special
+#### Special
 
 - Self-consolidating
   - Flows well
@@ -111,9 +133,9 @@ Concrete consists of cement (10-15%), fine and course aggregate (60-75%), water(
   - Ductile and stiff
   - Fatigue resistant
 
-## Properties of Cured Concrete
+### Properties of Cured Concrete
 
-### Strength
+#### Strength
 
 The Strength is dependent on the following
 
@@ -131,7 +153,7 @@ Concrete is designed based on the f'c. This is the compressive strength of the c
 - Between 50-75% of the f'c, mortar cracks form
 - Between 75-100% of the f'c, continuous cracks form until failure
 
-### Creep
+#### Creep
 
 - Caused by gel (viscous flow, seepage, microcracks), or deformation of aggregate
 
@@ -144,7 +166,7 @@ To find time-dependent creep, use the following equation
 
 $$ E_{ca}(t) = \frac{E_{c0}}{1+\phi_t} $$
 
-### Corrosion
+#### Corrosion
 
 Below are some the most common causes of concrete corrosion and the ways to mitigate them.
 
@@ -154,7 +176,7 @@ Below are some the most common causes of concrete corrosion and the ways to miti
 4. Acid attack, mitigated by reducing permeability
 5. Sulphate attack (reaction of sulphates with compounds formed as concrete cures, forming expansive compounds which crack concrete surface). Mitigated with low w/c ratio and mineral admixtures
 
-## Properties of Fresh Concrete
+### Properties of Fresh Concrete
 
 - Workability = ease of placement, consolidation, and finishing
 - Consistency = resistance to segregation or settling
@@ -167,15 +189,15 @@ These properties are influenced by the
 - Coarse aggregate size and shape
 - Type of chemical and mineral admixtures
 
-### Tests to measure properties
+#### Tests to measure properties
 
 **Slump Test** = controls workability and consistency
 
 **Pressure Method Air Content Test** = measures air content in fresh concrete
 
-#### Admixtures
+##### Admixtures
 
-##### Chemical Admixtures
+###### Chemical Admixtures
 
 **Air-entraining** = air provides freeze thaw resistance
 
@@ -191,12 +213,12 @@ These properties are influenced by the
 
 - 2 types = retarders and accelerators
 
-##### Mineral Admixtures
+###### Mineral Admixtures
 
 **Fly Ash** = increase strength and workability
 
 **Silica fume** = reduce permeability
 
-# Wood
+## Wood
 
-## Types of wood
+### Types of wood
