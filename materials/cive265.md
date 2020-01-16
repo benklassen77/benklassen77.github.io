@@ -7,7 +7,7 @@
 
 ## Engineering stress
 
-force per unit area $ \sigma = F/A_o $
+force per unit area $\sigma = F/A_o$
 
 # Concrete
 
