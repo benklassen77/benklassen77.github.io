@@ -8,8 +8,24 @@
 ## Basic formulae
 
 $$\sigma = F/A_o\tag{Engineering Stress}$$
-$$\epsilon = \frac{\deltal}{l_o}{Engineering Strain}$$
+$$\epsilon = \frac{\delta{l}}{l_o}{Engineering Strain}$$
 $$\tau = \frac{F}{A_o}\tag{Shear Stress}$$
+
+## Stress-strain relationships
+
+### Elastic
+
+- A deformation is elastic is the stress-strain relationship is proportional upon loading/unloading
+- Non-permanent
+- Corresponds to small changes in atomic spacing and stretching of atomic bonds
+
+**Linear elastic** = straight-line relationship between stress and strain
+**Nonlinear elastic** = nonlinear relationship between stress and strain
+
+### Plastic or elasto-plastic
+
+- Something deforms plastically if the stress-strain relationship is non-proportional
+- 
 
 # Concrete
 
