@@ -5,9 +5,11 @@
 
 # Stress and Strain
 
-## Engineering stress
+## Basic formulae
 
-force per unit area $\sigma = F/A_o$
+$$\sigma = F/A_o\tag{Engineering Stress}$$
+$$\epsilon = \frac{\deltal}{l_o}{Engineering Strain}$$
+$$\tau = \frac{F}{A_o}\tag{Shear Stress}
 
 # Concrete
 
