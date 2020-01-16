@@ -8,7 +8,7 @@
 ## Basic formulae
 
 $$\sigma = F/A_o\tag{Engineering Stress}$$
-$$\epsilon = \frac{\delta{l}}{l_o}{Engineering Strain}$$
+$$\epsilon = \frac{\DELTA{l}}{l_o}{Engineering Strain}$$
 $$\tau = \frac{F}{A_o}\tag{Shear Stress}$$
 
 ## Stress-strain relationships
