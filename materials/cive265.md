@@ -33,7 +33,7 @@
 $$\sigma = F/A_o\tag{Engineering Stress}$$
 $$\epsilon = \frac{\Delta{l}}{l_o}\tag{Engineering Strain}$$
 $$\tau = \frac{F}{A_o}\tag{Shear Stress}$$
-$$\sigma_T = \frac{F}{A_i}\text{ or } \sigma_E\cdot(1+\varepsilon_E)\tag{True Stress}$$
+$$\sigma_T = \frac{F}{A_i} \text{or} \sigma_E\cdot(1+\varepsilon_E)\tag{True Stress}$$
 $$\varepsilon_T = ln[1+\varepsilon_E]\tag{True Strain}$$
 
 ### Stress-strain relationships
