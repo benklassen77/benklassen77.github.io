@@ -3,29 +3,35 @@
 - [Concrete](#concrete)
 - [Wood](#wood)
 
-## Concrete
+# Stress and Strain
 
-### Concrete Classification
+## Engineering stress
 
-#### Type Classification
+force per unit area $ \sigma = F/A_o $
+
+# Concrete
+
+## Concrete Classification
+
+### Type Classification
 
 - Unreinforced (regular concrete)
 - Reinforced (regular w/ rebar)
 - Prestressed (w/ tensioned wire strands)
 
-#### Production
+### Production
 
 - Ready-mix (small projects)
 - Cast-in-place (transported to site and poured)
 - Precast (premade pieces)
 
-#### Strength/Density
+### Strength/Density
 
 - Low (<20 MPa)/(240-1800 kg/m^3)
 - Normal (20-60 MPa)/(2150-2500 kg/m^3)
 - High (>60 MPa)/(6400 kg/m^3)
 
-#### Special
+### Special
 
 - Self-consolidating
   - Flows well
@@ -38,9 +44,9 @@
   - Ductile and stiff
   - Fatigue resistant
 
-### Properties of Cured Concrete
+## Properties of Cured Concrete
 
-#### Strength
+### Strength
 
 The Strength is dependent on the following
 
@@ -58,7 +64,7 @@ Concrete is designed based on the f'c. This is the compressive strength of the c
 - Between 50-75% of the f'c, mortar cracks form
 - Between 75-100% of the f'c, continuous cracks form until failure
 
-#### Creep
+### Creep
 
 - Caused by gel (viscous flow, seepage, microcracks), or deformation of aggregate
 
@@ -71,7 +77,7 @@ To find time-dependent creep, use the following equation
 
 $$ E_{ca}(t) = \frac{E_{c0}}{1+\phi_t} $$
 
-#### Corrosion
+### Corrosion
 
 Below are some the most common causes of concrete corrosion and the ways to mitigate them.
 
