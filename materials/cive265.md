@@ -56,7 +56,7 @@ $$ \%RA = \frac{A_o-A_f}{A_o}\tag{Area Reduction}$$
 
 - **Modulus of Resilience (U_r)** = strain energy per unit volume required to load a material up to the yield stress
 
-$$ Ur = \int_0^(\varepsilon_y){\sigma\cdot d\varepsilon}$$
+$$ Ur = \int_0^{\varepsilon_y}{\sigma\cdot d\varepsilon}$$
 
 > If the behaviour is linear elastic, $U_r = 0.5\cdot\sigma_y\cdot\varepsilon_y$
 
