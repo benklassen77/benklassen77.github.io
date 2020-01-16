@@ -8,10 +8,14 @@
 ## Basic formulae
 
 $$\sigma = F/A_o\tag{Engineering Stress}$$
-$$\epsilon = \frac{\Delta{l}}{l_o}{Engineering Strain}$$
+$$\epsilon = \frac{\Delta{l}}{l_o}\tag{Engineering Strain}$$
 $$\tau = \frac{F}{A_o}\tag{Shear Stress}$$
 
 ## Stress-strain relationships
+
+Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
+
+- E is the slope of the linear elastic region
 
 ### Elastic
 
@@ -20,12 +24,41 @@ $$\tau = \frac{F}{A_o}\tag{Shear Stress}$$
 - Corresponds to small changes in atomic spacing and stretching of atomic bonds
 
 **Linear elastic** = straight-line relationship between stress and strain
+
 **Nonlinear elastic** = nonlinear relationship between stress and strain
 
 ### Plastic or elasto-plastic
 
-- Something deforms plastically if the stress-strain relationship is non-proportional
-- 
+- A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
+- Corresponds to breaking of atomic bonds
+
+### Properties
+
+**Proportionality Limit (P)** = point where linear region transitions to non-linear region
+
+**Yield Stress $\sigma_y$** = point where elastic behaviour transitions to plastic behaviour
+
+- if unknown, line made through 0.002 strain parallel to the linear-elastic region. Intersection point = yield stress
+
+**Strain hardening** = further increase in stress in plastic region
+
+**Ultimate tensile strength $\sigma_u$** = maximum tensile stress
+
+**Necking** = localized narrowing of specimen after UTS reached
+
+**Ductility** = degree of plastic deformation a material can sustain before fracture
+
+$$ \%EL = \frac{l_f-l_o}{l_o}\tag{Percent Elongation}$$
+
+$$ \%RA = \frac{A_o-A_f}{A_o}\tag{Area Reduction}$$
+
+**Resilience** = capacity of a material to absorb energy during elastic deformation
+
+- **Modulus of Resilience (U_r)** = strain energy per unit volume required to load a material up to the yield stress
+
+$$ Ur = \int_0^(\varepsilon_y){\sigma\cdot d\varepsilon}$$
+
+> If the behaviour is linear elastic, $U_r = 0.5\cdot\sigma_y\cdot\varepsilon_y$
 
 # Concrete
 
