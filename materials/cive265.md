@@ -1,7 +1,7 @@
 # Structural Materials and Corrosion
 
-[Concrete](#concrete)
-[Wood](#wood)
+- [Concrete](#concrete)
+- [Wood](#wood)
 
 ## Concrete
 
