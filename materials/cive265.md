@@ -160,6 +160,43 @@ Below are some the most common causes of concrete corrosion and the ways to miti
 - Consistency = resistance to segregation or settling
 - Setting time = time of curing until sufficient strength reached
 
+These properties are influenced by the
+
+- Amount of water and cement
+- Fineness of sand
+- Coarse aggregate size and shape
+- Type of chemical and mineral admixtures
+
+### Tests to measure properties
+
+**Slump Test** = controls workability and consistency
+
+**Pressure Method Air Content Test** = measures air content in fresh concrete
+
+#### Admixtures
+
+##### Chemical Admixtures
+
+**Air-entraining** = air provides freeze thaw resistance
+
+- Volume of air for optimum frost resistance is 9% of the mortar fraction of concrete
+- May improve workability and consistency
+- 3-5% decrease in $f\prime_c$ for each 1% entrained air
+
+**Water-reducing or plasticizing** = increase workability, allow reduced water content
+
+- increase strength, durability, and decrease porosity
+
+**set-controlling** = help regulate setting-time
+
+- 2 types = retarders and accelerators
+
+##### Mineral Admixtures
+
+**Fly Ash** = increase strength and workability
+
+**Silica fume** = reduce permeability
+
 # Wood
 
 ## Types of wood
