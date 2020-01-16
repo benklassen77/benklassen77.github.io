@@ -69,7 +69,7 @@ $$E_c=(3300\sqrt{f\prime_c}+6900)(\frac{\gamma_c}{2300})^(1.5)\tag{General}$$
 
 To find time-dependent creep, use the following equation
 
-$$ E_(ca)(t) = \frac{E_(c0)}{1+\phi_t} $$
+$$ E_{ca}(t) = \frac{E_{c0}}{1+\phi_t} $$
 
 #### Corrosion
 
