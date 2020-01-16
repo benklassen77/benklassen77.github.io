@@ -56,6 +56,9 @@ Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 
 - A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
 - Corresponds to breaking of atomic bonds
+- Yielding of a crystal is caused by shear stresses.
+- Mohr's circle can help explain
+  - $\sigma\prime = \sigma\cdot\cos^2(\theta)$
 
 ### Properties
 
@@ -90,6 +93,7 @@ $$ Ur = \int_0^{\varepsilon_y}{\sigma\cdot d\varepsilon}$$
 - Area under the stress-strain curve up to fracture
 - Also a measure of resistance to crack propagation
 - Materials with high ductility tend to be tough because plastic flow reduces stress concentration at tip of crack
+
 
 ## Concrete
 
