@@ -1,5 +1,8 @@
 # Structural Materials and Corrosion
 
+[Concrete](#concrete)
+[Wood](#wood)
+
 ## Concrete
 
 ### Concrete Classification
@@ -55,8 +58,29 @@ Concrete is designed based on the f'c. This is the compressive strength of the c
 - Between 50-75% of the f'c, mortar cracks form
 - Between 75-100% of the f'c, continuous cracks form until failure
 
-To calculate the compressive strength, use the following equations
+#### Creep
 
+- Caused by gel (viscous flow, seepage, microcracks), or deformation of aggregate
+
+To find creep at $t_0$, use the following
 $$E_c=4500\sqrt{f\prime_c}\tag{Simplified}$$
 
 $$E_c=(3300\sqrt{f\prime_c}+6900)(\frac{\gamma_c}{2300})^(1.5)\tag{General}$$
+
+To find time-dependent creep, use the following equation
+
+$$ E_(ca)(t) = \frac{E_(c0)}{1+\phi_t} $$
+
+#### Corrosion
+
+Below are some the most common causes of concrete corrosion and the ways to mitigate them.
+
+1. Corrosion of rebar (rust has 4x the volume of steel). Mitigated by increasing concrete cover.
+2. Freeze/thaw (water expands 9% when frozen). Mitigated by air entrapment.
+3. Alkali-aggregate rxn, mitigated by using non-reactive aggregate
+4. Acid attack, mitigated by reducing permeability
+5. Sulphate attack (reaction of sulphates with compounds formed as concrete cures, forming expansive compounds which crack concrete surface). Mitigated with low w/c ratio and mineral admixtures
+
+# Wood
+
+## Types of wood
