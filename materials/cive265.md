@@ -6,6 +6,7 @@
     - [Stress-strain relationships](#stress-strain-relationships)
       - [Elastic](#elastic)
       - [Plastic or elasto-plastic](#plastic-or-elasto-plastic)
+    - [Strengthening Mechanisms](#strengthening-mechanisms)
     - [Mohr's Circle](#mohrs-circle)
     - [Properties](#properties)
   - [Concrete](#concrete)
@@ -26,6 +27,9 @@
           - [Mineral Admixtures](#mineral-admixtures)
   - [Wood](#wood)
     - [Types of wood](#types-of-wood)
+  - [Forms of Fracture](#forms-of-fracture)
+    - [Ductile Fracture](#ductile-fracture)
+    - [Brittle Fracture](#brittle-fracture)
 
 ## Stress and Strain
 
@@ -58,6 +62,20 @@ Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 - A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
 - Corresponds to breaking of atomic bonds
 - Yielding of a crystal is caused by shear stresses.
+- In polycrystalline material, slip planes exist within grain boundaries. The direction of a slip plane changes from one grain to the next. Overall distortion of the material is due to distortion of the individual grains.
+  - During deformation, grain boundaries do not come apart but rather constrain each other. Thus, polycrystalline materials are stronger than not. As well, fine-grained materials are stronger
+
+### Strengthening Mechanisms
+
+**Strain hardening (cold working** = further increase in stress in plastic region
+
+- Since dislocations pile up, dislocations end up interfering with other dislocations. Hence, dislocation mobility decreases and strength increases
+
+**Grain size reduction** = $\sigma_y \alpha \frac{1}{sqrt{grain size}}$
+
+**Solid solution strengthening** = impurity atoms form a substitutional or interstitial solid solution, and obstruct dislocation movement
+
+On the contrary, annealing decreases strength. However, it does increase ductility.
 
 ### Mohr's Circle
 
@@ -75,8 +93,6 @@ $$\tau\prime = \sigma\cdot\sin(\theta)\cdot\cos(\theta)\tag{Shear along fracture
 **Yield Stress $\sigma_y$** = point where elastic behaviour transitions to plastic behaviour
 
 - if unknown, line made through 0.002 strain parallel to the linear-elastic region. Intersection point = yield stress
-
-**Strain hardening** = further increase in stress in plastic region
 
 **Ultimate tensile strength $\sigma_u$** = maximum tensile stress
 
@@ -176,8 +192,10 @@ $$E_c=4500\sqrt{f\prime_c}\tag{Simplified}$$
 $$E_c=(3300\sqrt{f\prime_c}+6900)(\frac{\gamma_c}{2300})^(1.5)\tag{General}$$
 
 To find time-dependent creep, use the following equation
+$$\varepsilon_{c}(t) = \frac{\sigma}{E_{ca}(t)}\tag{Creep Equation}$$
+$$ E_{ca}(t) = \frac{E_{c0}}{1+\phi_t}\tag{Age-Adjusted Modulus} $$
 
-$$ E_{ca}(t) = \frac{E_{c0}}{1+\phi_t} $$
+- $E_{c0}$ = elastic modulus at $t = 0$
 
 #### Corrosion
 
@@ -235,3 +253,34 @@ These properties are influenced by the
 ## Wood
 
 ### Types of wood
+
+## Forms of Fracture
+
+### Ductile Fracture
+
+- evidence of plastic deformation, like necking, and irregular surfaces
+
+In simple terms, let's say there is a plate with axial pressure being applied at the x-sectional area. Thus, $\sigma = \frac{P}{A}$.
+
+One could design this such that $\sigma \leq F_y$, or $P \leq A\cdot\F_y$. This is because a fracture will occur once $\sigma = F_y$.
+
+However, engineers prefer limit state design. In this case, one would design with load factors ($\alpha$) and resistance factors($\phi$). See below equation for proper design
+
+$$\alpha_{dead}\cdot P_{dead} + \alpha_{live}\cdot P_{live}\leq \phi\cdot A\cdot F_y$$
+
+### Brittle Fracture
+
+- little or no prior deformation
+- rapid crack propagation
+
+If a metal has a brittle failure, it fails before $\sigma = F_y$.
+
+There are 3 modes of crack propagation.
+
+![Crack Propagation](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fracture_modes_v2.svg/800px-Fracture_modes_v2.svg.png)
+
+The most common form is Mode $romannumeralcaps{1}$. In order to design against this, the stress intensity factor $K$ is used. It is not the material toughness, but it is similar.
+
+In order to design according to this for mode I, the following formula is used.
+
+$$K_{Ic} \geq Y\cdot\sigma\cdot\sqrt{\pi\cdot a}$$
