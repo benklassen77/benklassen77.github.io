@@ -327,9 +327,9 @@ High cycle fatigue $N > 10^5$
 
 ### Miner's Sum
 
-- predicts fatigue life under variable amplitude loading conditions
+$$ Total Damage = \sum{\frac{n_i}{N_i}}\tag{Miner's Sum}$$
 
-$$ Total Damage = \sum{\frac{n_i}{N_i}}$$
+- predicts fatigue life under variable amplitude loading conditions
 
 - $n_i$ is the number of cycles in given stress range
   - Counted using reservoir, rainflow, and range-mean methods
