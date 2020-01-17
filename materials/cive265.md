@@ -40,6 +40,8 @@
     - [Iron-Carbide Systems](#iron-carbide-systems)
     - [Manufacturing Process](#manufacturing-process)
     - [Steel Properties](#steel-properties)
+  - [Aluminum](#aluminum)
+    - [Properties of 6061](#properties-of-6061)
 
 ## Stress and Strain
 
@@ -441,3 +443,19 @@ If it's an existing structure...
 - Structural steel
   - $260 < F_y < 550$, $460 < F_u < 650$. 350 $F_y$ most common
   - W = weldable, T = notch tough, R = atmospheric and corrosion resistant, A = R but also weldable, Q = quenched and tempered
+
+## Aluminum
+
+1. Bauxite is mined
+2. Alumina is extracted from bauxite
+3. Pure alumina is reduced
+4. Primary aluminum is made into an alloy
+5. Aluminum alloy is casted
+
+### Properties of 6061
+
+- $\sigma_y$ = 275MPa, $\sigma_u$ = 310MPa
+- Welding aluminum results in a heat affected zone, making it weaker. For this reason, friction stir welding is preferred.
+- In thin-walled aluminum, buckling is known to take place.
+- Corrosion resistant, light-weight and extrudable
+- Strengthened by solution heat treatment and precipitation heat treatment (artificial aging)
