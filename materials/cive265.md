@@ -31,8 +31,10 @@
     - [Ductile Fracture](#ductile-fracture)
     - [Brittle Fracture](#brittle-fracture)
   - [Fatigue](#fatigue)
-    - [SN Approach](#sn-approach)
     - [Miner's Sum](#miners-sum)
+    - [SN Approach](#sn-approach)
+    - [Fracture Mechanics Approach](#fracture-mechanics-approach)
+    - [Fatigue problem solutions](#fatigue-problem-solutions)
     - [Factors affecting fatigue life](#factors-affecting-fatigue-life)
 
 ## Stress and Strain
@@ -309,6 +311,25 @@ With cyclic loading, N cycles are considered. The fatigue life is the amount of 
 
 There are 2 methods to determine the fatigue-life = the S-N Curve and the fracture methods approaches.
 
+### Miner's Sum
+
+$$ Total Damage = \sum{\frac{n_i}{N_i}}\tag{Miner's Sum}$$
+
+- predicts fatigue life under variable amplitude loading conditions
+
+- $n_i$ is the number of cycles in given stress range
+  - Counted using reservoir, rainflow, and range-mean methods
+- $N_i$ is the number of cycles that would cause failure at that stress range
+  - Found with [S-N](#sn-approach) or with [Fracture Mechanics](#fracture-mechanics-approach)
+
+> D is normally assumed to be zero.
+
+S-N pros and cons
+
+Pros: simple, considers crack initiation and propagation
+
+Cons: gives no information about crack size or growth rate, and thus cannot be used when a crack is detected
+
 ### SN Approach
 
 - graph log($\Delta|sigma$) vs. log(N)
@@ -325,17 +346,34 @@ High cycle fatigue $N > 10^5$
 
 **Fatigue Limit** = Below this, fatigue life is infinite
 
-### Miner's Sum
+### Fracture Mechanics Approach
 
-$$ Total Damage = \sum{\frac{n_i}{N_i}}\tag{Miner's Sum}$$
+1. Initial crack depth $a_0$ assumed
+2. Crack growth rate $\frac{da}{dN}$ is related to the stress intensity factor range $\Delta K$, since $\Delta K = Y\cdot\Delta\sigma\cdot\sqrt{\pi\cdot a}$ and $\Delta\sigma = \sigma_{max} - \sigma_{min}$
+3. Integrate the differential equation ($\frac{da}{dN} = C\cdot\Delta K^m$) from the original crack depth to the critical crack depth, following the below equation. Note that C and m are material constants (often $C = 3\cdot 10^{-13}$ and $m = 3$ for steel)
 
-- predicts fatigue life under variable amplitude loading conditions
+$$ N_c = \int^{a_c}_{a_0}{\frac{da}{C\cdot (\Delta\sigma\cdot Y\cdot\sqrt{pi\cdot a})^m}$$
 
-- $n_i$ is the number of cycles in given stress range
-  - Counted using reservoir, rainflow, and range-mean methods
-- $N_i$ is the number of cycles that would cause failure at that stress range
+Pros: crack size and growth rate estimated at any point in time, and thus optimal inspection frequency
 
-> D is normally assumed to be zero.
+Cons: more complicated
+
+### Fatigue problem solutions
+
+If it's a new structure...
+
+1. Use a different material
+2. Reduce $a_0$ w/ quality control
+3. Surface treatment
+4. Reduce stress by increasing x-sectional area
+5. Reduce stress concentration (eg. fillet)
+
+If it's an existing structure...
+
+1. Reduce traffic volume
+2. Reduce maximum load
+3. Reduce stress
+4. Increase inspection frequency
 
 ### Factors affecting fatigue life
 
