@@ -36,6 +36,10 @@
     - [Fracture Mechanics Approach](#fracture-mechanics-approach)
     - [Fatigue problem solutions](#fatigue-problem-solutions)
     - [Factors affecting fatigue life](#factors-affecting-fatigue-life)
+  - [Steel](#steel)
+    - [Iron-Carbide Systems](#iron-carbide-systems)
+    - [Manufacturing Process](#manufacturing-process)
+    - [Steel Properties](#steel-properties)
 
 ## Stress and Strain
 
@@ -384,3 +388,56 @@ If it's an existing structure...
 5. Surface treatment.
    - Polishing and grinding remove surface defects ir make it smoother
    - Shot peening increases fatigue life by introducing compressive residual surface stresses. It acts similar to decreasing mean stress level
+
+## Steel
+
+### Iron-Carbide Systems
+
+**Ferrite** = soft, ductile, exists at room temperature
+
+**Austenite** = exists above $727 \degree C$
+
+**Cementite** = forms at 6.7% carbon, very hard and brittle
+
+- Depending on how quickly austenite cools, it can form bainite, fine or course pearlite, spheroidite, or martensite.
+
+**Tempering** = in order to relieve internal stresses in martensite and improve ductility, martensite is heated up after it's rapid cooling to be tempered.
+
+![Steel forms](https://i.imgur.com/BzSxqaz.png?1)
+
+### Manufacturing Process
+
+1. Iron ore, coke, and lime mixed in a blast furnace to make liquid iron (4-4.5% C)
+2. Liquid iron passed into BOS furnace to reduce C content to 0-1.5 %
+3. Steel continuously cast into solid slabs, which are hot-rolled into useful shapes
+4. Steel may be shaped with cold-rolling, galvanized, tempered, shot-peened, or whatever treatment is needed
+
+**Wrought iron** = 0 - 0.08% C. Easily deformed.
+
+**Steel** = 0.08 - 2.14% C Strong, but corrosion susceptable.
+
+**Cast iron** = 2.14 - 6.7% C Brittle, but easily melted.
+
+### Steel Properties
+
+- Normally $< 1.0\% C$
+- Low Carbon Steel (<0.25% C)
+  - Soft, weak, ductile, cheap, weldable and machinable
+  - $F_y \sim 275$ MPa, $F_u \sim 415-500$ MPa
+  - Car bodies
+- High strength low alloy (HSLA) steel
+  - Corrosion resistant
+  - Up to 10% alloy
+  - $F_y > 480$ MPa
+- Medium Carbon Steel (0.25-0.6% C)
+  - Often tempered martensite
+  - Gears etc.
+- High-carbon steel (0.6-1.4% C)
+  - Strongest and least ductile
+  - sharp cutting edges
+- Stainless steel
+  - Corrosion resistant
+  - 11% alloy at least
+- Structural steel
+  - $260 < F_y < 550$, $460 < F_u < 650$. 350 $F_y$ most common
+  - W = weldable, T = notch tough, R = atmospheric and corrosion resistant, A = R but also weldable, Q = quenched and tempered
