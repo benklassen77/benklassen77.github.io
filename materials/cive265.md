@@ -262,7 +262,7 @@ These properties are influenced by the
 
 In simple terms, let's say there is a plate with axial pressure being applied at the x-sectional area. Thus, $\sigma = \frac{P}{A}$.
 
-One could design this such that $\sigma \leq F_y$, or $P \leq A\cdot\F_y$. This is because a fracture will occur once $\sigma = F_y$.
+One could design this such that $\sigma \leq F_y$, or $P \leq A\cdot F_y$. This is because a fracture will occur once $\sigma = F_y$.
 
 However, engineers prefer limit state design. In this case, one would design with load factors ($\alpha$) and resistance factors($\phi$). See below equation for proper design
 
@@ -279,7 +279,7 @@ There are 3 modes of crack propagation.
 
 ![Crack Propagation](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fracture_modes_v2.svg/800px-Fracture_modes_v2.svg.png)
 
-The most common form is Mode $romannumeralcaps{1}$. In order to design against this, the stress intensity factor $K$ is used. It is not the material toughness, but it is similar.
+The most common form is Mode $\Roman{1}$. In order to design against this, the stress intensity factor $K$ is used. It is not the material toughness, but it is similar.
 
 In order to design according to this for mode I, the following formula is used.
 
