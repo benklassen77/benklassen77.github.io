@@ -291,7 +291,7 @@ There are 3 modes of crack propagation.
 
 ![Crack Propagation](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fracture_modes_v2.svg/800px-Fracture_modes_v2.svg.png)
 
-The most common form is Mode $\Roman{1}$. In order to design against this, the stress intensity factor $K$ is used. It is not the material toughness, but it is similar.
+The most common form is Mode $\Romannumeral #1$. In order to design against this, the stress intensity factor $K$ is used. It is not the material toughness, but it is similar.
 
 In order to design according to this for mode I, the following formula is used.
 
@@ -443,6 +443,8 @@ If it's an existing structure...
 - Structural steel
   - $260 < F_y < 550$, $460 < F_u < 650$. 350 $F_y$ most common
   - W = weldable, T = notch tough, R = atmospheric and corrosion resistant, A = R but also weldable, Q = quenched and tempered
+
+It is important to recognize the self-equilibriating stresses within steel.
 
 ## Aluminum
 
