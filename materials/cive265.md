@@ -6,6 +6,7 @@
     - [Stress-strain relationships](#stress-strain-relationships)
       - [Elastic](#elastic)
       - [Plastic or elasto-plastic](#plastic-or-elasto-plastic)
+    - [Mohr's Circle](#mohrs-circle)
     - [Properties](#properties)
   - [Concrete](#concrete)
     - [Composition](#composition)
@@ -57,8 +58,15 @@ Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 - A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
 - Corresponds to breaking of atomic bonds
 - Yielding of a crystal is caused by shear stresses.
-- Mohr's circle can help explain
-  - $\sigma\prime = \sigma\cdot\cos^2(\theta)$
+
+### Mohr's Circle
+
+> Yielding of crystal is caused by shear stresses, and is maximized when $\theta = 45\degree$
+
+$$\sigma\prime = \sigma\cdot\cos^2(\theta)\tag{Axial along fracture plane}$$
+$$\tau\prime = \sigma\cdot\sin(\theta)\cdot\cos(\theta)\tag{Shear along fracture plane}$$
+
+![Mohr's Circle](https://i.imgur.com/wUzoU23.png =300x)
 
 ### Properties
 
@@ -93,7 +101,6 @@ $$ Ur = \int_0^{\varepsilon_y}{\sigma\cdot d\varepsilon}$$
 - Area under the stress-strain curve up to fracture
 - Also a measure of resistance to crack propagation
 - Materials with high ductility tend to be tough because plastic flow reduces stress concentration at tip of crack
-
 
 ## Concrete
 
