@@ -30,6 +30,10 @@
   - [Forms of Fracture](#forms-of-fracture)
     - [Ductile Fracture](#ductile-fracture)
     - [Brittle Fracture](#brittle-fracture)
+  - [Fatigue](#fatigue)
+    - [SN Approach](#sn-approach)
+    - [Miner's Sum](#miners-sum)
+    - [Factors affecting fatigue life](#factors-affecting-fatigue-life)
 
 ## Stress and Strain
 
@@ -284,3 +288,61 @@ The most common form is Mode $\Roman{1}$. In order to design against this, the s
 In order to design according to this for mode I, the following formula is used.
 
 $$K_{Ic} \geq Y\cdot\sigma\cdot\sqrt{\pi\cdot a}$$
+
+## Fatigue
+
+**Fatigue** = failure, at relatively low stress levels, or structures subjected to cyclic stresses
+
+Fatigue stages
+
+1. Crack initiation
+   - cracks normally initiate at stress concentrations
+   - cyclic loading produces microscopic surface discontinuities due to dislocation slip
+2. Crack propagation
+   - crack surface characterized by microscopic striations
+   - correspond w/ the crack growth per cycle
+3. Final failure
+   - occurs rapidly, once crack reaches critical size
+   - may be either a ductile or brittle fracture. Determined by studying the failure surface
+
+With cyclic loading, N cycles are considered. The fatigue life is the amount of N cycles given a mean stress range, $\Delta\sigma$.
+
+There are 2 methods to determine the fatigue-life = the S-N Curve and the fracture methods approaches.
+
+### SN Approach
+
+- graph log($\Delta|sigma$) vs. log(N)
+- the higher the stress range, the lower the fatigue life
+- SN graphs contain a line of best fit and a 95% survivability line from a larger scatter plot
+
+Low cycle fatigue $N = 10^4 - 10^5$
+
+- high stress range with plastic deformation
+
+High cycle fatigue $N > 10^5$
+
+- elastic loading only - low stress range
+
+**Fatigue Limit** = Below this, fatigue life is infinite
+
+### Miner's Sum
+
+- predicts fatigue life under variable amplitude loading conditions
+
+$$ Total Damage = \sum{\frac{n_i}{N_i}}$$
+
+- $n_i$ is the number of cycles in given stress range
+  - Counted using reservoir, rainflow, and range-mean methods
+- $N_i$ is the number of cycles that would cause failure at that stress range
+
+> D is normally assumed to be zero.
+
+### Factors affecting fatigue life
+
+1. Stress range. Higher the stress range, the lower the fatigue life
+2. Mean stress level. As mean stress level increases, fatigue life decreases
+3. Surface conditions. The smoother the surface, the greater the fatigue life
+4. Presence of a stress concentration. Higher the stress concentration, the lower the fatigue life.
+5. Surface treatment.
+   - Polishing and grinding remove surface defects ir make it smoother
+   - Shot peening increases fatigue life by introducing compressive residual surface stresses. It acts similar to decreasing mean stress level
