@@ -42,6 +42,8 @@
     - [Steel Properties](#steel-properties)
   - [Aluminum](#aluminum)
     - [Properties of 6061](#properties-of-6061)
+  - [Composites](#composites)
+    - [Fibre-reinforced](#fibre-reinforced)
 
 ## Stress and Strain
 
@@ -461,3 +463,30 @@ It is important to recognize the self-equilibriating stresses within steel.
 - In thin-walled aluminum, buckling is known to take place.
 - Corrosion resistant, light-weight and extrudable
 - Strengthened by solution heat treatment and precipitation heat treatment (artificial aging)
+
+## Composites
+
+3 types
+
+1. Particle Reinforced
+   - Cement is expensive, aggregate is cheap
+2. Fibre-reinforced
+   - Fibreglass GFRP
+3. Structural (eg. steel-concrete composite beam)
+
+### Fibre-reinforced
+
+- A fibre-matrix bond is present. Within this, $\tau_c$ is the shear strength of the bond, while $\sigma^*_f$ is the fibre strength.
+
+![Fibre Matrix Bond](https://i.imgur.com/r9zu7kQ.png?2)
+
+The critical length of a fibre is below.
+
+$$l_c = \frac{\sigma_f^*\cdot d}{2\cdot\tau_c}$$
+
+- fibres are continuous if $l>15\cdot l_c$ and discontinuous otherwise
+- the maximum fibre-stress is felt in the middle of the strand if $l = l_c$. If $l>l_c$, the stress will be sustained across the middle (not exceeded).
+
+$$E_{ct} = \frac{E_m\cdot E_f}{(1-\phi_f)\cdot E_f + \phi_f\cdot E_m}\tag{Young's Modulus Transverse}$$
+
+$$E_cl = E_m\cdot (1-\phi_f) + E_f\cdot \phi_f\tag{Young's Modulus Longitudinal}$$
