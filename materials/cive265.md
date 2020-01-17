@@ -66,7 +66,7 @@ Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 $$\sigma\prime = \sigma\cdot\cos^2(\theta)\tag{Axial along fracture plane}$$
 $$\tau\prime = \sigma\cdot\sin(\theta)\cdot\cos(\theta)\tag{Shear along fracture plane}$$
 
-![Mohr's Circle](https://i.imgur.com/wUzoU23.png)
+![Mohr's Circle](https://i.imgur.com/wUzoU23.png) ![Mohr's 2](https://i.imgur.com/eD4zM6w.png?1)
 
 ### Properties
 
