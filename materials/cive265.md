@@ -352,7 +352,7 @@ High cycle fatigue $N > 10^5$
 2. Crack growth rate $\frac{da}{dN}$ is related to the stress intensity factor range $\Delta K$, since $\Delta K = Y\cdot\Delta\sigma\cdot\sqrt{\pi\cdot a}$ and $\Delta\sigma = \sigma_{max} - \sigma_{min}$
 3. Integrate the differential equation ($\frac{da}{dN} = C\cdot\Delta K^m$) from the original crack depth to the critical crack depth, following the below equation. Note that C and m are material constants (often $C = 3\cdot 10^{-13}$ and $m = 3$ for steel)
 
-$$ N_c = \int_{a_0}^{a_c}{\frac{da}{C\cdot (\Delta\sigma\cdot Y\cdot\sqrt{pi\cdot a})^m}}$$
+$$ N_c = \int_{a_0}^{a_c}{\frac{da}{C\cdot (\Delta\sigma\cdot Y\cdot\sqrt{\pi\cdot a})^m}}$$
 
 Pros: crack size and growth rate estimated at any point in time, and thus optimal inspection frequency
 
