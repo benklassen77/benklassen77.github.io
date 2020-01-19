@@ -44,6 +44,7 @@
     - [Properties of 6061](#properties-of-6061)
   - [Composites](#composites)
     - [Fibre-reinforced](#fibre-reinforced)
+    - [Common Fibre-reinforced Composites](#common-fibre-reinforced-composites)
 
 ## Stress and Strain
 
@@ -490,3 +491,37 @@ $$l_c = \frac{\sigma_f^*\cdot d}{2\cdot\tau_c}$$
 $$E_{ct} = \frac{E_m\cdot E_f}{(1-\phi_f)\cdot E_f + \phi_f\cdot E_m}\tag{Young's Modulus Transverse}$$
 
 $$E_cl = E_m\cdot (1-\phi_f) + E_f\cdot \phi_f\tag{Young's Modulus Longitudinal}$$
+
+- fibres phase brittle, matrix ductile
+
+> It is assumed that $\varepsilon_f^* < \varepsilon_m^*$. Thus, at fracture, $\sigma_m = \sigma\prime_m$ and $\sigma_f = \sigma_f^*$.
+
+$$\sigma_{cl}^* = \sigma\prime_m\cdot (1-\phi_f)+\sigma_f^*\cdot\phi_f\tag{Strength of Aligned Continuous}$$
+
+$$\sigma^*_{cd} = \sigma\prime_m\cdot (1-\phi_f)+\sigma_f^*\cdot\phi_f\cdot (1-\frac{l_c}{2\cdot l}\tag{Aligned Discontinuous w/ l>l_c}$$
+
+$$\sigma^*_{cd} = \sigma\prime_m\cdot (1-\phi_f)+\frac{l\cdot\tau_c}{d}\cdot\phi_f\tag{Aligned Discontinuous w/ l<l_c}$$
+
+### Common Fibre-reinforced Composites
+
+**GFRP** = glass fibre-reinforced composites
+
+- fibre strong and easy to make, fibre material readily available
+- cars, boats, pipes
+- low modulus
+
+**CFRP** = carbon fibre-reinforced composites
+
+- stronger, stiffer, and less temperature sensative than GFRP
+- more expensive
+- susceptible to galvanic corrosion
+- aircraft, sports equipment
+- medium modulus
+
+**AFRP** = aramid fibre-reinforced polymer
+
+- high strength-to-weight ratio, ductile fibre
+- thermoplastic
+- creep and fatigue resistant
+- armour, ropes
+- high modulus
