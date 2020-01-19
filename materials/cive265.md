@@ -25,8 +25,6 @@
         - [Admixtures](#admixtures)
           - [Chemical Admixtures](#chemical-admixtures)
           - [Mineral Admixtures](#mineral-admixtures)
-  - [Wood](#wood)
-    - [Types of wood](#types-of-wood)
   - [Forms of Fracture](#forms-of-fracture)
     - [Ductile Fracture](#ductile-fracture)
     - [Brittle Fracture](#brittle-fracture)
@@ -45,6 +43,11 @@
   - [Composites](#composites)
     - [Fibre-reinforced](#fibre-reinforced)
     - [Common Fibre-reinforced Composites](#common-fibre-reinforced-composites)
+  - [Wood](#wood)
+    - [Macrostructure](#macrostructure)
+    - [Microstructure](#microstructure)
+    - [Properties of Wood](#properties-of-wood)
+    - [Engineering Wood Products](#engineering-wood-products)
 
 ## Stress and Strain
 
@@ -264,10 +267,6 @@ These properties are influenced by the
 **Fly Ash** = increase strength and workability
 
 **Silica fume** = reduce permeability
-
-## Wood
-
-### Types of wood
 
 ## Forms of Fracture
 
@@ -525,3 +524,89 @@ $$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\frac{l\cdot\tau_c}{d}\cdot\phi
 - creep and fatigue resistant
 - armour, ropes
 - high modulus
+
+## Wood
+
+- aesthetic, renewable, available, workable, and lightweight
+
+- variability (due to knots etc.), moisture effects, durability (rot), fire resistance, creep, anisotropic
+
+**Anisotropic** = weaker perpendicular to grain direction
+
+- composed of cellulose (microfibrils), hemicellulose (matrix), lignin(matrix), and extractives (decay resistance)
+
+### Macrostructure
+
+**Outer Bark** = dead section
+
+- protects living tree from elements, infestation
+- varies in thickness
+
+**Inner Bark** = stores nutrients and transports them down the tree
+
+**Cambrium** = new growth region
+
+- growth occurs in seasons
+- during hibernation, the cambrium is converted into wood
+
+**Sapwood** = transfers moisture and minerals (sap) from the roots to the crown, where it is converted into nutrients
+
+- stores carbs made from photosynthesis
+
+**Heartwood** = dead sapwood cells
+
+- Extractives make this area more fungus-resistant
+
+**Pith** = centre
+
+- new roots and branches originate here
+
+**Knots** = branches form knots in the tree
+
+- lower branches eventually die due to lack of sunlight, and knots grow over
+
+### Microstructure
+
+**Tracheids** = fibres running vertically in the tree, made from wound cellulose microfibrils. Responsible for tree rigidity and for conducting food and water
+
+- 2.5-5 mm in softwoods, 1 mm long in hardwoods
+
+**Early Wood** = The inside of the 1 ring/year, where larger cells develop during springtime
+
+**Late wood** = The outer part of the ring, with dense, smaller cells from summer
+
+### Properties of Wood
+
+- Tensile strength parallel to the grain is limited by tensile fracture of tracheids
+- Compressive strength parallel to the grain is limited by buckling of tracheids
+  - Compressive strength perpendicular to grain is lower than parallel to the grain.
+
+See below equation, w/ $P_r$ = compressive strength parallel to grain, $Q_r$ = strength perpendicular to grain, and $\theta$ angle between grain and load direction
+
+$$ N_r = \frac{P_r\cdot Q_r}{P_r\cdot sin^2\theta + Q_r\cdot cos^2\theta}\tag{Compressive strength at an angle}$$
+
+When the moisture content decreases due to drying, strength increases because of reduced x-sectional area and increased secondary fibre bonding.
+
+> While the tensile strength should theoretically be stronger, the presence of knots and other defects leave designers using a lower tensile strength than a compressive strength
+
+### Engineering Wood Products
+
+- can be made of smaller pieces and better property control
+
+**Finger-jointed** = allows smaller wood pieces to be used and removal of defects
+
+1. Finger joints machined in kiln-dried wood
+2. Pieces squeezed together with structural adhesive
+
+**Plywood** = original wood product
+
+- Thin plies glued together w/ grain oriented perpendicularly successively. Outer plies highest quality and in long direction
+- Bonded with resin glue
+
+**Oriented strand board OSB** = strands bonded together with resin adhesive
+
+**Glulam** = gluing together individual pieces of sawn lumber w/ finger-jointing
+
+**Cross-laminated timber** = cross-laminating lumber w/ adhesives or fasteners. Made w/ 3-7 layers of lumber or planks
+
+**Laminated veneer lumber LVL** = plywood, except thicker plies that all run in longitudinal direction.
