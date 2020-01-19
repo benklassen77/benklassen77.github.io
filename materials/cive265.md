@@ -565,6 +565,8 @@ $$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\frac{l\cdot\tau_c}{d}\cdot\phi
 
 - lower branches eventually die due to lack of sunlight, and knots grow over
 
+![Parts of wood](https://i.imgur.com/N8j7wfQ.png?1)
+
 ### Microstructure
 
 **Tracheids** = fibres running vertically in the tree, made from wound cellulose microfibrils. Responsible for tree rigidity and for conducting food and water
@@ -588,6 +590,8 @@ $$ N_r = \frac{P_r\cdot Q_r}{P_r\cdot sin^2\theta + Q_r\cdot cos^2\theta}\tag{Co
 When the moisture content decreases due to drying, strength increases because of reduced x-sectional area and increased secondary fibre bonding.
 
 > While the tensile strength should theoretically be stronger, the presence of knots and other defects leave designers using a lower tensile strength than a compressive strength
+
+![Wood Strength](https://i.imgur.com/EcrivTv.png?1)
 
 ### Engineering Wood Products
 
