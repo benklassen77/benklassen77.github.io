@@ -19,7 +19,7 @@
     - [Properties of Cured Concrete](#properties-of-cured-concrete)
       - [Strength](#strength)
       - [Creep](#creep)
-      - [Corrosion](#corrosion)
+      - [Basic Concrete Corrosion](#basic-concrete-corrosion)
     - [Properties of Fresh Concrete](#properties-of-fresh-concrete)
       - [Tests to measure properties](#tests-to-measure-properties)
         - [Admixtures](#admixtures)
@@ -49,6 +49,10 @@
     - [Properties of Wood](#properties-of-wood)
     - [Engineering Wood Products](#engineering-wood-products)
   - [Glass](#glass)
+  - [Corrosion](#corrosion)
+    - [Metal Corrosion](#metal-corrosion)
+    - [Concrete Corrosion](#concrete-corrosion)
+    - [Corrosion Prevention](#corrosion-prevention)
 
 ## Stress and Strain
 
@@ -216,7 +220,7 @@ $$ E_{ca}(t) = \frac{E_{c0}}{1+\phi_t}\tag{Age-Adjusted Modulus} $$
 
 - $E_{c0}$ = elastic modulus at $t = 0$
 
-#### Corrosion
+#### Basic Concrete Corrosion
 
 Below are some the most common causes of concrete corrosion and the ways to mitigate them.
 
@@ -629,3 +633,52 @@ Basic Types
 3. Laminated (PVB foil)
 4. Fire protection (multiple inner layers)
 5. Insulating glass
+
+## Corrosion
+
+### Metal Corrosion
+
+**Oxidation** = lose electrons. Site of oxidation is the anode. This is $V_1$
+
+**Reduction** = gain electrons. This is $V_2$
+
+$$\Delta V^0 = V_2 - V_1 - \frac{0.0592}{n}\cdot log\frac{M_1}{M_2}\tag{Nernst Equation}$$
+
+There are a few types of metal corrosion
+
+1. General corrosion - uniform corrosion on exposed surface
+2. Galvanic corrosion - 2 metals w/ different electrode potentials are in close contact w/ an electrolyte present
+3. Crevice corrosion - occurs in crevices where water becomes oxygen depleted
+4. Pitting corrosion - crevice corrosion in small pits
+5. Intergranular corrosion - corrosion within grain boundaries
+6. Stress corrosion - corrosion in the presence of high stress levels of materials
+7. Hydrogen embrittlement - hydrogen interstitially diffuses, interfering with grain-boundary movement and hence making substances more brittle
+
+### Concrete Corrosion
+
+**Passive Layer** = forms on steel and isolates it from oxygen (electrolyte)
+
+- reduces corrosion if it is dense, cts and uniform
+
+|pH of Concrete|Meaning|
+|0-4|Certain Corrosion|
+|4-10|Corrosion if $O_2$ present|
+|10-14|No Corrosion|
+
+**Chloride-induced corrosion** = chlorides present create an environment in which the Fe in the rebar reacts with the OH in the air
+
+|Chloride Mass % of Cement|Corrosion Risk|
+|0.2|None|
+|0.2-0.4|Low|
+|0.4-1|Moderate|
+|>1|High|
+
+- leads to cracking and spalling
+
+### Corrosion Prevention
+
+- barriers (paint)
+- sacrificial anode
+- galvanizing
+- metallizing
+- using different material
