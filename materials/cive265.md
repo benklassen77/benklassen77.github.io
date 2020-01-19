@@ -490,7 +490,7 @@ $$l_c = \frac{\sigma_f^*\cdot d}{2\cdot\tau_c}$$
 
 $$E_{ct} = \frac{E_m\cdot E_f}{(1-\phi_f)\cdot E_f + \phi_f\cdot E_m}\tag{Young's Modulus Transverse}$$
 
-$$E_cl = E_m\cdot (1-\phi_f) + E_f\cdot \phi_f\tag{Young's Modulus Longitudinal}$$
+$$E_{cl} = E_m\cdot (1-\phi_f) + E_f\cdot \phi_f\tag{Young's Modulus Longitudinal}$$
 
 - fibres phase brittle, matrix ductile
 
@@ -498,7 +498,7 @@ $$E_cl = E_m\cdot (1-\phi_f) + E_f\cdot \phi_f\tag{Young's Modulus Longitudinal}
 
 $$\sigma_{cl}^* = \sigma\prime_m\cdot (1-\phi_f)+\sigma_f^*\cdot\phi_f\tag{Strength of Aligned Continuous}$$
 
-$$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\sigma_f^*\cdot\phi_f\cdot (1-\frac{l_c}{2\cdot l})\tag{Aligned Discontinuous with l l_c}$$
+$$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\sigma_f^*\cdot\phi_f\cdot (1-\frac{l_c}{2\cdot l})\tag{Aligned Discontinuous with l>l_c}$$
 
 $$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\frac{l\cdot\tau_c}{d}\cdot\phi_f\tag{Aligned Discontinuous with l<l_c}$$
 
