@@ -500,7 +500,7 @@ $$\sigma_{cl}^* = \sigma\prime_m\cdot (1-\phi_f)+\sigma_f^*\cdot\phi_f\tag{Stren
 
 $$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\sigma_f^*\cdot\phi_f\cdot (1-\frac{l_c}{2\cdot l})\tag{Aligned Discontinuous with l>l_c}$$
 
-$$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\frac{l\cdot\tau_c}{d}\cdot\phi_f\tag{Aligned Discontinuous w/ l<l_c}$$
+$$\sigma_{cd}^* = \sigma\prime_m\cdot (1-\phi_f)+\frac{l\cdot\tau_c}{d}\cdot\phi_f\tag{Aligned Discontinuous with l<l_c}$$
 
 ### Common Fibre-reinforced Composites
 
