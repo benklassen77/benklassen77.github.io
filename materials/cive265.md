@@ -48,6 +48,7 @@
     - [Microstructure](#microstructure)
     - [Properties of Wood](#properties-of-wood)
     - [Engineering Wood Products](#engineering-wood-products)
+  - [Glass](#glass)
 
 ## Stress and Strain
 
@@ -614,3 +615,17 @@ When the moisture content decreases due to drying, strength increases because of
 **Cross-laminated timber** = cross-laminating lumber w/ adhesives or fasteners. Made w/ 3-7 layers of lumber or planks
 
 **Laminated veneer lumber LVL** = plywood, except thicker plies that all run in longitudinal direction.
+
+## Glass
+
+- fails by brittle fracture when stress intensity factor from tensile stress at tip of one crack exceeds fracture toughness
+- Typically E = 69 GPA, strength = 69 MPa
+- Made by floating, cooling, and tempering
+
+Basic Types
+
+1. Monolithic
+2. Insulating (air layer)
+3. Laminated (PVB foil)
+4. Fire protection (multiple inner layers)
+5. Insulating glass
