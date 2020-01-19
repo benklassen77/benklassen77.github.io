@@ -661,6 +661,7 @@ There are a few types of metal corrosion
 - reduces corrosion if it is dense, cts and uniform
 
 |pH of Concrete|Meaning|
+|----|----|
 |0-4|Certain Corrosion|
 |4-10|Corrosion if $O_2$ present|
 |10-14|No Corrosion|
@@ -668,6 +669,7 @@ There are a few types of metal corrosion
 **Chloride-induced corrosion** = chlorides present create an environment in which the Fe in the rebar reacts with the OH in the air
 
 |Chloride Mass % of Cement|Corrosion Risk|
+|----|----|
 |0.2|None|
 |0.2-0.4|Low|
 |0.4-1|Moderate|
