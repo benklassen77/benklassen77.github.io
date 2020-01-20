@@ -70,19 +70,17 @@ Stress strain are described by Young's modulus $\sigma = E\cdot\varepsilon$
 
 - E is the slope of the linear elastic region
 
-#### Elastic
+There are 2 types of relationships - Elastic and Plastic
 
-- A deformation is elastic is the stress-strain relationship is proportional upon loading/unloading
+**Elastic** = A deformation is elastic is the stress-strain relationship is proportional upon loading/unloading
+
 - Non-permanent
 - Corresponds to small changes in atomic spacing and stretching of atomic bonds
+- **Linear elastic** = straight-line relationship between stress and strain
+- **Nonlinear elastic** = nonlinear relationship between stress and strain
 
-**Linear elastic** = straight-line relationship between stress and strain
+**Plastic** = A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
 
-**Nonlinear elastic** = nonlinear relationship between stress and strain
-
-#### Plastic or elasto-plastic
-
-- A deformation is plastic if the stress-strain relationship upon loading/unloading is non-proportional
 - Corresponds to breaking of atomic bonds
 - Yielding of a crystal is caused by shear stresses.
 - In polycrystalline material, slip planes exist within grain boundaries. The direction of a slip plane changes from one grain to the next. Overall distortion of the material is due to distortion of the individual grains.
