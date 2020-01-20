@@ -4,27 +4,16 @@
   - [Stress and Strain](#stress-and-strain)
     - [Basic formulae](#basic-formulae)
     - [Stress-strain relationships](#stress-strain-relationships)
-      - [Elastic](#elastic)
-      - [Plastic or elasto-plastic](#plastic-or-elasto-plastic)
     - [Strengthening Mechanisms](#strengthening-mechanisms)
     - [Mohr's Circle](#mohrs-circle)
     - [Properties](#properties)
   - [Concrete](#concrete)
     - [Composition](#composition)
     - [Concrete Classification](#concrete-classification)
-      - [Type Classification](#type-classification)
-      - [Production](#production)
-      - [Strength/Density](#strengthdensity)
-      - [Special](#special)
     - [Properties of Cured Concrete](#properties-of-cured-concrete)
-      - [Strength](#strength)
-      - [Creep](#creep)
-      - [Basic Concrete Corrosion](#basic-concrete-corrosion)
+    - [Basic Concrete Corrosion](#basic-concrete-corrosion)
     - [Properties of Fresh Concrete](#properties-of-fresh-concrete)
-      - [Tests to measure properties](#tests-to-measure-properties)
-        - [Admixtures](#admixtures)
-          - [Chemical Admixtures](#chemical-admixtures)
-          - [Mineral Admixtures](#mineral-admixtures)
+    - [Tests to measure properties](#tests-to-measure-properties)
   - [Forms of Fracture](#forms-of-fracture)
     - [Ductile Fracture](#ductile-fracture)
     - [Brittle Fracture](#brittle-fracture)
@@ -88,7 +77,7 @@ There are 2 types of relationships - Elastic and Plastic
 
 ### Strengthening Mechanisms
 
-**Strain hardening (cold working** = further increase in stress in plastic region
+**Strain hardening (cold working)** = further increase in stress in plastic region
 
 - Since dislocations pile up, dislocations end up interfering with other dislocations. Hence, dislocation mobility decreases and strength increases
 
@@ -152,25 +141,25 @@ Concrete consists of cement (10-15%), fine and course aggregate (60-75%), water(
 
 ### Concrete Classification
 
-#### Type Classification
+Type
 
 - Unreinforced (regular concrete)
 - Reinforced (regular w/ rebar)
 - Prestressed (w/ tensioned wire strands)
 
-#### Production
+Production
 
 - Ready-mix (small projects)
 - Cast-in-place (transported to site and poured)
 - Precast (premade pieces)
 
-#### Strength/Density
+Strength/Density
 
 - Low (<20 MPa)/(240-1800 kg/m^3)
 - Normal (20-60 MPa)/(2150-2500 kg/m^3)
 - High (>60 MPa)/(6400 kg/m^3)
 
-#### Special
+Special Type
 
 - Self-consolidating
   - Flows well
@@ -185,9 +174,7 @@ Concrete consists of cement (10-15%), fine and course aggregate (60-75%), water(
 
 ### Properties of Cured Concrete
 
-#### Strength
-
-The Strength is dependent on the following
+Strength - dependent on the following
 
 - w/c ratio. Lower ratio typically means stronger
 - Aggregate strength
@@ -203,9 +190,7 @@ Concrete is designed based on the f'c. This is the compressive strength of the c
 - Between 50-75% of the f'c, mortar cracks form
 - Between 75-100% of the f'c, continuous cracks form until failure
 
-#### Creep
-
-- Caused by gel (viscous flow, seepage, microcracks), or deformation of aggregate
+Creep - Caused by gel (viscous flow, seepage, microcracks), or deformation of aggregate
 
 To find creep at $t_0$, use the following
 $$E_c=4500\sqrt{f\prime_c}\tag{Simplified}$$
@@ -218,7 +203,7 @@ $$ E_{ca}(t) = \frac{E_{c0}}{1+\phi_t}\tag{Age-Adjusted Modulus} $$
 
 - $E_{c0}$ = elastic modulus at $t = 0$
 
-#### Basic Concrete Corrosion
+### Basic Concrete Corrosion
 
 Below are some the most common causes of concrete corrosion and the ways to mitigate them.
 
@@ -241,35 +226,29 @@ These properties are influenced by the
 - Coarse aggregate size and shape
 - Type of chemical and mineral admixtures
 
-#### Tests to measure properties
+### Tests to measure properties
 
 **Slump Test** = controls workability and consistency
 
 **Pressure Method Air Content Test** = measures air content in fresh concrete
 
-##### Admixtures
+Admixtures = there are chemical and mineral admixtures
 
-###### Chemical Admixtures
+Chemical Admixtures
 
-**Air-entraining** = air provides freeze thaw resistance
+- **Air-entraining** = air provides freeze thaw resistance
+  - Volume of air for optimum frost resistance is 9% of the mortar fraction of concrete
+  - May improve workability and consistency
+  - 3-5% decrease in $f\prime_c$ for each 1% entrained air
+- **Water-reducing or plasticizing** = increase workability, allow reduced water content
+  - increase strength, durability, and decrease porosity
+-**Set-controlling** = help regulate setting-time
+  - 2 types = retarders and accelerators
 
-- Volume of air for optimum frost resistance is 9% of the mortar fraction of concrete
-- May improve workability and consistency
-- 3-5% decrease in $f\prime_c$ for each 1% entrained air
+Mineral Admixtures
 
-**Water-reducing or plasticizing** = increase workability, allow reduced water content
-
-- increase strength, durability, and decrease porosity
-
-**set-controlling** = help regulate setting-time
-
-- 2 types = retarders and accelerators
-
-###### Mineral Admixtures
-
-**Fly Ash** = increase strength and workability
-
-**Silica fume** = reduce permeability
+- **Fly Ash** = increase strength and workability
+- **Silica fume** = reduce permeability
 
 ## Forms of Fracture
 
