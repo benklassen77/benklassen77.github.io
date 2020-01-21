@@ -1,5 +1,19 @@
 # Solid Mechanics
 
+- [Solid Mechanics](#solid-mechanics)
+  - [Trusses](#trusses)
+  - [3D Systems of Forces](#3d-systems-of-forces)
+    - [Basic Formulae](#basic-formulae)
+  - [Geometric Properties](#geometric-properties)
+  - [Shear](#shear)
+  - [Axial](#axial)
+  - [Bending](#bending)
+  - [Torsion](#torsion)
+  - [Combined Loadings](#combined-loadings)
+  - [Deflection](#deflection)
+    - [Procedure](#procedure)
+  - [Design](#design)
+
 ## Trusses
 
 - Simple Trusses
@@ -17,7 +31,7 @@ $$ \vec{F_x} = F_x\cdot\vec{u}\tag{Scalar-Vector Force} $$
 
 $$ |\vec{F}| = F = $$
 
-The angles between forces along specified axes and the overall force vector are denoted with symbols. $\alpha$ represents the angle between $\vec{F_x}$ and $\vec F$}. $\beta$ represents the angle between $\vec{F_y}$ and $\vec F$}. $\gamma$ represents the angle between $\vec{F_z}$ and $\vec F$}.
+The angles between forces along specified axes and the overall force vector are denoted with symbols. $\alpha$ represents the angle between $\vec{F_x}$ and $\vec F$, $\beta$ represents the angle between $\vec{F_y}$ and $\vec F$, and $\gamma$ represents the angle between $\vec{F_z}$ and $\vec F$}.
 
 - Adding cartesian vectors
 - Moment about an axis
