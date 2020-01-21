@@ -1,15 +1,27 @@
 # Solid Mechanics
 
-## Structural Analysis
-
-### Trusses
+## Trusses
 
 - Simple Trusses
 - Method of Joints
 - Method of Sections
 - Frames
 
-### 3D Force System
+## 3D Systems of Forces
+
+### Basic Formulae
+
+$$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z}\tag{Definition of 3D Force System} $$
+
+$$ \alpha\tag{Angle Between $\vec{F_x}$ and $\vec F$} $$
+
+$$ \beta\tag{Angle Between $\vec{F_y}$ and $\vec F$} $$
+
+$$ \gamma\tag{Angle Between $\vec{F_z}$ and $\vec F$} $$
+
+$$ \vec{F_x} = F_x\cdot\vec{u}\tag{Scalar-Vector Force} $$
+
+$$ \abs{\vec{F}} = F = $$
 
 - Adding cartesian vectors
 - Moment about an axis
