@@ -13,15 +13,11 @@
 
 $$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z}\tag{Definition of 3D Force System} $$
 
-$$ \alpha\tag{Angle Between $\vec{F_x}$ and $\vec F$} $$
-
-$$ \beta\tag{Angle Between $\vec{F_y}$ and $\vec F$} $$
-
-$$ \gamma\tag{Angle Between $\vec{F_z}$ and $\vec F$} $$
-
 $$ \vec{F_x} = F_x\cdot\vec{u}\tag{Scalar-Vector Force} $$
 
 $$ |\vec{F}| = F = $$
+
+The angles between forces along specified axes and the overall force vector are denoted with symbols. $\alpha$ represents the angle between $\vec{F_x}$ and $\vec F$}. $\beta$ represents the angle between $\vec{F_y}$ and $\vec F$}. $\gamma$ represents the angle between $\vec{F_z}$ and $\vec F$}.
 
 - Adding cartesian vectors
 - Moment about an axis
