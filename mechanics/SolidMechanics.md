@@ -21,7 +21,7 @@ $$ \gamma\tag{Angle Between $\vec{F_z}$ and $\vec F$} $$
 
 $$ \vec{F_x} = F_x\cdot\vec{u}\tag{Scalar-Vector Force} $$
 
-$$ \abs{\vec{F}} = F = $$
+$$ \mid{\vec{F}} = F = $$
 
 - Adding cartesian vectors
 - Moment about an axis
