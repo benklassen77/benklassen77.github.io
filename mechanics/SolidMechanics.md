@@ -29,7 +29,7 @@ $$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z} = F_x\cdot\hat{i} + F_y\cdot\hat{j
 
 $$ \vec{F_x} = F\cdot\hat{i}\tag{Scalar-Vector Force} $$
 
-$$ |\vec{F}| = F = sqrt{F_x^2 +F_y^2 + F_z^2} $$
+$$ |\vec{F}| = F = sqrt{F_x^2 +F_y^2 + F_z^2}\tag{Magnitude of Force Vector} $$
 
 The angles between forces along specified axes and the overall force vector are denoted with symbols. $\alpha$ represents the angle between $\vec{F_x}$ and $\vec F$, $\beta$ represents the angle between $\vec{F_y}$ and $\vec F$, and $\gamma$ represents the angle between $\vec{F_z}$ and $\vec F$.
 
