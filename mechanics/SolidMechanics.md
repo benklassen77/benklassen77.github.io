@@ -27,7 +27,7 @@
 
 $$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z}\tag{Definition of 3D Force System} $$
 
-$$ \vec{F_x} = F\cdot\hat{j}\tag{Scalar-Vector Force} $$
+$$ \vec{F_x} = F\cdot\hat{i}\tag{Scalar-Vector Force} $$
 
 $$ |\vec{F}| = F = $$
 
