@@ -48,7 +48,7 @@ $$ \hat{u} =
 cos{\alpha}\\
 cos{\beta}\\
 cos{\gamma}\\
-\end{bmatrix}
+\end{bmatrix} = \frac{\vec g}{g}
 $$
 
 $$ cos\alpha = \frac{A_x}{A},\ cos\beta = \frac{A_y}{A},\ cos\gamma = \frac{A_z}{A} $$
