@@ -3,7 +3,7 @@
 - [Solid Mechanics](#solid-mechanics)
   - [Trusses](#trusses)
   - [3D Systems of Forces](#3d-systems-of-forces)
-    - [Fundamental Vector Formulae](#fundamental-vector-formulae)
+    - [Fundamental Vectors](#fundamental-vectors)
     - [How to find 3D moments](#how-to-find-3d-moments)
   - [Geometric Properties](#geometric-properties)
   - [Shear](#shear)
@@ -24,27 +24,33 @@
 
 ## 3D Systems of Forces
 
-### Fundamental Vector Formulae
+### Fundamental Vectors
+
+**3D Force System** = a situation in which there is triaxial loading. Forces are expressed as vectors, which are composed of smaller vectors.
 
 $$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z} = F_x\cdot\hat{i} + F_y\cdot\hat{j} + F_z\cdot\hat{k}$$
 
-$$ \vec{F} = F\cdot\hat{u} = F(\frac{\vec r_{AB}}{r_{AB}})$$
+$$ \vec{F} = F\cdot\hat{u}$$
+
+**Coordinate Direction Angles** = the angles between forces along specified axes and the overall force vector. $\alpha$ represents the angle between $\vec{F_x}$ and $\vec F$, $\beta$ represents the angle between $\vec{F_y}$ and $\vec F$, and $\gamma$ represents the angle between $\vec{F_z}$ and $\vec F$.
+
+$$ cos\alpha = \frac{A_x}{A},\ cos\beta = \frac{A_y}{A},\ cos\gamma = \frac{A_z}{A} $$
+
+**Position Vector** = vector with two points in reference to each other rather than the origin. Algebraically, the position vector has $X = (X_b-X_a)$ etc., such that $\vec r_{AB} = (X_B-X_A)\hat{i} + (Y_B - Y_A)\hat{j} + (Z_B-Z_A)\hat{k}$
+
+**Magnitude** = numerical quantity of the force vector, found using the magnitudes of the forces in each respective axis.
 
 $$ |\vec{F}| = F = \sqrt{F_x^2 +F_y^2 + F_z^2}$$
+
+**Direction Unit Vector** = vector indicating the direction of the force.
 
 $$ \hat{u} =
 \begin{bmatrix}
 cos{\alpha}\\
 cos{\beta}\\
 cos{\gamma}\\
-\end{bmatrix} = \frac{\vec F}{F}
+\end{bmatrix} = \frac{\vec F}{F} = \frac{\vec r_{AB}}{r_{AB}}
 $$
-
-$$ cos\alpha = \frac{A_x}{A},\ cos\beta = \frac{A_y}{A},\ cos\gamma = \frac{A_z}{A} $$
-
-**Coordinate Direction Angles** = the angles between forces along specified axes and the overall force vector. $\alpha$ represents the angle between $\vec{F_x}$ and $\vec F$, $\beta$ represents the angle between $\vec{F_y}$ and $\vec F$, and $\gamma$ represents the angle between $\vec{F_z}$ and $\vec F$.
-
-**Position Vector** = vector with two points in reference to each other rather than the origin. Algebraically, the position vector has $X = (X_b-X_a)$ etc., such that $\vec r_{AB} = (X_B-X_A)\hat{i} + (Y_B - Y_A)\hat{j} + (Z_B-Z_A)\hat{k}$
 
 ### How to find 3D moments
 
