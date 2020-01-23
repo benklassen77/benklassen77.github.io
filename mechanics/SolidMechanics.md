@@ -64,6 +64,8 @@ $$r_zF_x - r_xF_z\tag{Moment about y axis}$$
 
 $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
+**Right Hand Rule** = with the thumb curled in the direction of the specified axis, the fingers curl in the direction of positive moment along that axis.
+
 ## Geometric Properties
 
 - Center of gravity / centroid including composite bodies
