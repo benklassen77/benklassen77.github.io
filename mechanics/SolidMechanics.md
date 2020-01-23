@@ -28,9 +28,11 @@ $$ \vec{F} = F\cdot\hat{u}$$
 
 $$ cos\alpha = \frac{A_x}{A},\ cos\beta = \frac{A_y}{A},\ cos\gamma = \frac{A_z}{A} $$
 
-**Position Vector** = vector with two points in reference to each other rather than the origin. Algebraically, the position vector has $X = (X_b-X_a)$ etc., such that $\vec r_{AB} = (X_B-X_A)\hat{i} + (Y_B - Y_A)\hat{j} + (Z_B-Z_A)\hat{k}$
+**Position Vector** = vector with two points in reference to each other rather than the origin. Algebraically, the position vector has $X = (X_b-X_a)$ etc.
 
-**Magnitude** = numerical quantity of the force vector, found using the magnitudes of the forces in each respective axis.
+$$\vec r_{AB} = (X_b - X_a)\hat{i} + (Y_b - Y_a)\hat{j} + (Z_b - Z_a)\hat{k}$$
+
+**Magnitude** = numerical quantity of the force vector, found using the magnitudes of the forces along each respective axis.
 
 $$ |\vec{F}| = F = \sqrt{F_x^2 +F_y^2 + F_z^2}$$
 
