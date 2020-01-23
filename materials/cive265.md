@@ -1,6 +1,7 @@
 # Structural Materials and Corrosion
 
 - [Structural Materials and Corrosion](#structural-materials-and-corrosion)
+  - [Textbook](#textbook)
   - [Stress and Strain](#stress-and-strain)
     - [Basic formulae](#basic-formulae)
     - [Stress-strain relationships](#stress-strain-relationships)
@@ -42,7 +43,8 @@
     - [Metal Corrosion](#metal-corrosion)
     - [Concrete Corrosion](#concrete-corrosion)
     - [Corrosion Prevention](#corrosion-prevention)
-  - [Textbook](#textbook)
+
+## [Textbook](https://docdro.id/LOPuYoC)
 
 ## Stress and Strain
 
@@ -662,5 +664,3 @@ There are a few types of metal corrosion
 - galvanizing
 - metallizing
 - using different material
-
-## [Textbook](https://docdro.id/LOPuYoC)
