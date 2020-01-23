@@ -1,6 +1,7 @@
 # Solid Mechanics
 
 - [Solid Mechanics](#solid-mechanics)
+  - [Solutions Manual](#solutions-manual)
   - [3D Systems of Forces](#3d-systems-of-forces)
     - [Fundamental Vectors](#fundamental-vectors)
     - [How to find 3D moments](#how-to-find-3d-moments)
@@ -13,6 +14,8 @@
   - [Deflection](#deflection)
     - [Procedure](#procedure)
   - [Design](#design)
+
+## [Solutions Manual](https://docdro.id/Y91joVs)
 
 ## 3D Systems of Forces
 
