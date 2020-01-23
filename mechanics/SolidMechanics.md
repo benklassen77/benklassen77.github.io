@@ -48,8 +48,23 @@ $$ cos\alpha = \frac{A_x}{A},\ cos\beta = \frac{A_y}{A},\ cos\gamma = \frac{A_z}
 
 ### How to find 3D moments
 
-- Adding cartesian vectors
-- Moment about an axis
+In order to find the moments, one must take the cross product between position vector and the force vector $\vec{r}\times\vec{F}$. This can be determined using the determinate of the matrix below.
+
+$$
+\begin{bmatrix}
+i & j & k \\
+r_x & r_y & r_z \\
+F_x & F_y & F_z \\
+\end{bmatrix}\tag{Moment Equation}
+$$
+
+If you need the moment about a specified axis, you can use one of the below shortcut formulas.
+
+$$r_yF_z - r_zF_y\tag{Moment about x axis}$$
+
+$$r_zF_x - r_xF_z\tag{Moment about y axis}$$
+
+$$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
 ## Geometric Properties
 
