@@ -51,11 +51,11 @@ $$
 In order to find the moments, take the cross product between position vector and the force vector $\vec{r}\times\vec{F}$. This can be determined using the below.
 
 $$
-\det{\begin{bmatrix}
+\det{\begin{vmatrix}
 i & j & k \\
 r_x & r_y & r_z \\
 F_x & F_y & F_z \\
-\end{bmatrix}}\tag{Moment Equation}
+\end{vmatrix}}\tag{Moment Equation}
 $$
 
 If you need the moment about a specified axis, you can use one of the below shortcut formulas.
