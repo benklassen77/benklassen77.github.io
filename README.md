@@ -4,7 +4,7 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 
 ## [Mechanics](mechanics/mechanicstitle.md)
 
-## [Test](textbooks.md)
+## [Test](textbooks)
 
 - Solid Mechanics
 - Fluid Mechanics
