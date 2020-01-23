@@ -26,13 +26,11 @@
 
 ### Fundamental Vector Formulae
 
-$$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z} = F_x\cdot\hat{i} + F_y\cdot\hat{j} + F_z\cdot\hat{k}\tag{Definition of 3D Force System} $$
+$$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z} = F_x\cdot\hat{i} + F_y\cdot\hat{j} + F_z\cdot\hat{k}$$
 
-$$ \vec{F} = F\cdot\hat{u} = F(\frac{\vec r_{AB}}{r_{AB}})\tag{Scalar-Vector Force} $$
+$$ \vec{F} = F\cdot\hat{u} = F(\frac{\vec r_{AB}}{r_{AB}})$$
 
-$$\vec r_{AB} = (X_B-X_A)\hat{i} + (Y_B - Y_A)\hat{j} + (Z_B-Z_A)\hat{k}$$
-
-$$ |\vec{F}| = F = \sqrt{F_x^2 +F_y^2 + F_z^2}\tag{Magnitude of Force Vector} $$
+$$ |\vec{F}| = F = \sqrt{F_x^2 +F_y^2 + F_z^2}$$
 
 $$ \hat{u} =
 \begin{bmatrix}
@@ -46,10 +44,9 @@ $$ cos\alpha = \frac{A_x}{A},\ cos\beta = \frac{A_y}{A},\ cos\gamma = \frac{A_z}
 
 **Coordinate Direction Angles** = the angles between forces along specified axes and the overall force vector. $\alpha$ represents the angle between $\vec{F_x}$ and $\vec F$, $\beta$ represents the angle between $\vec{F_y}$ and $\vec F$, and $\gamma$ represents the angle between $\vec{F_z}$ and $\vec F$.
 
-### How to find 3D moments
+**Position Vector** = vector with two points in reference to each other rather than the origin. Algebraically, the position vector has $X = (X_b-X_a)$ etc., such that $\vec r_{AB} = (X_B-X_A)\hat{i} + (Y_B - Y_A)\hat{j} + (Z_B-Z_A)\hat{k}$
 
-1. Project vector $\vec{F}$ onto an axial plane.
-2. Use trigonometry to solve for force component.
+### How to find 3D moments
 
 - Adding cartesian vectors
 - Moment about an axis
