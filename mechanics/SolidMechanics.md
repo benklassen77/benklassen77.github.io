@@ -1,7 +1,6 @@
 # Solid Mechanics
 
 - [Solid Mechanics](#solid-mechanics)
-  - [Trusses](#trusses)
   - [3D Systems of Forces](#3d-systems-of-forces)
     - [Fundamental Vectors](#fundamental-vectors)
     - [How to find 3D moments](#how-to-find-3d-moments)
@@ -14,13 +13,6 @@
   - [Deflection](#deflection)
     - [Procedure](#procedure)
   - [Design](#design)
-
-## Trusses
-
-- Simple Trusses
-- Method of Joints
-- Method of Sections
-- Frames
 
 ## 3D Systems of Forces
 
@@ -54,7 +46,7 @@ $$
 
 ### How to find 3D moments
 
-In order to find the moments, one must take the cross product between position vector and the force vector $\vec{r}\times\vec{F}$. This can be determined using the determinate of the matrix below.
+In order to find the moments, take the cross product between position vector and the force vector $\vec{r}\times\vec{F}$. This can be determined using the determinate of the matrix below.
 
 $$
 \begin{bmatrix}
