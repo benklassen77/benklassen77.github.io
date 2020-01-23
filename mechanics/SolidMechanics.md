@@ -28,7 +28,9 @@
 
 $$ \vec F = \vec{F_x} + \vec{F_y} + \vec{F_z} = F_x\cdot\hat{i} + F_y\cdot\hat{j} + F_z\cdot\hat{k}\tag{Definition of 3D Force System} $$
 
-$$ \vec{F} = F\cdot\hat{u} = F(\frac{\vec r_{AB}}{r_{AB}}\tag{Scalar-Vector Force} $$
+$$ \vec{F} = F\cdot\hat{u} = F(\frac{\vec r_{AB}}{r_{AB}})\tag{Scalar-Vector Force} $$
+
+$$\vec r_{AB} = (X_B-X_A)\hat{i} + (Y_B - Y_A)\hat{j} + (Z_B-Z_A)\hat{k}$$
 
 $$ |\vec{F}| = F = \sqrt{F_x^2 +F_y^2 + F_z^2}\tag{Magnitude of Force Vector} $$
 
