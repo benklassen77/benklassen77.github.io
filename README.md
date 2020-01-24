@@ -9,6 +9,11 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 
 ## [Geotechnical Engineering](geo/geotitle.md)
 
+- Pile Foundations
+- Retaining Walls
+- Caissons
+- Retaining Walls
+
 ## [Material Engineering](materials/materialstitle.md)
 
 - Concrete
