@@ -12,7 +12,8 @@
   - [Torsion](#torsion)
   - [Combined Loadings](#combined-loadings)
   - [Deflection](#deflection)
-    - [Procedure](#procedure)
+    - [Normal Procedure](#normal-procedure)
+    - [Moment-Area Method](#moment-area-method)
 
 ## [Solutions Manual](https://docdro.id/Y91joVs)
 
@@ -107,13 +108,14 @@ $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
 ## Deflection
 
-### Procedure
+### Normal Procedure
 
 1. Check for points where slope or deflection is known.
    - Deflection is typically zero wherever there is a support
    - Slope has a negative/positive relationship where cuts meet.
 2. Solve for reactions at supports
-3. Take a cut any distance x from a reaction and find Mo equation.
+   - Includes both moments and loads at supports.
+3. Take a cut any distance x between an end of the beam and a reaction and find Mo equation.
    - Every change in loading requires another cut
 4. Integrate equations according to the following equation.
 5. Plug in knowns and solve.
@@ -121,3 +123,7 @@ $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 $$EI\frac{d^2 y}{d x^2}=M_O\tag{Moment Equation}$$
 $$EI\theta(x) = \int{M_O dx} + C\tag{Slope Equation}$$
 $$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
+
+### Moment-Area Method
+
+$$ \theta(A) = \frac{\Delta DA}{L_{beam}} $$
