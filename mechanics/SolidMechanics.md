@@ -128,7 +128,7 @@ $$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
 
 $$ \theta(A) = \frac{\Delta DA}{L_{beam}}\tag{General Curvature Slope} $$
 
-$$ \theta DA = \int^D_A{\frac{M}{EI}}\tag{Curvature Slope}
+$$ \theta DA = \int^D_A{\frac{M}{EI}}\tag{Curvature Slope} $$
 
 - $\theta DA$ is the area under the curvature diagram
 
