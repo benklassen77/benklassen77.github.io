@@ -142,4 +142,7 @@ To find maximum deflection:
 1. Create bending moment diagram
    - Do not do shear force diagram first, takes too much time
 2. Draw deflection diagram below moment diagram
-   - Maximum deflection will be on the side with the longest section of beam
+   - Maximum deflection will be on the side with the longest section of beam. This point will be named D for instance
+3. Find curvature of endpoint with respect to starting position (eg. A)
+4. Find slope at A by dividing curvature of length over the length
+5. Knowing that the $\theta A$ is equivalent to $\theta DA$, it is okay to set $\theta A$ equal to the area of moments between the point of maximum deflection and an endpoint in an effort to discover where the maximum deflection occurs.
