@@ -44,7 +44,7 @@
     - [Concrete Corrosion](#concrete-corrosion)
     - [Corrosion Prevention](#corrosion-prevention)
 
-## [Textbook](aboutme/materialstext.pdf)
+## [Textbook](http://benjaminklassen.com/aboutme/materialstext.pdf)
 
 ## Stress and Strain
 
