@@ -44,3 +44,6 @@ Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo.
 - VBA
 
 ## [Music Appreciation](music/musicappreciation.md)
+
+- Ancient World
+- Middle Ages
