@@ -13,7 +13,6 @@
   - [Combined Loadings](#combined-loadings)
   - [Deflection](#deflection)
     - [Procedure](#procedure)
-  - [Design](#design)
 
 ## [Solutions Manual](https://docdro.id/Y91joVs)
 
@@ -122,5 +121,3 @@ $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 $$EI\frac{d^2 y}{d x^2}=M_O\tag{Moment Equation}$$
 $$EI\theta(x) = \int{M_O dx} + C\tag{Slope Equation}$$
 $$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
-
-## Design
