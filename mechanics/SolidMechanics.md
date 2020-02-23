@@ -129,3 +129,12 @@ $$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
 $$ \theta(A) = \frac{\Delta DA}{L_{beam}}\tag{Moment Area Method} $$
 
 $$ \Delta DA = \int^D_A{\frac{Mdx}{EI}}$$
+
+- $\Delta DA$ is the deflection from point tangential to D to point tangential to A. Otherwise, $\Delta AD$ is the deflection from a point tangential to A to a point tangential to D. The point of origination comes first.
+
+To find maximum deflection:
+
+1. Create bending moment diagram
+   - Do not do shear force diagram first, takes too much time
+2. Draw deflection diagram below moment diagram
+   - Maximum deflection will be on the side with the longest section of beam
