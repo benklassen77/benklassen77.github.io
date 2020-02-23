@@ -126,4 +126,6 @@ $$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
 
 ### Moment-Area Method
 
-$$ \theta(A) = \frac{\Delta DA}{L_{beam}} $$
+$$ \theta(A) = \frac{\Delta DA}{L_{beam}}\tag{Moment Area Method} $$
+
+$$ \Delta DA = \int^D_A{\frac{Mdx}{EI}}$$
