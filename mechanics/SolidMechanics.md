@@ -126,10 +126,15 @@ $$EIy(x)=\int{\int{M_O+C_1dx}} + C_2\tag{Deflection Equation}$$
 
 ### Moment-Area Method
 
-$$ \theta(A) = \frac{\Delta DA}{L_{beam}}\tag{Moment Area Method} $$
+$$ \theta(A) = \frac{\Delta DA}{L_{beam}}\tag{General Curvature Slope} $$
 
-$$ \Delta DA = \int^D_A{\frac{Mdx}{EI}}$$
+$$ \theta DA = \int^D_A{\frac{M}{EI}}\tag{Curvature Slope}
 
+- $\theta DA$ is the area under the curvature diagram
+
+$$ \Delta DA = \int^D_A{\frac{M\bar{x}}{EI}}\tag{Curvature Deflection} $$
+
+- It is the moment-area under the curvature diagram
 - $\Delta DA$ is the deflection from point tangential to D to point tangential to A. Otherwise, $\Delta AD$ is the deflection from a point tangential to A to a point tangential to D. The point of origination comes first.
 
 To find maximum deflection:
