@@ -6,6 +6,7 @@
   - [Lecture 3: Middle Ages](#lecture-3-middle-ages)
     - [Dark Ages](#dark-ages)
     - [High Middle Ages](#high-middle-ages)
+  - [Lecture 4 - Intro to the Renaissance](#lecture-4---intro-to-the-renaissance)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -115,4 +116,24 @@ Ars nova: the new art. This is 14th century music
 
 - secular
 - extraordinary, polyphonic complexity. **Isorhythm** = 2 basic aspects of music melody and rhythm could be isolated
+  - One isorhythmic composer Guillaume de Machaut. Eg. Quant en moy (1350)
 - art became more humanistic again
+
+## Lecture 4 - Intro to the Renaissance
+
+2 rules of thought that explain shift from God-serving to egocentric society
+
+1. MEDIEVAL THOUGHT: credo ut intelligam: understanding can only come through belief
+2. 15th CENTURY THOUGHT: intelligo ut credam: belief can only come through understanding
+
+Reneissance Events
+
+- classicism: language, literature, philosophy, art, architecture etc.
+
+> "At the core of ancient greek and roman writings {rhetoric, education, poetry, morals philosophy}, the central figure was not Christ; not the transient, 'worthless' figure of humankind as described by mediaval theologians, but man - independent, intelligent, adventurous, and capable" - Burke
+
+- lead to humanism movement, with emphasis on human accomplishments
+- 95 thesis - Martin Luther
+- Education: secular education. Highered scholars instead of church
+- Printing press (1450)
+- Art (botticelli, da vince, rafael)
