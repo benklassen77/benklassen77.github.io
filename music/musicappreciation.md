@@ -137,3 +137,30 @@ Reneissance Events
 - Education: secular education. Highered scholars instead of church
 - Printing press (1450)
 - Art (botticelli, da vince, rafael)
+
+Renaissance Music
+
+- Clear articulation of the words
+  - Music cannot be overly mellismatic (eg. Leonin). This was obsolete by 15th century
+- Concept that music should reflect and intensify the meaning of the words (word-painting)
+
+**Consonant**: blend well
+
+**Dissonant**: do not blend well
+
+- The more complex the ratios are, the more dissonant
+
+**Homophonic Texture**: Foreground (melody), middle ground (baseline) and background (inner voices)
+
+- Josquin des Prez is a very highly respected musician of the Renaissance
+  - **High Renaissance Style**: Fluid, lacking sharp rhythmic edge generally, smooth, conjunct, controlled polyphony, occasional homophony
+  - Petite Camusette is an example of **imitative polyphony**: parts imitate each other here and there (1500)
+
+|Quant en moy|Petite Camusette|
+|----|----|
+|Foreign, spiky, isorhythmic|Clear, conjunct, clear, homogenous|
+|French love song| French love song|
+
+**A capella** = as in chapel
+
+Because of the printing press, Josquin's followers could learn his music faster, as well as ensure further change in musical styles.
