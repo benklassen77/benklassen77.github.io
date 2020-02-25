@@ -1,6 +1,6 @@
 # Shalom
 
-Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo. [![Resume](http://www.google.com.au/images/nav_logo7.png)](http://google.com)
+Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo. [![Resume](https://i.imgur.com/ZEoTCsh.png?1)](http://google.com)
 
 ## [Mechanics](mechanics/mechanicstitle.md)
 
