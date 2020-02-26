@@ -77,6 +77,18 @@ $$ \bar x = \frac{\sum(\prime A\prime(\bar x))}{\sum(\prime A)} \tag(X axis cent
 
 $$ \bar y = \frac{\sum(\prime A\prime(\bar y))}{\sum(\prime A)} \tag(Y axis centroid) $$
 
+There are two forms of moment of inertia: mass and area. These are often confused, but they are relatively simple to distinguish. 
+
+If someone says "moment of inertia", they are referring to mass, or first moment of inertia. This is referred to by I in calculations.
+
+**Moment of inertia** = provides resistance against changing the rotational speed of rotating body. In a sense, it is analagous of mass in rotational situations. Units in form eg. $ lb\cdot in^2 $. dM represents small quantity of mass, and r represents distance of small mass from the axis.
+
+$$ I = \int (r^2 dM) \tag (Moment of inertia) $$
+
+While the MOI equation is cool, MOIs are found on wikipedia for common shapes.
+
+If someone says "second moment of inertia", they are referring to area.
+
 - how to reduce distributed load to simple loading
 - Moment of inertia (areas, parallel-axis theorem, composite areas
 
