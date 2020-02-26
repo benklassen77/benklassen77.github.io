@@ -71,9 +71,12 @@ $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
 **Right Hand Rule** = with the thumb curled in the direction of the specified axis, the fingers curl in the direction of positive moment along that axis.
 
-## Geometric Properties
+## Basic Geometric Properties
 
-- Center of gravity / centroid including composite bodies
+$$ \bar x = \frac{\sum(\prime A\prime(\bar x))}{\sum(\prime A)} \tag(X axis centroid) $$
+
+$$ \bar y = \frac{\sum(\prime A\prime(\bar y))}{\sum(\prime A)} \tag(Y axis centroid) $$
+
 - how to reduce distributed load to simple loading
 - Moment of inertia (areas, parallel-axis theorem, composite areas
 
