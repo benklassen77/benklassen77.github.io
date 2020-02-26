@@ -5,7 +5,7 @@
   - [3D Systems of Forces](#3d-systems-of-forces)
     - [Fundamental Vectors](#fundamental-vectors)
     - [How to find 3D moments](#how-to-find-3d-moments)
-  - [Geometric Properties](#geometric-properties)
+  - [Basic Geometric Properties](#basic-geometric-properties)
   - [Shear](#shear)
   - [Axial](#axial)
   - [Bending](#bending)
