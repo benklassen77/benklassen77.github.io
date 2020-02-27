@@ -73,13 +73,13 @@ $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
 ## Basic Geometric Properties
 
-$$ \bar x = \frac{\sum(\prime A\prime(\bar x))}{\sum(\prime A)} \tag(X axis centroid) $$
+$$ \bar x = \frac{\sum(A\prime \bar x\prime)}{\sum(A\prime)} \tag (X axis centroid) $$
 
-$$ \bar y = \frac{\sum(\prime A\prime(\bar y))}{\sum(\prime A)} \tag(Y axis centroid) $$
+$$ \bar y = \frac{\sum(A\prime \bar y\prime)}{\sum(A\prime)} \tag (Y axis centroid) $$
 
-$$ \bar x = \frac{\int_A \tilde x dA}{\int_A dA} \tag(Centroid of Area)$$
+$$ \bar x = \frac{\int_A \tilde x dA}{\int_A dA} \tag (Centroid of Area)$$
 
-$$ \bar x = \frac{\int_V \tilde x dV}{\int_V dV} \tag(Centroid of Volume)$$
+$$ \bar x = \frac{\int_V \tilde x dV}{\int_V dV} \tag (Centroid of Volume)$$
 
 There are two forms of moment of inertia: mass and area. These are often confused, but they are relatively simple to distinguish.
 
