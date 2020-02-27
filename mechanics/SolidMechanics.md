@@ -77,7 +77,11 @@ $$ \bar x = \frac{\sum(\prime A\prime(\bar x))}{\sum(\prime A)} \tag(X axis cent
 
 $$ \bar y = \frac{\sum(\prime A\prime(\bar y))}{\sum(\prime A)} \tag(Y axis centroid) $$
 
-There are two forms of moment of inertia: mass and area. These are often confused, but they are relatively simple to distinguish. 
+$$ \bar x = \frac{\int_A \tilde x dA}{\int_A dA} \tag(Centroid of Area)$$
+
+$$ \bar x = \frac{\int_V \tilde x dV}{\int_V dV} \tag(Centroid of Volume)$$
+
+There are two forms of moment of inertia: mass and area. These are often confused, but they are relatively simple to distinguish.
 
 If someone says "moment of inertia", they are referring to mass, or first moment of inertia. This is referred to by I in calculations.
 
@@ -85,12 +89,15 @@ If someone says "moment of inertia", they are referring to mass, or first moment
 
 $$ I = \int (r^2 dM) \tag (Moment of inertia) $$
 
+$$I = I_(cm) + md^2 \tag{Parallel Axis Theorum Mass}$$
+
 While the MOI equation is cool, MOIs are found on wikipedia for common shapes.
 
-If someone says "second moment of inertia", they are referring to area.
+If someone says "second moment of inertia", they are referring to area. This is used in beam design, with units of $mm^4$.
 
-- how to reduce distributed load to simple loading
-- Moment of inertia (areas, parallel-axis theorem, composite areas
+$$ I_(xx) = \int (y^2 dA) \tag (Second Moment of inertia X Axis) $$
+
+$$I_(z) = I_(x) + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
 ## Shear
 
