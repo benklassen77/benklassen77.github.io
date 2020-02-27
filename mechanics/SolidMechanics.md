@@ -73,13 +73,13 @@ $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
 ## Basic Geometric Properties
 
-$$ \bar x = \frac{\sum(A\prime \bar x\prime)}{\sum(A\prime)} \tag (X axis centroid) $$
+$$ \bar x = \frac{\sum(A\prime \bar x\prime)}{\sum(A\prime)} \tag{X axis centroid} $$
 
-$$ \bar y = \frac{\sum(A\prime \bar y\prime)}{\sum(A\prime)} \tag (Y axis centroid) $$
+$$ \bar y = \frac{\sum(A\prime \bar y\prime)}{\sum(A\prime)} \tag{Y axis centroid} $$
 
-$$ \bar x = \frac{\int_A \tilde x dA}{\int_A dA} \tag (Centroid of Area)$$
+$$ \bar x = \frac{\int_A \tilde x dA}{\int_A dA} \tag{Centroid of Area}$$
 
-$$ \bar x = \frac{\int_V \tilde x dV}{\int_V dV} \tag (Centroid of Volume)$$
+$$ \bar x = \frac{\int_V \tilde x dV}{\int_V dV} \tag{Centroid of Volume}$$
 
 There are two forms of moment of inertia: mass and area. These are often confused, but they are relatively simple to distinguish.
 
@@ -87,17 +87,17 @@ If someone says "moment of inertia", they are referring to mass, or first moment
 
 **Moment of inertia** = provides resistance against changing the rotational speed of rotating body. In a sense, it is analagous of mass in rotational situations. Units in form eg. $ lb\cdot in^2 $. dM represents small quantity of mass, and r represents distance of small mass from the axis.
 
-$$ I = \int (r^2 dM) \tag (Moment of inertia) $$
+$$ I = \int r^2 dM \tag{Moment of inertia} $$
 
-$$I = I_(cm) + md^2 \tag{Parallel Axis Theorum Mass}$$
+$$I = I_{cm} + md^2 \tag{Parallel Axis Theorum Mass}$$
 
 While the MOI equation is cool, MOIs are found on wikipedia for common shapes.
 
 If someone says "second moment of inertia", they are referring to area. This is used in beam design, with units of $mm^4$.
 
-$$ I_(xx) = \int (y^2 dA) \tag (Second Moment of inertia X Axis) $$
+$$ I_{xx} = \int y^2 dA \tag{Second Moment of inertia X Axis} $$
 
-$$I_(z) = I_(x) + Ar^2 \tag{Parallel Axis Theorum Area}$$
+$$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
 ## Shear
 
