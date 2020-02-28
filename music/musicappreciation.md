@@ -7,6 +7,7 @@
     - [Dark Ages](#dark-ages)
     - [High Middle Ages](#high-middle-ages)
   - [Lecture 4 - Intro to the Renaissance](#lecture-4---intro-to-the-renaissance)
+  - [Renaissance Mass](#renaissance-mass)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -156,6 +157,8 @@ Renaissance Music
   - **High Renaissance Style**: Fluid, lacking sharp rhythmic edge generally, smooth, conjunct, controlled polyphony, occasional homophony
   - Petite Camusette is an example of **imitative polyphony**: parts imitate each other here and there (1500)
 
+- Giovanni del Palestrina was other great
+
 |Quant en moy|Petite Camusette|
 |----|----|
 |Foreign, spiky, isorhythmic|Clear, conjunct, clear, homogenous|
@@ -164,3 +167,92 @@ Renaissance Music
 **A capella** = as in chapel
 
 Because of the printing press, Josquin's followers could learn his music faster, as well as ensure further change in musical styles.
+
+Great Renaissance Polyphonists Shortlist
+
+- Johannes Ockeghem
+- Guillaume dufay
+- Jacob Obrecht
+- Heinrich Isaac
+- Jean Mouton
+- Jacob Arcadelt
+- Orlando Lassus
+
+## Renaissance Mass
+
+Mass as religious ceremony
+
+Ite missa est: congregation is dismissed
+
+- Mass derived from missa
+- In the day, mass was daily
+- reenactment of last supper
+
+**High Mass** = Missa solemnis, or full mass
+
+PARTS OF THE MASS
+
+The High Mass
+
+1. Introductory Liturgy of the Word
+2. Liturgy of the Eucharist (giving of thanks)
+
+Smaller sections (category of activity)
+
+1. Proper: sections that change from day to day
+   - 11 of 17 sections of high mass: Introit, Collects, Epistle, Gradual, Alleluia, Sequence, Gospel, Offertory, Preface, Communion, and Post-Communion respectively
+   - texts change on regular basic
+2. Ordinary: sections do not change ever
+   - 6 of 17 sections: Kyrie, Gloria, Credo, Sanctus, Agnus Dei, and Its missa est.
+
+**Kyrie** = "Lord have mercy upon us; Christ have mercy upon us."
+
+**Gloria** = "Glory be to God"
+
+**The Credo** = google
+
+**The Sanctus** = "holy, holy, holy"; introduces eucharistic prayer
+
+**Agnus Dei** = Lamb of God
+
+**Ite missa est** = Let us bless the Lord and be dismissed
+
+- since ordinary is repeated, it was chosen to be accompanied by music
+- Guillaume de Machaut wrote "The Mass of Notre Dame". This set the ordinary to music
+  - First 5 parts of ordinary were set to music
+  - Used a plainchant to link all parts. Plainchant was historically the Word of God.
+
+3 species of mass commonalities
+
+1. Constitute settings of ordinary of mass
+2. Soprano, alto, tenor, bass (4 parts)
+3. Employ triadic harmonic constructs
+
+3 species
+
+1. Cantus firmus mass (fixed melody)
+   - used plainchants, which are modal and tenor
+   - least complex
+2. Paraphrase mass
+   - Josphin des Prez wrote these. Eg. Ave maris stella. Agnus Dei No 3 beautiful especially :)
+   - turns plainchant from modal into tonal, and becomes subliminal
+3. Imitation mass
+   - Based on preexisting melody; not plainchant but any melody
+   - Protestent Reformation ended this
+
+Protestent Reformation
+
+- Martin Luther nailed 95 theses to church
+
+Impact on mass = **Counter Reformation**
+
+- Council of Trent (1545-1563)
+  - Think tank that came together to problem solve what went wrong
+  - Ended imitation mass, complex polyphony (need to understand words), instruments in church, and attitude of singers
+
+> The "Canon on music to be used in the mass" - council of trent, illustrated many problems in church music
+
+- **Giovanni Pierluigi da Palestrina** (1525-1594) = "saviour of Catholic church music"
+  - Composed 6 part polyphonic mass, which was accepted by the council of trent
+    - Each syllable is heard by itself, such that while there are several voices, each word is heard in a single voice
+  - Wrote 104 masses. Eg. Pope Marcellus Mass
