@@ -11,6 +11,7 @@
   - [Lecture 6 - The Madrigal](#lecture-6---the-madrigal)
   - [Lecture 7 - Introduction to the Baroque Era (1600-1750)](#lecture-7---introduction-to-the-baroque-era-1600-1750)
     - [The French Overture](#the-french-overture)
+  - [Lecture 8 - Style Features of Baroque-era Music](#lecture-8---style-features-of-baroque-era-music)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -339,3 +340,68 @@ French Overture Components
 
 Part 1. Characterized by sweeping scales; a slow, plodding tempo; and dotted (long/short) rhythms
 Part 2. Characterized by imitative polyphony and fast tempo
+
+## Lecture 8 - Style Features of Baroque-era Music
+
+Big, Bold Statements
+
+1. Baroque Era fascinated with substance and power of individual human emotions
+   - infatuation with theater and invention of opera. Shakespeare from this timeperiod
+2. Emotional and expressive exuberance in Baroque-era music that sets it apart from the more restrained and sober music of the Renaissance
+3. Era of great scientific investigation and codification
+   - Emphasis on logic and control
+   - Epressive exuberance tempered by intellectual control
+4. Decreasing political power of church of the Church gave rise to the absolute monarch, who claimed to govern through divine right
+5. Rise of genuine instrumental musical tradition during the Baroque illustrates that the syntactical elements of Baroque-era music had became substantial enough that they could, by themselves, create viable musical statement without the need of voices
+
+Instrumental Music = most abstract art yet to humankind
+
+- in drawing or painting, physical object exists in at least 2 dimensions
+- sculpture exists in 3 dimensions
+- poetry, drama, and literature written in language that we can know and recognize
+- Instrumental music is great because it has no words, no literary information beyond its title to explain why it exists and why it sounds the way it does
+
+Basics
+
+**Music** = sound in time, or time defined by sound
+
+- Time: some aspect of rhythm
+- Sound: pitches -> motives -> melodies -> texture
+
+**Pitch** = discrete sound, a sound we can sing. It has 2 properties: a single fundamental frequency (what makes an A an A) and timbre, or tone color or overtone (what makes an A on a piano differ from that on a saxophone)
+
+- Note = pitch with duration
+
+**Motive** = a brief succession of notes from which melody grows, through the processes of repetition, sequence, and transformation
+
+- Problem = early composers of instrumental music needed a way to create melodic coherence and logic, a way to create melodies that made abstract sense, unto themselves, in absence of words.
+- Baroque great age of sequence
+
+**Melody** = any succession of notes
+
+- Tune: special sort of melody, with a clear beginning, middle and end, and with a property called lyricism
+- Lyricism: being songlike for a voice
+- Lyric melody: conceived vocally
+- Theme: principal musical idea in a given section of music
+- Conjunct: pitches are relatively close together
+- Disjunct: pitches are scattered apart
+
+**Texture** = refers to the number of melodies and the relationship between those melodies in a given segment of music
+
+- Monophony, monophonic texture: single unnaccompanied melody line
+- Polyphony (synonymous to counterpoint and contrapuntal): two or more principal melodic parts, each of equal importance
+  - Contrapuntal: against point; or note against note.
+  - Imitivate Polyphopnic texture: constituent melodic parts sing/play more-or-less the same melody, but staggered at various time intervals, so that the melody overlaps with itself
+    - Strict: each constituent part imitates the other parts exactly. Eg. row row row your boat. Canon or Round
+    - Non-strict: voices imitate each other, but not exactly. Therefore, no cyclical groove. Eg. Agnus Dei No. 3, josquin dez pres
+  - Non-imitative polyphony: 2 or more simultaneous melodies and different melodies; neither are more important than the other
+- Homophony, homophonic texture: one in which one melody is predominant and all other melodic or harmonic material is perceived as being accompanimental
+
+> In the Renaissance, instrumental music was also created as suites: collection of dances
+
+- Instrument design exploded in the Baroque
+- Piano invented.. harpsicord mastered
+- Flute, oboe, trombone, and violin family came into existence
+- Tuning systems (well-tempered) came into existance
+- meter (grouping of notes) standardized, as well as bar lines
+- Functional harmony came into existence
