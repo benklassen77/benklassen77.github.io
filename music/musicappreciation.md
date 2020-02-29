@@ -1,4 +1,4 @@
-# Music Appreciation
+# [Music Appreciation](http://benjaminklassen.com)
 
 - [Music Appreciation](#music-appreciation)
   - [Lecture 1 - Music As A Mirror](#lecture-1---music-as-a-mirror)
