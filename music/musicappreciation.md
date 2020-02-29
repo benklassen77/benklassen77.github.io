@@ -9,6 +9,8 @@
   - [Lecture 4 - Intro to the Renaissance](#lecture-4---intro-to-the-renaissance)
   - [Lecture 5 - Renaissance Mass](#lecture-5---renaissance-mass)
   - [Lecture 6 - The Madrigal](#lecture-6---the-madrigal)
+  - [Lecture 7 - Introduction to the Baroque Era (1600-1750)](#lecture-7---introduction-to-the-baroque-era-1600-1750)
+    - [The French Overture](#the-french-overture)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -280,3 +282,60 @@ Impact on mass = **Counter Reformation**
 - Modern artists must balance modernality and coherence
 - Carlo Gesualdo was a wealthy amateur who was talented, and didn't have to work for a patron. This gave him more creative freedom. Eg. "Io parto"
 - The Triumph of Oriana, by Thomas Morley, contains many English Madrigals. Eg. "As Vesta Was from Latmos Hill Descending" by Thomas Wilkes
+
+## Lecture 7 - Introduction to the Baroque Era (1600-1750)
+
+**Opera** = stage drama set to music
+
+**Johann Sebastian Bach** (1685-1750)
+
+**Baroque** (barocca): pearl of irregular shape or colour
+
+- Derogatory term for art that was considered overly extravagant (18th century definition)
+- By the 1920s, this definition remained in similar meaning but instead with a positive tonality. It shifted to flamboyant, extravagant, and highly detailwd art/music between 1600-1750
+
+**Baroque Era** = time of increasing secularism and scientific discovery
+
+- Galileio's era
+- John Kepler discovered formulas on orbit of planets
+- Microorganisms
+- Blood circulatoin
+- Isaac Newton's time
+  - Newton believed God is a watchmaker, and the cosmos were God's watch. Believed in God and Science
+- The Baroque belief that logical systems (invisible hand of God) rationally controlled the complexity of the World manifested itself in art that celebrated detail controlled by symmetry
+- Baroque design about ornament and embellishment. However, it is never chaotic or confused. The era was defined by symmetry, rationality, order and logic controlling detail.
+- It was so orderly that they would have hated Swiss Alps or Niagara Falls, since they were not so controlled or orderly.
+
+**Baroque Music** = expressive exuberance and surface extravagance, carefully tempered and controlled by rhythm, a systemic approach to harmony, and symmetrical (cyclical) music forms
+
+|**Religious Topic**|Renaissance (Agnus Dei)|Baroque (Hosanna)|
+|----|----|----|
+|**Nature of religiousity**|Sober prayer|Extravagant celebration|
+
+|**Secular Topic**|Renaissance (As Vesta Was from Latmos)|Baroque (Dido's Lament)|
+|----|----|----|
+|**What exactly is being expressed?**|Word-painting. Madrigal is all about words|Opera all about individual emotions|
+|**Emotional Impact**|Generic|Individual emotions|
+
+Madrigal vs. Opera
+
+- Not just about __Word Painting__ and __Emotional Expression__; more profoundly, it is also about difference between group expression and individual expression
+- Opera development lead to rise of individual in Western culture. Thus, it has had the most important ramifications in the last 400 years
+
+Magnificence and Absoluteism in Baroque Music
+
+- Extraordinary architecture commissioned by kings to rival that made for God
+- Louis 14 is greatest example of this
+
+### The French Overture
+
+**Overture** = instrumental word that precedes a stage work
+
+- French Overture is royal version, very magnificent that could welcome a king
+- Louis commissioned Jean-Baptiste Lully (1632-1687)
+  - Based on Lully's famous style, George Frederick Handel (1685-1759) started his Messiah as a French Overture. Eg. Water Music
+
+French Overture Components
+
+Part 1. Characterized by sweeping scales; a slow, plodding tempo; and dotted (long/short) rhythms
+Part 2. Characterized by imitative polyphony and fast tempo
