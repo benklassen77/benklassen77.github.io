@@ -8,6 +8,7 @@
     - [High Middle Ages](#high-middle-ages)
   - [Lecture 4 - Intro to the Renaissance](#lecture-4---intro-to-the-renaissance)
   - [Renaissance Mass](#renaissance-mass)
+  - [The Madrigal](#the-madrigal)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -256,3 +257,26 @@ Impact on mass = **Counter Reformation**
   - Composed 6 part polyphonic mass, which was accepted by the council of trent
     - Each syllable is heard by itself, such that while there are several voices, each word is heard in a single voice
   - Wrote 104 masses. Eg. Pope Marcellus Mass
+
+## The Madrigal
+
+**Madrigal** = a secular, unaccompanied vocal work for four to six individual voices
+
+- Not choral compositions
+- Madrigal was most important genre of Italian secular music in 16th century
+- Because of Madrigal, Italy became center of European music
+- Contained poetry
+- Free mix of polyphonic and monophonic parts
+- Became increasingly bound up with finding a way to express the literary meaning of a poem
+- Francesco Petrarch (1304-1374) was great Italian poet of 13th century
+- Pietro Bembo (1470-1547) was poet, statesman, and a cardinal. He was a Petrarch fanatic, and popularized Petrarch's poetry.
+- Cipriano de Rore (1516-1565), from Flanders, wrote "Datemi pace o duri miei pensieri", is based on a sonnet by Francesco Petrarch, who's heart betrayed him.
+  - Projects mood of sonnet
+  - Repeats literal words of sonnet
+  - Last line of magrigal treated epigrammatically
+
+> Example of word painting as jarring line suggests jarred heart
+
+- Modern artists must balance modernality and coherence
+- Carlo Gesualdo was a wealthy amateur who was talented, and didn't have to work for a patron. This gave him more creative freedom. Eg. "Io parto"
+- The Triumph of Oriana, by Thomas Morley, contains many English Madrigals. Eg. "As Vesta Was from Latmos Hill Descending" by Thomas Wilkes
