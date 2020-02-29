@@ -7,8 +7,8 @@
     - [Dark Ages](#dark-ages)
     - [High Middle Ages](#high-middle-ages)
   - [Lecture 4 - Intro to the Renaissance](#lecture-4---intro-to-the-renaissance)
-  - [Renaissance Mass](#renaissance-mass)
-  - [The Madrigal](#the-madrigal)
+  - [Lecture 5 - Renaissance Mass](#lecture-5---renaissance-mass)
+  - [Lecture 6 - The Madrigal](#lecture-6---the-madrigal)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -179,7 +179,7 @@ Great Renaissance Polyphonists Shortlist
 - Jacob Arcadelt
 - Orlando Lassus
 
-## Renaissance Mass
+## Lecture 5 - Renaissance Mass
 
 Mass as religious ceremony
 
@@ -258,7 +258,7 @@ Impact on mass = **Counter Reformation**
     - Each syllable is heard by itself, such that while there are several voices, each word is heard in a single voice
   - Wrote 104 masses. Eg. Pope Marcellus Mass
 
-## The Madrigal
+## Lecture 6 - The Madrigal
 
 **Madrigal** = a secular, unaccompanied vocal work for four to six individual voices
 
