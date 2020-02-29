@@ -1,4 +1,4 @@
-# Mechanics
+# [Mechanics](http://benjaminklassen.com)
 
 ## [Solid Mechanics](SolidMechanics.md)
 
