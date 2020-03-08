@@ -163,6 +163,7 @@ To find maximum deflection:
 
 1. Create bending moment diagram
    - Do not do shear force diagram first, takes too much time
+   - Canadian method shows moment applied to the point externally. British method shows moment resisted at internal point. For courses sake, use Canadian method.
 2. Draw deflection diagram below moment diagram
    - Maximum deflection will be on the side with the longest section of beam. This point will be named D for instance
 3. Find curvature of endpoint with respect to starting position (eg. A)
