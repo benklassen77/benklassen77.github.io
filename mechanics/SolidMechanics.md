@@ -9,6 +9,7 @@
   - [Shear](#shear)
   - [Axial](#axial)
   - [Bending](#bending)
+    - [Bending moment diagram](#bending-moment-diagram)
   - [Torsion](#torsion)
   - [Combined Loadings](#combined-loadings)
   - [Deflection](#deflection)
@@ -113,7 +114,24 @@ $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
 ## Bending
 
-- how to make bending moment diagram
+### Bending moment diagram
+
+Method 1: Shear method
+
+1. Find reactions
+2. Draw shear force diagram
+3. Find area of shapes.. point load translates to a rectangle, uniform area load translates to triangle, changing area load translates to parabola. BMD indicates moment as follows: if the shear is positive and increasingly positive, the moment will be positive with increasing slope. If shear is positive but increasingly negative, the monment will be positive with decreasing slope. ETC.
+
+Method 2: Point method
+
+- Remember: moment at the free end of a cantilever is zero because it is static
+- What is written is not internal moment to resist torque, but rather external moment being applied to it
+
+1. Choose an end and graph the moment at that point
+2. Take a cut at the point just before the next reaction or point load. Determine the moment applied on that point from the previous loading. Based on the type of load, determine the shape of the moment graph
+3. Take a cut further along the beam before the next action. Determine the moment applied by adding the existing determined moment to the new moment being applied by the change in loading.
+4. Continue along the beam, repeating 2 and 3 until the entire beam is satisfied
+
 - 2D flexture formula
 
 ## Torsion

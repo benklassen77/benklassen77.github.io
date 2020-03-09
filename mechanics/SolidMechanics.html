@@ -35,7 +35,11 @@
 <li><a href="#basic-geometric-properties">Basic Geometric Properties</a></li>
 <li><a href="#shear">Shear</a></li>
 <li><a href="#axial">Axial</a></li>
-<li><a href="#bending">Bending</a></li>
+<li><a href="#bending">Bending</a>
+<ul>
+<li><a href="#bending-moment-diagram">Bending moment diagram</a></li>
+</ul>
+</li>
 <li><a href="#torsion">Torsion</a></li>
 <li><a href="#combined-loadings">Combined Loadings</a></li>
 <li><a href="#deflection">Deflection</a>
@@ -231,8 +235,25 @@ F_x &amp; F_y &amp; F_z \\
 <li>thermal stress</li>
 </ul>
 <h2 id="bending">Bending</h2>
+<h3 id="bending-moment-diagram">Bending moment diagram</h3>
+<p>Method 1: Shear method</p>
+<ol>
+<li>Find reactions</li>
+<li>Draw shear force diagram</li>
+<li>Find area of shapes.. point load translates to a rectangle, uniform area load translates to triangle, changing area load translates to parabola. BMD indicates moment as follows: if the shear is positive and increasingly positive, the moment will be positive with increasing slope. If shear is positive but increasingly negative, the monment will be positive with decreasing slope. ETC.</li>
+</ol>
+<p>Method 2: Point method</p>
 <ul>
-<li>how to make bending moment diagram</li>
+<li>Remember: moment at the free end of a cantilever is zero because it is static</li>
+<li>What is written is not internal moment to resist torque, but rather external moment being applied to it</li>
+</ul>
+<ol>
+<li>Choose an end and graph the moment at that point</li>
+<li>Take a cut at the point just before the next reaction or point load. Determine the moment applied on that point from the previous loading. Based on the type of load, determine the shape of the moment graph</li>
+<li>Take a cut further along the beam before the next action. Determine the moment applied by adding the existing determined moment to the new moment being applied by the change in loading.</li>
+<li>Continue along the beam, repeating 2 and 3 until the entire beam is satisfied</li>
+</ol>
+<ul>
 <li>2D flexture formula</li>
 </ul>
 <h2 id="torsion">Torsion</h2>
