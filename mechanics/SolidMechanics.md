@@ -127,9 +127,10 @@ Method 1: Shear method
 Method 2: Point method
 
 - Remember: moment at the free end of a cantilever is zero because it is static
+- You are finding the moment being applied to it, not resisted by it. In this sense, use sign convention for if it is a left cut or a right cut to determine if it is positive or not.
 
 1. Choose an end and graph the moment at that point
-2. Take cuts at points, find moment about the points. Use sign convention for if it is a left cut or a right cut.
+2. Take cuts at points, find moment about the points.
 
 - 2D flexture formula
 
