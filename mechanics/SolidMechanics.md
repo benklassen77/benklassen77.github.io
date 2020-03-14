@@ -129,7 +129,7 @@ Method 2: Point method
 - Remember: moment at the free end of a cantilever is zero because it is static
 
 1. Choose an end and graph the moment at that point
-2. Take cuts at points, find moment about the points. Use sign convention for if it is a left cut or a right cut
+2. Take cuts at points, find moment about the points. Use sign convention for if it is a left cut or a right cut.
 
 - 2D flexture formula
 
