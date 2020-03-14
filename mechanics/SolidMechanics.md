@@ -100,6 +100,8 @@ $$ I_{xx} = \int y^2 dA \tag{Second Moment of inertia X Axis} $$
 
 $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
+![Cutting Sign Convention](https://ecourses.ou.edu/ebook/statics/ch08/sec081/media/d8121.gif)
+
 ## Shear
 
 - Diameter of pins given allowable stress
@@ -125,7 +127,7 @@ Method 1: Shear method
 Method 2: Point method
 
 - Remember: moment at the free end of a cantilever is zero because it is static
-- What is written is not internal moment to resist torque, but rather external moment being applied to it
+- What is written is moment resisted at point of cut according to positive sign convention
 
 1. Choose an end and graph the moment at that point
 2. Take a cut at the point just before the next reaction or point load. Determine the moment applied on that point from the previous loading. Based on the type of load, determine the shape of the moment graph
