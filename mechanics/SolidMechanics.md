@@ -127,12 +127,9 @@ Method 1: Shear method
 Method 2: Point method
 
 - Remember: moment at the free end of a cantilever is zero because it is static
-- What is written is moment resisted at point of cut according to positive sign convention
 
 1. Choose an end and graph the moment at that point
-2. Take a cut at the point just before the next reaction or point load. Determine the moment applied on that point from the previous loading. Based on the type of load, determine the shape of the moment graph
-3. Take a cut further along the beam before the next action. Determine the moment applied by adding the existing determined moment to the new moment being applied by the change in loading.
-4. Continue along the beam, repeating 2 and 3 until the entire beam is satisfied
+2. Take cuts at points, find moment about the points. Use sign convention for if it is a left cut or a right cut
 
 - 2D flexture formula
 
