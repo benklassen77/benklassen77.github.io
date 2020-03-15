@@ -5,6 +5,8 @@
   - [3D Systems of Forces](#3d-systems-of-forces)
     - [Fundamental Vectors](#fundamental-vectors)
     - [How to find 3D moments](#how-to-find-3d-moments)
+  - [Trusses](#trusses)
+    - [Method of Joints](#method-of-joints)
   - [Basic Geometric Properties](#basic-geometric-properties)
   - [Shear](#shear)
   - [Axial](#axial)
@@ -71,6 +73,29 @@ $$r_zF_x - r_xF_z\tag{Moment about y axis}$$
 $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
 **Right Hand Rule** = with the thumb curled in the direction of the specified axis, the fingers curl in the direction of positive moment along that axis.
+
+## Trusses
+
+### Method of Joints
+
+The method of joints requires knowledge of a couple important concepts.
+
+The first is, reactions at joints are opposite of that felt in the member itself. This is because a member needs to be in equilibrium ($\sum(F)=0$). In other words, if a member resists an external force, it will apply a force onto the joint in the direction that keeps the joint in equilibrium. However, then the joint applies an opposite force on the member to keep it in equilibrium.
+
+Secondly, if there is a member that can apply a force at a joint that no other member can oppose, it is considered a zero-force member. This means that no force will be applied from it.
+
+When evaluating each joint, they are typically assumed to be in tension to speed up the process. However, this is not necessary. With this assumption
+
+Procedure of analysis:
+
+1. Find all external reactions
+2. Start at a joint that has one unknown. Solve for forces along the x direction and y direction.
+3. After solving for force along member, mark with arrows on the member whether it is in compression or tension.
+4. Continue along truss until all forces are known.
+
+> In order to solve for full forces in one step, multiply force by unit vector in direction of analysis and solve for actual force.
+
+[Example](http://benjaminklassen.com/documents/examples/statics/methodofjoints.pdf)
 
 ## Basic Geometric Properties
 
