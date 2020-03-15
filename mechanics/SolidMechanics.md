@@ -7,7 +7,11 @@
     - [How to find 3D moments](#how-to-find-3d-moments)
   - [Trusses](#trusses)
     - [Method of Joints](#method-of-joints)
+    - [Method of sections](#method-of-sections)
   - [Basic Geometric Properties](#basic-geometric-properties)
+    - [Centroid](#centroid)
+    - [Moment of inertia](#moment-of-inertia)
+    - [Sign Convention](#sign-convention)
   - [Shear](#shear)
   - [Axial](#axial)
   - [Bending](#bending)
@@ -95,7 +99,20 @@ Procedure of analysis ([Example](http://benjaminklassen.com/documents/examples/s
 
 > In order to solve for full forces in one step, multiply force by unit vector in direction of analysis and solve for actual force.
 
+### Method of sections
+
+- Used to save time
+- One can only cut a maximum of 3 members at a time
+
+Procedure for analysis ([Example](http://benjaminklassen.com/documents/examples/statics/methodofsections.pdf)):
+
+1. Find all external reactions
+2. Take a cut such that it is possible to solve for an unknown, drawing forces assumed in tension
+3. Solve for unknown. Repeat cuts untin necessary information found
+
 ## Basic Geometric Properties
+
+### Centroid
 
 $$ \bar x = \frac{\sum(A\prime \bar x\prime)}{\sum(A\prime)} \tag{X axis centroid} $$
 
@@ -105,11 +122,13 @@ $$ \bar x = \frac{\int_A \tilde x dA}{\int_A dA} \tag{Centroid of Area}$$
 
 $$ \bar x = \frac{\int_V \tilde x dV}{\int_V dV} \tag{Centroid of Volume}$$
 
+### Moment of inertia
+
+**Moment of inertia** = provides resistance against changing the rotational speed of rotating body. In a sense, it is analagous of mass in rotational situations. Units in form eg. $ lb\cdot in^2 $. dM represents small quantity of mass, and r represents distance of small mass from the axis.
+
 There are two forms of moment of inertia: mass and area. These are often confused, but they are relatively simple to distinguish.
 
 If someone says "moment of inertia", they are referring to mass, or first moment of inertia. This is referred to by I in calculations.
-
-**Moment of inertia** = provides resistance against changing the rotational speed of rotating body. In a sense, it is analagous of mass in rotational situations. Units in form eg. $ lb\cdot in^2 $. dM represents small quantity of mass, and r represents distance of small mass from the axis.
 
 $$ I = \int r^2 dM \tag{Moment of inertia} $$
 
@@ -122,6 +141,8 @@ If someone says "second moment of inertia", they are referring to area. This is 
 $$ I_{xx} = \int y^2 dA \tag{Second Moment of inertia X Axis} $$
 
 $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
+
+### Sign Convention
 
 ![Cutting Sign Convention](https://ecourses.ou.edu/ebook/statics/ch08/sec081/media/d8121.gif)
 
