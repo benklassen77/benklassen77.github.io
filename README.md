@@ -1,6 +1,6 @@
 # Shalom
 
-Hi! I'm Ben, a 2B Civil Engineering student at the University of Waterloo. [![Resume](https://i.imgur.com/lUHpgw4.png?1)](http://benjaminklassen.com/documents/professional/resume.pdf) [![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Email](https://i.imgur.com/PXQRR8U.png?1)](mailto:blklasse@uwaterloo.ca)
+[![Resume](https://i.imgur.com/lUHpgw4.png?1)](http://benjaminklassen.com/documents/professional/resume.pdf) [![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Email](https://i.imgur.com/PXQRR8U.png?1)](mailto:blklasse@uwaterloo.ca)
 
 ## [Mechanics](mechanics/mechanicstitle.md)
 
