@@ -1,7 +1,6 @@
 # Solid Mechanics
 
 - [Solid Mechanics](#solid-mechanics)
-  - [Solutions Manual](#solutions-manual)
   - [3D Systems of Forces](#3d-systems-of-forces)
     - [Fundamental Vectors](#fundamental-vectors)
     - [How to find 3D moments](#how-to-find-3d-moments)
@@ -21,8 +20,7 @@
   - [Deflection](#deflection)
     - [Normal Procedure](#normal-procedure)
     - [Moment-Area Method](#moment-area-method)
-
-## [Solutions Manual](https://docdro.id/Y91joVs)
+  - [Solutions](#solutions)
 
 ## 3D Systems of Forces
 
@@ -231,3 +229,24 @@ To find maximum deflection:
 3. Find curvature of endpoint with respect to starting position (eg. A)
 4. Find slope at A by dividing curvature of length over the length
 5. Knowing that the $\theta A$ is equivalent to $\theta DA$, it is okay to set $\theta A$ equal to the area of moments between the point of maximum deflection and an endpoint in an effort to discover where the maximum deflection occurs.
+
+## Solutions
+
+- [Chapter 1](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter1.pdf)
+- [Chapter 2](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter2.pdf)
+- [Chapter 3](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter3.pdf)
+- [Chapter 4](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter4.pdf)
+- [Chapter 5](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter5.pdf)
+- [Chapter 6](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter6.pdf)
+- [Chapter 7](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter7.pdf)
+- [Chapter 8](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter8.pdf)
+- [Chapter 9](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter9.pdf)
+- [Chapter 10](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter10.pdf)
+- [Chapter 11](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter11.pdf)
+- [Chapter 12](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter12.pdf)
+- [Chapter 13](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter13.pdf)
+- [Chapter 14](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter14.pdf)
+- [Chapter 15](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter15.pdf)
+- [Chapter 16](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter16.pdf)
+- [Chapter 17](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter17.pdf)
+- [Chapter 18](http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter18.pdf)
