@@ -188,14 +188,14 @@ To find internal 2D shear, moment, and axial reactions ([Example](http://benjami
 2. Solve for reactions
 3. Take cuts at desired points and solve
 
-To design plate with a bolt ([Example](http://benjaminklassen.com/documents/examples/statics/designplate.pdf))
+To design plate with a bolt ([Example](http://benjaminklassen.com/documents/examples/statics/designplate.pdf)):
 
 - In order to design this plate with a bolt properly, one must test for bearing of plate (punching failure), tension of plate (tensile failure), shear of plate (also punching), and shear of bolt. All of this is assuming that allowable bearing, shear, and tensile stresses are given
 
 1. Check failure of the plate in tension. Use $\sigma_{allow} = N/A$ at the smallest cross-section.
 2. Check failure of the plate by bearing.
    1. Project curved area of the bolt to a rectangle.
-   2. Use $\sigma_{allow} = N/{Projected A}$ at the bolt hole
+   2. Use $\sigma_{allow} = \frac{N}{Projected A}$ at the bolt hole
 3. Check failure of plate by shear (remember bolt is in double shear)
    1. Calculate area that would experience shear if bolt pushed through
    2. Use $\tau_{allow} = V/A$ to solve
