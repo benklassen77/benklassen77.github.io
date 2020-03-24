@@ -13,6 +13,7 @@
     - [Sign Convention](#sign-convention)
   - [Shear](#shear)
   - [Axial](#axial)
+  - [2D Design (105)](#2d-design-105)
   - [Bending](#bending)
     - [Bending moment diagram](#bending-moment-diagram)
   - [Torsion](#torsion)
@@ -159,7 +160,7 @@ $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
 ![Complementary property of shear](https://i.imgur.com/asMdzWW.jpg?1)
 
-$$\tau_{xy} = \prime\tau_{xy} = \tau_{yx} \tag{Complementary Property of Shear}$$
+$$\tau_{xy} = \tau\prime_{xy} = \tau_{yx} \tag{Complementary Property of Shear}$$
 
 The **Complementary Property of Shear** means that every face of the cube element must be in equilibrium. Hence, the opposite side of the cube experiences the opposing direction of shear. $\tau_{xy}$ refers to shear originating at the x-axis and going in the direction of the y-axis.
 
@@ -179,11 +180,27 @@ How to find required diameter of pin given required average shear ([Example](htt
 - statically indeterminate member
 - thermal stress
 
+## 2D Design (105)
+
 To find internal 2D shear, moment, and axial reactions ([Example](http://benjaminklassen.com/documents/examples/statics/2dinternalloadings.pdf)):
 
 1. Draw FBD
 2. Solve for reactions
 3. Take cuts at desired points and solve
+
+To design plate with a bolt ([Example](http://benjaminklassen.com/documents/examples/statics/designplate.pdf))
+
+- In order to design this plate with a bolt properly, one must test for bearing of plate (punching failure), tension of plate (tensile failure), shear of plate (also punching), and shear of bolt. All of this is assuming that allowable bearing, shear, and tensile stresses are given
+
+1. Check failure of the plate in tension. Use $\sigma_{allow} = N/A$ at the smallest cross-section.
+2. Check failure of the plate by bearing.
+   1. Project curved area of the bolt to a rectangle.
+   2. Use $\sigma_{allow} = N/{Projected A}$ at the bolt hole
+3. Check failure of plate by shear (remember bolt is in double shear)
+   1. Calculate area that would experience shear if bolt pushed through
+   2. Use $\tau_{allow} = V/A$ to solve
+4. Check failure of bolt by shear. Remember that in equilibrium, the shear force felt by the bolt is equal to the force applied to the bar
+   1. Use $\tau_{allow} = V/A$ to solve
 
 ## Bending
 
