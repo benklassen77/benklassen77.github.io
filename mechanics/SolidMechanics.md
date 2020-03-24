@@ -164,7 +164,7 @@ $$\tau_{xy} = \tau\prime_{xy} = \tau_{yx} \tag{Complementary Property of Shear}$
 
 The **Complementary Property of Shear** means that every face of the cube element must be in equilibrium. Hence, the opposite side of the cube experiences the opposing direction of shear. $\tau_{xy}$ refers to shear originating at the x-axis and going in the direction of the y-axis.
 
-How to find required diameter of pin given required average shear ([Example](http://benjaminklassen.com/documents/examples/statics/findingrequiredpindiameter.pdf))
+How to find required diameter of pin given required average shear ([Example](http://benjaminklassen.com/documents/examples/statics/findingrequiredpindiameter.pdf)):
 
 1. Find all external forces being applied at the pins
 2. Find resultant forces being applied
@@ -177,8 +177,19 @@ How to find required diameter of pin given required average shear ([Example](htt
 
 ## Axial
 
-- statically indeterminate member
-- thermal stress
+$$ \delta^{F_x} = \sum{\frac{{F_x}L}{AE}} \tag{Force Deformation Formula}$$
+
+$$ \delta^{T} = \alpha\Delta{T}L \tag{Thermal Deformation Formula}$$
+
+- $\alpha$ is the linear coefficient of thermal expansion, and is unique to the material
+
+Procedure for indeterminate analysis ([Example](http://benjaminklassen.com/documents/examples/statics/indeterminatedeformation.pdf)):
+
+1. Allow for uncontrolled thermal expansion
+2. Statics. For these scenerios, DO NOT ASSUME TENSION
+3. Combatibility equations. If there is a gap, include it here
+4. Constitutive law
+5. Solve equations
 
 ## 2D Design (105)
 
