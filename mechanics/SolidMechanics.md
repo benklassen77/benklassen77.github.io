@@ -166,14 +166,25 @@ $$\tau_{xy} = \tau\prime_{xy} = \tau_{yx} \tag{Complementary Property of Shear}$
 
 The **Complementary Property of Shear** means that every face of the cube element must be in equilibrium. Hence, the opposite side of the cube experiences the opposing direction of shear. $\tau_{xy}$ refers to shear originating at the x-axis and going in the direction of the y-axis.
 
-How to find required diameter of pin given required average shear ([Example](http://benjaminklassen.com/documents/examples/statics/findingrequiredpindiameter.pdf)):
+How to find required diameter of pin given required average maximum shear stress ([Example](http://benjaminklassen.com/documents/examples/statics/findingrequiredpindiameter.pdf)):
 
 1. Find all external forces being applied at the pins
 2. Find resultant forces being applied
 3. Check if pin is in double shear. If so, divide resultant force by 2
 4. Use formula $\tau_{avg} = V/A$ and isolate for pin diameter.
 
-- shear formula
+While this can be useful, how does one find the average maximum shear stress? This is found along the neutral axis using the **shear formula**.
+
+$$\tau = \frac{VQ}{It} \tag{Shear Formula}$$
+
+- Q is geometric property taken about the neutral axis. It represents the sum of the areas above a specified point multiplied by the distance between their centroids and the neutral axis.
+  - Since Q contains a factor of $\bar{y}$, it is parabolic, as it maximizes in the middle and minimizes at extrema.
+- I is MOI of entire cross-section about neutral axis
+- t is thickness just above point
+- V = cross-sectional shear
+
+Note: there are a few assumptions that make this formula's use limited. The formula assumes that shear stress is uniform a cross section's thickness. This is not the case. $\tau$ increases parabolically towards its extremities. This is gets worse with b/h ratios greater than 0.5. Fortunately, for webs of wide-flange sections, this is very accurate. However, it is inaccurate for flanges of wide-flange sections.
+
 - shear centre
 - shear flow
 
