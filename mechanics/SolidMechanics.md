@@ -167,7 +167,7 @@ $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 - statically indeterminate member
 - thermal stress
 
-To find internal 2D shear, moment, and axial reactions ([Example](http://benjaminklassen.com/documents/examples/statics/2dinternalloadings.pdf):
+To find internal 2D shear, moment, and axial reactions ([Example](http://benjaminklassen.com/documents/examples/statics/2dinternalloadings.pdf)):
 
 1. Draw FBD
 2. Solve for reactions
