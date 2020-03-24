@@ -17,6 +17,7 @@
   - [2D Design (105)](#2d-design-105)
   - [Bending](#bending)
     - [Bending moment diagram](#bending-moment-diagram)
+    - [Simple Flexture Formula](#simple-flexture-formula)
   - [Torsion](#torsion)
   - [Combined Loadings](#combined-loadings)
   - [Deflection](#deflection)
@@ -186,7 +187,7 @@ $$ \delta^{T} = \alpha\Delta{T}L \tag{Thermal Deformation Formula}$$
 
 - $\alpha$ is the linear coefficient of thermal expansion, and is unique to the material
 
-Procedure for indeterminate analysis ([Example](http://benjaminklassen.com/documents/examples/statics/indeterminatedeformation.pdf)):
+Procedure for indeterminate analysis:
 
 1. Allow for uncontrolled thermal expansion
 2. Statics. For these scenerios, DO NOT ASSUME TENSION
@@ -234,7 +235,17 @@ Method 2: Point method
 1. Choose an end and graph the moment at that point
 2. Take cuts at points, find moment about the points.
 
-- 2D flexture formula
+### Simple Flexture Formula
+
+$$ \sigma = -\frac{My}{I} \tag(Simple Flexture Formula)$$
+
+- M = internal moment at specified point
+- y = distance from centroidal axis
+- I = MOI of cross-sectional area about the neutral axis
+
+The flexture formula simply tells the normal stresses due to moment at any point y from the neutral axis. It is known that normal stress due to bending changes linearly along the cross-section, and it is treated as such.
+
+The negative sign is used because normal sign convention suggests the top in compression and the bottom in tension. Thus, with a negative y on the bottom, the negatives would cancel out to yield a positive normal force. The maximimum force, $\sigma_{max}$, is found at the point furthest from the centroidal axis
 
 ## Torsion
 
