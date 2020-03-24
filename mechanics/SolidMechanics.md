@@ -78,6 +78,17 @@ $$r_xF_y - r_yF_x\tag{Moment about z axis}$$
 
 ## Trusses
 
+There are a couple big assumptions made in method of trusses:
+
+1. All joints are pins (hinges)
+2. All members are weightless
+
+- If weight is accounted for, must put half of the member's weight as a vertical force on each end of the member
+
+1. All loads are applied at joints only
+
+- Accurate assumption for roof and bridge trusses
+
 ### Method of Joints
 
 The method of joints requires knowledge of a couple important concepts.
@@ -169,7 +180,7 @@ Method 1: Shear method
 Method 2: Point method
 
 - Remember: moment at the free end of a cantilever is zero because it is static
-- You are finding the moment being applied to it, not resisted by it. In this sense, use sign convention for if it is a left cut or a right cut to determine if it is positive or not.
+- You are finding the moment being applied to it, not resisted by it. In this sense, use sign convention for if it is a left cut or a right cut to determine if the resisting moment is positive or not.
 
 1. Choose an end and graph the moment at that point
 2. Take cuts at points, find moment about the points.
