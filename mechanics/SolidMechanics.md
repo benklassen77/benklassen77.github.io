@@ -13,6 +13,7 @@
     - [Sign Convention](#sign-convention)
   - [Shear](#shear)
   - [Axial](#axial)
+    - [Statically indeterminate analysis](#statically-indeterminate-analysis)
   - [2D Design (105)](#2d-design-105)
   - [Bending](#bending)
     - [Bending moment diagram](#bending-moment-diagram)
@@ -176,6 +177,8 @@ How to find required diameter of pin given required average shear ([Example](htt
 - shear flow
 
 ## Axial
+
+### Statically indeterminate analysis
 
 $$ \delta^{F_x} = \sum{\frac{{F_x}L}{AE}} \tag{Force Deformation Formula}$$
 
