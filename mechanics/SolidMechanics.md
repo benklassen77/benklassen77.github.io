@@ -157,7 +157,19 @@ $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
 ## Shear
 
-- Diameter of pins given allowable stress
+![Complementary property of shear](https://i.imgur.com/asMdzWW.jpg?1)
+
+$$\tau_{xy} = \prime\tau_{xy} = \tau_{yx} \tag{Complementary Property of Shear}$$
+
+The **Complementary Property of Shear** means that every face of the cube element must be in equilibrium. Hence, the opposite side of the cube experiences the opposing direction of shear. $\tau_{xy}$ refers to shear originating at the x-axis and going in the direction of the y-axis.
+
+How to find required diameter of pin given required average shear ([Example](http://benjaminklassen.com/documents/examples/statics/findingrequiredpindiameter.pdf))
+
+1. Find all external forces being applied at the pins
+2. Find resultant forces being applied
+3. Check if pin is in double shear. If so, divide resultant force by 2
+4. Use formula $\tau_{avg} = V/A$ and isolate for pin diameter.
+
 - shear formula
 - shear centre
 - shear flow
