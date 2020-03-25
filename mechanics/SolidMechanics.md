@@ -192,7 +192,7 @@ Note: there are a few assumptions that make this formula's use limited. The form
 
 ### Statically indeterminate analysis
 
-$$ \delta^{F_x} = \sum{\frac{{F_x}L}{AE}} \tag{Force Deformation Formula}$$
+$$ \delta^{F_x} = \sum{\frac{F_{x}L}{AE}} \tag{Force Deformation Formula}$$
 
 $$ \delta^{T} = \alpha\Delta{T}L \tag{Thermal Deformation Formula}$$
 
