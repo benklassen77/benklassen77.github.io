@@ -248,7 +248,7 @@ Method 2: Point method
 
 ### Simple Flexture Formula
 
-$$ \sigma = -\frac{My}{I} \tag(Simple Flexture Formula)$$
+$$ \sigma = -\frac{My}{I} \tag{Simple Flexture Formula}$$
 
 - M = internal moment at specified point
 - y = distance from centroidal axis
