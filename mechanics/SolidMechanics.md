@@ -189,13 +189,13 @@ Note: there are a few assumptions that make this formula's use limited. The form
 
 ### Shear Flow
 
-**Shear flow** is the force per unit length that nails or glue are designed to resist. Shear flow plots are most valid for thin sections, as the shear can then be assumed to be uniform across the cross-section.
+**Shear flow** is the force per unit length that nails or glue are designed to resist. Shear flow plots are most valid for thin sections, as the shear can then be assumed to be uniform across the cross-sectional thickness.
 
 $$ q = \frac{VQ}{I} \tag{Shear Flow}$$
 
 - V = shear force
 - I = MOI about entire cross-section
-- Q = $\sum{y\bar\cdot A}$
+- Q = $\sum{\bar{y}\cdot A}$
 
 In order to find the force applied along a part of a cross section, use the below formula
 
@@ -204,9 +204,9 @@ $$ F = \int_0^s{q ds}$$
 There are few important properties of shear flow:
 
 - Shear flow is zero at endpoints. This is simply because in the calculation, there is no area.
-- Shear flow increases/decreases linearly across a horizontal. This is because the $y\bar$ is constant across a horizontal, but the area changes linearly across.
+- Shear flow increases/decreases linearly across a horizontal. This is because the $\bar{y}$ is constant across a horizontal, but the area changes linearly across.
 - Shear flow is equal on both sides where direction shifts. In other words $q_1 = q_2$ where a horizontal transitions to a vertical component of a member.
-- Shear flow is parabolic on verticals. This is because as $y\bar$ decreases, the area increases, leading to a quadratic.
+- Shear flow is parabolic on verticals. This is because as $\bar{y}$ decreases, the area increases, leading to a quadratic.
 - Shear flow maximizes at the neutral axis
 - Shear flow cannot be calculated across the N.A. The cut must end at the N.A.
 - Shear flow enters the cross section above the N.A. and exits it below the N.A.
