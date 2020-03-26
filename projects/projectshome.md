@@ -2,6 +2,6 @@
 
 ## [Home Building](homebuilding.md)
 
-## [Music Appreciation](musicappreciation.md)
+## [Music](music/musichome.md.md)
 
-## [Food Ideas](cooking.md)
+## [Food Ideas](cooking/cookinghome.md)

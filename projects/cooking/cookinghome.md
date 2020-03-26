@@ -2,4 +2,4 @@
 
 ## [Sourdough Bread]
 
-## [Chicken Parmesan](recipes/chickenparmesan.md)
+## [Chicken Parmesan](chickenparmesan.md)
