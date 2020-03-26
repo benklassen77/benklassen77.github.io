@@ -17,7 +17,8 @@
   - [2D Design (105)](#2d-design-105)
   - [Bending](#bending)
     - [Bending moment diagram](#bending-moment-diagram)
-    - [Simple Flexture Formula](#simple-flexture-formula)
+    - [2D Axial Due to Bending](#2d-axial-due-to-bending)
+    - [3D Axial Due to Bending](#3d-axial-due-to-bending)
   - [Torsion](#torsion)
   - [Combined Loadings](#combined-loadings)
   - [Deflection](#deflection)
@@ -246,9 +247,9 @@ Method 2: Point method
 1. Choose an end and graph the moment at that point
 2. Take cuts at points, find moment about the points.
 
-### Simple Flexture Formula
+### 2D Axial Due to Bending
 
-$$ \sigma = -\frac{My}{I} \tag{Simple Flexture Formula}$$
+$$ \sigma_{x} = -\frac{My}{I} \tag{Simple Flexture Formula}$$
 
 - M = internal moment at specified point
 - y = distance from centroidal axis
@@ -257,6 +258,15 @@ $$ \sigma = -\frac{My}{I} \tag{Simple Flexture Formula}$$
 The flexture formula simply tells the normal stresses due to moment at any point y from the neutral axis. It is known that normal stress due to bending changes linearly along the cross-section, and it is treated as such.
 
 The negative sign is used because normal sign convention suggests the top in compression and the bottom in tension. Thus, with a negative y on the bottom, the negatives would cancel out to yield a positive normal force. The maximimum force, $\sigma_{max}$, is found at the point furthest from the centroidal axis
+
+### 3D Axial Due to Bending
+
+$$ \sigma_{x} = -\frac{M_{z}\cdot y}{I_{z}}+\frac {M_{y}\cdot z}{I_{y}}\tag{Complete Flexture Formula}$$
+
+![Sign Convention Bending](https://i.imgur.com/h9hm2gr.jpg?3)
+
+- The complete flexture formula assumes a positive sign convention when the top left corner is in tension, according to the above axis.
+- The **Right Hand Rule** can help decipher tension or compression. Point your thumb in the direction of the axis above. Your fingers will curl in the direction that the moment curls. Where the top of the moment arrow exists, compression exists.
 
 ## Torsion
 
