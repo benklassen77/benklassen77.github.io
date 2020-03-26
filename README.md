@@ -43,7 +43,4 @@
 - Markdown
 - VBA
 
-## [Music Appreciation](music/musicappreciation.md)
-
-- Ancient World
-- Middle Ages
+## [Personal Projects](projects/projectshome.md)
