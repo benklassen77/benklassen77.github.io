@@ -1,4 +1,4 @@
-# [Solid Mechanics](http://benjaminklassen.com)
+# Solid Mechanics
 
 - [Solid Mechanics](#solid-mechanics)
   - [3D Systems of Forces](#3d-systems-of-forces)
@@ -10,6 +10,7 @@
   - [Basic Geometric Properties](#basic-geometric-properties)
     - [Centroid](#centroid)
     - [Moment of inertia](#moment-of-inertia)
+    - [Strain](#strain)
     - [Sign Convention](#sign-convention)
   - [Shear](#shear)
     - [Complementary property of shear](#complementary-property-of-shear)
@@ -160,6 +161,30 @@ $$ I_{xx} = \int y^2 dA \tag{Second Moment of inertia X Axis} $$
 
 $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
+Circular sections have a polar moment of inertia, derived from the below
+
+$$J = int_A{\rho^2dA}\tag{Polar Moment of Inertia}$$
+
+My integrating this with polar coordinates, and knowing that $rho$ is the radius, the below is true
+
+$$J = \frac{\pi c^4}{2}\tag{Polar MOI Solid Section}$$
+
+$$J = \frac{\pi}{2}\cdot (C_o^4-C_i^4)\tag{Polar MOI Hollow Section}$$
+
+### Strain
+
+$$\varepsilon = \frac{\Delta L}{L_1}\tag{Longitudinal Strain}$$
+
+$$\gamma = \theta\cdot\rho\tag{Shear Strain}$$
+
+- maximum strain when $\rho$ is equal to c, or the point at the surface of rod
+
+$$ E = \frac{\sigma}{\varepsilon}\tag{Young's Modulus}$$
+
+$$ G = \frac{\tau}{\gamma}\tag{Shear Modulus}$$
+
+- both of the moduli are a ratio between stress and strain
+
 ### Sign Convention
 
 ![Cutting Sign Convention](https://ecourses.ou.edu/ebook/statics/ch08/sec081/media/d8121.gif)
@@ -214,11 +239,19 @@ There are few important properties of shear flow:
 - Shear flow enters the cross section above the N.A. and exits it below the N.A.
 - Remember: $\sum{F}=0$ and $\sum{F_y}=V$
 
+How to design according to shear flow:
+
+$$ q = \frac{F_{bolt}}{nail spacing (s)}\tag{Design for nails}$$
+
+$$ q = \tau_{glue}\cdot{b_{glue}(thickness)}\tag{Design for glue}$$
+
 ### Shear Center
 
 The shear center, $e$, is the location along the neutral axis where $\sum{M} = 0$. It can be solved either by taking a moment about the point, or by taking a moment another point. If the latter is used, the force applied at e is V.
 
 ## Axial
+
+$$ \sigma = E\cdot\varepsilon\tag{Axial stress}$$
 
 ### Statically indeterminate analysis
 
@@ -290,6 +323,8 @@ Knowing the above variables, and since we know that the angle between y and z is
 $$\tan\alpha = \frac{I_z}{I_y}\tan\theta$$
 
 ## Torsion
+
+$$ \tau = G\cdot\gamnma\tag{Shear Stress}$$
 
 - torsion formula
 - angle of twist
