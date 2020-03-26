@@ -42,5 +42,11 @@
 - Git
 - Markdown
 - VBA
+- Python
 
 ## [Personal Projects](projects/projectshome.md)
+
+- Recipes
+- Gardening
+- Home-building
+- Music-appreciation
