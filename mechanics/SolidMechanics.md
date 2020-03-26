@@ -21,6 +21,7 @@
     - [3D Axial Due to Bending](#3d-axial-due-to-bending)
   - [Torsion](#torsion)
   - [Combined Loadings](#combined-loadings)
+    - [Orientation of Neutral Axis](#orientation-of-neutral-axis)
   - [Deflection](#deflection)
     - [Normal Procedure](#normal-procedure)
     - [Moment-Area Method](#moment-area-method)
@@ -276,6 +277,20 @@ $$ \sigma_{x} = -\frac{M_{z}\cdot y}{I_{z}}+\frac {M_{y}\cdot z}{I_{y}}\tag{Comp
 - thin-walled sections
 
 ## Combined Loadings
+
+### Orientation of Neutral Axis
+
+In order to find the orientation of the neutral axis, you must first be able to plot the $\sigma_{x}$ distribution along the cross-section. It is this force, which is inherintly caused by multi-axial moments, that causes the change in N.A. If this is understood, here is the derivation of the neutral axis change.
+
+Important variables: $\theta$ is the angle measured from the [positive z-axis](#3d-axial-due-to-bending) clockwise to the $M_{R}$, $M_{z} = M_{R}cos\theta$, $M_{y} = M_{R}sin\theta$, $M_{R} = \sqrt{M_z^2+M_y^2}$, and $\alpha$ is the angle of the N.A.
+
+We know that at the neutral axis, axial stress due to bending is equal to zero. Thus, by setting the Complete Flexture Formula equal to zero, you will isolate for the below
+
+$$ \frac{y}{z} = \frac{M_y\cdot I_z}{M_z\cdot I_y}$$
+
+Knowing the above variables, and since we know that the angle between y and z is $\alpha$, we can say
+
+$$\tan\alpha = \frac{I_z}{I_y}\tan\theta$$
 
 - unsymmetrical bending
 - inelastic bending
