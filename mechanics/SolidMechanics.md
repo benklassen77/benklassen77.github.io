@@ -1,4 +1,4 @@
-# Solid Mechanics
+# [Solid Mechanics](http://benjaminklassen.com)
 
 - [Solid Mechanics](#solid-mechanics)
   - [3D Systems of Forces](#3d-systems-of-forces)
@@ -15,6 +15,7 @@
     - [Complementary property of shear](#complementary-property-of-shear)
     - [The Shear Formula](#the-shear-formula)
     - [Shear Flow](#shear-flow)
+    - [Shear Center](#shear-center)
   - [Axial](#axial)
     - [Statically indeterminate analysis](#statically-indeterminate-analysis)
   - [Bending](#bending)
@@ -206,11 +207,16 @@ There are few important properties of shear flow:
 - Shear flow is zero at endpoints. This is simply because in the calculation, there is no area.
 - Shear flow increases/decreases linearly across a horizontal. This is because the $\bar{y}$ is constant across a horizontal, but the area changes linearly across.
 - Shear flow is equal on both sides where direction shifts. In other words $q_1 = q_2$ where a horizontal transitions to a vertical component of a member.
+  - If a junction is present in an I bar or something similar where there is shear flowing from 2 sides, the vertical component adds them both. See [example](http://link.com)
 - Shear flow is parabolic on verticals. This is because as $\bar{y}$ decreases, the area increases, leading to a quadratic.
 - Shear flow maximizes at the neutral axis
 - Shear flow cannot be calculated across the N.A. The cut must end at the N.A.
 - Shear flow enters the cross section above the N.A. and exits it below the N.A.
-- Remember: $\sum{F}=0$.
+- Remember: $\sum{F}=0$ and $\sum{F_y}=V$
+
+### Shear Center
+
+The shear center, $e$, is the location along the neutral axis where $\sum{M} = 0$. It can be solved either by taking a moment about the point, or by taking a moment another point. If the latter is used, the force applied at e is V.
 
 ## Axial
 
@@ -243,7 +249,7 @@ Method 1: Shear method
 Method 2: Point method
 
 - Remember: moment at the free end of a cantilever is zero because it is static
-- You are finding the moment being applied to it, not resisted by it. In this sense, use sign convention for if it is a left cut or a right cut to determine if the resisting moment is positive or not.
+- You are finding the moment being applied to it, not resisted by it. In this sense, use [sign convention](#sign-convention) for if it is a left cut or a right cut to determine if the resisting moment is positive or not.
 
 1. Choose an end and graph the moment at that point
 2. Take cuts at points, find moment about the points.
