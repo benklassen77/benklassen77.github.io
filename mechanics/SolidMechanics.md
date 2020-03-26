@@ -12,9 +12,11 @@
     - [Moment of inertia](#moment-of-inertia)
     - [Sign Convention](#sign-convention)
   - [Shear](#shear)
+    - [Complementary property of shear](#complementary-property-of-shear)
+    - [The Shear Formula](#the-shear-formula)
+    - [Shear Flow](#shear-flow)
   - [Axial](#axial)
     - [Statically indeterminate analysis](#statically-indeterminate-analysis)
-  - [2D Design (105)](#2d-design-105)
   - [Bending](#bending)
     - [Bending moment diagram](#bending-moment-diagram)
     - [2D Axial Due to Bending](#2d-axial-due-to-bending)
@@ -25,6 +27,7 @@
   - [Deflection](#deflection)
     - [Normal Procedure](#normal-procedure)
     - [Moment-Area Method](#moment-area-method)
+  - [2D Design Examples](#2d-design-examples)
   - [Solutions](#solutions)
 
 ## 3D Systems of Forces
@@ -162,20 +165,17 @@ $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
 ## Shear
 
+### Complementary property of shear
+
 ![Complementary property of shear](https://i.imgur.com/asMdzWW.jpg?1)
 
 $$\tau_{xy} = \tau\prime_{xy} = \tau_{yx} \tag{Complementary Property of Shear}$$
 
 The **Complementary Property of Shear** means that every face of the cube element must be in equilibrium. Hence, the opposite side of the cube experiences the opposing direction of shear. $\tau_{xy}$ refers to shear originating at the x-axis and going in the direction of the y-axis.
 
-How to find required diameter of pin given required average maximum shear stress ([Example](http://benjaminklassen.com/documents/examples/statics/findingrequiredpindiameter.pdf)):
-
-1. Find all external forces being applied at the pins
-2. Find resultant forces being applied
-3. Check if pin is in double shear. If so, divide resultant force by 2
-4. Use formula $\tau_{avg} = V/A$ and isolate for pin diameter.
-
 While this can be useful, how does one find the average maximum shear stress? This is found along the neutral axis using the **shear formula**.
+
+### The Shear Formula
 
 $$\tau = \frac{VQ}{It} \tag{Shear Formula}$$
 
@@ -187,8 +187,30 @@ $$\tau = \frac{VQ}{It} \tag{Shear Formula}$$
 
 Note: there are a few assumptions that make this formula's use limited. The formula assumes that shear stress is uniform a cross section's thickness. This is not the case. $\tau$ increases parabolically towards its extremities. This is gets worse with b/h ratios greater than 0.5. Fortunately, for webs of wide-flange sections, this is very accurate. However, it is inaccurate for flanges of wide-flange sections.
 
-- shear centre
-- shear flow
+### Shear Flow
+
+**Shear flow** is the force per unit length that nails or glue are designed to resist. Shear flow plots are most valid for thin sections, as the shear can then be assumed to be uniform across the cross-section.
+
+$$ q = \frac{VQ}{I} \tag{Shear Flow}$$
+
+- V = shear force
+- I = MOI about entire cross-section
+- Q = $\sum{y\bar\cdot A}$
+
+In order to find the force applied along a part of a cross section, use the below formula
+
+$$ F = \int_0^s{q ds}$$
+
+There are few important properties of shear flow:
+
+- Shear flow is zero at endpoints. This is simply because in the calculation, there is no area.
+- Shear flow increases/decreases linearly across a horizontal. This is because the $y\bar$ is constant across a horizontal, but the area changes linearly across.
+- Shear flow is equal on both sides where direction shifts. In other words $q_1 = q_2$ where a horizontal transitions to a vertical component of a member.
+- Shear flow is parabolic on verticals. This is because as $y\bar$ decreases, the area increases, leading to a quadratic.
+- Shear flow maximizes at the neutral axis
+- Shear flow cannot be calculated across the N.A. The cut must end at the N.A.
+- Shear flow enters the cross section above the N.A. and exits it below the N.A.
+- Remember: $\sum{F}=0$.
 
 ## Axial
 
@@ -207,28 +229,6 @@ Procedure for indeterminate analysis:
 3. Combatibility equations. If there is a gap, include it here
 4. Constitutive law
 5. Solve equations
-
-## 2D Design (105)
-
-To find internal 2D shear, moment, and axial reactions ([Example](http://benjaminklassen.com/documents/examples/statics/2dinternalloadings.pdf)):
-
-1. Draw FBD
-2. Solve for reactions
-3. Take cuts at desired points and solve
-
-To design plate with a bolt ([Example](http://benjaminklassen.com/documents/examples/statics/designplate.pdf)):
-
-- In order to design this plate with a bolt properly, one must test for bearing of plate (punching failure), tension of plate (tensile failure), shear of plate (also punching), and shear of bolt. All of this is assuming that allowable bearing, shear, and tensile stresses are given
-
-1. Check failure of the plate in tension. Use $\sigma_{allow} = N/A$ at the smallest cross-section.
-2. Check failure of the plate by bearing.
-   1. Project curved area of the bolt to a rectangle.
-   2. Use $\sigma_{allow} = \frac{N}{Projected A}$ at the bolt hole
-3. Check failure of plate by shear (remember bolt is in double shear)
-   1. Calculate area that would experience shear if bolt pushed through
-   2. Use $\tau_{allow} = V/A$ to solve
-4. Check failure of bolt by shear. Remember that in equilibrium, the shear force felt by the bolt is equal to the force applied to the bar
-   1. Use $\tau_{allow} = V/A$ to solve
 
 ## Bending
 
@@ -271,7 +271,7 @@ $$ \sigma_{x} = -\frac{M_{z}\cdot y}{I_{z}}+\frac {M_{y}\cdot z}{I_{y}}\tag{Comp
 
 ### Orientation of Neutral Axis
 
-In order to find the orientation of the neutral axis, you must first be able to plot the $\sigma_{x}$ distribution along the cross-section. It is this force, which is inherintly caused by multi-axial moments, that causes the change in N.A. If this is understood, here is the derivation of the neutral axis change.
+In order to find the orientation of the neutral axis, you must first be able to plot the $\sigma_{x}$ distribution along the cross-section. It is this force, which is inherintly caused by multi-axial moments, that causes the change in N.A. because the N.A. axis exists along the plane between where the $\sigma_{x}$ is equal to zero. Hence, a sketch can really help when figuring out the orientation of the axis. If this is understood, here is the derivation of the neutral axis change.
 
 Important variables: $\theta$ is the angle measured from the [positive z-axis](#3d-axial-due-to-bending) clockwise to the $M_{R}$, $M_{z} = M_{R}\cos\theta$, $M_{y} = M_{R}\sin\theta$, $M_{R} = \sqrt{M_z^2+M_y^2}$, and $\alpha$ is the angle of the N.A.
 
@@ -336,6 +336,35 @@ To find maximum deflection:
 3. Find curvature of endpoint with respect to starting position (eg. A)
 4. Find slope at A by dividing curvature of length over the length
 5. Knowing that the $\theta A$ is equivalent to $\theta DA$, it is okay to set $\theta A$ equal to the area of moments between the point of maximum deflection and an endpoint in an effort to discover where the maximum deflection occurs.
+
+## 2D Design Examples
+
+To find internal 2D shear, moment, and axial reactions ([Example](http://benjaminklassen.com/documents/examples/statics/2dinternalloadings.pdf)):
+
+1. Draw FBD
+2. Solve for reactions
+3. Take cuts at desired points and solve
+
+To design plate with a bolt ([Example](http://benjaminklassen.com/documents/examples/statics/designplate.pdf)):
+
+- In order to design this plate with a bolt properly, one must test for bearing of plate (punching failure), tension of plate (tensile failure), shear of plate (also punching), and shear of bolt. All of this is assuming that allowable bearing, shear, and tensile stresses are given
+
+1. Check failure of the plate in tension. Use $\sigma_{allow} = N/A$ at the smallest cross-section.
+2. Check failure of the plate by bearing.
+   1. Project curved area of the bolt to a rectangle.
+   2. Use $\sigma_{allow} = \frac{N}{Projected A}$ at the bolt hole
+3. Check failure of plate by shear (remember bolt is in double shear)
+   1. Calculate area that would experience shear if bolt pushed through
+   2. Use $\tau_{allow} = V/A$ to solve
+4. Check failure of bolt by shear. Remember that in equilibrium, the shear force felt by the bolt is equal to the force applied to the bar
+   1. Use $\tau_{allow} = V/A$ to solve
+
+How to find required diameter of pin given required average maximum shear stress ([Example](http://benjaminklassen.com/documents/examples/statics/findingrequiredpindiameter.pdf)):
+
+1. Find all external forces being applied at the pins
+2. Find resultant forces being applied
+3. Check if pin is in double shear. If so, divide resultant force by 2
+4. Use formula $\tau_{avg} = V/A$ and isolate for pin diameter.
 
 ## Solutions
 
