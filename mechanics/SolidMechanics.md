@@ -354,6 +354,26 @@ Procedure to solve statically indeterminate problem ([Example](http://benjaminkl
 
 ### Thin-walled section
 
+The method of thin-walled sections is special. In its case, $\tau$ is the average shear stress at the mid-thickness of the wall. Since larger thickness reduces the accuracy of average shear, only thin-walls are allowed. There are 2 requirements for thin-wall analysis:
+
+1. Non-circular section
+2. Closed section
+
+Below are some specialized formulas:
+
+$$\tau = \frac{T}{2\cdot t\cdot Am}\tag{Shear Stress}$$
+
+$$J = \frac{4\cdot Am^2}{\oint_0^s{\frac{1}{1}ds}}\tag{Polar MOI}$$
+
+$$\phi = \sum{\frac{T\cdot L}{4\cdot Am^2\cdot G}\oint_0^s{\frac{1}{t}ds}}\tag{Angle of Twist}$$
+
+$$q = \frac{T}{2Am}\tag{Shear Flow}$$
+
+![Am](https://i.imgur.com/FkmXnVG.jpg?1)
+
+- Am is simply the area of the midsection of the cross section, or halfway across the thickness
+- The integral with the o is the sum of lengths along the outline of the Am divided by their respective thicknesses
+
 ## Combined Loadings
 
 - unsymmetrical bending
