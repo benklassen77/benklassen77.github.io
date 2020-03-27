@@ -326,9 +326,16 @@ $$\tan\alpha = \frac{I_z}{I_y}\tan\theta$$
 
 $$ \tau = G\cdot\gamma\tag{Shear Stress}$$
 
-- torsion formula
-- angle of twist
-- statically indeterminate torque-loaded members
+$$\tau = \frac{T\rho}{J}\tag{Shear Stress}$$
+
+- very similar to flexture formula
+
+$$ \phi_{\frac{C}{A}} = \frac{1}{G\cdot J}[\sum{TL}]\tag{Angle of Twist}$$
+
+$$\theta = \frac{T}{GJ}\tag{Angle of Twist per length}$$
+
+Procedure to solve statically indeterminate problem [Example](http://benjaminklassen.com/documents/examples/statics/torsionindeterminate.pdf):
+
 - thin-walled sections
 
 ## Combined Loadings
