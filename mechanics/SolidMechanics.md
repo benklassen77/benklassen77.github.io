@@ -25,6 +25,9 @@
     - [3D Axial Due to Bending](#3d-axial-due-to-bending)
     - [Orientation of Neutral Axis](#orientation-of-neutral-axis)
   - [Torsion](#torsion)
+    - [Important formulas](#important-formulas)
+    - [Statically indeterminate](#statically-indeterminate)
+    - [Thin-walled section](#thin-walled-section)
   - [Combined Loadings](#combined-loadings)
   - [Deflection](#deflection)
     - [Normal Procedure](#normal-procedure)
@@ -324,19 +327,32 @@ $$\tan\alpha = \frac{I_z}{I_y}\tan\theta$$
 
 ## Torsion
 
-$$ \tau = G\cdot\gamma\tag{Shear Stress}$$
+### Important formulas
 
-$$\tau = \frac{T\rho}{J}\tag{Shear Stress}$$
+$$ \tau_{T} = G\cdot\gamma\tag{Shear Stress}$$
+
+$$\tau_{T} = \frac{T\rho}{J}\tag{Shear Stress}$$
 
 - very similar to flexture formula
 
-$$ \phi_{\frac{C}{A}} = \frac{1}{G\cdot J}[\sum{TL}]\tag{Angle of Twist}$$
+$$ \phi_{\frac{C}{A}} = \frac{1}{G\cdot J}\sum{TL}\tag{Angle of Twist}$$
 
 $$\theta = \frac{T}{GJ}\tag{Angle of Twist per length}$$
 
-Procedure to solve statically indeterminate problem [Example](http://benjaminklassen.com/documents/examples/statics/torsionindeterminate.pdf):
+### Statically indeterminate
 
-- thin-walled sections
+Procedure to solve statically indeterminate problem ([Example](http://benjaminklassen.com/documents/examples/statics/torsionindeterminate.pdf)):
+
+1. Create a combatibility equation
+2. Set up the calculation
+3. Take cuts to find torque
+4. Solve for polar moment of inertia
+5. Solve equation for unknowns
+6. Sketch T vs x graph
+7. Solve for maximum shear stress
+8. Draw stress circle to reveal findings
+
+### Thin-walled section
 
 ## Combined Loadings
 
