@@ -163,9 +163,9 @@ $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
 Circular sections have a polar moment of inertia, derived from the below
 
-$$J = int_A{\rho^2dA}\tag{Polar Moment of Inertia}$$
+$$J = \int_A{\rho^2dA}\tag{Polar Moment of Inertia}$$
 
-My integrating this with polar coordinates, and knowing that $rho$ is the radius, the below is true
+My integrating this with polar coordinates, and knowing that $\rho$ is the radius, the below is true
 
 $$J = \frac{\pi c^4}{2}\tag{Polar MOI Solid Section}$$
 
@@ -324,7 +324,7 @@ $$\tan\alpha = \frac{I_z}{I_y}\tan\theta$$
 
 ## Torsion
 
-$$ \tau = G\cdot\gamnma\tag{Shear Stress}$$
+$$ \tau = G\cdot\gamma\tag{Shear Stress}$$
 
 - torsion formula
 - angle of twist
