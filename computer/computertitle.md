@@ -9,3 +9,5 @@
 ## [VBA](vba.md)
 
 ## [Python](python.md)
+
+## [Lilypond](lilypond.md)
