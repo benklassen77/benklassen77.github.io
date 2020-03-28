@@ -167,15 +167,13 @@ $$ I_{xx} = \int y^2 dA \tag{Second Moment of inertia X Axis} $$
 
 $$I_z = I_x + Ar^2 \tag{Parallel Axis Theorum Area}$$
 
-Circular sections have a polar moment of inertia, derived from the below
-
-$$J = \int_A{\rho^2dA}\tag{Polar Moment of Inertia}$$
-
-By integrating this with polar coordinates, and knowing that $\rho$ is the radius, the below is true
+Circular sections have a **polar moment of inertia, J**, derived from the second moment of inertia (above). By integrating this with polar coordinates between 0-2$\pi$, and knowing that $\rho$ is the radius, the below is true
 
 $$J = \frac{\pi c^4}{2}\tag{Polar MOI Solid Section}$$
 
 $$J = \frac{\pi}{2}\cdot (C_o^4-C_i^4)\tag{Polar MOI Hollow Section}$$
+
+The polar moment of inertia is also known as $I_z$, and is the sum of $I_x$ and $I_y$. Thus, if you want to find the $I_y$ of a hollow, circular section, you can either divide $J$ by two or integrate the second MOI equation between 0-$\pi$.
 
 ### Plastic moment
 
@@ -412,7 +410,7 @@ $$q = \frac{T}{2Am}\tag{Shear Flow}$$
 ![Am](https://i.imgur.com/FkmXnVG.jpg?1)
 
 - Am is simply the area of the midsection of the cross section, or halfway across the thickness
-- The integral with the o is the sum of lengths along the outline of the Am divided by their respective thicknesses
+- The line integral is the sum of lengths along the outline of the Am divided by their respective thicknesses
 
 ## Combined Loadings
 
