@@ -333,6 +333,18 @@ $$ \sigma_{x} = -\frac{M_{z}\cdot y}{I_{z}}+\frac {M_{y}\cdot z}{I_{y}}\tag{Comp
 - The complete flexture formula assumes a positive sign convention when the top left corner is in tension, according to the above axis.
 - The **Right Hand Rule** can help decipher tension or compression. Point your thumb in the direction of the axis above. Your fingers will curl in the direction that the moment curls. Where the top of the moment arrow exists, compression exists.
 
+One can use the complete flexture formula to plot the **stress-distribution** along the cross-section.
+
+Procedure to plot stress distribution:
+
+1. Find unknowns in complete flexture formula ($M_z$,$M_y$,$I_z$,$I_y$
+2. Find coordinates of corners of cross-section
+3. Set-up flexture formula with knowns from step 1. Plug-in each coordinate to find stress at that point.
+4. If stress due to axial is present, add it to all the calculated values.
+5. Draw distribution. Start at the first coordinate and work your way around. If the stress value is negative, this means it is in compression. Thus, the arrows under the triangle will point towards the component of the cross section
+
+- At a single point, stress is the [same](#complementary-property-of-shear) magnitude and form vertically and horizontally, similar to the **complementary property of shear**.p
+
 ### Orientation of Neutral Axis
 
 In order to find the orientation of the neutral axis, you must first be able to plot the $\sigma_{x}$ distribution along the cross-section. It is this force, which is inherintly caused by multi-axial moments, that causes the change in N.A. because the N.A. axis exists along the plane between where the $\sigma_{x}$ is equal to zero. Hence, a sketch can really help when figuring out the orientation of the axis. If this is understood, here is the derivation of the neutral axis change.
@@ -398,8 +410,7 @@ $$q = \frac{T}{2Am}\tag{Shear Flow}$$
 
 ## Combined Loadings
 
-- unsymmetrical bending
-- inelastic bending
+Combined loading analysis is simply 3d analysis. It analyzes $\sigma_x$ from axial and bending, as well as $\tau$ due to shear and torsion.
 
 ## Deflection
 
