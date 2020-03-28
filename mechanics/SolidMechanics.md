@@ -10,6 +10,7 @@
   - [Basic Geometric Properties](#basic-geometric-properties)
     - [Centroid](#centroid)
     - [Moment of inertia](#moment-of-inertia)
+    - [Plastic moment](#plastic-moment)
     - [Strain](#strain)
     - [Sign Convention](#sign-convention)
   - [Shear](#shear)
@@ -144,6 +145,8 @@ $$ \bar x = \frac{\int_A \tilde x dA}{\int_A dA} \tag{Centroid of Area}$$
 
 $$ \bar x = \frac{\int_V \tilde x dV}{\int_V dV} \tag{Centroid of Volume}$$
 
+The geometric centroid identifies the plane in which the **elastic neutral axis** is found. This is different than the **[plastic neutral axis](#plastic-moment)** which is determined 100% by area. For completely symmetric cross-sections, these axes are the same.
+
 ### Moment of inertia
 
 **Moment of inertia** = provides resistance against changing the rotational speed of rotating body. In a sense, it is analagous of mass in rotational situations. Units in form eg. $ lb\cdot in^2 $. dM represents small quantity of mass, and r represents distance of small mass from the axis.
@@ -173,6 +176,25 @@ My integrating this with polar coordinates, and knowing that $\rho$ is the radiu
 $$J = \frac{\pi c^4}{2}\tag{Polar MOI Solid Section}$$
 
 $$J = \frac{\pi}{2}\cdot (C_o^4-C_i^4)\tag{Polar MOI Hollow Section}$$
+
+### Plastic moment
+
+The **plastic moment, Mp** is the moment at which the entire cross-section has reached it's yield stress. It is either calculated about the plastic neutral axis $c$ or about the top.
+
+A couple of assumptions are made before Mp is calculated.
+
+1. The top of the cross-section is assumed in compression, the bottom in tension
+2. Since yielding occurs @ $\sigma_y$, the stress is assumed to be uniformly so (100% yielded)
+
+Procedure for analysis ([Example](http://benjaminklassen.com/documents/examples/statics/plasticmoment.pdf)):
+
+1. Assume a location for the plastic neutral axis
+2. Plot strain and stress diagram next to cross-section
+3. Determine expressions in terms of $c$ for each respective segment of cross-section
+4. Use equilibrium equations to isolate for $c$
+5. Check to verify that $c$ was assumed in the correct location
+6. Once $c$ is known, use it to find resultant forces
+7. Solve for Mp
 
 ### Strain
 
