@@ -171,7 +171,7 @@ Circular sections have a polar moment of inertia, derived from the below
 
 $$J = \int_A{\rho^2dA}\tag{Polar Moment of Inertia}$$
 
-My integrating this with polar coordinates, and knowing that $\rho$ is the radius, the below is true
+By integrating this with polar coordinates, and knowing that $\rho$ is the radius, the below is true
 
 $$J = \frac{\pi c^4}{2}\tag{Polar MOI Solid Section}$$
 
@@ -312,6 +312,12 @@ Method 2: Point method
 1. Choose an end and graph the moment at that point
 2. Take cuts at points, find moment about the points.
 
+For design, it is important to know that **maximum bending moment** occurs where the shear is zero. This is because shear is the derivative of bending moment, and when the moment is at a maximum (slope = 0), the shear is equal to zero. For a simply supported beam, the maximum bending moment can be calculated at mid-span, since shear is zero there. The below formula simplifies this calculation:
+
+$$M_{mid} = \frac{wL^2}{8}$$
+
+- w is uniform load along beam. If multidirectional load, break w down into $w_y$ and $w_z$ to solve for $M_z$ and $M_y$ respectively
+
 ### 2D Axial Due to Bending
 
 $$ \sigma_{x} = -\frac{My}{I} \tag{Simple Flexture Formula}$$
@@ -343,7 +349,7 @@ Procedure to plot stress distribution:
 4. If stress due to axial is present, add it to all the calculated values.
 5. Draw distribution. Start at the first coordinate and work your way around. If the stress value is negative, this means it is in compression. Thus, the arrows under the triangle will point towards the component of the cross section
 
-- At a single point, stress is the [same](#complementary-property-of-shear) magnitude and form vertically and horizontally, similar to the **complementary property of shear**.p
+- At a single point, stress is the [same](#complementary-property-of-shear) magnitude and form vertically and horizontally, similar to the **complementary property of shear**.
 
 ### Orientation of Neutral Axis
 
