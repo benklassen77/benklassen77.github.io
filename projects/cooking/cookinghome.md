@@ -4,4 +4,6 @@
 
 ## [Baking](baking/bakinghome.md)
 
+## [Dessert](dessert/desserthome.md)
+
 ## [Dinner](dinner/dinnerhome.md)
