@@ -1,7 +1,7 @@
-# [Baking](http://benjaminklassen.com)
+# [Cooking](http://benjaminklassen.com)
 
-## [Chicken Parmesan](chickenparmesan.md)
+> "Anyone can cook, but only the fearless can be great." - Ratatouille
 
-## [Mashed Potatoes](mashedpotatoes.md)
+## [Baking](baking/bakinghome.md)
 
-## [Sourdough Bread]
+## [Dinner](dinner/dinnerhome.md)
