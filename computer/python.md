@@ -2,6 +2,7 @@
 
 - [Python](#python)
   - [Basic Syntax](#basic-syntax)
+  - [Conditions and statements](#conditions-and-statements)
 
 ## Basic Syntax
 
@@ -121,5 +122,29 @@ a.extend(["apple","pear"])
 print("extend: {0}".format(a)) #Adds matrix to and of array
 ```
 
-- **dict** = dictionaries
-- **tuple** = tuples
+**dict** = dictionaries
+
+Dictionaries are essentially unordered lists, which each element retrievable using a key. They are made using curly brackets, the key and the element are linked via a colon (:), and elements are separated with commas.
+
+```py
+eg_dict={"object":"beam",
+        "material":"steel",
+        "type":"IPE120",
+        "h":120,
+        "b":64}
+
+print(eg_dict["material"]) #Prints steel
+```
+
+**tuple** = tuples
+
+A tuple is an ordered, unchangeable array. It is defined with circle brackets. While it cannot be changed, certain functions, such as count and index, can still be applied to it.
+
+```py
+firsttuple=(1,2,3,"apple",5)
+
+print(firsttuple.count("apple")) #Prints 1
+print(firsttuple.index(5)) #Prints 4
+```
+
+## Conditions and statements
