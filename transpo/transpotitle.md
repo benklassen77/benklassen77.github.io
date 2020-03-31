@@ -1,3 +1,3 @@
 # [Transportation](http://benjaminklassen.com)
 
-## [CIVE 241](http://benjaminklassen.com/notes/transponotes.pdf)
+## [CIVE 241](http://benjaminklassen.com/documents/courses/transpo/transponotes.pdf)
