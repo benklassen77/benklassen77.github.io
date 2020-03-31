@@ -148,3 +148,60 @@ print(firsttuple.index(5)) #Prints 4
 ```
 
 ## Conditions and statements
+
+**If statement**: run if contingent on a certain variable being true or false
+
+```py
+x=3
+y=5
+
+if x<y:
+    print("x is smaller than y")
+else:
+    print("x is greater than y")
+```
+
+If one wants multiple if statements together, this can be accomplished with the **elif statement**.
+
+```py
+beam = {"mat":"steel","E":210000}
+
+if beam["mat"] == "concrete":
+    print("This is a concrete beam")
+elif beam["mat"] == "steel":
+    print("This is a steel beam")
+elif beam["mat"] == "wood":
+    print("This is a wooden beam")
+else:
+    print("I do not recognize the material")
+```
+
+- else statement at the end is optional, but runs in case of a false outcome
+
+**Conditions**: there are several important mathematical conditions
+
+- Equals: *a==b*
+- Not equals: *a!=b*
+- Greater than: *a>b*
+- Greater than or equal to: *a>=b*
+- Less than: *a<b*
+- Less than or equal to: *a<=b*
+
+**Logical Operators**: there are three types
+
+- **and**: returns *true* if both statements are such
+- **or**: returns *true* if at least one statement is true
+- **not**: reverses condition results. Eg. not(*True*) = False
+
+**Shorthand notation**: there are several ways to reduce the lines in your code.
+
+- To define multiple variables in a single line, put them in order separated with a comma
+- f statements can be written in a single line. See below for example, written in multiple ways
+
+```py
+x,y=10,5
+
+if x>y: print("x>y")
+print("x>y") if x>y else print("x<y")
+print("x>y") if x>y else print("x=y") if x==y else print("x<y")
+```
