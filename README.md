@@ -7,13 +7,6 @@
 - Solid Mechanics
 - Fluid Mechanics
 
-## [Geotechnical Engineering](geo/geotitle.md)
-
-- Pile Foundations
-- Retaining Walls
-- Caissons
-- Retaining Walls
-
 ## [Material Engineering](materials/materialstitle.md)
 
 - Concrete
@@ -22,6 +15,23 @@
 - Glass
 - Polymers
 - Corrosion/Fatigue
+
+## [Computer Languages](computer/computertitle.md)
+
+- Matlab
+- VBA
+- Python
+
+## [Programs](programs/programshome.md)
+
+- MicroStation
+
+## [Geotechnical Engineering](geo/geotitle.md)
+
+- Pile Foundations
+- Retaining Walls
+- Caissons
+- Retaining Walls
 
 ## [Transportation Engineering](transpo/transpotitle.md)
 
@@ -36,21 +46,9 @@
 - Linear Algebra
 - Differential Equations
 
-## [Computer Languages](computer/computertitle.md)
-
-- Matlab
-- Git
-- Markdown
-- VBA
-- Python
-
 ## [Personal Projects](projects/projectshome.md)
 
 - Recipes
 - Gardening
 - Home-building
 - Music-appreciation
-
-## [Programs](programs/programshome.md)
-
-- MicroStation
