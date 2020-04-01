@@ -21,4 +21,4 @@ Makes about 38 cookies
 4. Add in eggs and vanilla into existing mixture
 5. In another bowl, mix flour, oats, baking powder and baking soda. Once done, stir into butter mixture.
 6. Stir in chocolate chips
-7. Roll dough in to 4cm
+7. Roll dough in to 4 cm and place onto cookie sheet. Bake in oven for 8-10 minutes or until golden
