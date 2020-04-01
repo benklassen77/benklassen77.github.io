@@ -1,4 +1,4 @@
-# [Chicken Parmesan](http://benjaminklassen.com)
+# Chicken Parmesan
 
 Serves 4
 

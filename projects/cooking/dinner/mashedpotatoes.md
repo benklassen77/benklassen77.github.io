@@ -1,4 +1,4 @@
-# [Mashed Potatoes](http://benjaminklassen.com)
+# Mashed Potatoes
 
 Serves 7
 
