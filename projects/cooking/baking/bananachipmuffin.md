@@ -1,7 +1,5 @@
 # Aunt Pip's Banana Chocolate Chip Muffins
 
-![Muffin](https://i.imgur.com/hskAqMW.jpg?1)
-
 Makes 12-14 muffins
 
 |Ingredients|Quantity|
