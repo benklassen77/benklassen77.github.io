@@ -149,7 +149,7 @@ The geometric centroid identifies the plane in which the **elastic neutral axis*
 
 ### Moment of inertia
 
-**Moment of inertia** = provides resistance against changing the rotational speed of rotating body. In a sense, it is analagous of mass in rotational situations. Units in form eg. $ lb\cdot in^2 $. dM represents small quantity of mass, and r represents distance of small mass from the axis.
+**Moment of inertia** = provides resistance against changing the rotational speed of rotating body. In a sense, it is analagous of mass in rotational situations. Units in form eg. $lb\cdot in^2$. dM represents small quantity of mass, and r represents distance of small mass from the axis.
 
 There are two forms of moment of inertia: mass and area. These are often confused, but they are relatively simple to distinguish.
 
