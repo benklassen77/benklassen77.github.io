@@ -6,7 +6,7 @@ Serves 12
 
 |Ingredients|Quantity|
 |----|----|
-|White Sugar|1 cups|
+|White Sugar|1 cup|
 |Flour|3/4 cup + 2 tbsp|
 |Cocoa Powder|1/4 cup + 2 tbsp|
 |Baking Powder|3/4 tsp|
