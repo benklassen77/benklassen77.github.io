@@ -3,6 +3,8 @@
 - [Python](#python)
   - [Basic Syntax](#basic-syntax)
   - [Conditions and statements](#conditions-and-statements)
+  - [Operators](#operators)
+  - [For loops](#for-loops)
 
 ## Basic Syntax
 
@@ -204,4 +206,63 @@ x,y=10,5
 if x>y: print("x>y")
 print("x>y") if x>y else print("x<y")
 print("x>y") if x>y else print("x=y") if x==y else print("x<y")
+```
+
+## Operators
+
+**Arithmetic Operators**: used for mathematical operations
+
+- addition +
+- subtraction -
+- multiplication *
+- division /
+- modulus %
+- exponentiation **
+- floor division //
+
+**Assignment Operators**: shorthand for expressions that alter a pre-defined variable
+
+- += adds 
+- -= subtracts
+- \*= multiplies
+- /= divides
+- %= unsure
+- \*\*= exponent
+- //= floor divides
+
+```py
+x=3
+x+=2 #This would make x=5
+
+x=3
+x//=2 #This would make x=1
+```
+
+**Membership Operators**: utilize 'in' operator or 'not in' as a false alternative
+
+This can be used in an if statement, as shown below
+
+```py
+a=3
+egList =[1,2,3,4,5]
+
+if a in egList:
+    print("a is in egList")
+else:
+    print("a is not in egList")
+```
+
+## For loops
+
+There are some functions that work with for loops. For example, *range()* and *len()*
+
+- range(*3*) indexes all numbers from 0-(3-1)
+- len(*variable*) gives the length of the variable
+
+```py
+list=[2,4,8,18]
+length=len(list)
+
+for i in range(length)
+    print(list[i])
 ```
