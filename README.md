@@ -25,6 +25,7 @@
 ## [Programs](programs/programshome.md)
 
 - MicroStation
+- RISA 3D
 
 ## [Geotechnical Engineering](geo/geotitle.md)
 
