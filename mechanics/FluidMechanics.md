@@ -1,3 +1,0 @@
-# Fluid Mechanics
-
-hi
