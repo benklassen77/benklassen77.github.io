@@ -5,6 +5,8 @@
   - [Conditions and statements](#conditions-and-statements)
   - [Operators](#operators)
   - [For loops](#for-loops)
+  - [Functions](#functions)
+    - [Important Keywords](#important-keywords)
 
 ## Basic Syntax
 
@@ -267,4 +269,20 @@ for i in range(length)
     print(list[i])
 ```
 
-- The **break** statement prevents the for loop from continuing after the iteration
+- The **break** statement prevents the for loop from continuing after the specified iteration occurs. In contrast, the **continue** statement skips the specified iteration
+
+```py
+for i in range(5)
+    if i==3
+        break
+    print(i) # 0,1, and 2 are printed.. it stops there
+```
+
+## Functions
+
+A **function** is an element that takes inputs, performs operations, and returns an output\
+
+### Important Keywords
+
+- **def function_name(var1,var2,var3):** defines the function name and it's predefined input variables
+- **return** specifies the output
