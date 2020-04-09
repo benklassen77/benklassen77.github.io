@@ -12,10 +12,3 @@
 | [Link-to-chapter](#Markdown)| Link |
 | [Link-to-local-page](README.md)| Link |
 | ![Link-to-image](image12345.jpg) | Link |
-
-<iframe frameborder="0" style="width:100%; height:90vh;" src="https://docs.google.com/viewer?url=http://benjaminklassen.com/projects/cooking/baking/sourdough.pdf"></iframe>
-
-<object data="http://benjaminklassen.com/projects/cooking/baking/sourdough.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://benjaminklassen.com/projects/cooking/baking/sourdough.pdf">
-    </embed>
-</object>
