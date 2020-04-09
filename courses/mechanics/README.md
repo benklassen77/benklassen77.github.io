@@ -1,3 +1,3 @@
 # [Mechanics](http://benjaminklassen.com)
 
-## [Solid Mechanics](SolidMechanics.pdf)
+## [Solid Mechanics](SolidMechanics.html)
