@@ -3,11 +3,11 @@
 <div class="something" markdown="1">
 <details><summary>BAKING</summary>
 <p>
-
-- [Sourdough](baking/sourdough.pdf)
-- [Banana Chocolate Chip Muffin](baking/bananachipmuffin.pdf)
-- [Cinnamon Bun](baking/cinnamonbun.pdf))
-
+<ul>
+<li><a href="baking/sourdough.pdf">Sourdough</a></li>
+<li><a href="baking/bananachipmuffin.pdf">Banana Chocolate Chip Muffin</a></li>
+<li><a href="baking/cinnamonbun.pdf">Cinnamon Bun</a>)</li>
+</ul>
 </p>
 </details>
 </div>
@@ -15,12 +15,12 @@
 <div class="something" markdown="1">
 <details><summary>DINNER</summary>
 <p>
-
-- [Beet Borscht](dinner/beetborscht.pdf)
-- [Chicken Parmesan](dinner/chickenparmesan.pdf)
-- [Mashed Potatoes](dinner/mashedpotatoes.pdf)
-- [Mexican Soup](dinner/mexicansoup.pdf)
-
+<ul>
+<li><a href="dinner/beetborscht.pdf">Beet Borscht</a></li>
+<li><a href="dinner/chickenparmesan.pdf">Chicken Parmesan</a></li>
+<li><a href="dinner/mashedpotatoes.pdf">Mashed Potatoes</a></li>
+<li><a href="dinner/mexicansoup.pdf">Mexican Soup</a></li>
+</ul>
 </p>
 </details>
 </div>
@@ -30,12 +30,12 @@
 <div class="something" markdown="1">
 <details><summary>DESSERT</summary>
 <p>
-
-- [Chocolate Cake](dessert/chocolatecake.pdf)
-- [Chocolate Chip Cookies](dessert/chocolatechipcookie.pdf)
-- [Chocolate Glaze](dessert/chocolateglaze.pdf)
-- [Pumpkin Roll](dessert/pumpkinroll.pdf)
-
+<ul>
+<li><a href="dessert/chocolatecake.pdf">Chocolate Cake</a></li>
+<li><a href="dessert/chocolatechipcookie.pdf">Chocolate Chip Cookies</a></li>
+<li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
+<li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
+</ul>
 </p>
 </details>
 </div>
