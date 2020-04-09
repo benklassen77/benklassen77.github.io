@@ -13,4 +13,4 @@
 | [Link-to-local-page](README.md)| Link |
 | ![Link-to-image](image12345.jpg) | Link |
 
-<iframe frameborder="0" style="width:100%; height:90vh;" src="https://docs.google.com/viewer?url=http://benjaminklassen.com/projects/cooking/baking/sourdough.pdf&amp;embedded=true%22%3E"></iframe>
+<iframe frameborder="0" style="width:100%; height:90vh;" src="https://docs.google.com/viewer?url=http://benjaminklassen.com/projects/cooking/baking/sourdough.pdf"&amp;embedded=true%22%3E></iframe>
