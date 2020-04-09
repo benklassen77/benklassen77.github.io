@@ -1,6 +1,6 @@
 # [Computer Languages](http://benjaminklassen.com)
 
-## [Markdown](Markdown.html)
+## [Markdown](Markdown.md)
 
 ## [Latex](Latex.html)
 
