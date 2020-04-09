@@ -47,7 +47,7 @@
 - Linear Algebra
 - Differential Equations
 
-## [Personal Projects](courses/projects/README.md)
+## [Personal Projects](projects/README.md)
 
 - Recipes
 - Gardening
