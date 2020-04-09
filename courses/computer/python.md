@@ -266,3 +266,5 @@ length=len(list)
 for i in range(length)
     print(list[i])
 ```
+
+- The **break** statement prevents the for loop from continuing after the iteration
