@@ -1,7 +1,5 @@
 # [Personal Projects](http://benjaminklassen.com)
 
-## [Garden](garden.md)
-
-## [Home Building](homebuilding.md)
+## [Home Building](other/homebuilding.md)
 
 ## [Music](music/README.md)

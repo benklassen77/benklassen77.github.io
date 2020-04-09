@@ -1,13 +1,11 @@
 # [Computer Languages](http://benjaminklassen.com)
 
-## [Markdown](Markdown.md)
+## [Markdown](Markdown.html)
 
-## [Latex](Latex.md)
+## [Latex](Latex.html)
 
 ## [Matlab](matlab.md)
 
-## [VBA](vba.md)
-
 ## [Python](python.md)
 
-## [Lilypond](lilypond.md)
+## [Lilypond](lilypond.html)
