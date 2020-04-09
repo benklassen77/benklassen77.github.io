@@ -25,8 +25,6 @@
 </details>
 </div>
 
-</div>
-
 <div class="something" markdown="1">
 <details><summary>DESSERT</summary>
 <p>
