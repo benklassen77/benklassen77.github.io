@@ -4,9 +4,9 @@
 <details><summary>BAKING</summary>
 <p>
 <ul>
-<li><a href="baking/sourdough.pdf">Sourdough</a></li>
 <li><a href="baking/bananachipmuffin.pdf">Banana Chocolate Chip Muffin</a></li>
 <li><a href="baking/cinnamonbun.pdf">Cinnamon Bun</a></li>
+<li><a href="baking/sourdough.pdf">Sourdough</a></li>
 </ul>
 </p>
 </details>
