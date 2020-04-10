@@ -20,6 +20,7 @@
 <li><a href="dinner/chickenparmesan.pdf">Chicken Parmesan</a></li>
 <li><a href="dinner/mashedpotatoes.pdf">Mashed Potatoes</a></li>
 <li><a href="dinner/mexicansoup.pdf">Mexican Soup</a></li>
+<li><a href="dinner/newyorkpizza.pdf">New York Style Pizza</a></li>
 </ul>
 </p>
 </details>
