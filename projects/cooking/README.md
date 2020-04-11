@@ -34,6 +34,7 @@
 <li><a href="dessert/chocolatechipcookie.pdf">Chocolate Chip Cookies</a></li>
 <li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
 <li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
+<li><a href="dessert/strawberryshortcake.pdf">Strawberry Shortcake</a></li>
 </ul>
 </p>
 </details>

@@ -7,6 +7,7 @@
   - [For loops](#for-loops)
   - [Functions](#functions)
     - [Important Keywords](#important-keywords)
+  - [NumPy](#numpy)
 
 ## Basic Syntax
 
@@ -286,3 +287,6 @@ A **function** is an element that takes inputs, performs operations, and returns
 
 - **def function_name(var1,var2,var3):** defines the function name and it's predefined input variables
 - **return** specifies the output
+
+## NumPy
+
