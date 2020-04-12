@@ -18,7 +18,7 @@ Liszt's Les jeux d'eaux à la villa d'este
 
 Grieg's Notturno
 
-Jeux Interdits
+Jeux Interdits / Debussy's Clair de la lune
 
 Benny Andersson's Chess
 

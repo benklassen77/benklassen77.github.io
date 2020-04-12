@@ -12,6 +12,10 @@
   - [Lecture 7 - Introduction to the Baroque Era (1600-1750)](#lecture-7---introduction-to-the-baroque-era-1600-1750)
     - [The French Overture](#the-french-overture)
   - [Lecture 8 - Style Features of Baroque-era Music](#lecture-8---style-features-of-baroque-era-music)
+  - [Lecture 9: National Styles Italy and Germany](#lecture-9-national-styles-italy-and-germany)
+    - [Italian Baroque Style](#italian-baroque-style)
+    - [Affect of Protestantism on German Style](#affect-of-protestantism-on-german-style)
+    - [German Baroque Style](#german-baroque-style)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -405,3 +409,100 @@ Basics
 - Tuning systems (well-tempered) came into existance
 - meter (grouping of notes) standardized, as well as bar lines
 - Functional harmony came into existence
+
+## Lecture 9: National Styles Italy and Germany
+
+**Cavatina**: type of aria
+
+- Gioacchino Rossini: THe Barber of Seville (1816)
+  - Purpose of this cavatina is to identify Rossina as a saucy, smart and determined young lady and to entertain the audience
+- Beethoven: Symphony No. 5 in C-, Movement 1 (1808)
+  - Meaning is to be expressed and understood by individual experiences
+
+Italian Quote
+
+> *Music for the Italians is a sensual pleasure and nothing more. Fore this noble expression of the mind, they have hardly more respect than for cooking! They want a score that, like a plate of macaroni, can be assimilated immediately without their having to think about it or even pay attention to it* - Hector Berlioz
+
+German Quote
+
+> *What instrumental work of Beethoven testifies to his art and genius to a higher degree than the immeasurably noble and profound Symphony in C Minor? How this marvelous composition carries the hearer irresistibly with it in its ever-mounting climax into the spirit kingdom of the infinite! What could be simpler than the main motive of the first movement composed of a mere rhythmic figure which, beginning in unison, does not even indicate the key to the listener. The character of anxious, restless longing this passage carries with it only brings out more clearly the melodiousness of the second theme. It appears as if the breast, burned and oppressed by the premonition of tragedy, of threatening annihilation, in gasping tones was struggling with all its strength for air* - E.T.A. Hoffmann
+
+As discovered by these quotes,
+
+- Rossini's cavatina personified the 19th-centure Italian view that 'music = opera' and that opera is a form of entertainment
+- Beethoven's symphonic music personifies the German/Austrian view of music as something profound and capable of the deepest metaphorical expression
+- Italians great for melody, germans great for harmony
+
+**Nationalism**: the use of folk or ethnic music in concert compositions
+
+- While Beethoven appreciated Rossini's music, he didn't compose the like because it wasn't culturally appropriate
+- National styles have to do with language and culture in which composer grew up. This changes how composers perceive their music
+
+Vocal music originated as latin music in Church
+
+> The nature of the language set to music will determine the nature of the melody that results
+
+Vocal music persisted from this and was most developed in Italy for 2 reasons
+
+1. Nature of Italian language (closest to latin)
+2. Christian church based in Rome
+
+### Italian Baroque Style
+
+Due to the Madrigal, Italian language replaced Latin as dominant language in vocal music
+
+The style was characterised by:
+
+1. It was an outgrowth of Latin vocalism and the equally vocal character of the Italian language
+2. It was essentially a homophonic tradition: melody and accompaniment, the perfect example of which is opera, the dominant art form of the era
+3. Exhibited a preference for melodic directness, as opposed to the ornamental complexity of the French style and the polyphonic and harmonic complexity of the Baroque German Style
+4. Italian Baroque Opera gave birth to the 2 most important orchestral genres of the next 400 years = symphony and concerto
+
+Italian and Latin are considered **melismatic languages** that, by nature, beg for long, soaring [melismas](#high-middle-ages) when set to music. In contrast, English and German are syllabic languages that prefer one pitch per syllable when being set to music; languages that allow for only occasional melisma.
+
+### Affect of Protestantism on German Style
+
+In 1517, Martin Luther posted 95 Theses
+
+- This lead to counterroman revolution and wars between 1548-1648, including the Thirty Years War (1615-1648)
+- This was ended by the Peace of Westphalia in 1648
+
+**Protestantism** stayed after the battle
+
+**Lutheranism** profoundly affected music. It included:
+
+- Papacy rejected, as was supernatural character of priesthood
+- Called clergy ministers, not priests and allowed them to marry
+- Rejected confessional and priestly absolution
+- Abandoned saying of masses and prayers for the dead
+- Gave up cults of saints and Virgin Mary
+- Declared that the one true source ofChristian belief was the Bible
+- Vernacular language replaced Latin in the Church
+
+This change in language lead to the adoption of German-language songs (hymns) to replace Latin plainchant
+
+- hymns (or chorales) became backbones of music across Lutheran communities across Europe
+
+> *After theology, I give music the greatest educational importance and highest honour* - Martin Luther
+
+- this vision of music as close to theology was instrumental in development of Bach and others. Since Luther thought music was a gift of God, music was considered a godly act
+- Contrastingly to Catholics who emphasised vocal music, Lutheran communities thought instrumental music could also be used to equally worship God
+
+When enjoying music, if we feel a rush of connection to it, it can be seen in 2 different lights
+
+1. Personification of hedonism. We are self-indulging
+2. We leave our egos behind and are susceptible to divine influence
+
+Luther thought that music that made us more susceptible to God was beautiful and promoted it such that it grew far more than in Italian, Catholic communities
+
+### German Baroque Style
+
+Syllabic music demonstrated by "Awake! Now Strikes the Hour" - Bach Cantata no. 140
+
+- setting is one pitch per syllable
+- sharp articulations reflectin in sharp, articulated rhythms of the melody
+- sharply articulated, compact language creates a sharply articulated, compact tune
+
+Lutheran Church Hymn: staple across Germany
+
+Bach created all his music for God as a Lutheran. He not only dedicated his spiritual works, but also his secular works to God. He inscribed them as INJ (in the name of Jesus). Bach made his compositional technique and spirituality intertwined. His native German language and Lutheran faith that were the cornerstone of his worldview AND the sound of his music.
