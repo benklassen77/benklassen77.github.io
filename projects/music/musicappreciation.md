@@ -12,7 +12,7 @@
   - [Lecture 7 - Introduction to the Baroque Era (1600-1750)](#lecture-7---introduction-to-the-baroque-era-1600-1750)
     - [The French Overture](#the-french-overture)
   - [Lecture 8 - Style Features of Baroque-era Music](#lecture-8---style-features-of-baroque-era-music)
-  - [Lecture 9: National Styles Italy and Germany](#lecture-9-national-styles-italy-and-germany)
+  - [Lecture 9 - National Styles Italy and Germany](#lecture-9---national-styles-italy-and-germany)
     - [Italian Baroque Style](#italian-baroque-style)
     - [Affect of Protestantism on German Style](#affect-of-protestantism-on-german-style)
     - [German Baroque Style](#german-baroque-style)
@@ -410,7 +410,7 @@ Basics
 - meter (grouping of notes) standardized, as well as bar lines
 - Functional harmony came into existence
 
-## Lecture 9: National Styles Italy and Germany
+## Lecture 9 - National Styles Italy and Germany
 
 **Cavatina**: type of aria
 
