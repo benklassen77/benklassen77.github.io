@@ -226,7 +226,7 @@ print("x>y") if x>y else print("x=y") if x==y else print("x<y")
 
 **Assignment Operators**: shorthand for expressions that alter a pre-defined variable
 
-- += adds 
+- += adds
 - -= subtracts
 - \*= multiplies
 - /= divides
