@@ -8,6 +8,7 @@
   - [Functions](#functions)
     - [Important Keywords](#important-keywords)
   - [NumPy](#numpy)
+    - [Important functions](#important-functions)
 
 ## Basic Syntax
 
@@ -290,3 +291,65 @@ A **function** is an element that takes inputs, performs operations, and returns
 
 ## NumPy
 
+NumPy is a library that manages arrays.
+
+**Array**: a structure similar to a list, except that it contains only one type of object
+
+To start using NumPy, import as below
+
+```py
+import numpy as np
+```
+
+This assigns numpy the nickname "np". One doesn't have to import NumPy beyond the first cell
+
+### Important functions
+
+**np.array([1,2,3,4])**: makes an array from the content inside. If it contains both integers and floats, it will convert the integers into floats
+
+- **np.zeros((3))**: takes in a tuple input and makes an array of 3 zeros as floating numbers by default
+- **np.ones((2,3), dtype=int**: makes an array of ones with 2 rows 3 columns. It also changes them to become integers with the dtype specifier
+
+**a=np.linspace(1,10,6)**: generates an array of 6 numbers linearly between 1 and 10
+
+**a=np.arange(1,10,1)**: generates array of numbers between 1 and (10-1) with a step of 1 each increase
+
+It is also important to retrieve information about the array's dimension and dtype
+
+- **ndarray.ndim**: returns number of axes of the array
+- **ndarray.shape**: returns dimensions of the array as a tuple
+- **ndarray.size**: returns the total number of elements in array
+- **ndarray.dtype**: returns the dtype of the elements of the array (eg. int32)
+
+If there is an array with multiple rows and columns, it can be indexed using [i,j], with i representing row and j representing column
+
+```py
+b=np.array([[0,1],[2,3]])
+print(b[1,1]) # Prints 3
+```
+
+There is also some math that can happen between arrays. For example, let's say a and b are integer, 4x4 matrices. The below could be used:
+
+- print(a+b) # Addition
+- print(a\*\*2) # Exponential
+- print(np.sqrt(b)) # Square Root
+- print(a@b) # Matrix Product
+
+Furthermore, arrays can be indexed through the use of the semicolon.
+
+```py
+a=np.linspace(0,10,11)
+print(a) # Prints array between 0 and 10
+print(a[2:5]) # Prints array between 2 and 5
+print(a[1:7:2]) # Prints every second element between 1 and 7
+```
+
+Arrays can be concatenated in 2 ways
+
+- **np.hstack((a,b,c))**: puts arrays a,b,c together into a single row array
+- **np.vstack((a,b,c))**: puts arrays a,b,c together into a single array, with respective rows for each array
+
+Additionally, one can insert values into an array using the below
+
+- **np.append(a,4)**: inserts the number 4 at the end of array a
+- **np.insert(a,index,7)**: inserts the number 7 at the specified index of array a
