@@ -30,7 +30,7 @@
             <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
             <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
         </head>
-    <body class="vscode-dark">
+    <body class="vscode-light">
         <h1 id="solid-mechanics">Solid Mechanics</h1>
 <ul>
 <li><a href="#solid-mechanics">Solid Mechanics</a>
@@ -438,8 +438,9 @@ F_x &amp; F_y &amp; F_z \\
 <p>Method 2: Point method</p>
 <ul>
 <li>Remember: moment at the free end of a cantilever is zero because it is static</li>
-<li>You are finding the moment being applied to it, not resisted by it. In this sense, use <a href="#sign-convention">sign convention</a> for if it is a left cut or a right cut to determine if the resisting moment is positive or not. This must be used in order to fulfill the statement <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>M</mi><mo>=</mo><mo>∫</mo><mi>V</mi></mrow><annotation encoding="application/x-tex">M = \int{V}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.11112em;vertical-align:-0.30612em;"></span><span class="mop op-symbol small-op" style="margin-right:0.19445em;position:relative;top:-0.0005599999999999772em;">∫</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.22222em;">V</span></span></span></span></span> with positive sign convention</li>
 </ul>
+<p>At Waterloo, we learn the <strong>Canadian Method</strong>. In this sense, you are finding the moment being resisted by it internally, not applied to it. In this sense, use <a href="#sign-convention">sign convention</a> for if it is a left cut or a right cut to determine if the resisting moment is positive or not. This must be used in order to fulfill the statement <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>M</mi><mo>=</mo><mo>∫</mo><mi>V</mi></mrow><annotation encoding="application/x-tex">M = \int{V}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.11112em;vertical-align:-0.30612em;"></span><span class="mop op-symbol small-op" style="margin-right:0.19445em;position:relative;top:-0.0005599999999999772em;">∫</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.22222em;">V</span></span></span></span></span> with positive sign convention. If confused, see <a href="http://benjaminklassen.com/documents/courses/solidmechanics/solutions/Chapter11.pdf">11-4</a></p>
+<p>At other schools, they may learn the <strong>British Method</strong>, which is the moment being applied to the beam. This, in many ways, makes more sense.</p>
 <ol>
 <li>Choose an end and graph the moment at that point</li>
 <li>Take cuts at points, find moment about the points.</li>
