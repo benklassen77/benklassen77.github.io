@@ -9,6 +9,9 @@
     - [Important Keywords](#important-keywords)
   - [NumPy](#numpy)
     - [Important functions](#important-functions)
+  - [SymPy](#sympy)
+    - [Calculus](#calculus)
+    - [Equation Solving](#equation-solving)
 
 ## Basic Syntax
 
@@ -355,3 +358,65 @@ Additionally, one can insert values into an array using the below
 - **np.insert(a,index,7)**: inserts the number 7 at the specified index of array a
 
 [Example for simply supported beam](http://benjaminklassen.com/documents/examples/python/pythonsimplysupported.pdf)
+
+## SymPy
+
+SymPy is a CAS that performs symbolic calculations
+
+In order to import, type the below
+
+```py
+import sympy as sp
+sp.init_printing(use_latex="mathjax")
+```
+
+This also specifies that to come is printed in latex.
+
+Symbols are specified using the **sp.symbols** command. The space between the symbols in quotations distinguishes between them.
+
+```py
+a,b=sp.symbols("a b")
+
+expr1=a+b
+expr2=exp1**2
+display(expr2)
+```
+
+**sp.Rational(numerator,denominator)** is used to display a rational
+
+**egfunc.subs(var1,1)**: subs 1 into egfunc in the place of var1
+
+**evalf(#)**: specifies # as the number of allowed digits in output
+
+```py
+x,y=sp.symbols("x y")
+f=x**2+y**2+sp.Rational(1,3)*x*y
+res1=f.subs([(x,1),(y,5)])
+display(res1) # Displays 83/3
+display(res1.evalf(5)) # Displays 27.667
+```
+
+### Calculus
+
+**sp.diff(function,x)**: finds derivative of expression with respect to x
+
+**sp.integrate(function,x)**: finds integral of expression with respect to x
+
+- if there are limits, solve with sp.integrate(function,(x,lower\_limit,upper\_limit))
+
+### Equation Solving
+
+**sp.Eq(x\*\*2-4,0)**: creates an equation such that the specified equation is set equal to zero
+
+**sp.solveset(myeq,x)**: solves the numbers that satisfy myqe
+
+- Note: if an equation is set to zero, it can be directly added to solveset without requiring an Eq()
+
+```py
+x=sp.symbols("x")
+
+res=sp.solveset(sp.Rational(2,5)*x+3,x)
+display(res.args[0]
+```
+
+- Indexing must be done with .args[indice] because SymPy outputs answers as a **Finite Set**, and .args converts to iterable object
