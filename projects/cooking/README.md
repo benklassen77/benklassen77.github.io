@@ -43,6 +43,8 @@
 <li><a href="dessert/chocolatecake.pdf">Chocolate Cake</a></li>
 <li><a href="dessert/chocolatechipcookie.pdf">Chocolate Chip Cookies</a></li>
 <li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
+<li><a href="dessert/grebelchocchipcookie.pdf">Grebel Chocolate Chip Cookie</a></li>
+<li><a href="dessert/grebelmolassescookie.pdf">Grebel Ginger Molasses Cookie</a></li>
 <li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
 <li><a href="dessert/strawberryshortcake.pdf">Strawberry Shortcake</a></li>
 </ul>
