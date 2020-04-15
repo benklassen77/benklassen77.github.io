@@ -13,6 +13,16 @@
 </div>
 
 <div class="something" markdown="1">
+<details><summary>BREAKFAST</summary>
+<p>
+<ul>
+<li><a href="breakfast/japanesepancake.pdf">Japanese Pancake</a></li>
+</ul>
+</p>
+</details>
+</div>
+
+<div class="something" markdown="1">
 <details><summary>DINNER</summary>
 <p>
 <ul>
