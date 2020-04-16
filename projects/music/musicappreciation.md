@@ -16,6 +16,9 @@
     - [Italian Baroque Style](#italian-baroque-style)
     - [Affect of Protestantism on German Style](#affect-of-protestantism-on-german-style)
     - [German Baroque Style](#german-baroque-style)
+  - [Lecture 10 - Fugue](#lecture-10---fugue)
+    - [Tuning](#tuning)
+    - [How a Fugue Works](#how-a-fugue-works)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -506,3 +509,63 @@ Syllabic music demonstrated by "Awake! Now Strikes the Hour" - Bach Cantata no. 
 Lutheran Church Hymn: staple across Germany
 
 Bach created all his music for God as a Lutheran. He not only dedicated his spiritual works, but also his secular works to God. He inscribed them as INJ (in the name of Jesus). Bach made his compositional technique and spirituality intertwined. His native German language and Lutheran faith that were the cornerstone of his worldview AND the sound of his music.
+
+## Lecture 10 - Fugue
+
+The **Fugue** represents the Baroque era well because it epotomizes the Baroque melodic extravagence and structural control and organization. It is a systematic exploitation of non-strict and strict imitative polyphony. This illustrates perfectly the Baroque predilection for codification and systematic examination
+
+Eg. Bach's Fugue in C Minor from Well-Tempered Clavier Book 1 (1722)
+
+Harpsicord plays at uniform loudness and restricts smearing of notes. This ensures the voices are polyphonically represented. Since the fugue is about non-strict polyphony, the harpsicord represented it well.
+
+**Texture**: how many melodies are simultaneously present in a given section of music and how those melodies are related to one another
+
+- **Monophonic**: texture that consists of a single, unaccompanied melody; one sound, one melody at a time
+- **Polyphonic**: texture that has 2 or more simultaneous melodies of equal importance
+  - **Imitative**: the constituent voices imitate each other at some distance of time, such that the parts overlap with each other
+    - **Strict Imitative**: each voice imitates the others strictly. Creates cyclic effect (eg. row, row, row your boat) that is characteristic of a **canon**
+    - **Non-strict Imitative**: voices imitate each other such that they are not in a cyclic feedback loop
+- **Homophonic**: texture with one principal melody and everything else is seen as accompanimental
+
+### Tuning
+
+Tuning and Temperment
+
+- In our culture, we divide octate into 12 pitches called chromatic
+- Other cultures divide octave into 5 pitches called pentatonic
+
+**Pythagorean Scale**: six successive perfect 5ths. When playing 13 5ths, the last one is 1/8 of an octave short of completing the circle of 5ths, known as the pythagorean comma.
+
+**Mean-tone tuning**: an early Renaissance attempt to shrink some of the fifths but not all of them
+
+**Equal-tempered tuning**: all of the 5ths are equally shrunk. This was discovered in 1500s and wasn't fully used until 1800s. In the time in between, well-tempered tuning was used (12-note system). Each book of Bach's Well-Tempered Clavier contained enough preludes and fugues that it would allow for a harpsicord to be tuned in a way that any key would sound in tune. Bach's books were seen as a bible by Mozart and others
+
+### How a Fugue Works
+
+Unless it is a double fugue, fugues are monothematic (built around a single theme)
+
+- A fugue theme is called a subject
+  - Subject is a melody designed to do all sorts of things. It is called a subject for the same reason a cadaver is called that rather than a person. It needs to be broken apart, dissected, and then sewn back together
+
+There are 3 structural elements of a fugue:
+
+1. Exposition
+2. Episodes
+3. Subject restatements
+
+Exposition
+
+- over the exposition, the subject is stated successively in each individual part until all the parts have entered
+- in contrast to modern music, where the top layer is most important, fugue music has each layer of equal important. It is thus important to listen to the voices
+- once a voice has entered and 'sung' its version of the fugue subject, it will continue with a complementary melody called the counter-subject, a melody generated from the fugue subject itself
+- successive entries that characterize a fugal exposition sound a lot like the beginning of a round, a piece of music written in strict imitative polyphony. However, an exposition is not an example of strict-imitative polyphony or a round. It is not imitated strictly, but is an example of non-strict imitative polyphony
+- order in which the voices enter must assure that each newly entered voice is, at the moment it enters, either the highest or lowest voice
+  - 4 possibilities: soprano-alto-bass, bass-alto-soprano, alto-soprano-bass, alto-bass-soprano
+
+Episodes and Subject Restatements
+
+- following exposition, a fugue will consist of eposides that transit to various restatements of the fugue subject. Most commonly episodes and restatements alternate until one final statement closes
+- episodes seen as transitional because they contain motives obtained from the theme's subject and its counter-subject. Episodes are also seen as such because they **modulate**, or effect a change of key
+- subject restatements will consist of some with different keys and some of the same key
+
+Subject: composite melody. Motive repeated several times, but lowest note descends over course of subject.
