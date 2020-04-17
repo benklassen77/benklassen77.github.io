@@ -1,5 +1,5 @@
 # [Music](http://benjaminklassen.com)
 
-## [Music Appreciation Course](musicappreciation.md)
+## [Music History](musicappreciation.md)
 
-## [CD](cd.md)
+## [Personal Favourites](cd.md)

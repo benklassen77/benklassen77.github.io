@@ -1,6 +1,6 @@
-# [Music Appreciation](http://benjaminklassen.com)
+# [Music History](http://benjaminklassen.com)
 
-- [Music Appreciation](#music-appreciation)
+- [Music History](#music-history)
   - [Lecture 1 - Music As A Mirror](#lecture-1---music-as-a-mirror)
   - [Lecture 2 - Ancient Times and Early Church](#lecture-2---ancient-times-and-early-church)
   - [Lecture 3: Middle Ages](#lecture-3-middle-ages)
