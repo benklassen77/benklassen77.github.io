@@ -19,6 +19,10 @@
   - [Lecture 10 - Fugue](#lecture-10---fugue)
     - [Tuning](#tuning)
     - [How a Fugue Works](#how-a-fugue-works)
+  - [Lecture 11-12 - Opera](#lecture-11-12---opera)
+    - [Italian Linguistics](#italian-linguistics)
+    - [Renaissance and Rebirth of Greek Ideal](#renaissance-and-rebirth-of-greek-ideal)
+    - [Recitative and Aria](#recitative-and-aria)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -569,3 +573,110 @@ Episodes and Subject Restatements
 - subject restatements will consist of some with different keys and some of the same key
 
 Subject: composite melody. Motive repeated several times, but lowest note descends over course of subject.
+
+## Lecture 11-12 - Opera
+
+Opera is the finest art form
+
+Eg. Guiseppe Verdi's piece Aida (1871)
+
+- Egyptian warrior, Ethiopian slave girl/Princess Aidi, Jealous Egyptian Princess
+
+**Opera**: a stage play set to music, a spectacle that combines scenery, action, literary drama, and continuous or almost continuous music into a whole greater than its parts
+
+- music intensifies meaning of words
+
+Ancient Greek drama is thought to be a forerunner to opera
+
+### Italian Linguistics
+
+- noun that ends with an 'o' is masculine; a noun that ends with an 'a' is feminine
+  - spaghetti singular is spaghetto
+- plural ending for masculine or gender-neutral nouns is an 'i'; for feminine nouns an 'e'
+
+### Renaissance and Rebirth of Greek Ideal
+
+- renaissance wanted to recreate musical qualities attributed to Ancient Greeks
+
+The late renaissance/early baroque saw increasing rise of secular drama. Such late 16th century Italian drama was punctuated with musical interludes betwen the acts of the plays, called an **Intermezzo**
+
+**Intermezzo**: meaning in-the-middle (pl. intermezzi). The intermezzo was a sung commentary spoken between acts what commented on the action of the play to that point, and were inspired by the choruses of Greek drama
+
+- by 1580s, intermezzi were so substantial that they had become virtual plays within the play
+- increasingly spectacular, they became popular in their own right
+  - half-time show becoming more popular than the football game
+
+Eg. Dalle piu alte sfere by Emilio de Cavalieri. Intermedio/Madrigal written for wedding of Grand Duke Ferdinand of Italy in 1589
+
+- frottola: homophonic, accompanied song
+- Self-declared Madrigal because of word-painting. Used word high repeatedly with high soprano voice. However, solo-singer makes this intimacy and emotional-directness beyond that of any madrigal
+  - in a chorus, each singer can not accentuate his/her part, yet a solo-singer can do whatever she wants. Solo-singer has infinitely more flexibility than individuals in ensemble. It is also far more personal, and that brought about the beginning of opera
+
+Florentine Camerata: an intellectual club of the Italian Renaissance
+
+- people interested in Ancient Greek and contemporary drama/music
+- concluded Ancient Greek tragedy must have been sung in an individual voice
+
+> Greeks were able to obtain powerful effects with their music because it consisted of a single melody. This melody could affect the listener's feelings, since it exploited the natural expressiveness of the rises and falls of pitch and the register of the voice and of the changing rhythms and tempos - Girolamo Mei
+
+Galileo's dad also had something to say against polyphony
+
+> The resulting chaos of contradictory impressions serves only to show off the cleverness of the composer and the ability of the performers. Word painting, imitations of sighing, and like should be dismissed as childish. The correct way to set words is to use a solo melody which will enhance the natural speech inflections of a good orator or a good actor - Vincenzo Galilei
+
+Based on the Ancient Greek ideal and the contemporary desired portrayel, the camerata created the "3 Corollaries of Modern Music"
+
+1. Text must be clearly understood. Homophonic texture by solo-singer
+2. Words must be sung with correct and natural declamation, as they would be spoken; textual repetitions should be avoided, except for rhetorical reinforcement
+3. Melody must not depict mere graphic details like word painting, but rather interpret feelings and emotions of the character singing them. In other words, emotional, not literary, meaning
+
+The camerata had 3 notable composer members:
+
+- Emilio de Cavalieri
+- Giulio Caccini
+- Jacopo Peri
+
+**Librettist**: poet who wrote an opera's lyrics
+
+### Recitative and Aria
+
+First ever-opera, Euridice (Peri) premiered Oct. 6, 1600 at the Pitti Palace in Florence. It featured the below old and new elements:
+
+- (Old) smallish chorus which sings madrigal-like commentaries in the style of a Greek chorus
+- (Old) simply, rhymed songs as lyric interludes to the action, to end scenes, and for transitions between scenes
+- (New) representative style, now called **recitative** (a recitation), which became heart and soul of florentine style. Half-spoken, half-sung recitation to carry essential substance of the opera. Used it for narration, dialogue, and action. This allowed large amount of text to be articulated quickly, clearly, and still be sung
+- Based on the Orpheus Story, which has other works like Orpheus (Monteverdi 1607), Orpheus (Gluck 1762), Orpheus in the Underworld (Offenbach 1858), and Orpheus (Stravinsky 1947)
+  - Orpheus is demigod of Apollo, and personification of what early opera sought to be. Orpheus can win over anyone with his lyre, except Euridice, whom he is in love with. Eventually, she consents to be his wife. Euridice and her friends go to pick flowers for the wedding when she is bitten by a snake, and dies.. it is up to one of her fellow nymphs to tell Orpheus the news. Orpheus reacts with a plan to go down to Hades, cross the River Stix and convince Pluto to release her. He agrees, as long as Orpheus doesn't look back to check if she's there. Orpheus does look back, and Euridice is taken forever. Orpheus is attacked by mynads afterwards
+- based on present/future tense without reflection (real-time), as is typical of early opera
+
+Monteverdi was born in Cremona, were Antonio Stadiveri was from. It is a town famous for violins.
+
+- trained by head of music at the cathedral in Cremona
+- at 23, he entered the service of Vincenzo Gonzaga, Duke of Mantua. In 1602, Monteverdi was made the master of the Dukal chapel in Mantua, and he composed his first opera Orfeo there in 1607.
+- between 1613-1643, he was the choir master at St. Marks Cathedral in Venice
+- wrote prima practica (1st practise or madrigals) and seconda practica (works for the stage). Most of his seconda practice has been lost.. only 6 have survived
+  - Orfeo (1607) combined madrigal style, orchestral and scenic apparatus of intermezzi, and solo singing. Messenger Song very famous. It was the first operatic masterwork and it revolutionized opera
+  - The Coronation of Poppea (1642)
+
+**Aria**: by 1660, the aria joined recitative as an opera delivery mechanism. It literally means 'air'.. an accompanied song or melody dating from Elizabethan England (1560-1625) real-time stops
+
+- **Song**: a short, rhymed poem accompanied by music that is usually as simple and direct as a text. Operatic aria different
+- **Operatic Aria**: a lengthy, substantial, and often very complex piece of vocal music in which the essential character and dramatic information is transmitted via the music itself
+  - Unlike recitative, in which the words carry the expressive message, the music carries the expressive message
+  - Baroque's motivic discoveries leading to instrumental music also lead to the operatic aria
+  - Like a tip of the iceberg, the aria's words float on top in plain sight, while most of message is carried out of sight by the abstract elements of the music itself
+
+By 1660, recitatives were used for narration, action, and dialogue in an opera (real-time situations); and arias were used for reflection, character development, and for expression of feeling. It is never real-time since time stops
+
+In later Baroque opera, recitative became the dry part between the great arias. Must of Monteverdi's recitative was lost. Recitative was played **secco**, or dry and accombanied only by the basso continuo, a harpsicord, or a cello. Occasionally, **recitative accompanato** is used, which means accompanied by the orchestra
+
+Eg. Dido and Aeneas (Henry Purcell 1659-1695)
+
+> Dido has little to say but much to feel, and the music needs time to convey the emotional message - Joseph Kerman
+
+- repitition of words typical in arias to convey message
+
+before - rich only could see
+1637 - first operahouse opened
+1650 - 7 full time operahouse
+
+- unfortunately, as opera was profitable, it was made cheaper with less care, and became less than it was
