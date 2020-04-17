@@ -675,8 +675,10 @@ Eg. Dido and Aeneas (Henry Purcell 1659-1695)
 
 - repitition of words typical in arias to convey message
 
-before - rich only could see
+Before - rich only could see
+
 1637 - first operahouse opened
+
 1650 - 7 full time operahouse
 
 - unfortunately, as opera was profitable, it was made cheaper with less care, and became less than it was
