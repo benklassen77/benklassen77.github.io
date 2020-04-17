@@ -26,6 +26,8 @@
   - [Lecture 13 - Oratorio](#lecture-13---oratorio)
     - [Overview](#overview)
     - [Oratorio in England](#oratorio-in-england)
+  - [Lecture 14 - Lutheran Church Cantata](#lecture-14---lutheran-church-cantata)
+    - [Lutheran 'Chorale' and Congregational Hymn](#lutheran-chorale-and-congregational-hymn)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -765,3 +767,58 @@ Hallelujah Chorus
 
 - the king stood during the Hallelujah chorus. Because of that, it is customary to stand for that chorus to this day
 - 3 types of writings: homophony when chorus begins, voices are united in singing word hallelujah; imitative polyphony (and he shall reign forever and ever); and responsorial singing: the soprano sings "King of Kings, Lord of Lords" followed by the the alto, tenor, and basses response "Forever, Hallelujah"
+
+## Lecture 14 - Lutheran Church Cantata
+
+**Lutheran Church Cantata**: a one-act religious opera to be performed as part of the Sunday service
+
+### Lutheran 'Chorale' and Congregational Hymn
+
+Lutheran litergy stressed group participation through congregational singing
+
+**Lutheran Church Chorale**: a direct, songlike setting of a sacred text
+
+Because of the German language, music is a syllabic setting, or punchy tunes with one pitch per syllable. Results in punchy, highly motivic music
+
+Chorales selected based on the contents of the sermon. Cantata performed immediately before the sermon, and was based on the day's chorale. Since the cantata reflected the sermon's message, it was nicknamed the sermon in music.
+
+Lutheran Sunday Service
+
+1. Prescribed Bible reading
+2. Primary chorale sung
+3. Cantata performed based on the chorale
+4. Sermon
+
+- orthodox prefered using all available resources to make songs more interesting
+- pietist party distrusted high art and opulence in worship
+
+THe more liberal orthodox was more popular, giving rise to Lutheran cantata.
+
+Erdman Neumeister (1671-1756) was first great cantata librettist
+
+- orthodox
+- wrote his cantatas based on Italian opera
+
+Johann Sebastian Bach (1685-1750)
+
+- Bach thought his best position was being the court composer for Prince Leopold of Anhalt (1717-1723)
+- After this, Bach was **kapelmeister**, or music director for the churches and municipality of the city
+- composed 350 cantatas, but 290 survived
+- Bach believed in the orthodox view of making cantatas with the resources of an opera, but his superiors were pietists
+- known for astonishing harmony
+
+Eg. Bach's Cantata No. 140
+
+- lyrics written by librettist Christian Friedrich Henrici 'Picander' (1700-1764)
+- first movement features first verse of chorale
+  - ritornello theme (instrumental). This means a melodic idea that returns periodically
+    - consisted of 3 distinct phrases characterized by their own melodic material. A sounds like a french overture, B sees rising and falling of motives, and C sees upwards sweeping scales
+  - chorale melody sung by soprano voice
+  - alto, tenor, and bass sing commentary on chorale melody
+- fourth movement features second verse of chorale
+  - ritornello theme, notturno: nocturne
+- seventh (final) movement features third verse of chorale
+- second and fifth movement are recitatives
+- third and sixth movement are duets
+
+**Fugato**: a passage that sounds like exposition of a fugue that's not in a fugue
