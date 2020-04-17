@@ -23,6 +23,9 @@
     - [Italian Linguistics](#italian-linguistics)
     - [Renaissance and Rebirth of Greek Ideal](#renaissance-and-rebirth-of-greek-ideal)
     - [Recitative and Aria](#recitative-and-aria)
+  - [Lecture 13 - Oratorio](#lecture-13---oratorio)
+    - [Overview](#overview)
+    - [Oratorio in England](#oratorio-in-england)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -682,3 +685,83 @@ Before - rich only could see
 1650 - 7 full time operahouse
 
 - unfortunately, as opera was profitable, it was made cheaper with less care, and became less than it was
+
+## Lecture 13 - Oratorio
+
+**Handel's Messiah (1742)**: only Baroque composition performed continuously since its premiere. It is an example of an oratorio
+
+### Overview
+
+Catholic Baroque Sacred Music
+
+- mix of old style and new style
+- masses were composed during Baroque. While many were older, many also followed Baroque style, or opera
+  - With basso continuo
+
+Basso continuo went from early Baroque recititive to use in many Baroque songs
+
+Even though it had previously been discussed in the counter-reformation that the use of noisy instruments should be ceased, mixing instruments with voices was common with Italian composers
+
+Lutheran Baroque Sacred Music
+
+30 Years War
+
+1. Part of Germany embracing Lutheranism was part of Holy Roman Empire (Charlemagne's Empire in 814)
+   - Holy Roman Empire founded to consolidate religion across civilized Europe and as a defensable work against non-Christians
+2. Habsbergs in Austria saw Protestantism as a large threat to its national interests
+3. Since France saw Habsberg as a threat, it allied with the Protestants against the Austrians even though it was Catholic so that they could fight them on German soil
+4. Protestant England allied with the Protestants even though they didn't like the French because they also feared the Austrians
+5. The Spanish allied with the Austrians
+6. Dutch and Danish allied with the Protestants
+7. Lutheran King of Sweden invaded Germany
+
+Countries switched sides based on where the loot was and on who had the upper hand. Over this time, cantata was developed
+
+Sacred Genres of the Baroque
+
+**Oratorio**: extended work for chorus, vocal soloists, and orchestra based on a dramatic story drawn from scripture, and performed as a concert work without acting
+
+- not part of church service, and for catholics and christians
+- opera on a religious subject
+  - has recitatives and arias and implied actions with multiple acts
+  - difference between Renaissance mass and Baroque Oratorio is difference between ritual and restraint and expressive exuberance
+- evolved from sacred dialogues
+  - by 1650, these productions were called oratorios because they were performed in small chapels called oratories
+- unlike opera, it utilized chorus with a **testo**, or a narrator
+- oratorios became popular in Italy in 17th century because of Lent. Theatrical productions were banned during this time, so oratorios were seen
+
+**Cantata**: like an oratorio but shorter
+
+- Lutheran cantatas were part of the church service
+
+**Mass**: 5 part sections of ordinary for Catholics. Lutheran mass only had the Kyrie and Gloria
+
+**Magnificat**: latin-language cantata based on the canticle of the virgin from the Gospel of Luke
+
+**Passion**: an oratorio based on one of the Gospel accounts of the events colminating in the crucifixion of Christ
+
+- Created for Holy Week services for Catholics and Christians
+
+**Motet**: cantata featuring an unaccompanied, a cappella chorus
+
+All of these genres are distinguished from Baroque opera by their use of chorus to emphasize the people or Christianity itself
+
+Why wasn't chorus used in opera?
+
+1. Expensive
+2. It could be seen in church anyway
+
+### Oratorio in England
+
+George Frederick Handel (1685-1759) was born in Lutheran Germany. Unlike Bach, Handel trained in Italy and worked in Hanover before going to England.
+
+- composed over 30 Italian operas between 1715-1740 for English audience
+- advertised well to upper class
+- by 1740, audiences were smaller because of growing middle class that didn't favour aristocrastic music. Hence, Handel started writing oratorios. He wrote 26, including Saul, Solomon, and Messiah
+
+Messiah was composed in 24 days. **PART 1** is almost entirely narrative, discusses the prophecy of the Messiah's coming, Christ's birth, and the announcement of redemption for all people. **PART 2** describes human redemption through Christ's sacrifice, humankind's rejection of that redemption, and humankind's defeat by God by their opposition to His power. **PART 3** represents eternal life through Christ the Redeemer.
+
+Hallelujah Chorus
+
+- the king stood during the Hallelujah chorus. Because of that, it is customary to stand for that chorus to this day
+- 3 types of writings: homophony when chorus begins, voices are united in singing word hallelujah; imitative polyphony (and he shall reign forever and ever); and responsorial singing: the soprano sings "King of Kings, Lord of Lords" followed by the the alto, tenor, and basses response "Forever, Hallelujah"
