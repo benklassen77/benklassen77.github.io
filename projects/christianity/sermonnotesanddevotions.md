@@ -1,4 +1,4 @@
-# Devotions and Sermon Notes
+# [Devotions and Sermon Notes](http://benjaminklassen.com)
 
 - [Devotions and Sermon Notes](#devotions-and-sermon-notes)
   - [April 19 2020 - Scandalous 1](#april-19-2020---scandalous-1)
