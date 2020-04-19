@@ -28,6 +28,8 @@
     - [Oratorio in England](#oratorio-in-england)
   - [Lecture 14 - Lutheran Church Cantata](#lecture-14---lutheran-church-cantata)
     - [Lutheran 'Chorale' and Congregational Hymn](#lutheran-chorale-and-congregational-hymn)
+  - [Lecture 15 - Passacaglia](#lecture-15---passacaglia)
+    - [Composers, Inspiration and Craft](#composers-inspiration-and-craft)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -822,3 +824,40 @@ Eg. Bach's Cantata No. 140
 - third and sixth movement are duets
 
 **Fugato**: a passage that sounds like exposition of a fugue that's not in a fugue
+
+## Lecture 15 - Passacaglia
+
+### Composers, Inspiration and Craft
+
+Musical form is the most important factor in determining how music is expressed
+
+- how many large sections of music there are within a movement of music, and how those sections are related to one another
+- in vocal music, the poetic structure of the words being set almost invariably determines the form of the piece of music that results
+- in instrumental music, form is the result of compositional processes: repetition, variation, contrast, and development. Unlike vocal music (bounded by words), instrumental music bounded only by time
+
+Baroque was key to allowing instrumental music to become established in its own right.
+
+**Baroque Variations Procedures**: musical forms or processes that are based on an ongoing process of variation. A movement will state a theme, followed by sections that vary the theme as well
+
+**Passacaglia**: type of baroque variation, along with others such as ground bass, chaconne, and ciacona
+
+- theme is a bass line or a harmonic progression built upon that bass line. Once stated, bass line or harmonic progression is cyclically repeated on the same pitches until the end.
+- cyclical repetition of the bass line or the harmonic progression is the **given**, or the formal element shared between the composer and the audience. The upper voices layered on top are **varied**
+- each new cycle, or **repetition** of the bass line is considered a variation because of the changing nature of the material above it
+- typical of Baruqoe because theme is structural rather than a surface element
+  - structural theme controls how song sounds
+
+Eg. Dido's Lament (Purcell)
+
+- typical of passacaglia, the aria begins monophonically with the bass line played by itself
+  - fugue also starts monophonically with a subject in a single voice. There are, however, differences
+    - in a fugue, second voice to enter etc, will enter w/ the subject. In a passacaglia, we hear the theme repeated verbatim in the bass
+- fluid because the melodic line's phrases don't always correspond to the beginnings and ends of the ground bass theme
+- theme is structural element. When listening to this song, don't focus on bassline but rather on voice
+
+Eg. Passacaglia in C Minor for Organ (Bach 1715)
+
+- there are 3 clusters of variations:
+  - variations 1-10 have steady buildup of polyphonic and rhythmic complexity
+  - variations 11-15 has a theme out of the deep bass, up an octave or 2, and has successively more quiet upper voices. This creates the illusion of musical departure
+  - variations 16-20 has the ground bass theme back in the deep bass, volume increased, and the earlier heavy mood resumes
