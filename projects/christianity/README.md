@@ -1,4 +1,4 @@
-# Christianity
+# [Christianity](http://benjaminklassen.com)
 
 ## [Lakeside Sermons](lakesidesermon.html)
 
