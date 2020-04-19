@@ -5,7 +5,6 @@
 ## [Mechanics](courses/mechanics/)
 
 - Solid Mechanics
-- Fluid Mechanics
 
 ## [Material Engineering](courses/materials/)
 
@@ -18,9 +17,14 @@
 
 ## [Computer Languages](courses/computer/)
 
-- Matlab
-- VBA
 - Python
+
+## [Personal Projects](projects/)
+
+- Christianity
+- Home-building
+- Music
+- Recipes
 
 ## [Programs](programs/)
 
@@ -40,16 +44,9 @@
 - Highway Design
 - Pavement Design
 
-## [Mathematics](courses/math/README.md)
+## [Mathematics](courses/math/)
 
 - Statistics
 - Calculus
 - Linear Algebra
 - Differential Equations
-
-## [Personal Projects](projects/README.md)
-
-- Recipes
-- Gardening
-- Home-building
-- Music-appreciation
