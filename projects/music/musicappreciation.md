@@ -30,6 +30,7 @@
     - [Lutheran 'Chorale' and Congregational Hymn](#lutheran-chorale-and-congregational-hymn)
   - [Lecture 15 - Passacaglia](#lecture-15---passacaglia)
     - [Composers, Inspiration and Craft](#composers-inspiration-and-craft)
+  - [Lecture 16 - Ritornello Form and Baroque Concerto](#lecture-16---ritornello-form-and-baroque-concerto)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -600,6 +601,7 @@ Ancient Greek drama is thought to be a forerunner to opera
 - noun that ends with an 'o' is masculine; a noun that ends with an 'a' is feminine
   - spaghetti singular is spaghetto
 - plural ending for masculine or gender-neutral nouns is an 'i'; for feminine nouns an 'e'
+- if ends in ino, is diminutive. Means little
 
 ### Renaissance and Rebirth of Greek Ideal
 
@@ -861,3 +863,59 @@ Eg. Passacaglia in C Minor for Organ (Bach 1715)
   - variations 1-10 have steady buildup of polyphonic and rhythmic complexity
   - variations 11-15 has a theme out of the deep bass, up an octave or 2, and has successively more quiet upper voices. This creates the illusion of musical departure
   - variations 16-20 has the ground bass theme back in the deep bass, volume increased, and the earlier heavy mood resumes
+
+## Lecture 16 - Ritornello Form and Baroque Concerto
+
+**Instrumental Genre**: distinctive types or categories of instrumental compositions
+
+- **Chamber work**: a piece of music written for one player per part. Eg. String Quartet (2 violins, viola, and cello)
+- **Orchestral work**: a piece of music in which one or more of the parts is doubled
+- **Chamber orchestra**: instrumental ensumble that looks like a mini orchestra, in which we have one of each major orchestral instrument, though none of them are doubled
+  - one of each of: 1st violin, 2nd violen, viola, cello, bass, flute, oboe, clarinet, bassoon, french horn, piano, conductor
+
+Baroque Opera Orchestra: most important orchestra of late 16th and early 17th century
+
+- served persons and propoganda of Louis IV
+- **French Overture** was one of the first orchestral works composed as an orchestral work
+- **Italian Overture (Sinfonie)** evolved into the symphony during the Classical Era
+
+**Orchestral Suite**: collections of dances (ballet episodes) that were extracted from French operas, arranged for orchestra, and published as self-standing works
+
+**Baroque Concerto**: consists of one or more instrumental soloists accompanied by, or pitted against the body of the orchestra
+
+- theatrical as it contrasts individual (soloist) and collective (orchestra)
+- by High Baroque (1700-1750), concerto was the single most important genre of orchestral music
+- composed by Vivaldi, Telemond, Handel and Bach
+  - eg. Brandenburg Concerti or Four Seasons
+
+Eg. Brandenburg Concerto no. 5 in D Major (Bach 1721)
+
+- ripieno concerto
+- sent to prince of Brandenburg in search of a job
+- thematic statements, or ritornello, are played homophonicaly in a concerto grosso. Solo episodes are played polyphonic
+
+Types of Baroque Concerti
+
+- **Orchestral (ripieno) concerto**: scored for strings and basso continuo alone, in which there are no particular soloists and the first violins collectively play principal melodic material. Not a symphony because of its themes and content
+- **Concerto grosso**: means the big or grand concerto. Features 2, 3, or 4 soloists
+- **Solo concerto**: features a single soloist accompanied by, or pitted against, an orchestra
+  - great composers were corelli, vivaldi, and bach
+
+**Tutti**: entire ensemble, orchestra and soloist
+
+**Ripieno**: accompanying ensemble (orchestra but no soloists)
+
+**Concertino**: soloists in a concerto grosso
+
+- ino means little, inferring literally small ensemble
+
+While Fugues and Passacaglias are monothematic, concerti have a contrast between soloist and ensemble, making them special
+
+- Most High Baroque concerti had 3 movements
+  - 1st movement structured in ritornello form; the opening musical idea returns periodically
+  - 2nd movement will be a slow movement (adagio) meant to provide a lyric respite from the rigors of the 1st movement
+  - 3rd movement will by fast and fugue-like
+
+Antonio Vivaldi (1678-1741) was from Venice
+
+- taught Bach how to teach concerti
