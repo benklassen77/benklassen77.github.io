@@ -32,6 +32,9 @@
     - [Composers, Inspiration and Craft](#composers-inspiration-and-craft)
   - [Lecture 16 - Ritornello Form and Baroque Concerto](#lecture-16---ritornello-form-and-baroque-concerto)
   - [Lecture 17 - The Enlightenment](#lecture-17---the-enlightenment)
+  - [Lecture 18 - Viennese Classical Style: Homophony and Cadence](#lecture-18---viennese-classical-style-homophony-and-cadence)
+  - [Lecture 19 - Theme and Variations](#lecture-19---theme-and-variations)
+  - [Lecture 20 - Minuet and Trio](#lecture-20---minuet-and-trio)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -991,3 +994,66 @@ Like an adolescent rejects his parents to define himself, Classical Era rejected
 > Music is an innocent luxury, unnecessary to our existence but a great improvement and gratification of the sense of hearing - Charles Burney
 
 - Bach would've punched Burney and said, "Music is a gift from God to be used only in His Honour dimwit"
+
+## Lecture 18 - Viennese Classical Style: Homophony and Cadence
+
+Classical style celebrated melodic beauty and clarity above all else. It contained:
+
+1. Clarity and beauty of line (melody)
+2. Balance and purity of form (clear structures)
+3. Expressive restraint and good taste
+
+- Pachelbel's Canon (1700)
+  - Not a canon at all, but a passacaglia
+  - monothematic, rhythmically continuous, and cyclically organized
+  - once theme stated, repetitions are cycled and slightly different or almost interchangeable.
+
+**Cadence**: harmonic or melodic formula that occurs at the end of a phrase, section, or movement that conveys a momentary or permanent sense of conclusion. A musical punctuation mark
+
+- Classical put emphasis on this, while Baroque downplayed
+- There are 4 types of cadences
+
+1. **Open or Half Cadence**: in any key, there is a chord that creates tremendous dissonance, tension, and need to resolve. That chord is the one built on the pitch of a perfect fifth above the tonic of any key
+2. **Closed Cadence**: resolves from the dominant chord to the tonic chord. Equivalent of a period
+3. **Deceptive Cadence**: dominant chord resolves, but not to the tonic. After this, one has to search for the tonic to close at the end
+4. **Plagal (Amen) Cadence**: consists of chord progression from subdominant to tonic
+
+Baroque Cyclical Structure vs. Classical Linear Structure
+
+- in Baroque, jazz, or rock, stopping does not occur for cadences. However, they do occur for classical
+
+## Lecture 19 - Theme and Variations
+
+- adapted from Baroque ground bass
+
+Closed cadence seals off section of music from whatever comes next.
+
+Three ways music can relate to each other: repetition, variation, and contrast
+
+**Variation** features the same thematic material but set differently. Eg. passacaglia
+
+- many songs based on an existing theme in order to show the ability of the composer to adapt it
+- each variation will have the same basic harmonic and cadence structure as the theme
+- each variatin will have the same internal phrase structure as the theme
+
+In Mozart's Theme and Variations
+
+- theme first presented very simply. aababa with easily perceived cadences
+- theme is duple, or has notes grouped by 2. Homophonic
+- structurally, each variation will mirror the theme
+- 2nd variation has aaba
+- 8th variation has minor with appearance of imitative polyphony
+- 10th variation crosshand
+
+## Lecture 20 - Minuet and Trio
+
+**Menuetto**: minuet and trio form
+
+Stylized Dances
+
+- instrumental works based on rhythms and moods of various dances, but intented for listening rather than dancing
+- called partitas, suites, or orchestral suites
+- eg. ragtime is a stylized dance
+- rock and roll is dance music
+- Baroque dance music was homophonic
+  - **Gavotte**: 2-step of french origin. Lully and rameau wrote these
