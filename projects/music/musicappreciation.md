@@ -31,6 +31,7 @@
   - [Lecture 15 - Passacaglia](#lecture-15---passacaglia)
     - [Composers, Inspiration and Craft](#composers-inspiration-and-craft)
   - [Lecture 16 - Ritornello Form and Baroque Concerto](#lecture-16---ritornello-form-and-baroque-concerto)
+  - [Lecture 17 - The Enlightenment](#lecture-17---the-enlightenment)
 
 ## Lecture 1 - Music As A Mirror
 
@@ -919,3 +920,74 @@ While Fugues and Passacaglias are monothematic, concerti have a contrast between
 Antonio Vivaldi (1678-1741) was from Venice
 
 - taught Bach how to teach concerti
+
+## Lecture 17 - The Enlightenment
+
+Comparison of instrumentation, texture, nature, and expressive content between Baroque and Classical
+
+|Bach's Fugue in C-|Beethoven's Piano Sonata in C- op. 13 2nd Movement|
+|----|----|
+|Harpsicord|Piano|
+|Polyphonic|Homophonic|
+|Highly motivic|amotivic|
+|Exuberance tempered by control|Contrived to sound like a human voice. About subtle, direct and natural feeling|
+
+**Dynamics**: relative loud or soft in a given section of music. If fixed, like harpsichord, it cannot change volume
+
+- Baroque dynamics are called terrace dynamics because they're either loud or soft
+- Harpsichord's quick attack and decay, and inability to have dynanics makes it the ideal keyboard instrument for the complex melodies and polyphonic textures found in Baroque-era keyboard music
+
+Bartolomeo Cristofori: piano inventor
+
+- called it **Gravicembalo col piane e forte**, or big harpsichord with soft and loud
+
+Classica Era (1750-1827, or death of Bach to death of Beethoven)
+
+- dates are lousy. Eg. Giovanni Pergolesi's La serva padrona opera in 1733. 1730-1760 contained both Baroque and Classical
+
+**The Enlightenment**: period between 1730-1780
+
+- institutions of Europe slowly lower their focus from the aristocracy and the clergy to the middle class
+
+Before, the aristocracy owned the land, which allowed farming and all sorts of production to occur. By early 18th century, new patterns of trade, manufacturing, population growth, and beginnings of Industrial Revolution shifted some wealth from inherited land to accumulated cash
+
+> In the new, dynamic, entrepreneurial atmosphere, the principal aim in life was to make money, found a dynasty, and buy a landed position. "Without money, there is no respect, honour, or convenience to be acquired in life [Tobias Smollett]" - James Burke
+
+People wanted education, some political power, and more control over their own lives. Universal education first emerged during the enlightenment. People also wanted an end to social and religious injustice. They also wanted comfort, mobility, and a high quality of life. Thus, **enlightenment humanism** suggested that life on earth and the quality of that life was as important as afterlife through religion. In 1760s, 70s, and 80s, powerful people obliged.
+
+**Cosmopolitanism** saw nationalism downplayed in favor of the common humanity of all people. While ideals existed, the following still existed:
+
+- slavery
+- imperialism
+- parochialism
+
+Cosmopolitanism influenced classical music. Common international musical style would eventually be known as the classical style
+
+- combined melodic fluency of Italians; rigor and spirituality of the Germans; and instrumental techniques and technology of the French
+- music obscured nationalities of composers
+
+With enlightenment, middle class wanted free time, and spent it on music. Bach's music was seen as for the royal or very wealthy, while classical appealed to the people. Classical was considered natural (good), while Baroque music was considered unnatural.
+
+Eg. Mozart's Eine kleine Nachtmusik Mov. 2
+
+- homophonic
+- sounds like the human voice
+- principal theme is a tune, the point of the piece
+- lyric melody (tunes) are characteristic of classical era
+
+**Amateurism**: rise of people who aren't professionals but play at home
+
+- play pieces that they are both able to play and want to play
+- fugue's sound easy, but they're hard to play. Amateurs like songs that are easy but sound difficult.
+
+Eg. Piano Sonata in C+ (Mozart) Movement 1
+
+- seems easy, but is harder than you think
+- been designed intentionally to seem simple
+- mozarts complexities lie below the surface of the music. Phrase structure, accompanimental texture, harmonic motion, thematic contrast, motivic development, and differentiating thematic music from transitional music. Bach carries complexities on the surface
+
+Like an adolescent rejects his parents to define himself, Classical Era rejected Baroque music as unnatural, overcomplicated, and elitist. Enlightenment viewed music as decorative art rather than spiritual.
+
+> Music is an innocent luxury, unnecessary to our existence but a great improvement and gratification of the sense of hearing - Charles Burney
+
+- Bach would've punched Burney and said, "Music is a gift from God to be used only in His Honour dimwit"
