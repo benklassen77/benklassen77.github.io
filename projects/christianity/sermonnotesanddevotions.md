@@ -19,7 +19,7 @@ Maturity requires proximity
 
 > 1 Corinthians 5:5, "It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles—that a man has his father’s wife! And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you. For I indeed, as absent in body but present in spirit, have already judged (as though I were present) him who has so done this deed. In the name of our Lord Jesus Christ, when you are gathered together, along with my spirit, with the power of our Lord Jesus Christ, deliver such a one to Satan for the destruction of the flesh, that his spirit may be saved in the day of the Lord Jesus."
 
-- The Jesus COmmunity is an Imperfect Community
+- The Jesus Community is an Imperfect Community
 - Tolerance inside the church is empty faith
   - Sometimes, "get out" is the right response
   - Transformation requires crucial conversation
