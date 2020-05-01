@@ -6,7 +6,8 @@
 <ul>
 <li><a href="baking/bananachipmuffin.pdf">Banana Chocolate Chip Muffin</a></li>
 <li><a href="baking/cinnamonbun.pdf">Cinnamon Bun</a></li>
-<li><a href="baking/sourdough.pdf">Sourdough</a></li>
+<li><a href="baking/sourdough.pdf">Sourdough Bread</a></li>
+<li><a href="baking/sourdoughpancake.pdf">Sourdough Pancake</a></li>
 </ul>
 </p>
 </details>
