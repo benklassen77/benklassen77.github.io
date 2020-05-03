@@ -22,7 +22,7 @@
 ## [Personal Projects](projects/)
 
 - Christianity
-- Home-building
+- Home building
 - Music
 - Recipes
 
