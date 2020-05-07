@@ -12,6 +12,8 @@
   - [SymPy](#sympy)
     - [Calculus](#calculus)
     - [Equation Solving](#equation-solving)
+  - [Pandas](#pandas)
+    - [Important Panda Functions](#important-panda-functions)
 
 ## Basic Syntax
 
@@ -420,3 +422,69 @@ display(res.args[0]
 ```
 
 - Indexing must be done with .args[indice] because SymPy outputs answers as a **Finite Set**, and .args converts to iterable object
+
+## Pandas
+
+**Dataframe**: 2D data structure with header, columns, and rows
+
+To create a dataframe, use function **pd.DataFrame()**
+
+```py
+import pandas as pd
+df=pd.DataFrame({"A":[4,2,6],"B":[9,1,8],"C":[5,7,4]},index=[1,2,3])
+display(df)
+```
+
+If one wanted to create a dataframe from a numpy array, see below
+
+```py
+import numpy as np
+mat=np.random.randint(0,10,(4,4))
+numpy_df=pd.DataFrame(mat,columns=['A','B','C','D'])
+numpy_df
+```
+
+### Important Panda Functions
+
+- df.**sort_values("column_header")**: sorts values in ascending order in column B
+- df.**rename**(columns={"previous_name1":":new_name1","previous_name2":"new_name2"},index={0:"new_name",...})
+- df.**drop**(columns={"B"},index={1,3}): drops column B but keeps only rows indexed 1 and 3
+- df.**reset_index(drop:True)**: resets index after drop makes it discontinuous
+- pd.**concat**([df1,df2]): concatenates two predefined dataframes along axis 0, or vertically
+  - since concatenated vertically, both dataframes must have identical headers. If wanted to concatenate horizontally, specify axis=1. In this case, all rows need identical indices
+
+There are multiple ways to extract data, or slice, a dataframe
+
+```py
+df=pd.DataFrame(np.random.randint(0,10,(3,5)),columns=["a","b","c","d","e"])
+
+# Below are a few ways to filter dataframe
+
+display(df[["a","c"]]) # Displays only a and c columns
+display(df.filter(regex="b")) # Displays only column b
+display(df.loc[:,"b":"d"]) # Displays all rows, with columns between b and d as a dataframe
+display(df.iloc[2,3]) # Displays value located at index (2,3)
+```
+
+The use of **regex** can be very useful for other searches, for example
+
+- **\,** finds strings containing a comma
+- **size$** finds strings ending with word size
+- **^size** finds strings beginning with word size
+- **^b[1-3]$** finds strings beginning with letter b and ending with 1,2,3
+
+Sometimes, a complex header or index is desired. This requires the pd.**MultiIndex.from_tuples** function. See example below:
+
+```py
+# This header has main headings A and B, with subheadings xy and uv
+header=pd.MultiIndex.from_tuples([("A","x"),("A","y"),("B","u"),("B","v")])
+
+# This index is really a 4x2 matrix
+ind=[np.array(["M","M","N","N"]),np.array(["bar","foo","baz","qux"])]
+
+data=np.array([[9,4,8,5][4,4,0,1][5,7,4,5][6,6,2,2]])
+df=pd.DataFrame(data,columns=header,index=ind)
+
+# If someone wanted to index, here is how it would be done
+df.loc[("M","foo"),("A","x")]
+```
