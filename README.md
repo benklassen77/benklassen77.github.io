@@ -5,6 +5,7 @@
 ## [Mechanics](courses/mechanics/)
 
 - Solid Mechanics
+- Fluid Mechanics
 
 ## [Material Engineering](courses/materials/)
 

@@ -2,4 +2,6 @@
 
 ## [Linear Algebra](linalg.md)
 
-## [Calculus](calculus.md)
+## [Calculus](calculus.html)
+
+## [Differential Equations](de.html)
