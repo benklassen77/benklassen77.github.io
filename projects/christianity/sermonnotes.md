@@ -4,6 +4,7 @@
   - [April 19 2020 - Scandalous 1](#april-19-2020---scandalous-1)
   - [April 26 2020 - Scandalous 2](#april-26-2020---scandalous-2)
   - [May 3 2020 - Scandalous 3](#may-3-2020---scandalous-3)
+  - [May 10 2020 - Enlightened & Adopted](#may-10-2020---enlightened--adopted)
 
 ## April 19 2020 - Scandalous 1
 
@@ -49,3 +50,17 @@ Why would it say "why not rather be wronged"?
 - Paul is not saying to not go to court or that justice shouldn't happen. he's saying why not seek wisdom and why are they not humble
 - Losing is winning according to Jesus
 - No scandal that is greater than God's scandalous grace. Jesus will mend your heart
+
+## May 10 2020 - Enlightened & Adopted
+
+> John 1:12-13, "But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God."
+
+- it's not from ourselves and our efforts, but from delving into God's Word that saves us
+- child of God is being a Christian. If you are not a Christian, you are not a child of God
+
+Being part of the family of God means we have been saved. Benefits of being part of the family:
+
+1. **Access**: We have access to God the Father. We are walking temples, and have access to God 100% of the time
+2. **Identity**: we have identity in God that doesn't change based on our culture, family, or work. We are not defined by past failure but by future purpose
+
+Jesus is proud to call us part of His family. The good news of God is to forgive all of what you have done to make you a Child.
