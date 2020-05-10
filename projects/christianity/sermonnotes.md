@@ -4,7 +4,9 @@
   - [April 19 2020 - Scandalous 1](#april-19-2020---scandalous-1)
   - [April 26 2020 - Scandalous 2](#april-26-2020---scandalous-2)
   - [May 3 2020 - Scandalous 3](#may-3-2020---scandalous-3)
-  - [May 10 2020 - Enlightened & Adopted](#may-10-2020---enlightened--adopted)
+  - [May 10 2020](#may-10-2020)
+    - [Enlightened & Adopted](#enlightened--adopted)
+    - [Now What? 1](#now-what-1)
 
 ## April 19 2020 - Scandalous 1
 
@@ -41,7 +43,7 @@ People in Corinth struggling with old societal values
 - Jesus way is countercultural
 - Community of Jesus is restoration and reclamation
 - At the time in Corinth, people would slander etc. in court and it was important to move up in the social ladder
-  - Paul; was strongly opposed to this
+  - Paul was strongly opposed to this
 - Jesus is opposed to shame, and so to is the church. Unfortunately, many churches practice shaming
 - Paul says to not go to court
 
@@ -51,7 +53,9 @@ Why would it say "why not rather be wronged"?
 - Losing is winning according to Jesus
 - No scandal that is greater than God's scandalous grace. Jesus will mend your heart
 
-## May 10 2020 - Enlightened & Adopted
+## May 10 2020
+
+### Enlightened & Adopted
 
 > John 1:12-13, "But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God."
 
@@ -64,3 +68,12 @@ Being part of the family of God means we have been saved. Benefits of being part
 2. **Identity**: we have identity in God that doesn't change based on our culture, family, or work. We are not defined by past failure but by future purpose
 
 Jesus is proud to call us part of His family. The good news of God is to forgive all of what you have done to make you a Child.
+
+### Now What? 1
+
+- biggest lifechanges come out of a crisis. As well, most people come to faith or lose their faith out of a crisis. We need to make sure that coming from the COVID-19 crisis, we have life-change in a positive way
+  - as Christ followers, we need to pay close attention to emotions. When Lazarus died, Jesus wept. He felt emotions
+
+Our identify is found in the beginning, where the job given to people was to care for the earth and subdue it
+
+- how we respond to emotions has the power to change lives.
