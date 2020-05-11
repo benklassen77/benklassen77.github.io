@@ -1,11 +1,15 @@
 # Shalom
 
-[![Resume](https://i.imgur.com/lUHpgw4.png?1)](http://benjaminklassen.com/documents/professional/resume.pdf) [![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Email](https://i.imgur.com/PXQRR8U.png?1)](mailto:blklasse@uwaterloo.ca)
+[![Resume](https://i.imgur.com/lUHpgw4.png?1)](http://benjaminklassen.com/documents/professional/resume.pdf) [![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Email](https://i.imgur.com/PXQRR8U.png?1)](mailto:blklasse@uwaterloo.ca) [![Schedule](https://i.imgur.com/oOc3dhj.png?1)](https://app.asana.com/0/home/1175149776850248)
 
 ## [Mechanics](courses/mechanics/)
 
 - Solid Mechanics
 - Fluid Mechanics
+
+## [Management](courses/management/)
+
+- ECON
 
 ## [Material Engineering](courses/materials/)
 
@@ -15,6 +19,13 @@
 - Glass
 - Polymers
 - Corrosion/Fatigue
+
+## [Mathematics](courses/math/)
+
+- Statistics
+- Calculus
+- Linear Algebra
+- Differential Equations
 
 ## [Computer Languages](courses/computer/)
 
@@ -44,10 +55,3 @@
 - Airport Design
 - Highway Design
 - Pavement Design
-
-## [Mathematics](courses/math/)
-
-- Statistics
-- Calculus
-- Linear Algebra
-- Differential Equations
