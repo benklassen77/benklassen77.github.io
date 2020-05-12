@@ -2,4 +2,4 @@
 
 ## [Solid Mechanics](SolidMechanics.html)
 
-## [Fluid Mechanics](fluidmechanics.html)
+## [Fluid Mechanics](fluidmechanics.md)
