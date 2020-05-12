@@ -13,12 +13,8 @@
 
 ## [Material Engineering](courses/materials/)
 
-- Concrete
-- Asphalt
-- Wood
-- Glass
-- Polymers
-- Corrosion/Fatigue
+- Metals, Wood and Polymers
+- Engineering Sustainability
 
 ## [Mathematics](courses/math/)
 
