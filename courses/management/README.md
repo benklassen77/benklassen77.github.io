@@ -1,3 +1,3 @@
 # [Management](http://benjaminklassen.com)
 
-## [Econ](econ.md)
+## [Econ](econ.html)
