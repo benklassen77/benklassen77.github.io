@@ -64,3 +64,5 @@ Eg. $R_e = \frac{\rho VD}{\mu}$, w/ $\rho$ being fluid density, $\mu$ being flui
 
 1. Isolate for $\mu$
 2. Sub in respective MLT or FLT units per variable
+
+change
