@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Fluid Mechanics</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
+    <body class="vscode-light">
+        <h1 id="fluid-mechanics">Fluid Mechanics</h1>
+<ul>
+<li><a href="#fluid-mechanics">Fluid Mechanics</a>
+<ul>
+<li><a href="#textbook">Textbook</a></li>
+<li><a href="#lecture-1---introduction">Lecture 1 - Introduction</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="textbook"><a href="http://benjaminklassen.com/documents/courses/fluid/fluidtextbook.pdf">Textbook</a></h2>
+<h2 id="lecture-1---introduction">Lecture 1 - Introduction</h2>
+<p>Water exists in 3 states. Below is a comparison amongth these.</p>
+<ul>
+<li>solids are tightly packed. Holds shape w/o container. The molecules are not mobile due to strong intermolecular forces, causing small molecular spacing</li>
+<li>liquids are less packed. Takes shape of container. Molecules freely move even though there are strong intermolecular forces, causing small molecular spacing</li>
+<li>gases are very free. Expand to fill closed container. Molecules move freely w/ interaction, and have large molecular spacing</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Solid</th>
+<th>Liquid</th>
+<th>Gas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Density</td>
+<td>Higher</td>
+<td>Higher</td>
+<td>Lower</td>
+</tr>
+<tr>
+<td>Shear Stress Effect</td>
+<td>Deformation</td>
+<td>Flow, Continual def</td>
+<td>Flow, cont. def</td>
+</tr>
+<tr>
+<td>Normal Stress Effect</td>
+<td>Def</td>
+<td>Def</td>
+<td>Def</td>
+</tr>
+<tr>
+<td>Compressibility</td>
+<td>Difficult</td>
+<td>Difficult</td>
+<td>Easier</td>
+</tr>
+<tr>
+<td>Viscosity</td>
+<td>N/A</td>
+<td>Higher; dec. as temp inc.</td>
+<td>Lower; inc. as temp inc.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Fluid</strong>: a substance that continually deforms under shear stress. Liquids and gases are both fluids</p>
+<ul>
+<li>special materials exist where solids behave like liquids</li>
+<li>fluids of interest are liquid water and gaseous air between temperature of 0º - 40º C</li>
+<li>for air, N = 78.08%, O = 20.95%, Argon = 0.93%, carbon dioxide = 0.035%</li>
+</ul>
+<p><strong>Fluid Mechanics</strong>: study of fluids under all conditions of rest and motion. 3 categories:</p>
+<ol>
+<li>Statics (fluids at rest)</li>
+<li>Kinematics (fluids in motion w/o considering cause of motion)</li>
+<li>Dynamics (fluids in motion considering the causes of motion)</li>
+</ol>
+<p><strong>Hydraulics</strong>: science that deals w/ mechanical behaviour of water at rest or in motion</p>
+<ul>
+<li>more empirical than fluid mechanics, occuring on a large scale</li>
+</ul>
+<p><strong>Dimension</strong>: measurement w/o units</p>
+<ul>
+<li><strong>Primary dimension</strong>: dims upon which other dims are based</li>
+<li><strong>Secondary/Derived dimension</strong>: expressed using primary dims</li>
+</ul>
+<p>2 systems of dims:</p>
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Primary Dims</th>
+<th>Derived Dims</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MLT System</td>
+<td>Mass (M)</td>
+<td>Force (F) = (ML)/(T^2)</td>
+</tr>
+<tr>
+<td></td>
+<td>Length (L)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Time (T)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Temperature (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>θ</mi></mrow><annotation encoding="application/x-tex">\theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span></span></td>
+<td></td>
+</tr>
+<tr>
+<td>FLT System</td>
+<td>Force (F)</td>
+<td>Mass (M) = (FT^2)/L</td>
+</tr>
+<tr>
+<td></td>
+<td>Length (L)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Time (T)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Temperature (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>θ</mi></mrow><annotation encoding="application/x-tex">\theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span></span>)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://i.imgur.com/oduQHve.png?1" alt="Units"></p>
+<p>Mathematical equations must be dimensionally homogeneous to be correct. Check w/ dim balance</p>
+<p>Eg. <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>R</mi><mi>e</mi></msub><mo>=</mo><mfrac><mrow><mi>ρ</mi><mi>V</mi><mi>D</mi></mrow><mi>μ</mi></mfrac></mrow><annotation encoding="application/x-tex">R_e = \frac{\rho VD}{\mu}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">e</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.4055469999999999em;vertical-align:-0.481108em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.924439em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">μ</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">ρ</span><span class="mord mathdefault mtight" style="margin-right:0.22222em;">V</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>, w/ <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ρ</mi></mrow><annotation encoding="application/x-tex">\rho</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">ρ</span></span></span></span> being fluid density, <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">μ</span></span></span></span> being fluid dynamic viscosity. V being avg pipe velocity, D being pipe diameter, and R being Reynolds number is dimensionless. <em>Dims of viscosity (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">μ</span></span></span></span>)?</em></p>
+<ol>
+<li>Isolate for <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">μ</span></span></span></span></li>
+<li>Sub in respective MLT or FLT units per variable</li>
+</ol>
+
+    </body>
+    </html>
