@@ -1,35 +1,114 @@
 <!DOCTYPE html>
     <html>
-        <head>
-            <meta charset="UTF-8">
-            <title>ECON</title>
-            
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
-            
-            <style>
-    .task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
-    </style>
-            <style>
-                body {
-                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
-                    font-size: 14px;
-                    line-height: 1.6;
-                }
-            </style>
-            
-            
-        </head>
+    <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <title>Microeconomics</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+        <script>
+            $(document).ready(function() {
+                // wrap everything in bootstrap container
+                str = document.body.innerHTML
+                document.body.innerHTML = "<div class=\"container\"></div>"
+                document.querySelector("body div.container").innerHTML = str
+    
+                // make table look better
+                document.querySelectorAll("table").forEach(function(e) { e.classList += "table table-sm table-bordered col-md-6" })
+                document.querySelectorAll("blockquote").forEach(function(e) { e.classList.add("blockquote") })
+                document.querySelectorAll("img").forEach(function(e) { e.classList.add("img-fluid"); e.classList.add("img-thumbnail"); })
+            })
+        </script>
+    
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
     <body class="vscode-light">
-        <h1 id="econ">Econ</h1>
+        <h1 id="microeconomics">Microeconomics</h1>
 <ul>
-<li><a href="#econ">Econ</a>
+<li><a href="#microeconomics">Microeconomics</a>
 <ul>
 <li><a href="#textbook">Textbook</a></li>
+<li><a href="#lecture-1---what-is-economics--engineering-decision-making">Lecture 1 - What is Economics &amp; Engineering Decision Making</a>
+<ul>
+<li><a href="#defining-economics">Defining Economics</a></li>
+<li><a href="#engineering-decision-making">Engineering Decision Making</a></li>
+<li><a href="#dealing-w-abstractions">Dealing w/ Abstractions</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 <h2 id="textbook"><a href="http://benjaminklassen.com/documents/courses/management/econ/econtext.pdf">Textbook</a></h2>
+<h2 id="lecture-1---what-is-economics--engineering-decision-making">Lecture 1 - What is Economics &amp; Engineering Decision Making</h2>
+<h3 id="defining-economics">Defining Economics</h3>
+<p><strong>Economics (1935)</strong>: the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses</p>
+<p><strong>Microeconomics</strong>: the study of how individual units (people or businesses) allocate their scarce resources, and the consequences of their decisions for markets and the entire economy</p>
+<ul>
+<li><strong>Welface economics</strong> is concerned w/ impacts of change on the well-being of various groups in the economy</li>
+<li><strong>Transportation economics</strong> is concerned w/ society's use of scarce resources for the movement of goods and people from point A -&gt; B</li>
+<li><strong>Environmental economics</strong> is concerned w/ economic consequences of policies aimed at pricing pollution etc.</li>
+<li><strong>Ecological economics</strong> is concerned w/ placing value on nature over human needs</li>
+<li><strong>Urban economics</strong> is concerned w/ economic issues in cities like real estate markets, housing, poverty, and transportation. It has spatial dimension and agglomeration effects</li>
+<li><strong>Engineering economics</strong> is concerned w/ analyzes techniques to choose the best option from a bunch</li>
+</ul>
+<p><strong>Macroeconomics</strong>: the study of the economy as a whole, using simplified aggregate quantities to analyze the complete interactions of the economy</p>
+<ul>
+<li>eg. GPA</li>
+</ul>
+<p>Course objectives:</p>
+<ol>
+<li>Understand how to choose the most economically efficient project</li>
+<li>Understand when to make replacements</li>
+<li>Understand how to make public-sector choices</li>
+</ol>
+<p>This understanding comes from:</p>
+<ul>
+<li>cash flow analysis</li>
+<li>comparison methods</li>
+<li>project financing</li>
+<li>sensitivity analysis</li>
+</ul>
+<h3 id="engineering-decision-making">Engineering Decision Making</h3>
+<ul>
+<li>projects use materials, money, labour, and time</li>
+<li>projects can be undertaken in different ways</li>
+<li>most economical is important
+<ul>
+<li>awareness of financial, environmental, social, and polical constraints is also essential</li>
+</ul>
+</li>
+</ul>
+<p><img src="https://i.imgur.com/s63bvsC.png?1" alt="Decision Pyramid"></p>
+<ul>
+<li>facts are used by influential personalities and powerful individuals to develop beliefs about what is best, leading to a decision</li>
+<li>in theory, facts should control politics, people and preferences. However, sometimes a decision is made and facts are searched for after the fact</li>
+<li>engineering economics provide facts about a decision</li>
+</ul>
+<h3 id="dealing-w-abstractions">Dealing w/ Abstractions</h3>
+<ul>
+<li>simplifying the real world is necessary for any engineering analysis</li>
+</ul>
+<p><img src="https://i.imgur.com/6ijcxzF.png?1" alt="Model Process"></p>
+<ul>
+<li>model is a simplification, and is only appropriate for a given purpose</li>
+<li>think about whether model assumptions are appropriate for a given purpose</li>
+<li>if we include everything in the model, it is real world and overcomplicated. By definition, models are simplifications of the real world</li>
+<li>we don't have precise values for some quantities
+<ul>
+<li><strong>Sensitivity Analysis</strong> involves assessing the effect of uncertainty on a decision</li>
+<li>a range of values can be assessed w/ reasonable certainty</li>
+<li>accessing robustness is important to determine how sensitive decisions are to different factors in order to build confidence</li>
+</ul>
+</li>
+</ul>
 
     </body>
     </html>
