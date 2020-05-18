@@ -7,6 +7,7 @@
   - [May 10 2020](#may-10-2020)
     - [Enlightened & Adopted](#enlightened--adopted)
     - [Now What? 1](#now-what-1)
+    - [Stories](#stories)
 
 ## April 19 2020 - Scandalous 1
 
@@ -77,3 +78,5 @@ Jesus is proud to call us part of His family. The good news of God is to forgive
 Our identify is found in the beginning, where the job given to people was to care for the earth and subdue it
 
 - how we respond to emotions has the power to change lives.
+
+### Stories
