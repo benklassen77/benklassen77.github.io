@@ -1,6 +1,11 @@
 # Sustainability and Engineering
 
 - [Sustainability and Engineering](#sustainability-and-engineering)
+  - [Module 1](#module-1)
+  - [Module 2 - Fundamentals of Energy, Chemistry and Growth](#module-2---fundamentals-of-energy-chemistry-and-growth)
+    - [Chemistry](#chemistry)
+    - [Energy](#energy)
+    - [Population Growth](#population-growth)
 
 ## Module 1
 
@@ -9,14 +14,14 @@
 **Unsustainability**:
 
 - climate change
-	- storms, sea level rise
+  - storms, sea level rise
 - species extinction
-	- invasive species, habitat loss
+  - invasive species, habitat loss
 - land use change
-	- deforestation, urban sprawl
+  - deforestation, urban sprawl
 - air pollution
 - social instability
-	- poverty in face of excess
+  - poverty in face of excess
 
 **Engineer**:.the application of scientific knowledge to solving  problems in the real world. While science (physics, chemistry,  biology, etc.) allows us to gain an understanding of the World and the Universe, Engineering enables this understanding to come to life  through problem solving, designing and building things
 
@@ -60,4 +65,66 @@ Today, engineers need to be
 In 2015, the UN made sustainable development goals, which are wanted to be accomplished for 2030. 
 
 ![SDG](https://i.imgur.com/NH10dOj.png?1)
+
+## Module 2 - Fundamentals of Energy, Chemistry and Growth
+
+### Chemistry
+
+1 kWh = 3.6 MJ; 1mg/M = 1g/m^3 = 1ppm; 1 mcg/L = 1mg/m^3 = 1 ppb; 1gal = 3.785L; V of 1 mol of gas @ 1atm and 25 ºC is 22.465L and contains 6.022E23 particles; $c_w$ = 2465 $\frac{KJ}{kg}$;22.4E-3 m^3/mol;
+
+$$\frac{mg}{m^3}=\frac{ppmv\times{mol W}}{22.465}}$$
+
+Material Balance
+
+- Accumulation rate = Input rate - Output rate + Reaction rate
+- Steady state, input rate = output rate
+
+### Energy
+
+Conservation of Energy
+
+**First Law of Thermodynamics**: energy neither created nor destroyed. Change in stored energy: $mc\Delta{T}$
+
+- c is specific heat
+- m is the mass flow rate
+
+**Second Law of Thermodynamics**: energy is the capacity for doing work
+
+$$n=\frac{W}{Q_h}\tag{Efficiency}$$
+
+- W = work
+
+Maximum efficiency $n=1-\frac{T_c}{T_h}$
+
+- $T_c$ is temperature of cold reservoir
+- $T_h$ is temperature of hot reservoir
+
+### Population Growth
+
+$$N_t=N_0(1+r)^t\tag{Exponential Growth}$$
+
+- J shaped curve
+
+$$N=N_0e^{rt}\tag{Continuous Compounding}$$
+
+**Kaya Identity**: equality stating that the total emission level of greenhouse gas $CO_2$ can be expressed as the product of the following:
+
+- human population
+- GPA per capita
+- energy intensity (per unit of GDP)
+- carbon intensity (per unit of energy consumed). Measure of how clean the energy used is
+
+$$F=P\cdot{\frac{G}{P}}\cdot{\frac{E}{G}}\cdot{\frac{F}{E}}$$
+
+- can be manipulated to solve energy consumption and carbon emissions conceptually
+
+**IPAT Equation**: impact comes from population, affluence, and technology
+
+- T is seen as energy intensity
+
+$$\frac{dN}{dt}=rn(1-\frac{N}{K})\tag{Logistic Growth}$$
+
+- S-shaped
+
+![Logistic Calculations](https://i.imgur.com/JlijqUM.png?1)
 
