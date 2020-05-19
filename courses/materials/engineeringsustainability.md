@@ -29,7 +29,11 @@
 
 > "Traditional patterns of industrial and economic activities are no longer viable, but alternative models are not yet developed. The historical trajectory of the industrial West cannot serve as a model for the development of the industrializing countries, but it cannot be discarded entirely. Ecological systems are severely strained by the cumulative effects of past industrialization and can scarcely support added strains due to future patterns of growth, but there are major uncertainties about what must be done and how. In short, the international community as a whole is involved in a global search for new modes of development, new designs for social interaction, and new technologies for meeting evolving needs, wants, and demands." - MIT
 
+Next
+
 > "Sustainable development is an intuitively powerful concept that, as commonly understood, provides a useful guide for development practitioners. It involves trade-offs between biological, economic, and social systems and is found in the interactive zone between these systems." - IIED
+
+Next
 
 > "Humanity has the ability to make development sustainable -to ensure that it meets the needs of the present without compromising the ability of future generations to meet their own needs. The concept of sustainable development does imply limits -not absolute limits but limitations imposed by the present state of technology and social organization on environmental resources and by the ability of the biosphere to absorb the effects of human activity." - UN
 
@@ -127,4 +131,3 @@ $$\frac{dN}{dt}=rn(1-\frac{N}{K})\tag{Logistic Growth}$$
 - S-shaped
 
 ![Logistic Calculations](https://i.imgur.com/JlijqUM.png?1)
-
