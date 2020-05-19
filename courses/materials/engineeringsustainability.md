@@ -62,7 +62,7 @@ Today, engineers need to be
 3. Multidisiplinary communicators
 4. Cathedral builders, not bricklayers
 
-In 2015, the UN made sustainable development goals, which are wanted to be accomplished for 2030. 
+In 2015, the UN made sustainable development goals, which are wanted to be accomplished for 2030.
 
 ![SDG](https://i.imgur.com/NH10dOj.png?1)
 
