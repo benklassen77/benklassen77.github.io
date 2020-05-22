@@ -7,14 +7,65 @@
 - Paul has a lot of contraversy. Tom Jefferson called him the first corrupter of the documents of Jesus
 - While Jesus was kind and patient, Paul was harsh and a bit of a bully
 
+### Non-Biblical Sources
+
+1. *Kerygmata Petrou*
+       - Late 2nd century doc
+     - Different than earlier *Kerygma Petrou*
+     - Reflects hostility to Paul regarding his antilaw teachings. Referred to Paul as Simon
+2. *Correspondence between Paul and Seneca*
+     - 3rd or 4th century doc
+     - Suggests correspondence between Paul and Seneca, a philosopher of Nero. Places Paul much like Acts 17
+3. *Acts of Paul*
+      - 2nd century doc
+      - Combination of 3 elements
+        - Legends of Thecla
+        - Martyrdom of Paul
+        - 3 Corinthians
+      - Reflects how Paul was viewed at the time, especially his attitute to women
+4. *Marcion*
+      - Marcion rejected Israel scriptures and accepted Paul's letters and edited version of Luke
+      - Wrote the antitheses
+      - Church chose to keep the other gospels and the other letters aside from those Marcion liked
+
+### New Testament Background
+
+**Canon**: criterion
+
+Bible is a list of authoritative writings recognized as Scripture. The books were put on the list by **canonization**. This was accelerated when Marcion tried to do this himself. Canonization was finished in 367 CE by Bishop Athanasius through the Easter Letter.
+
+Issues facing the early Jesus-movement
+
+1. Resurrection and 2nd coming. Everyone believed that Jesus rose, but the wait for Jesus's return brought confusion
+2. Jew-Gentile relations. Relevance of the Torah in Jewish-Gentile communities
+3. Roman-Empire. Gospel was counter imperial, the king was considered a messiah
+
+### NT Sources
+
+Logic behind Pauline organization
+
+1. Groups to individuals. Romans -> Thessalonians -> Timothy -> Philemon
+2. Large to small Romans -> 2 Thessalonians -> 1 Timothy -> Philemon
+
+Acts
+
+- Acts is selective history. Paul doesn't mention general theology, but rather convictions specific to the times and places of the people
+- Travel is strong, and is important in the intrigue of the story
+- Leaves a lot out. James and Timothy etc. Retrospective
+
+Letters
+
+- there is an agenda
+- not autobiographical
+- not systematic theology, but contextual theology
+
 Discussion response
 
-1. Paul is depicted with a long, shaggy beard wearing a red rope. His posture is typically leaning to a side, suggesting that he is deep in thought. He is never smiling. Paul is also shown either writing a letter, holding a book, or weilding a sword. Occasionally he is praying. 
+1. Paul is depicted with a long, shaggy beard wearing a red rope. His posture is typically leaning to a side, suggesting that he is deep in thought. He is never smiling. Paul is also shown either writing a letter, holding a book, or weilding a sword. Occasionally he is praying.
 2. The sword may be symbolic of either Paul's fight against the Old Law and against the sinful world or his oppressive past life. In either case, it could symbolize that Paul is willing to fight for what he believes. It could also symbolize the sufferings Paul endured as a Christian missionary. The beard may be symbolic of Paul's wisdom. As well, the books and prayer may be symbolic of Paul's devotion to the Lord.
 3. I personally visualize Paul as looking less well-kept due to his enduring sufferings. I am also surprised that Paul is depicted writing the letters, as I would have expected them to depict him telling a scribe what to say. I would have liked the images to depict an arrogance that I often think Paul possesses when I read his letters.
 4. The images of Saint Paul feature a halo around Paul's head, which is not seen in the other images. Aside from that, he looks identical.
 5. Art is truly a mirror of society. In first century context, it is likely that many would have seen Paul as either a heretic or a cult-leader. His convictions were opposed to those of religious authorities and to the Jewish faith, which had stood the test of time. In this sense, Paul's sad face and his sword could reflect 1st century views of him being a troublemaker. The beard, halo, letters, and red robe may reflect his later appearance as being one of the most prolific theologians and influencial Christ-follower in history. The beard, halo, and letters depict Paul as being wise, just, and dedicated. This change in depiction is important because interpretation of messages can change throughout time, and having a visual reference to this change can provide context for works from that respective era.
-6. 
 6. I was most interested in the red robe Paul is always wearing. After searching online, I discovered that this symbolized Paul's martyrdom. I had expected it to be symbolic of Christs blood. Thus, it is understandable that it symbolizes Paul's sacrifice for his beliefs
 7. I would have liked there to be more of God in these depictions. Giving Paul a halo and a wise demeanor glorify him rather than point to his purpose. The depiction of Paul writing the letters make it appear like human wisdom rather than Father-inspired scripture. A cross in the background of these images would have helped clear this up.
 
@@ -35,11 +86,11 @@ Paul's world was Greco-Roman
 
 - Wrote all letters in Greek
 - Alexander the Great lived 356-323 BC
-	- Conquered land all the way to India, and South to Egypt
-	- Aristotle was Alex's tutor, influencing him greatly with Greek culture. He established cities modeled after Greek ideals
-		- Had city squares *agora*, colonnades *stoas*, temples, theatres, stadiums etc
-		- Lead to widespread of Greek language. *Koine* is street Greek, and was Paul's language
-	- Lead to cosmopolitan culture of **Hellenism**, or Greekish culture
+  - Conquered land all the way to India, and South to Egypt
+  - Aristotle was Alex's tutor, influencing him greatly with Greek culture. He established cities modeled after Greek ideals
+    - Had city squares *agora*, colonnades *stoas*, temples, theatres, stadiums etc
+    - Lead to widespread of Greek language. *Koine* is street Greek, and was Paul's language
+  - Lead to cosmopolitan culture of **Hellenism**, or Greekish culture
 - Since *Koine* was used so widespread, Paul was able to communicate with places all over the place due to common language
 
 ### Roman Empire
@@ -47,8 +98,8 @@ Paul's world was Greco-Roman
 Transportation and Engineering
 
 - invented roads and safe sea-routes in order to enable the movement of troops. Similar to Hitler and Eisenhower
-	- Paul travelled along *Via Egnatia*
-	- Allowed Paul to avoid storms
+  - Paul travelled along *Via Egnatia*
+  - Allowed Paul to avoid storms
 - invented arches and bridges to optimize travel time
 - invented the dome. Eg. Pantheon
 
@@ -56,15 +107,15 @@ Military Conquests
 
 - Created *Pax Romana* in order to pacify the Mediterranean worls
 - Furthered cosmopolitan culture through slavery
-	- Greek and Roman civilizations were premised on slavery
-	- Wars of conquest created booty and slaves, which were also born to slave women
+  - Greek and Roman civilizations were premised on slavery
+  - Wars of conquest created booty and slaves, which were also born to slave women
 
 **Manumission**: the setting free of a slave
 
 - Most slaves freed by 30
-	- It was expensive to keep a slave
-	- Slaves often stayed part of extended family as freedman
-	- One method was to sell the slave to a temple. The person was them freed of the master and slave to the god
+  - It was expensive to keep a slave
+  - Slaves often stayed part of extended family as freedman
+  - One method was to sell the slave to a temple. The person was them freed of the master and slave to the god
 
 ### Urban Life
 
@@ -75,16 +126,16 @@ Nature of city life
 - agora, theatre, temples
 - wealthy had great homes, and most lived in crowded slums
 - cities were melting pots of culture
-	- districts of similar trades
-	- guilds and associations for funerary societies, which offer a model of Paul's congregation
+  - districts of similar trades
+  - guilds and associations for funerary societies, which offer a model of Paul's congregation
 
 Social Organization
 
 - *Patriarchy* in which the Father at the head, followed by mother, children, freedmen, and then slaves
 - *Patron/client relationships* existed. Society was many patron/client relationships, which was headed by the emperor. Patron helped client, who was indebted to the patron
 - *Honour/shame* was important in society. Behaviour was motivated by aquiring honour and avoiding embarrassment and shame, or dishonour. Wealthy gained honour by putting on feasts, games, building temples etc.
-	- Suggestive of philanthropy, where people might establish institutions and name them after themselves
-	- In Corinth, Paul insists that he works with his own hands. Paul suggests that he is a slave of Christ, and that people are to imitate a master who was the ultimate slave. Paul stressed humility, which was radical
+  - Suggestive of philanthropy, where people might establish institutions and name them after themselves
+  - In Corinth, Paul insists that he works with his own hands. Paul suggests that he is a slave of Christ, and that people are to imitate a master who was the ultimate slave. Paul stressed humility, which was radical
 
 ### Religion
 
