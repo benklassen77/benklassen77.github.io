@@ -46,6 +46,8 @@
 </li>
 <li><a href="#viscosity">Viscosity</a></li>
 <li><a href="#lecture-3---surface-tension">Lecture 3 - Surface Tension</a></li>
+<li><a href="#lecture-4---continuation">Lecture 4 - Continuation</a></li>
+<li><a href="#hydrostatic-pressure">Hydrostatic Pressure</a></li>
 </ul>
 </li>
 </ul>
@@ -454,6 +456,37 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 </ul>
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi mathvariant="normal">Δ</mi><mi>ρ</mi><mo>=</mo><mi>γ</mi><mrow><mi mathvariant="normal">Δ</mi><mi>h</mi></mrow><mo>=</mo><mo>−</mo><mi>γ</mi><mrow><mi mathvariant="normal">Δ</mi><mi>z</mi></mrow></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Vertical Pressure)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">\Delta{\rho} = \gamma{\Delta{h}} = -\gamma{\Delta{z}}\tag{Vertical Pressure}
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord">Δ</span><span class="mord"><span class="mord mathdefault">ρ</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05556em;">γ</span><span class="mord"><span class="mord">Δ</span><span class="mord"><span class="mord mathdefault">h</span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord">−</span><span class="mord mathdefault" style="margin-right:0.05556em;">γ</span><span class="mord"><span class="mord">Δ</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.04398em;">z</span></span></span></span><span class="tag"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">V</span><span class="mord">e</span><span class="mord">r</span><span class="mord">t</span><span class="mord">i</span><span class="mord">c</span><span class="mord">a</span><span class="mord">l</span><span class="mord"> </span><span class="mord">P</span><span class="mord">r</span><span class="mord">e</span><span class="mord">s</span><span class="mord">s</span><span class="mord">u</span><span class="mord">r</span><span class="mord">e</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<p>Rules for stepping through fluid systems to determine pressures:</p>
+<ol>
+<li>Start at a point with known pressure or a defined pressure variable</li>
+<li>Move horizontally through a fluid dnc the pressure if the fluid is hydraulically continuous (fluid-fluid interface is not crossed</li>
+<li>Moving vertically downward increases pressure</li>
+<li>Moving vertically upward decreases pressure</li>
+<li>If system has multiple fluids, move from interface to interface until you reach the point of interest. The pressure at an interface is the same in both fluids</li>
+<li>Typically the pressure in a gas can be assumed to be constant in gas-liquid systems, even vertically, as gas density at low pressure is very small</li>
+</ol>
+<p><strong>Manometer</strong>: liquid filled tubes that are connected to one or two containers to measure pressure or pressure difference</p>
+<ul>
+<li>since manometer has a large diameter, the capillary effects are negligible</li>
+<li><strong>Piezometer</strong> is a form of manometer that is a simple, vertical tube open at the top that measures moderate, positive gauge pressures</li>
+<li><strong>U-Tube Manometer</strong> normally contains gauge fluids with specific weight greater than water. Measure larger or negative pressures, and pressure differences
+<ul>
+<li><strong>Open</strong> is connected to container and other end is open</li>
+<li><strong>Differential</strong> is connected to 2 points in one container or 2 containers to measure pressure difference</li>
+</ul>
+</li>
+</ul>
+<p>Procedure for manometer analysis:</p>
+<ol>
+<li>Start at a container end</li>
+<li>Move to the other end progressively
+<ul>
+<li>if going down vertically, add pressure. If going up, subtract pressure.</li>
+<li>if moving vertically, dn change prssure</li>
+</ul>
+</li>
+<li>Set equal to other pressure on the other end, whether that be pressure of air (0 gauge) or the pressure of the other container</li>
+</ol>
 
     </body>
     </html>
