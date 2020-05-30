@@ -1,6 +1,22 @@
 # Life of Paul
 
 - [Life of Paul](#life-of-paul)
+  - [Module 1](#module-1)
+    - [Non-Biblical Sources](#non-biblical-sources)
+    - [New Testament Background](#new-testament-background)
+    - [NT Sources](#nt-sources)
+  - [Module 2](#module-2)
+    - [Hellenism](#hellenism)
+    - [Roman Empire](#roman-empire)
+    - [Urban Life](#urban-life)
+    - [Religion](#religion)
+    - [Judaism](#judaism)
+    - [Apocalyptic Eschatology](#apocalyptic-eschatology)
+  - [Module 3 - Acts](#module-3---acts)
+    - [Paul the missionary](#paul-the-missionary)
+    - [Life as seen in Letters](#life-as-seen-in-letters)
+    - [Galations 1:1 - 2:14](#galations-11---214)
+    - [Paul and The Collection](#paul-and-the-collection)
 
 ## Module 1
 
