@@ -212,3 +212,127 @@ Characteristics of apocalyptic orientation
 4. Resurrection suggested that it was the turn of the ages, as suggested with the Spirit, the coming of the Messiah, and the new way to live
 5. Earth-shattering imagery. Some believe that apocalyptic imagery leads to the end of the universe. A more modern thought is this. God will not allow injustice, oppression, disease, and sin to continue, and God will intervene dramatically through his Messiah. "A new heaven to earth will be brought. As Paul refers to, a 'new creation'. Rather than ending history, it brings history as we know it to a close. It doesn't end the relationship between humanity and God, but rather brings an end to rebellion and alienation. Not the cessation of the ages, but rather the breaking of a new age. Forces that will be shattered will be those of greed, oppression, and violence.
 6. Resistance and hope. Paul thought Rome and Satan's days were numbered
+
+## Module 3 - Acts
+
+Acts was written by Luke, a physician mentioned in Colossians 4:14, 2 Timothy 4:11, Philemon 24. This Luke also wrote the gospel of Luke. However, both documents were anonymous
+
+Acts 16:10-17, 20:5-15, 21:1-18, 27:1-28:16
+
+- in these sections, the narrative switches from 3rd person to 1st person
+- either based on author's own recollection, storytelling device, or another person's recollection
+
+Information of History from Acts
+
+- Paul likely born early CE, and thus quite possibly at the same time as Jesus
+- Paul born in Tarsus, a Jew with Roman citizenship
+- While in Diaspora, he is trained as a Pharisee in Jerusalem, where his family seems to have relocated, or at least where Acts tells us he had re;atoves
+- Later, he participates in the persecution of the followers of Jesus as a "young man"
+- His given name was Saul, likely after King Saul, who was from the tribe of Benjamin like Paul. Later his name changes to Paul, which could have been because it was a family name
+- Trained as a Pharisee under the great Gamaliel
+- He was a zealous persecutor of the followers of Jesus
+
+Paul's big change occured on the damascus road
+
+- traditionally, artists depicted him falling from a horse
+- described three ways 9:1-19; 22:6-16; 26:12-18
+- Paul was called a Christian at the time. Christian was a nickname, for someone who believed Jesus was the Messiah
+
+### Paul the missionary
+
+1. Starts in Damascus and return to Tarsus
+2. Hidden years (mentioned in Galations)
+3. Joins Christian community in Antioch, from where the mission to non-Jews seems to take off
+   - here, the nickname Christian originated. Christian meant that you
+   - early on appears to be Barnabas' companion, not the other way around
+4. First Missionary Journey
+   - Paul rarely travels alone. Church of Antioch comissioned Barnabas and him to come along too.
+   - Acts 13-14
+   - healing is the central feature. They are taken to be gods at some times
+   - Paul finds synagogues everywhere he goes
+     - Paul found ready hearing among proselytes
+     - addressed circumcision
+5. Second Missionary Journey
+   - revisits cells of believers
+   - first entry into Europe; first Macedonia (Philippi, Thessalonika), Greece (Athens, Corinth)
+   - Notes people of Timothy, Priscilla, Aquilla
+   - Paul's speech in Athens 17:16-34 to the philosophical people. Paul shares to people who do not believe in Jesus at all. Paul also tries to find common ground by quoting Greek philosophers
+   - Gallio (brother to Seneca) in Corinth, where Paul stayed a long time. In 18:12, Gallio is mentioned. Over those couple years, the only thing mentioned is Gallio
+6. Third Missionary Journey
+   - Acts 18:23 - 21:14
+   - Paul spent 2-3 years in Ephesus
+   - site of major letter writing activity of Paul; the Letter to the Ephesians likely not written to Ephesus
+   - note the large number of associates of Paul
+   - after Ephesus back to Europe and then, finally, to Jerusalem
+7. Paul's last visit to Jerusalem
+   - Paul visits temple to prove his Jewishness
+   - Paul addresses the crowd
+   - Paul arrested
+   - Paints Jerusalem as negatively as possible and Romans as positive as possible
+   - Anger is seen in narratives as Paul is angry that the Jews couldn't accept their own Messiah
+   - Paul's letter to the Romans shows that he anticipated a great degree of nervousness
+8. Paul's imprisonment
+   - Acts 21:15 - 23:22
+   - in Caesarea; Paul before Felix, Festus, and Agrippa
+9. End
+   - Paul likely dies as a martyr in Spain during Nero's persecution
+
+- In acts, Paul is seen as a heroic missionary
+
+### Life as seen in Letters
+
+1. 2 Corinthians 11:21b-33
+   - corroborates Acts' depiction of Paul as a suffering survivor
+   - from a wounded ego as Corinth was suspicious of him
+   - Paul's theology is presented well here
+   - weakness/strength presented
+2. Philippians 3:2-11
+   - *peritome*, or to cut around, was termed for circumcision *katatome*, or to cut against, is a circumcision Pun from Paul
+   - reflects both Paul's deep roots in Judaism, and the heat of controversys his approach to non-Jews brought with it. Paul uses harsh language
+   - beware of the dogs means cynic philosophers and non-Jews; mutilate means circumcision
+   - Cynics used **cynic diatribe** to gain attention from large groups
+   - in verse 5, Paul proves how Jewish he is
+   - Paul claims to be **zealous**, where he persecutes the Church strongly
+   - Paul claimed to be blameless under the Jewish law. This shows that he didn't join the Christian faith because he failed under the law
+   - Paul claims all his accomplishment was nothing more than dung
+3. 1 Corinthians 9
+   - Paul did not accept money for his work
+   - Paul did not travel with a spouse
+   - Paul says he was a Jew sometimes but willing to give it up in some situations to promote Jesus
+   - Corroborates how people had a problem with him, since he claimed to be a Jew but didn't need to follow all the laws.
+
+### Galations 1:1 - 2:14
+
+Tone
+
+- put his credentials at the beginning
+
+Thanksgiving missing
+
+- doesn't give thanks to God, but enters right away into his statement
+- curses people
+
+Jerusalem leadership
+
+- refers to the Jerusalem leaders in a derogatory way, including Peter (Cephas), James, and John
+- Paul admits to a confrontal relationship with Cephas (Peter)
+
+Paul also confirms to have been an early Christian *zealous* persecutor, Damascus road being the making of a prophet (like Jeremiah) through God revealing his son
+
+- not just conversion to Christianity
+
+In contrast to Acts (Paul working in Jerusalem), Galatians suggests he didn't work in Jerusalem much
+
+- Acts is interested in showing the unification of the church
+- Paul demonstrates that he is not dependent on Jerusalem for his gospel
+
+### Paul and The Collection
+
+- Galatians 2:10, Paul talked about remembering the poor
+- Acts 11:29-30, Relief being taken by Barnabas and Saul
+- 1 Corinthians 16:1-4, Paul was collecting money to send to Jerusalem
+- 2 Corinthians 8,9 were separate fundraising letters
+- Romans 15:14-32, larger significance of the relief effort
+  - Makes reference in verse 16 of Gentiles providing offering through him
+  - His collecting funds has delayed his travels to Spain. He wanted to accompany the money so that it would get to Jerusalem, and he wanted to ensure it was accepted by the Jews in Jerusalem
+  - if Jews accepted, the body of Messaniac Jews and other Jews could live together
