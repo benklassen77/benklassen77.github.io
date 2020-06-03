@@ -353,4 +353,4 @@ In contrast to Acts (Paul working in Jerusalem), Galatians suggests he didn't wo
   - His collecting funds has delayed his travels to Spain. He wanted to accompany the money so that it would get to Jerusalem, and he wanted to ensure it was accepted by the Jews in Jerusalem
   - if Jews accepted, the body of Messaniac Jews and other Jews could live together
 
-This is a test
+Test
