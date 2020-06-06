@@ -1,3 +1,3 @@
 # hi
 
-## [link to other](cive303.html)
+## [link to other](cive303.md)
