@@ -17,6 +17,15 @@
     - [Life as seen in Letters](#life-as-seen-in-letters)
     - [Galations 1:1 - 2:14](#galations-11---214)
     - [Paul and The Collection](#paul-and-the-collection)
+  - [1 Thessalonians and Philemon](#1-thessalonians-and-philemon)
+    - [Thessalonica](#thessalonica)
+    - [Community of Thessalonians](#community-of-thessalonians)
+    - [Paul from Thessalonians](#paul-from-thessalonians)
+    - [Paul's Message in Thessalonica](#pauls-message-in-thessalonica)
+    - [Paul's letter writing structure](#pauls-letter-writing-structure)
+    - [Philemon](#philemon)
+    - [Paul the rhetorician](#paul-the-rhetorician)
+    - [Greco-Roman Context of Philemon](#greco-roman-context-of-philemon)
 
 ## Module 1
 
@@ -353,4 +362,124 @@ In contrast to Acts (Paul working in Jerusalem), Galatians suggests he didn't wo
   - His collecting funds has delayed his travels to Spain. He wanted to accompany the money so that it would get to Jerusalem, and he wanted to ensure it was accepted by the Jews in Jerusalem
   - if Jews accepted, the body of Messaniac Jews and other Jews could live together
 
-Test
+## [1 Thessalonians and Philemon](https://contensis.uwaterloo.ca/sites/courses/1205-Spring-2020/JS-236-RS-236/media/documents/pdfs/module4/Module04-Lecture-Guide.pdf)
+
+Readings:
+
+- 1 Thessalonians
+- Acts 17:1-10
+
+### Thessalonica
+
+- a Roman administrative and commercial centre located on the Via Egnatia
+- pro-Roman city
+- Religiously diverse, with the expected diversity of cults and religions, including the Imperial cult
+  - there was a presence of a Samaritan synagogue
+  - Cabirus Cult
+    - cult legend of a god, killed by his brothers who was expected to return
+    - some scholars see feint similarities to Paul's gospel of a dying, rising, and returning deity
+    - by Paul's day, the cult had become Romanized, associated w/ orgiastic religious celebrations
+
+### Community of Thessalonians
+
+Make-up of the community
+
+- some Jews, but predominantly Gentile
+- mostly artisans and craftsmen, likely working class in poverty
+  - Jason was likely wealthy, and could have housed their church
+- receptive to Paul
+- trouble with sexual holiness
+- persecuted for their faith by their own fellow citizens
+- suffered because of political opposition to Jesus
+- lived w/ eager expectation of Jesus's return. They expected Jesus to come right away
+
+### Paul from Thessalonians
+
+1. Paul works collaboratively w/ others
+    - worked w/ Silvanus and Timothy
+2. Paul can be very warm and affectionate
+    - Importance of giving thanks
+    - Yearning to be close to the Thessalonian believers
+    - Paul sees himself as their parent (2:7 and 2:11)
+3. Paul is committed to integrity
+    - while he may seem arrogant, he is only trying to affirm his message w/o the use of rhetoric that was used by cynic philosophers
+4. Works with his own hands to support himself financially
+
+### Paul's Message in Thessalonica
+
+Paul taught about Holiness
+
+- 4:1-8, *That each of you should know how to possess his own vessel in sanctification and honour*
+
+Second-coming
+
+- 4:15 suggests that the Thessalonians were preparing to be a Welcoming Party to Jesus
+- The words 'peace and security' suggested that Rome would be overthrown
+
+Jesus
+
+1. Paul taught them about Jesus as the Messiah, who was crucified and raised
+2. Jesus is Lord. Significant because this was the same language that Jews referred to God, and the Romans referred to Caesar
+3. Uses phrasing *in Christ*; this means with or through. People are enabled from Jesus
+
+### Paul's letter writing structure
+
+1. Address and Greeting
+    - typical Greek greeting at the time was *chairein* (grace), and Jewish greeting was *Shalom* (peace). Paul uses *grace and peace*
+2. Thanksgiving
+    - often mentions travel plans
+3. Body of letter
+    - discussion of issues that precipitated the writing of the letter
+4. Exhortation *paraenesis*
+    - pep-talk that uses the word therefore
+5. Eschatological emphasis
+    - typically around the end of the *paraenesis*
+6. Final greetings and blessings
+
+Paul's apostolic letter is a hybrid between official and personal letters
+
+- refers to everyone else as sister and brother, not as a superior
+- style of communication is strongly official, but personal and pushes God as the real boss
+
+### Philemon
+
+Introduction
+
+- co-authored by Timothy
+- Philemon is a friend
+- addressed to both Philemon and the congregations that gather in his home. Church *ekklesia* meant homes gathered in
+- very personal letter
+- letters were written to be read aloud, and thus has rhetoric
+- invokes slavery dynamics
+
+Context
+
+- Onesimus is Philemon's slave; thus, Christians help slaves
+- Onesimus went w/ Paul to Ephesus
+- Why did Onesimus go to Paul?
+  - maybe a runaway slave; in this case, Paul would need to return him
+  - maybe because he was passionate about Paul's teachings, especially the Galatians 3:28 perspective on slavery
+  - maybe Philemon did something wrong, and hoped that Paul, being Philemon's friend, would help pardon him
+    - Paul was Philemon's spiritual patron
+- Paul's prison conditions were not like a dungeon, but shackled to a Roman soldier
+  - able to receive visitors, friends, companions, and co-workers with him, and even work for him
+  - Onesimus becomes a believer. Paul asks that Philemon treat him as a brother instead of as a slave. Suggests *manumission*
+- Because of Paul's strong persuasion, he is seen as both a manipulator and a theologian
+
+### Paul the rhetorician
+
+This letter is deliberative speech
+
+- letter form w/o paraenesis, but blessing still included
+- deliberate salutation, exordium, body, peroration, and closing. Starts by affirming the person w/ values, then moves to problem of Onesimus
+
+### Greco-Roman Context of Philemon
+
+Patron/client relationship
+
+- Paul is Philemon's spiritual patron
+  - Paul could command him if he chose to do so
+  - Paul is old
+- Onesimus is like Paul's child, sort of forcing Philemon to treat Onesimus as he would his own patron. Wants Philemon to make a room for Onesimus
+
+The reception of the Letter
