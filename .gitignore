@@ -1,3 +1,4 @@
 *.md
 !readme.md
 *head.html
+!cive265.md
