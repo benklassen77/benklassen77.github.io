@@ -99,6 +99,8 @@ $$\tau\prime = \sigma\cdot\sin(\theta)\cdot\cos(\theta)\tag{Shear along fracture
 
 ![Mohr's Circle](https://i.imgur.com/wUzoU23.png) ![Mohr's 2](https://i.imgur.com/eD4zM6w.png?1)
 
+![Duck](https://images-na.ssl-images-amazon.com/images/I/71D83K5x8iL._AC_SL1500_.jpg)
+
 ### Properties
 
 **Proportionality Limit (P)** = point where linear region transitions to non-linear region
