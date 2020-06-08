@@ -483,3 +483,14 @@ Patron/client relationship
 - Onesimus is like Paul's child, sort of forcing Philemon to treat Onesimus as he would his own patron. Wants Philemon to make a room for Onesimus
 
 The reception of the Letter
+
+- Philemon nervous
+- The fact that we have this letter suggests the letter worked
+- from Col 4:7-9, it appears Onesimus went on
+
+Slavery
+
+- unquestioned institution in Paul's day. They might have imagined it being abolished during the second coming
+- manumission was common
+- Paul viewed the community in Christ to be an outpost or colony of the way the world will be when Christ's kingdom will be fully established
+- some scholars think it points to the household code of colossians and ephesians
