@@ -4,7 +4,7 @@
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     
-        <title>Economics</title>
+        <title>Microeconomics</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
         <script>
@@ -58,6 +58,13 @@
 <li><a href="#geometric-gradient-series">Geometric Gradient Series</a></li>
 <li><a href="#non-standard-annuities-and-gradients">Non-Standard Annuities and Gradients</a></li>
 <li><a href="#approaches-for-using-compount-interest-factors">Approaches for using Compount Interest Factors</a></li>
+</ul>
+</li>
+<li><a href="#comparison-methods">Comparison Methods</a>
+<ul>
+<li><a href="#project-relations-and-the-marr">Project relations and the MARR</a></li>
+<li><a href="#comparisons-of-worth">Comparisons of Worth</a></li>
+<li><a href="#comparison-w-unequal-lives">Comparison w/ Unequal Lives</a></li>
 </ul>
 </li>
 </ul>
@@ -384,6 +391,84 @@ h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">​</span
 <li>Excel</li>
 </ol>
 <p><img src="https://i.imgur.com/aXXzdF0.png?1" alt="Excel Formulas"></p>
+<h2 id="comparison-methods">Comparison Methods</h2>
+<h3 id="project-relations-and-the-marr">Project relations and the MARR</h3>
+<p><strong>Investing</strong>: giving something up for something greater later</p>
+<ul>
+<li>engineers often refer to investment opportunities as <strong>projects</strong></li>
+<li>we need to make these assumptions:
+<ul>
+<li>for now, it is assumed that sufficient funds are available</li>
+<li>costs and benefits are measurable in terms of money</li>
+<li>taxes are not applicable</li>
+<li>cash flows are unaffected by inflation (constant prices assumed)</li>
+<li>future cash flows are known with certainty</li>
+</ul>
+</li>
+</ul>
+<p>Relations Among Projects</p>
+<p><strong>Independent</strong>: expected costs and benefits of each project do not depend on whether the other one is chosen</p>
+<p><strong>Mutually exclusive</strong>: if one is chosen, all other alternatives are excluded</p>
+<ul>
+<li>Evaluation: 1st step is to determine which projects are economically acceptable, 2nd step is to compare economically acceptable projects to each other to select best project</li>
+</ul>
+<p><strong>Related, but not mutually exclusive</strong>: expected costs and benefits of one project depend on whether the other one is chosen</p>
+<ul>
+<li>for this case, all the possible combinations should be listed out. The best combination will be chosen and treated as mutually exclusive</li>
+<li>if we have n related projects, they can be turned into a set of mutually exclusive projects with <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mn>2</mn><mi>n</mi></msup></mrow><annotation encoding="application/x-tex">2^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.664392em;vertical-align:0em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">n</span></span></span></span></span></span></span></span></span></span></span> options</li>
+</ul>
+<p><strong>Contingent</strong>: a project cannot be taken unless another project is taken first</p>
+<ul>
+<li>do nothing is an option unless specified</li>
+</ul>
+<p><strong>Minimum Acceptable Rate of Return (MARR)</strong>: interest rate that must be earned for any project to be considered acceptable</p>
+<h3 id="comparisons-of-worth">Comparisons of Worth</h3>
+<p><strong>Present Worth (PW)</strong>: compares projects by computing the equivalent present value of the project's cashflows at the MARR</p>
+<ul>
+<li>it is the profit of the project relative to their MARR. Thus, could make money but it would be considered a loss since it is less than the MARR</li>
+<li>present worth of any money invested at the MARR is 0, since the present worth of future receipts would exactly offset the current disbursement</li>
+<li>If PW&gt;0, acceptable; PW=0 is marginally acceptable; PW&lt;0 is unacceptable</li>
+<li>There is usually a <em>do nothing</em> comparison</li>
+</ul>
+<p><strong>Annual Worth</strong>: compares projects by transforming all disbursements and receipts of the projects to a uniform series (annuity) at the MARR</p>
+<ul>
+<li>comparison of 2 projects by the PW and AW methods will always indicate the same preferred alternative</li>
+<li>AW comparisons can sometimes be more easily grasped mentally. When there is no clear justification, it is reasonable to use the one that requires less conversion</li>
+</ul>
+<p><strong>Future Worth (FW)</strong>: desirable to use in cases where money is being saved since the actual dollar value in the future has a particular meaning</p>
+<h3 id="comparison-w-unequal-lives">Comparison w/ Unequal Lives</h3>
+<p>When making PW comparisons, we must use the same time period in order to take into account the full costs and benefits of each alternative.</p>
+<p>For unequal lives:</p>
+<ol>
+<li><strong>Use repeated lives</strong>: repeat the service life of each alternative to arrive at the lowest common multiple of the lives for all alternatives</li>
+<li><strong>Adopt a specified study period</strong>: necessitates an additional assumption about salvage value (may be difficult)</li>
+</ol>
+<p>PW comparison can be done easier by first calculating AWs, and then converting AWs over the lowest common multiple of the service lives to PWs, such that <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mi>W</mi><mo>=</mo><mi>A</mi><mi>W</mi><mo stretchy="false">(</mo><mfrac><mi>P</mi><mi>A</mi></mfrac><mo separator="true">,</mo><mi>M</mi><mi>A</mi><mi>R</mi><mi>R</mi><mo separator="true">,</mo><mi>L</mi><mi>C</mi><mi>M</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">PW = AW(\frac{P}{A},MARR,LCM)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord mathdefault" style="margin-right:0.13889em;">W</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.217331em;vertical-align:-0.345em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.13889em;">W</span><span class="mopen">(</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">P</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="mord mathdefault" style="margin-right:0.00773em;">R</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">L</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="mclose">)</span></span></span></span></p>
+<p><strong>Payback Period</strong>: a rough measure of the time it takes for an investment to pay for itself (interest rate is assumed to be zero)</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>P</mi><mo>=</mo><mfrac><mtext>First cost</mtext><mtext>Annual Savings</mtext></mfrac></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Payback Period)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">P = \frac{\textrm{First cost}}{\textrm{Annual Savings}}\tag{Payback Period}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.2407700000000004em;vertical-align:-0.8804400000000001em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord textrm">Annual Savings</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord textrm">First cost</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span><span class="tag"><span class="strut" style="height:2.2407700000000004em;vertical-align:-0.8804400000000001em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">P</span><span class="mord">a</span><span class="mord">y</span><span class="mord">b</span><span class="mord">a</span><span class="mord">c</span><span class="mord">k</span><span class="mord"> </span><span class="mord">P</span><span class="mord">e</span><span class="mord">r</span><span class="mord">i</span><span class="mord">o</span><span class="mord">d</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<ul>
+<li>investments with shorter payback periods are preferable</li>
+<li>suitable as a preliminary filter before evaluating AW or PW. For example, one might only accept projects with a PP of 7 years or less</li>
+</ul>
+<p>Advantages of payback period:</p>
+<ul>
+<li>easy to understand and calculate</li>
+<li>focuses on need to recover capital quickly (businesses can't tie up their money in long-term projects)</li>
+<li>future is uncertain</li>
+</ul>
+<p>Disadvantages of payback period:</p>
+<ul>
+<li>naturally discriminates against long-term projects</li>
+<li>disregards cash flows that occur after the payback period</li>
+<li>ignores the time-value of money</li>
+</ul>
+<p>In order to consider the time-value of money, use the <strong>discounted payback period</strong>.</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>P</mi><mo>=</mo><mfrac><mtext>First cost</mtext><mtext>Discounted Annual Savings</mtext></mfrac></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Discounted Payback Period)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">P = \frac{\textrm{First cost}}{\textrm{Discounted Annual Savings}}\tag{Discounted Payback Period}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.2407700000000004em;vertical-align:-0.8804400000000001em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord textrm">Discounted Annual Savings</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord textrm">First cost</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span><span class="tag"><span class="strut" style="height:2.2407700000000004em;vertical-align:-0.8804400000000001em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">D</span><span class="mord">i</span><span class="mord">s</span><span class="mord">c</span><span class="mord">o</span><span class="mord">u</span><span class="mord">n</span><span class="mord">t</span><span class="mord">e</span><span class="mord">d</span><span class="mord"> </span><span class="mord">P</span><span class="mord">a</span><span class="mord">y</span><span class="mord">b</span><span class="mord">a</span><span class="mord">c</span><span class="mord">k</span><span class="mord"> </span><span class="mord">P</span><span class="mord">e</span><span class="mord">r</span><span class="mord">i</span><span class="mord">o</span><span class="mord">d</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<ul>
+<li>one can isolate for (P/A,i,N), and then solve for N</li>
+</ul>
 
     </body>
     </html>
