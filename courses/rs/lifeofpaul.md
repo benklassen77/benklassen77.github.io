@@ -26,6 +26,9 @@
     - [Philemon](#philemon)
     - [Paul the rhetorician](#paul-the-rhetorician)
     - [Greco-Roman Context of Philemon](#greco-roman-context-of-philemon)
+  - [Galatians](#galatians)
+    - [Context for galatians](#context-for-galatians)
+    - [Paul's Galatian Argument](#pauls-galatian-argument)
 
 ## Module 1
 
@@ -494,3 +497,84 @@ Slavery
 - manumission was common
 - Paul viewed the community in Christ to be an outpost or colony of the way the world will be when Christ's kingdom will be fully established
 - some scholars think it points to the household code of colossians and ephesians
+
+## Galatians
+
+### [Context for galatians](https://contensis.uwaterloo.ca/sites/courses/1205-Spring-2020/JS-236-RS-236/media/documents/pdfs/module5/Module05-Lecture-Guide.pdf)
+
+- Paul is sole author
+- Galatians are inhabitants of Roman province Galatia
+- province included Derbe, Lystra, Iconium, Antioch in Pisidia
+
+To whom was it addressed?
+
+1. South Galatian theory
+   - presence of synagogues
+   - proximity between Jerusalem and Antioch
+   - one of Paul's earliest letters
+   - 49-51 CE
+2. North Galatian theory
+   - Paul's illness
+   - Acts 16:6 region of Phrygia and Galatia reference
+   - 53-55 CE
+
+Paul refers to those tho unsettle the Galatians
+
+- Agitators promote circumcision while benefiting from the identification of Christ. These would have been ordinary members who were convicted of circumcision, likely due to nearby synagogues. Some refer to these agitators as judaizers. This is a bad term since it is anti-Jew, as well as that Christianity had not been distinguished from Judaism at this point in time.
+- Paul had a major confrontation with Peter. Many others who thought differently than Paul came to Galatia and created huge problems
+- These people had sown mistrust in Paul
+
+### [Paul's Galatian Argument](https://contensis.uwaterloo.ca/sites/courses/1205-Spring-2020/JS-236-RS-236/media/documents/pdfs/module5/The-Drama-of-Salvation-in-the-Letter-to-the-Galatians.pdf)
+
+Paul was angry
+
+- No thanksgiving or blessing
+- Asserts his authority immediately
+- Fears Galatians are abandoning him and his *gospel*, or *good news*
+- Curses those who preach an alternate gospel
+
+Justification by Faith
+
+- 2:15-16 states "faith in Jesus Christ" to NRSV, this would be in accordance of Faithfulness from Jesus Christ
+- Justification does not meann innocence but rather reconciliation and rehabilitation. Grace is where Jesus loved me and gave Himself for me. Grace is to be restored with Christ living in you, so you can live a life in keeping with God's will
+- Works of the law could mean death. Effects of the law are death
+- Greek word *pistis* could mean faithfulness. For Jews, this meant that to be faithful was to do God's will. Even the demons believe. Faith in God is synonymous to dedication to God's will according to Jews
+- thus, views for works of the law, faith/faithfulness, and justification meaning need to be understood
+
+Spirit
+
+- *pneuma* in Greek can be translated to spirit, wind, or breath
+- challenges whether they received the Spirit from the law or from the message of the gospel
+- Jeremiah 31:31-34. Paul views the Spirit as the way God inscribes the law on people's hearts
+- the fruits of the Spirit are right living, as given by the Spirit. In receiving the spirit, they internalize the law. The sum of the law is to love your neighbour
+- Thus, Paul is not opposed to the law, but is telling them that the Spirit provides the law. Thus, this will fulfill the law of Christ
+
+[Place of the law in view of the coming of Christ](https://contensis.uwaterloo.ca/sites/courses/1205-Spring-2020/JS-236-RS-236/media/documents/pdfs/module5/The-Drama-of-Salvation-in-the-Letter-to-the-Galatians.pdf)
+
+1. Abraham
+   - faith reckoned as righteousness
+   - recipient of promise to all nations
+2. Law was given later than this promise which could not be annulled by it
+   - giving of the law is second to the promise given to Abraham, as Abraham's promise is more foundational
+3. Law given because of transgression until the seed (Abraham's seed Genesis 12:7) would come
+4. Torah came through a mediator
+5. Torah not opposed to the promise of God, but its place in the drama has been replaced by the fulfillment of the promise, the coming of the seed, Jesus the Messiah
+6. The coming of faithfulness/faith (Jesus) took the place of the law
+7. Law as *paidagogos* (literally someone who leads a child). In other words, the law lead people to the Messiah, to accompany us to the point in the drama when Christ/faith[fullness]/Spirit would come to move the drama of salvation to a whole new level
+8. Hagar = law, Sarah = Christ
+
+Christ represents a new reality in which believers participate
+
+- 3:26-28 *in Christ* means that old distinctions no longer hold; to be in Christ is to partake now already of what will become a full reality soon
+- minors, even if heirs, are like slaves. 4:4-7 says that they were once slaves, but they are now sons and daughters. They can make their own choices without being told what to do by their slavemaster the law
+
+Christ sets free for life empowered by the Spirit
+
+- 5:1 set free for freedom
+- *Adult* freedom of wanting to care for others, to respond to those in need, to say no to the flesh, and to say no to self-indulgence
+
+Conclusion
+
+- to insist on circumcision for Gentiles is thus, in Paul's view, to misread what God is up to at this point in the unfolding drama of salvation. They already have the Spirit, so why should they obey the written rules of circumcision
+- the rhetoric and sharpness of argument in this letter has played a significant role in stoking hostility between Christianity and Judaism. Galatians is better read as written by a Jew who believes himself to have been given a divine message for Gentiles at the end of the old age and the dawning of the new.
+- Not Christianity vs. the law, but instead is from a time where God saved those who did not follow the law
