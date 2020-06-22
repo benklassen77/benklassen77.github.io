@@ -29,6 +29,10 @@
   - [Galatians](#galatians)
     - [Context for galatians](#context-for-galatians)
     - [Paul's Galatian Argument](#pauls-galatian-argument)
+  - [1st Corinthians](#1st-corinthians)
+    - [Corinthians Context](#corinthians-context)
+    - [Paul's Response to the Corinthians](#pauls-response-to-the-corinthians)
+    - [Specific Answers to the Corinthians](#specific-answers-to-the-corinthians)
 
 ## Module 1
 
@@ -578,3 +582,81 @@ Conclusion
 - to insist on circumcision for Gentiles is thus, in Paul's view, to misread what God is up to at this point in the unfolding drama of salvation. They already have the Spirit, so why should they obey the written rules of circumcision
 - the rhetoric and sharpness of argument in this letter has played a significant role in stoking hostility between Christianity and Judaism. Galatians is better read as written by a Jew who believes himself to have been given a divine message for Gentiles at the end of the old age and the dawning of the new.
 - Not Christianity vs. the law, but instead is from a time where God saved those who did not follow the law
+
+## 1st Corinthians
+
+### Corinthians Context
+
+- not the first letter to the corinthians
+- Corinth is located on land bridge between Peloponnesian peninsula and Greek main land with 2 harbours, Lechaion on the Corinthian Gulf and Cenchreae on the Saronic Gulf
+- Destroyed by Romans in 146 BCE, rebuilt by Julius Caesar a century later
+- Paul came to Corinth after Athens during time of Claudius in Rome and Gallio's governance
+- Written in Ephesus to Sosthenes
+
+Written in Response to the following:
+
+1. Factions and divisions
+   - congregation divided into house churches led by patrons
+   - multiple missionaries. Might have being seen as **mystagogue**, or leaders into the mysteries
+   - **gnostic** used as one who possesses knowledge
+   - **sarkikoi** refers to the fleshly ones, or psychic
+   - **psychikos** refers to one or something that is natural
+   - **pneumatikoi** means spiritual ones. Later used for spiritual gifts
+   - **teleioi** used to refer to some as perfect ones
+   - thus, people put themselves in a spiritual hierarchy
+2. Gender differences
+   - Paul talked about problems not so much as praying, but more so dress
+3. Status
+   - Everyone is part of the body
+   - The communion is for everyone
+4. Arrogance
+   - the big issue
+   - they think that their spirituality is so strong that they can do anything with their body, and that they are entitled to do so. This meant incest, legal proceedings, prostitution, and other things that gave them moral-spiritual arrogance
+5. Criticize Paul because they are embarrassed
+   - Paul isn't married
+   - Paul doesn't accept remuneration
+6. Questions that were raised by the Corinthians
+   - Sex? Divorce? Slave freedom? Resurrection? Collection?
+
+### Paul's Response to the Corinthians
+
+1. The Cross
+   - the cross represents God's wisdom, a wisdom which looks foolish to human beings, whether they are Gentile or Jewish
+   - Cruxification was scandalous humiliation; state terrorism
+   - A crucified liberator was an oxymoron
+   - To hold it up as a model undercuts the honour system
+   - It is subversive wisdom
+2. Paul puts down the Corinthian view of possessing wisdom and knowledge
+   - Reminds them that they aren't impressive, and that Paul is Christ's 'fool'
+3. Greco-Roman honour/shame, strength/weakness view turned on their head with respect to Jesus Christ
+   - Paul tells them to imitate Christ to become 'weak'
+4. Christ uses the image of 'the body'
+   - *body* was a widely used and understood metaphor in Paul's day. Applied to cosmos
+   - often reinforced hierarchial understandings of social organizations. Paul turns this from superiority to equality amongst believers
+   - Paul implies that the body is an embodiment of the Messiah; an incarnational aspect of the Christian community. Physical bodies are the temple of God's Spirit
+   - **pneumatikoi**, or spirituality and spiritual gifts. **Charismata**, or gifts, suggests that the spirit gives the body gifts for the common good. 2 Christian responses: my gift isn't as important as another. To this, everyone is essential to the community. The other response: arrogance. To this, Paul states that the hand is equal to the eye etc. Thus, it addresses inferiority and superiority complexes
+5. Importance of love
+   - all good-things, if not motivated by patient and selfless love *agape*, destroy a community through elitism and arrogance
+6. Building up the body
+   - worship is to serve the upbuilding and the public witness of the community; hence the insistence on making sense in a way that 'builds up' whether in prophecy (speaking divine truth to the community) or in *glossalalia* (speaking in tongues)
+   - states that the body should function properly in public. Tongues not meant for self-indulgence, but to build up the church. This is also what is aluded to when discussing female head-coverings, as they should dress to glorify the Church and not themselves. As well, he doesn't want people to seek these gifts for the wrong reasons
+
+### Specific Answers to the Corinthians
+
+1. Marriage
+   - deeper form of spirituality found in **celibacy**, or to devote oneself entirely to the Faith
+   - divorce is not to be the believer's initiative, but for the sake of *peace* one should allow the unbeliever to divorce
+   - **days are numbered** is essential. Freedom is fine for a slave, but not the priority, and marriage is not essential, as the time is near
+2. Resurrection and eschatology
+   - some Corinthians thought that they had already been resurrected and have already undergone transformation. Thus, they misunderstood it. Basis of spiritual arrogance and moral indifference
+   - Paul insists as the resurrection of the body as not an abandonment of the body, but rather a radical renewal of it
+   - transformation has begun, but the great resurrection of all and the transformation of the cosmos has not yet happened
+   - The new body is both continuous and discontinuous with the present body (seed metaphor). Thus, ethical challenges are thus real for those who still live in this 'old' body
+3. Proper order and behaviour in worship
+   - Paul wants to bring order to new age worship
+   - Women hair covering was an issue. Interpreted as hierarchal, this would be thought of as a way to distinguish between the man and the woman. However, in 11:11, Paul unweaves any hierarchy. Paul does not shut up women, as he knew that they were prophecying and praising with devotion to the Lord. However, he is trying to induce order after some unfortunate event.
+4. Lord's supper
+   - social hierarchies were adhered to during the Lord's supper. Unity was not expressed
+   - Paul tells them that they need to eat together
+   - Adds significance because every time they eat and drink the bread and wine (11:23), they are proclaiming the death of Christ. Because they didn't discern the body, they were drinking judgement on themselves.
+   - "discern the body" means to recognize who they truly are as part of the Messiah's body
