@@ -33,6 +33,11 @@
     - [Corinthians Context](#corinthians-context)
     - [Paul's Response to the Corinthians](#pauls-response-to-the-corinthians)
     - [Specific Answers to the Corinthians](#specific-answers-to-the-corinthians)
+  - [2nd Corinthians](#2nd-corinthians)
+    - [Letter 3](#letter-3)
+    - [Letter 4](#letter-4)
+    - [Letter 5](#letter-5)
+    - [Letters 6 and 7](#letters-6-and-7)
 
 ## Module 1
 
@@ -660,3 +665,86 @@ Written in Response to the following:
    - Paul tells them that they need to eat together
    - Adds significance because every time they eat and drink the bread and wine (11:23), they are proclaiming the death of Christ. Because they didn't discern the body, they were drinking judgement on themselves.
    - "discern the body" means to recognize who they truly are as part of the Messiah's body
+
+## 2nd Corinthians
+
+Context
+
+- emerged because Paul was not highly revered
+- letters were not originally accepted as scripture. Thus, his letters were not always valued
+- no evidence of this letter being known outside Corinth until 2nd century (1 Clement)
+- Co-authored by Timothy
+- Thanksgiving replaced by a eulogy of blessing from God
+- starts warm, but gradually becomes more defensive and combative. It's an anomoly that it starts warm and ends hostile. Many scholars think it is a stitching together of several letters
+
+Paul's correspondence (organized by letter number):
+
+1. Letter from 1 Cor 5:9
+2. 1 Corinthians
+3. 2 Cor 2:14-6:13, 7:2-4
+4. 2 Cor 10-13 letter of tears
+5. 2 Cor 1:1 - 2:13, 7:5-16
+6. 2 Cor 8 fundraising letter to Corinth
+7. 2 Cor 9 fundraising letter to Achaia
+
+### Letter 3
+
+- constitudes of Paul's defence of his apostleship in response to the criticisms of the Corinthian believers
+- Paul suffers from comparison with other traveling apostles, perhaps from Jerusalem
+- Paul is not as good a speaker as he is a writer
+- Paul does not have recommendation from Jerusalem
+- Paul is seen as weak because he works with his hands
+
+Paul's Response
+
+1. Paul places himself in the victory procession of the Messiah; he calls his competition *peddlers*
+2. Turns tables on the Corinthians, by calling them his letter of recommendation
+3. States that everyone is a letter written by Christ. Reference to Jeremiah 31:31-34
+4. Paul states that the apostle isn't important, but the Messiah and the community he is inscribing
+5. Contrasts the New Testament with Moses' Old Testament with allusion to Exodus 34
+6. Paul takes the whole community into the tent of revelation with him, where everyone can behold the glory of God as they are transformed by the Lord Spirit
+7. Paul is Christ's scribe and the Corinthians' slave. This is trying to put him in perspective
+8. Paul's humility as a slave does not diminish, but rather illuminate the glory of the work of Christ
+9. Paul states that everything we do is for Christ. All for the emergence of the New Creation, not for a human life. *If anyone is for Christ, Creation is New*
+
+### Letter 4
+
+Circumstances of this part
+
+- Paul had made a painful visit
+- Corinthians are comparing Paul with super-apostles
+- More of a rhetorical or theatrical effort than an epistolary one
+
+Paul's *Fool Speech*
+
+- Paul is a matchmaker
+- Paul is a jilted lover
+- Remuneration is an issue
+- Paul boasts in his resume
+- Power made perfect in weakness. Paul boasts in his weakness
+- Paul's last ditch appeal for love
+
+### Letter 5
+
+- Paul is looking back on his letter of tears
+- He can now talk about gratitude again
+- His letter produced grief in the Corinthians which lead to reconciliation between Paul and the Corinthians
+
+### Letters 6 and 7
+
+Chapter 8
+
+- Paul makes reference to the grace of God, and wants the Corinthians to emulate this
+- *grace* translates to charis, which also means *gift*. Translators can't do this justice
+- Paul reminds the Corinthians that they are the beneficiaries of God's grace and that they owe that beneficence to others
+- The self-impoverishment of Jesus becomes a model for fiscal generosity
+- There is an issue of trust in gathering and delivering the money
+- Paul intends this delegation to signify to the Jewish believers in Jerusalem the full significance of this gift
+- Paul thus commends those who are carrying the money
+
+Chapter 9
+
+- appears to be written w/o the previous chapter
+- Paul wants the Corinthians and all in Achaia to live up to his boasting about them
+- Paul outlines **divine economy**. God gives gifts for good work -> beneficiaries then perform sharing with those in need -> recipients then give thanks to God
+- Paul ends this brief letter with a doxology, with the praise of God for God's gift.
