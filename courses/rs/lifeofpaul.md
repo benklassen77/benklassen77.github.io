@@ -38,6 +38,9 @@
     - [Letter 4](#letter-4)
     - [Letter 5](#letter-5)
     - [Letters 6 and 7](#letters-6-and-7)
+  - [Philippians](#philippians)
+    - [Content from Acts 16](#content-from-acts-16)
+    - [Philippian Hymn](#philippian-hymn)
 
 ## Module 1
 
@@ -748,3 +751,55 @@ Chapter 9
 - Paul wants the Corinthians and all in Achaia to live up to his boasting about them
 - Paul outlines **divine economy**. God gives gifts for good work -> beneficiaries then perform sharing with those in need -> recipients then give thanks to God
 - Paul ends this brief letter with a doxology, with the praise of God for God's gift.
+
+## Philippians
+
+### Content from Acts 16
+
+- Philippi is located on the Via Egnatia
+- Roman colony
+- 42 BC was a battle between Octavian (later Augustus) and Antony against Brutus and Cassius, the assassins of Julius Caesar
+- Lydia, a *god worshipper* lives in Thyatira in Lydia (Asia) who sold purple dyes
+- A slave girl carried a pythonic spirit. This is a reference to the mythic role of the python associated with Apollo
+- Paul's improsinment and release, as well as the baptizing of the jailor and his household
+- Paul escorted out of town given that he is a Roman citizen
+- Acts gives hint that congregation is being born
+
+Context
+
+- Authored by Paul and Timothy
+- Addressed to the Philippians and to the bishops and deacons
+- Possibly written from prison, Caesarea, Ephesus, or Rome
+- Written to *Episkopos*: bishop or overseer; and *Diakonos*: deacon or minister
+- Tone of letter: warm and appreciative of the Philippians partnership or communion, and also of his competitors
+- mention of Epaphroditus, the bearer of the letter and the carrier of the Philippians gift to Paul. Possibly same person as Epaphras in Philemon 23
+
+Composition: likely several letter fragments
+
+1. 1:1-3:1 Fragment 1. Warm acknowledgement of suppoer
+2. 3:2-4:1 Fragment 2. Paul's harsh rhetorical distancing of his present life from his former life from his former life as a zealous Pharisee
+3. 4:2-9 Fragment 3. Dealing with conflict among leaders (especially Euodia and Syntyche, two important women). These women worked with Clement
+4. 4:10-23 Fragment 4. Receipt for Philippians partnership gift
+
+### Philippian Hymn
+
+Context of hymn (Philippians 2:6-11)
+
+1. 2:1-5 could possibly be directed to Euodia and Syntyche. Do nothing out of selfish ambition. Christ is a model for humility and challenge to imperial arrogance. *Jesus emptied himself in human form to death* shows how Jesus humbled himself
+2. The hymn is Philippians 2:6-11. There are others:
+   - John 1
+   - Colossians 1:15-20
+   - Hymns that draw on wisdom. Proverbs 8-9, Ecclesiastes, Job, Wisdom of Solomon, Ecclesiasticus. Creation and law is the work of divine wisdom. Personification of wisdom is named *Sophia*. Paul commonly referred to Jesus as wisdom, such as in 1 Cor 1:22-25. Is it *Sophialogy* or *Christology*?. As well, Christ is referred to as the righteous or just One
+
+ACTUAL HYMN
+
+- 2 ways to be read. Wisdom as God? Or Jesus as the true human from Genesis 1:26
+  - form of God
+  - *grasp* or *exploit* equality with God
+  - Jesus as *New Adam* does not grasp at equality with God, but is granted it as a reward
+  - Jesus as God's Wisdom/Sophia, whose does not exploit his status as divine but empties himself of it
+  - Jesus empties himself to the point of being slave-like to Crucifiction
+  - *kenotic* Christology talks about how Jesus empties himself
+- Exaltation to the status of deity (The name above every name)
+- Hymn is cradle of Trinitarian understanding
+- Jesus emptying himself is an example for all
