@@ -10,11 +10,11 @@
 ## [Management](courses/management/)
 
 - ECON
+- Engineering Sustainability
 
 ## [Material Engineering](courses/materials/)
 
 - Metals, Wood and Polymers
-- Engineering Sustainability
 
 ## [Mathematics](courses/math/)
 

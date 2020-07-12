@@ -803,3 +803,114 @@ ACTUAL HYMN
 - Exaltation to the status of deity (The name above every name)
 - Hymn is cradle of Trinitarian understanding
 - Jesus emptying himself is an example for all
+
+## Romans
+
+Context
+
+- Paul's own letter addressed yo Rome
+- Recall the expulsion of Jews from Rome by Claidius because of rioting over *Chrestus*
+- Numerous house churches here
+
+Reason for writing the letter
+
+1. Paul intends to go to Spain (15:24) and needs their support, much as he has relied on the Philippians for his missio to Corinth
+2. Paul wants to explain his theology to the Romans. Explains law, circumcision, Abraham, and faith with less of an edge
+3. Paul needs prayerful support for his accompanying of the money from Gentile believers to the Jewish believers in Jerusalem
+	- Paul nervous that they won't accept the money
+	- If they accept the money, they are basically approving of his message
+
+Overview
+
+- Romans is the first in the NT order of Paul's letters because it is the largest, not the earliest
+- typical letter structure. Address -> Thanksgiving/Explanation -> Body -> Paraenesis -> closing remarks -> Appendix
+- Paraenesis emphasizes God's mercies
+- Chapter 16 is a note of commendation for a leader of the church at Cenchreae, Phoebe, and a richly informative set of greetings to house-circles. Romans references Prisca, Aquila, Andronicas, Junia, Tryphaena. Written by Tertius. It is possible that Romans 16 was not originally part of Romans but an appendice later on
+
+### Paul's Gospel
+
+1. Justice of God. Basic theme (1:16,17): the justice of God, the power to liberate (or save) those who believe, "The Jew and also the Greek (Gentile)"
+	- humans subjected to God's wrath (1:18-3:20). All humans fall short of God's glory, both Jews and Gentiles
+	- statement of God's justice apart from the law through Jesus (3:21-16)
+	- Abraham the father of both the circumcised and the uncircumcised
+	- God is peacemaker and lover of enemies
+	- God's justice enables reconcilliation. While we were still sinners, Jesus died for us. Reconcilliation is God's initiative, not human initiative
+	- God's grace must not be trivialized by being taken for granted
+		- Baptism is dying with Christ to the old way of living, being buried with him, and emerging to a new way of living, in effect living in light of Christ's past resurrection and coming resurrection
+		- Freedom from sin is to be enslaved to righteousness or justice
+2. Law and Spirit
+	- not autobiographical as decicting the human condition generally in light of the law
+	- Christ solution to predicament
+	- God solved the problem of condemnation through Christ and the Spirit
+	- "Law of the Spirit of life in Christ Jesus" vs "Law of sin and death" for the purpose of fulfilling the just requirements of the law
+	- Spirit is law inscribed onto the heart
+	- Paul's realism about this world indicates the need for the assistance of God's Spirit
+3. God's faithfulness vis-a-vis the Jews (Romans 9-11)
+	- Paul had negative experience of Jewish resistance to his gospel
+	- Paul describes his conviction of God's sovereignty
+		- God can even use resistance and rebellion to bring about reconciliation
+		- God has bound everyone over to disobedience (Romans 11:32)
+	- Paul concludes the argument by showing that God's sovereignty is inextricably tied to God's mercy on all
+	- Paul is left with nothing but worship in the light of this sketch of God's ways
+4. Paraenesis or Exhortation
+	- Paul's assumptions behind the paranesis
+		- Believers have become slaves to justice
+		- Salvation is God intervening to make persons capable of doing God's will
+		- God thus pours his love into the hearts of believers
+		- Paraenesis thus is premised upon God's mercies
+
+### Romans 3:21 Pivital Passage
+
+1. Paul makes the argument as a Jew. Justice of God "apart from" or "alongside" the Law. This does not mean in opposition, but in addition to or separate from the law
+2. The faithfullness of Jesus Christ as God's mean of reconciliation
+	- faith in Jesus Christ, or faithfullness of Jesus Christ. Initiative of God that comes to expression through the faithfullness of Jesus Christ that saves. Not just belief in Christ.
+3. The faithfulness of Jesus is the gift that brings atonement. Mercy seat. Jesus is God's offering to make peace with humanity. God is just
+
+### Romans 12
+
+1. Paraenesis is premised on the mercies of God
+	- "Mercies of God" are the "faithfulness of Jesus Christ"
+2. Paul appeals for nonconformity and transformation of life in the body as an act of grateful worship
+	- Present your your bodies as a living sacrifice
+	- The only worship that makes sense
+	- Non-conformity and transformation are the expression of such sacrificial sensible worship
+3. Grab bag of motivational exhortations. Trying to fire the people up.
+	- members of the same body
+	- diversity of gifts
+	- hilarious mercy
+4. Passionate and peacable language
+	- make the needs of the saints your own
+	- instead of "practice hospitality", "pursue" strangers with love
+	- bless those who persecute you
+	- deep solidarity with those who suffer
+	- dealing with animosity: being victorious over evil by means of good
+
+### Romans 13:1-7 Subordination
+
+1. The traditional interpretation and role of this text has led to often blind obedience of Christians to the demands of the state, no matter how brutal and unjust
+	- Paul is saying: leave vengence to God. Overcome evil with good. There are state authorities that can deal with it. Eg. school kid bullied, principal's office exists
+2. In Romans 13:8-14, nonconformity is taught. This suggests that we should not conform to our culture. Christians need to put on weapons of light. Christians need to be careful to not allow verses 1-7 undermine Paul's message
+
+### Radical Hospitality in imitation of Christ
+
+1. Jews observed purity laws, food observance, and Sabbath observance
+2. *Strong and weak*: 1 option is that Jews are weak (stuck in Jewish ways) and Gentiles are strong. 2nd option: people who come to a new understanding of Christ such that they can transcend Jewish sensitivities in the presence of Gentiles
+3. Being convinced in your own mind. Importance of being convinced of one's actions
+4. Freedom for the sake of others. The strong are to bear with the failings of the weak, as did Christ. And the weak are not to bind the strong
+	- 15:7, treat each other as God in Christ has treated you
+5. What exactly does Paul advise? He doesn't say, but is clear that the Roman believers are to be Christ to each other
+
+## Paul and our Time
+
+1. Homosexuality
+	- Paul shared with fellow Jews of his day an abhorrence of homosexual activity, widely prevalent in Greco-Roman society
+	- Was what Paul objected to the same thing as committed same-sex relationships in our day?
+		- What Paul knew of homosexuality was pederasty. Sexual exploitation was bad then, and is illegal now.
+2. The place and role of women
+	- Many texts reflect women as active or co-workers. Phoebe, Junia, Chloe, Prisca/Priscilla, Euodia, Syntyche. Also women actively praying and prophysying in Corinth. View of Galatians 3:28 where "in Christ there is not Jew or Greek, slave nor free, male and female"
+	- Texts support subservience of household codes, which might reflect later realities than those of Paul's own day (Col 3:18-4:1, Eph 5:22-6:9). Possibly hierarchial standards from the time
+	- (1 Cor 14:33b-36, 1 Tim 2:11-12) call women to be quiet. 1 Tim may reflect an increasingly conservative view of Paul's teaching over against an increasingly radical view of Paul's theology and ethics. How do we make sense of 1 Cor 14:33-36, especially since Paul recognizes in 1 Cor 11 that women are actively praying and prophesying
+		- Interpolation (perhaps not originally part of the letter)
+		- Paul is addressing married women, suggesting their behaviour not cause offence
+		- Paul is quiting those in Corinth who wish to silence women, only to take issue with them
+	- What to do with mixed signals?
