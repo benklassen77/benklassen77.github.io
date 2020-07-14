@@ -41,6 +41,18 @@
   - [Philippians](#philippians)
     - [Content from Acts 16](#content-from-acts-16)
     - [Philippian Hymn](#philippian-hymn)
+  - [Romans](#romans)
+    - [Paul's Gospel](#pauls-gospel)
+    - [Romans 3:21 Pivital Passage](#romans-321-pivital-passage)
+    - [Romans 12](#romans-12)
+    - [Romans 13:1-7 Subordination](#romans-131-7-subordination)
+    - [Radical Hospitality in imitation of Christ](#radical-hospitality-in-imitation-of-christ)
+  - [Paul and our Time](#paul-and-our-time)
+  - [Letters that Paul might not have written](#letters-that-paul-might-not-have-written)
+    - [2 Thessalonians](#2-thessalonians)
+    - [Colossians](#colossians)
+    - [Paul's response to the Colossians](#pauls-response-to-the-colossians)
+    - [Household Code](#household-code)
 
 ## Module 1
 
@@ -817,8 +829,8 @@ Reason for writing the letter
 1. Paul intends to go to Spain (15:24) and needs their support, much as he has relied on the Philippians for his missio to Corinth
 2. Paul wants to explain his theology to the Romans. Explains law, circumcision, Abraham, and faith with less of an edge
 3. Paul needs prayerful support for his accompanying of the money from Gentile believers to the Jewish believers in Jerusalem
-	- Paul nervous that they won't accept the money
-	- If they accept the money, they are basically approving of his message
+   - Paul nervous that they won't accept the money
+   - If they accept the money, they are basically approving of his message
 
 Overview
 
@@ -830,65 +842,65 @@ Overview
 ### Paul's Gospel
 
 1. Justice of God. Basic theme (1:16,17): the justice of God, the power to liberate (or save) those who believe, "The Jew and also the Greek (Gentile)"
-	- humans subjected to God's wrath (1:18-3:20). All humans fall short of God's glory, both Jews and Gentiles
-	- statement of God's justice apart from the law through Jesus (3:21-16)
-	- Abraham the father of both the circumcised and the uncircumcised
-	- God is peacemaker and lover of enemies
-	- God's justice enables reconcilliation. While we were still sinners, Jesus died for us. Reconcilliation is God's initiative, not human initiative
-	- God's grace must not be trivialized by being taken for granted
-		- Baptism is dying with Christ to the old way of living, being buried with him, and emerging to a new way of living, in effect living in light of Christ's past resurrection and coming resurrection
-		- Freedom from sin is to be enslaved to righteousness or justice
+   - humans subjected to God's wrath (1:18-3:20). All humans fall short of God's glory, both Jews and Gentiles
+   - statement of God's justice apart from the law through Jesus (3:21-16)
+   - Abraham the father of both the circumcised and the uncircumcised
+   - God is peacemaker and lover of enemies
+   - God's justice enables reconcilliation. While we were still sinners, Jesus died for us. Reconcilliation is God's initiative, not human initiative
+   - God's grace must not be trivialized by being taken for granted
+     - Baptism is dying with Christ to the old way of living, being buried with him, and emerging to a new way of living, in effect living in light of Christ's past resurrection and coming resurrection
+     - Freedom from sin is to be enslaved to righteousness or justice
 2. Law and Spirit
-	- not autobiographical as decicting the human condition generally in light of the law
-	- Christ solution to predicament
-	- God solved the problem of condemnation through Christ and the Spirit
-	- "Law of the Spirit of life in Christ Jesus" vs "Law of sin and death" for the purpose of fulfilling the just requirements of the law
-	- Spirit is law inscribed onto the heart
-	- Paul's realism about this world indicates the need for the assistance of God's Spirit
+   - not autobiographical as decicting the human condition generally in light of the law
+   - Christ solution to predicament
+   - God solved the problem of condemnation through Christ and the Spirit
+   - "Law of the Spirit of life in Christ Jesus" vs "Law of sin and death" for the purpose of fulfilling the just requirements of the law
+   - Spirit is law inscribed onto the heart
+   - Paul's realism about this world indicates the need for the assistance of God's Spirit
 3. God's faithfulness vis-a-vis the Jews (Romans 9-11)
-	- Paul had negative experience of Jewish resistance to his gospel
-	- Paul describes his conviction of God's sovereignty
-		- God can even use resistance and rebellion to bring about reconciliation
-		- God has bound everyone over to disobedience (Romans 11:32)
-	- Paul concludes the argument by showing that God's sovereignty is inextricably tied to God's mercy on all
-	- Paul is left with nothing but worship in the light of this sketch of God's ways
+   - Paul had negative experience of Jewish resistance to his gospel
+   - Paul describes his conviction of God's sovereignty
+     - God can even use resistance and rebellion to bring about reconciliation
+     - God has bound everyone over to disobedience (Romans 11:32)
+     - Paul concludes the argument by showing that God's sovereignty is inextricably tied to God's mercy on all
+     - Paul is left with nothing but worship in the light of this sketch of God's ways
 4. Paraenesis or Exhortation
-	- Paul's assumptions behind the paranesis
-		- Believers have become slaves to justice
-		- Salvation is God intervening to make persons capable of doing God's will
-		- God thus pours his love into the hearts of believers
-		- Paraenesis thus is premised upon God's mercies
+   - Paul's assumptions behind the paranesis
+     - Believers have become slaves to justice
+     - Salvation is God intervening to make persons capable of doing God's will
+     - God thus pours his love into the hearts of believers
+     - Paraenesis thus is premised upon God's mercies
 
 ### Romans 3:21 Pivital Passage
 
 1. Paul makes the argument as a Jew. Justice of God "apart from" or "alongside" the Law. This does not mean in opposition, but in addition to or separate from the law
 2. The faithfullness of Jesus Christ as God's mean of reconciliation
-	- faith in Jesus Christ, or faithfullness of Jesus Christ. Initiative of God that comes to expression through the faithfullness of Jesus Christ that saves. Not just belief in Christ.
+   - faith in Jesus Christ, or faithfullness of Jesus Christ. Initiative of God that comes to expression through the faithfullness of Jesus Christ that saves. Not just belief in Christ.
 3. The faithfulness of Jesus is the gift that brings atonement. Mercy seat. Jesus is God's offering to make peace with humanity. God is just
 
 ### Romans 12
 
 1. Paraenesis is premised on the mercies of God
-	- "Mercies of God" are the "faithfulness of Jesus Christ"
+   - "Mercies of God" are the "faithfulness of Jesus Christ"
 2. Paul appeals for nonconformity and transformation of life in the body as an act of grateful worship
-	- Present your your bodies as a living sacrifice
-	- The only worship that makes sense
-	- Non-conformity and transformation are the expression of such sacrificial sensible worship
+   - Present your your bodies as a living sacrifice
+   - The only worship that makes sense
+   - Non-conformity and transformation are the expression of such sacrificial sensible worship
 3. Grab bag of motivational exhortations. Trying to fire the people up.
-	- members of the same body
-	- diversity of gifts
-	- hilarious mercy
+   - members of the same body
+   - diversity of gifts
+   - hilarious mercy
 4. Passionate and peacable language
-	- make the needs of the saints your own
-	- instead of "practice hospitality", "pursue" strangers with love
-	- bless those who persecute you
-	- deep solidarity with those who suffer
-	- dealing with animosity: being victorious over evil by means of good
+   - make the needs of the saints your own
+   - instead of "practice hospitality", "pursue" strangers with love
+   - bless those who persecute you
+   - deep solidarity with those who suffer
+   - dealing with animosity: being victorious over evil by means of good
 
 ### Romans 13:1-7 Subordination
 
 1. The traditional interpretation and role of this text has led to often blind obedience of Christians to the demands of the state, no matter how brutal and unjust
-	- Paul is saying: leave vengence to God. Overcome evil with good. There are state authorities that can deal with it. Eg. school kid bullied, principal's office exists
+   - Paul is saying: leave vengence to God. Overcome evil with good. There are state authorities that can deal with it. Eg. school kid bullied, principal's office exists
 2. In Romans 13:8-14, nonconformity is taught. This suggests that we should not conform to our culture. Christians need to put on weapons of light. Christians need to be careful to not allow verses 1-7 undermine Paul's message
 
 ### Radical Hospitality in imitation of Christ
@@ -897,20 +909,130 @@ Overview
 2. *Strong and weak*: 1 option is that Jews are weak (stuck in Jewish ways) and Gentiles are strong. 2nd option: people who come to a new understanding of Christ such that they can transcend Jewish sensitivities in the presence of Gentiles
 3. Being convinced in your own mind. Importance of being convinced of one's actions
 4. Freedom for the sake of others. The strong are to bear with the failings of the weak, as did Christ. And the weak are not to bind the strong
-	- 15:7, treat each other as God in Christ has treated you
+   - 15:7, treat each other as God in Christ has treated you
 5. What exactly does Paul advise? He doesn't say, but is clear that the Roman believers are to be Christ to each other
 
 ## Paul and our Time
 
 1. Homosexuality
-	- Paul shared with fellow Jews of his day an abhorrence of homosexual activity, widely prevalent in Greco-Roman society
-	- Was what Paul objected to the same thing as committed same-sex relationships in our day?
-		- What Paul knew of homosexuality was pederasty. Sexual exploitation was bad then, and is illegal now.
+   - Paul shared with fellow Jews of his day an abhorrence of homosexual activity, widely prevalent in Greco-Roman society
+   - Was what Paul objected to the same thing as committed same-sex relationships in our day?
+     - What Paul knew of homosexuality was pederasty. Sexual exploitation was bad then, and is illegal now.
 2. The place and role of women
-	- Many texts reflect women as active or co-workers. Phoebe, Junia, Chloe, Prisca/Priscilla, Euodia, Syntyche. Also women actively praying and prophysying in Corinth. View of Galatians 3:28 where "in Christ there is not Jew or Greek, slave nor free, male and female"
-	- Texts support subservience of household codes, which might reflect later realities than those of Paul's own day (Col 3:18-4:1, Eph 5:22-6:9). Possibly hierarchial standards from the time
-	- (1 Cor 14:33b-36, 1 Tim 2:11-12) call women to be quiet. 1 Tim may reflect an increasingly conservative view of Paul's teaching over against an increasingly radical view of Paul's theology and ethics. How do we make sense of 1 Cor 14:33-36, especially since Paul recognizes in 1 Cor 11 that women are actively praying and prophesying
-		- Interpolation (perhaps not originally part of the letter)
-		- Paul is addressing married women, suggesting their behaviour not cause offence
-		- Paul is quiting those in Corinth who wish to silence women, only to take issue with them
-	- What to do with mixed signals?
+   - Many texts reflect women as active or co-workers. Phoebe, Junia, Chloe, Prisca/Priscilla, Euodia, Syntyche. Also women actively praying and prophysying in Corinth. View of Galatians 3:28 where "in Christ there is not Jew or Greek, slave nor free, male and female"
+   - Texts support subservience of household codes, which might reflect later realities than those of Paul's own day (Col 3:18-4:1, Eph 5:22-6:9). Possibly hierarchial standards from the time
+   - (1 Cor 14:33b-36, 1 Tim 2:11-12) call women to be quiet. 1 Tim may reflect an increasingly conservative view of Paul's teaching over against an increasingly radical view of Paul's theology and ethics. How do we make sense of 1 Cor 14:33-36, especially since Paul recognizes in 1 Cor 11 that women are actively praying and prophesying
+     - Interpolation (perhaps not originally part of the letter)
+     - Paul is addressing married women, suggesting their behaviour not cause offence
+     - Paul is quiting those in Corinth who wish to silence women, only to take issue with them
+   - What to do with mixed signals?
+
+## Letters that Paul might not have written
+
+**Pseudepigraphy**: attributing a piece of writing to an author who didn't actually write it
+
+- does this raise questions about the integrity of the scriptures? No
+
+Reasons for writing in Paul's name:
+
+1. To show respect for Paul's mission and views
+2. To show dependence on the revelatory tradition of Paul as an apostle or messenger of God (eg. guarding the deposit in Timothy). There could be a distinction betwen the writer and the author
+3. To correct perceived misinterpretations of the apostle's legacy
+4. To garner support for a particular interpretation of Paul's teaching during a time of controversy. Eg. 2 Thessalonians and Marcion
+
+Was anybody fooled?
+
+- 2 Thessalonians 2:20
+
+Why is there suspicion?
+
+1. Style of writing. In pastoral letters, there are many terms that didn't show up before
+2. Theology. Ephesians and Colossians have different eschatology. It is more past tense than future tenses found in other letters
+3. Sociology. In 1 Timothy, there is reference to a bishop. This suggests future structure. In 1 Corinthians 7 and 12, he wishes people to be celibate and to accept spiritual gifts.
+
+### 2 Thessalonians
+
+Supposedly written by Sylvanius, Paul, Timothy
+
+A change in eschatology
+
+- the way of talking about and anticipating Christ's *parousia* is quite different from 1 Thessalonians. Chapters 1 and 2 state that the *parousia* is not coming at any moment
+
+Reasons given for Christ's delay in returning/differences
+
+1. 2:3 states the rebellion and lawless one must come first
+2. 1:7-8 states Jesus will come as avenging judge
+3. Very harsh words directed to people who think the day of the Lord has already come
+4. Paul is strongly identified with a futuristic eschatology
+
+Reasons for impersonation suspicion
+
+- 2:5 when I was still with you. Possibly author slipped that Paul is from the past
+- provides a scehario in which the "delay" makes sense. Paul's entire gospel assumes the Lord is coming soon. This contradicts Paul's wording of "don't worry about getting married"
+- mimics 1 Thessalonians for wording
+
+### Colossians
+
+Background
+
+- no information from Acts, no evidence that Paul had visited or worked in Colossae
+- connections to letter to Philemon (references Epaphras, Luke, Aristarchur, Onesimus)
+- connection to nearby Laodicea
+- ostensible co-author is Timothy
+
+Reasons for doubt that Paul was the author
+
+1. Style: grammar, syntax, terminology
+2. Theology
+   - Christology: Christ is the cosmic lord, modeled after personified wisdom
+   - Eschatology: Instead of Christ coming in the future, here eschatology is turned vertical. *Has* delivered us. 2:15
+3. Sociology
+   - request to have letters shared among congregations
+   - from cells or house-churches to the universal church (similar to ephesians)
+   - 3:18-4:1 "household code"
+   - undisputed letters often reference money. Disputed letters never reference money.
+   - city of Colossae was destroyed in an earthquake in 60 CE. Request that the letter also be read in Laodicea
+
+It was written because of a problematic *philosophy*: a piety marked by asceticism and angelic worship, with a focus on elements or elemental spirits, resulting in fear-driven religion
+
+### Paul's response to the Colossians
+
+1. Response to piety towards elemental powers
+   - Christ is cosmic lord
+     - Christ has disarmed the powers
+     - the eternal life of believvers is already hidden with Christ above, since believers have already been raised with Christ
+   - Identification with Christ in baptism means that believers identify now already with his resurrection and exaltation, even as they await his and their own revelation. Readers do not need to be afraid, as Christ has defeated powers
+   - Both worship and ethics are to be informed by the cosmic lordship of Jesus Christ
+2. Christological hymn 1:15-20
+   - Christ the *icon* of God
+   - *First-born* of all creation
+   - Agent and goal of creation
+   - Head of the body, the church
+   - First-born from the dead
+   - Fullness of God dwells in him bodily
+   - Christ the peacemaker and reconciler through his own execution by crucifixion
+   - Informing the hymn is the figure of Wisdom from the Jewish wisdom tradition, jast as in the case of the hymn in Philemon 2:6-11
+
+Baptism: ritual of baptism is *taking off* and *putting on* the new human. Christ is new, Adam is old
+
+### Household Code
+
+- originaled from German *Haustafel*
+- reflects basic structure of the Greco-Roman household
+- origins of the household code:
+  - aristotle
+  - stoic lists of duties via the Jewish synagogue?
+  - Jesus' own teaching about putting others first?
+- other instances of the code
+  - Ephesians 5:21-6:9
+  - 1 Peter 2:13-3:7
+  - 1 Tim 2; Titus 2:2-10
+- appearance of the household code in the NT may be a sign that at least a good part of the movement was becoming more *conservative* by adapting to the pravailing patriarchal structures and conventions. Putting children, slaves, and women in their place so that the movement becomes more "respectable" at the time
+
+Countercultural element may nevertheless be present
+
+- persons lower in status are addressed directly as moral agents, and are addressed first in each pairing, but subordination is not reciprocal, however much the attitudes of the superiors is to be marked by love and respect. This may have been seen as quite radical in social implication at that time
+
+Conclusion to Colossians
+
+- Life “in Christ” is lived out in the here and now; they are to “seek the things that are above,” but to do so very much down below in the everyday relationships of life in community
