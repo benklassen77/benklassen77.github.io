@@ -59,6 +59,10 @@
     - [Overview of 2nd half of Ephesians (4-6)](#overview-of-2nd-half-of-ephesians-4-6)
     - [Ephesians Household Code (5:21-6:9)](#ephesians-household-code-521-69)
     - [Armour of God](#armour-of-god)
+  - [Pastoral Letters: 1 & 2 Timothy, Titus](#pastoral-letters-1--2-timothy-titus)
+    - [Circumstances leading to the writing of this correspondence](#circumstances-leading-to-the-writing-of-this-correspondence)
+  - [Paul the Man](#paul-the-man)
+  - [Paul's Thought](#pauls-thought)
 
 ## Module 1
 
@@ -1128,3 +1132,72 @@ Was Paul perhaps not the author?
 - the armour is not worn by the individual but by the comunity of believers, by the "body of Christ"
 - letter is not defensive, but offensive
 - letter closes with a final blessing
+
+## Pastoral Letters: 1 & 2 Timothy, Titus
+
+- named pastoral because they are addressed from Paul to specific pastors of churches
+- nature of documents leads many scholars to see them as written at a later point in history than Paul's life, hence as pseudepigraphical
+- 1 Timothy and Titus: these 2 letters appear to contain manual-like material for organizing church life (bishop requirements, enrollment of true widows)
+- 2 Timothy shares some vocabulary of the above, but it is more of a last will and testament. This genre suggests Paul was not the author
+- unique language or vocabulary. Eg. guarding the deposit (*paratheke*).. wouldn't this suggest a time post-Paul where some were nervous that his writings would be forgotten. Also, Paul has less regard for religion and more regard for faithfullness.
+
+### Circumstances leading to the writing of this correspondence
+
+1. Guarding the deposit: suggests a concern for presevation of tradition and the ordering of communal and institutional life. Spirit doesn't just give gifts, but people can apply to be overseers
+2. Concern for family or household: marriage, childbearing, obligations of caring for family members are held in high esteem (1 Tim). This contrasts to Paul's earlier message of it being better to be single. Also, household code are echoed onto slavery
+
+Historical context of 2nd century struggles over the legacy of Paul in relation to asceticism, gnosticism, eschatology, and Jewish scriptures
+
+- warnings against those who claim that the resurrection has already happened
+- Anti-Jewish stance on law
+- Jewish-myths could be a reference to certain kinds of speculative gnosticism
+
+Pastoral Letters are "no-nonsense" religiosity
+
+- Paul the conservative over against the opponents' Paul the radical visionary ascetic
+- many contemporary practices of organized Christianity are more similar to the world reflected in the Pastoral Letters than that of the unquestioned early correspondence (eg. ordination of ministers)
+- might the historical context be the struggle with the thought of Marcion? 2 Timothy 3:16 could be an argument against thinkers like Marcion, who wanted to get rid of old scriptures
+- Romans 3:21 - God's justice is revealed apart from the law even though the Law and the prophets bear witness to it
+- 1 Tim 6:20 - avoid contradictions which are falsely called knowledge. *Contradictions* in Greek means *Antitheses*. Could be taking a swipe at Marcion's Antitheses. Thus, these letters could be against gnosticism, in which family no longer mattered, Bible was being disbarraged, human body structure was considered insignificant. Less emphasis on the Holy Spirit or nonconformity. More so speaking to the needs of a human community in which Christ has not yet returned but wants to keep that hope alive
+
+Pastoral letters share in Paul's passion for the salvation of the world
+
+- prayer for rulers and a quiet and peacable mode of life is set within the context of God's desire to save everyone
+- 1 Tim 3:14-16 is a capsule of the Pauline gospel as a whole
+
+## Paul the Man
+
+Paul is characterized by polarities
+
+- zealous both before and after his call, while at the same time being committed to patience and humility
+- vulnerable and weak, yet incomprehensibly resilient
+- charismatic leader, while bringing into being communities in which the "priesthood of all believers" was realized
+- larger-than-life hero, but typically works with those he calls "co-workers" or "fellow workers" of both men and women
+- Paul is a Jew, but one with an identity threatening mission to non-Jews (1 Cor 9:19-23)
+- Highly educated, but still choosing to earn his living in menial labour (beneath his station)
+
+Polarity of strength and weakness lies at the heart of Paul's theology
+
+- Jesus is the "Lord" who lived his life as a slave, eventually giving his life at the hands of the Roman empire
+- consequently it informs Paul's own work as Jesus' emissary
+- it informs his understanding of the character of the communities he calls "the body of Christ"
+
+## Paul's Thought
+
+1. Paul's view of Jesus Christ: characterized by this polarity of strength and weakness
+   - Jesus the crucified was Jesus the Risen One
+   - Paul does not tell Jesus stories and seldom recounts his teachings
+   - Jesus is the saviour or liberator who will appear shortly to bring the event of salvation and transformation, begun with his crucifixion and resurrection to conclusion. He anticipated that the days on Earth are numbered
+2. Paul was a Jew
+   - Paul remained a Jew, and did not intend to start a new religion; he was rather a Jew who believed that the great moment of transformation Jews hoped for had begun in and through Jesus
+3. Church: churches are thus quite appropriately cells of the future made up of both Jews and Gentiles, men and women, slaves and free
+4. Spirit in its various manifestations is evidence of the in-breaking of the "new-creation", and the Torah is written onto the hearts of both Jews and Gentiles
+5. Grace and justification: Grace is not only absolution but empowerment, and justification is more than "declaring innocent" but rather enabling persons to be and act justly, that is, in keeping with God's will
+6. For Paul theology and ethics are fully interwoven. "In Christ" implies both identification with Jesus and with his messianic mission. Having the Spirit inhabit believers
+7. Paul's ethics:
+   - as seriously as Paul takes how life is lived, he was much less interested in rules than in "spirit", which is a way of recognizing divine empowerment for right and just living. Some Christians ironically interpreted this as a "new law"
+   - Paul is a realist both about life in the body in what is still an "old age" and about the Spirit's enabling believers to draw on the power of the future
+     - He rejects behaviour that he views as contrary to what the Torah taught about human relationships (eg. works of the flesh, don't indulge yourself.. quotes the law)
+     - He rejects presuming upon grace (Rom 6); he also rejects a legalism that would lead to judgmentalism (Rom 14-15)
+   - he addresses very specific issues, such as prostitution, taking each other to court, sex, eating meat offered to the pagan gods
+   - Paul's appeal is not to Torah but to the believers' identification with Christ and to their relationship to the Spirit. Doesn't merely quote scripture, but applies it to who they are as vessels of the church and the Holy Spirit
