@@ -53,6 +53,12 @@
     - [Colossians](#colossians)
     - [Paul's response to the Colossians](#pauls-response-to-the-colossians)
     - [Household Code](#household-code)
+  - [Ephesians](#ephesians)
+    - [Context of Ephesians](#context-of-ephesians)
+    - [Overview of 1st half of Ephesians](#overview-of-1st-half-of-ephesians)
+    - [Overview of 2nd half of Ephesians (4-6)](#overview-of-2nd-half-of-ephesians-4-6)
+    - [Ephesians Household Code (5:21-6:9)](#ephesians-household-code-521-69)
+    - [Armour of God](#armour-of-god)
 
 ## Module 1
 
@@ -1036,3 +1042,89 @@ Countercultural element may nevertheless be present
 Conclusion to Colossians
 
 - Life “in Christ” is lived out in the here and now; they are to “seek the things that are above,” but to do so very much down below in the everyday relationships of life in community
+
+## Ephesians
+
+### Context of Ephesians
+
+- highly valued in the Christian tradition as a distillation of Paul's theology, and as a basis for Christian unity among the diverse traditions
+
+Reasons for questioning Paul's authorship
+
+1. Use of 1/3 of Colossians
+2. Style: long sentences, multiple nouns, and adjectives for the same point. No punctuation
+3. Organization of the letter as a whole
+   - 2 equal halves
+   - an act of worship opens the letter at 1:3 with a blessing of God
+   - thanksgiving and prayer, beginning at 1:15, which is picked up agian and concluded at 3:14-19
+   - first half concludes in the way it began, with a doxology. Seems like its from a liturgy
+   - second half represents the paraenesis
+4. Theology
+   - Church (ecclesiology) takes precedence over Christology, or better Christ is viewed as present in his 'body'
+   - Eschatology focuses on what is presently already the case, even though the future 'hope' does not disappear
+   - wants to explore what is presently true for the church if in fact Christ is its head
+
+Reasons given for why Paul could have written the letter
+
+- Prison (mentioned throughout the letter)
+- Written late in Paul's life when he could have spent time reflection on his experiences
+
+Was Paul perhaps not the author?
+
+- did it emerge together with Colossians out of a Pauline "school"
+- was it written as a summary of Paul's thought, intended to accompany an early collection of his letters
+- was it an *encyclical* or circular letter?
+- *In Ephesus* in 1:1 is missing in the usually most reliable manuscripts
+
+### Overview of 1st half of Ephesians
+
+- organized 'chiastically' (chiasm comes from Greek letter "chi", written like an 'X')
+- centre of this first half is 2:11-22, which is also chiastically organized, so that at the centre is a hymn to Christ "our peace"
+  - Christ represents peace between Jews and Gentiles. Text is written from perspective of a Jew, addressing a Gentile "you"
+  - Hymn Christ represents peace between humanity and God. Both Jews and Gentiles. Cross is a crossing of two paths, with Christ in the middle
+- the hymn contains destructive imagery to make the point about Christ being "peace"
+  - Torah as means of distinction and separation is destroyed by Christ, who has broken down the wall of separation.
+    - wall in the temple in Jerusalem separating off the "court of the Gentiles"
+    - the wall of Torah in its function instilling a sense of separation
+    - not celebration of abolishment of the law, but on separation of Jews and Gentiles through the law
+  - Cross as means of "murdering enmity" (2:16)
+    - similar use of imagery in 4:8, where Psalm 68:18 is quoted in a way that has many translators rendering it as "taking captivity captive"
+- the hymn to Christ who is "our peace" (2:14-16) contains also constructive imagery
+  - Christ creates in himself the "new human" out of divided and mutually hostile humanity
+
+### Overview of 2nd half of Ephesians (4-6)
+
+- not chiastically organized, but paraenesis taking up some basic issues preoccupying churches generally in the sphere of the Pauline mission. Not easily identifiable issues addressed.. the issues it does raise are relevant to a larger circle of churches or communities
+
+1. The paraenesis begins with a reminder of the tension inherent in Paul's view of Christ himself, and how believers are to behave: they are to exercise their high calling by walking like servants of each other
+   - word play on Paul being one in chains and believers needing to be chained to each other in peace
+   - 7 links in the chain of peace
+2. Christ gives gift to the body for its growth and for the ministry of all
+   - **Gift** refers to people who exercise the various minsitries of proclamation and teaching, so that "the saints" (all believers) can do ministry
+3. Baptismal ritual used to urge a new way of living ('walking')
+   - the author refers to taking off of "old human" and putting on "new human". Similar to Old vs New Adam
+   - reflects baptismal practice
+   - taking off "the lie" and "speak truth"
+   - prohibitions as foil for positive commands. Prohibitions against stealing, insulting, and nursing anger are a contrast for the more important positive urging of generosity, speaking grace, and being kind and forgiving in imitation of God and of Christ
+4. Sharp dualism between good and evil, light and darkness
+   - instead of simply turning the back to "fruitless works of darkness" they should be "exposed"
+   - exposing darkness to light transforms it into light
+   - early baptismal hymn fragment. "awake, sleeper, and arise from the dead"
+
+### Ephesians Household Code (5:21-6:9)
+
+- Christ the self-giving one is model for how social superiors are to behave toward those who are weaker or subordinate to them. Christ's love for the church is a model for husband's love for his wife
+- Household Code is grammatically dependent on 5:18, as people are to be "filled with the spirit"
+- Mutual subordination should be viewed as a participle grammatically dependent on the imperative to be empowered with the Spirit
+- wives are to be subordinate to there husbands who are to love them to the point of offering up their own lives. Children are to obey parents who teach them the way of Jesus. Slaves are to offer their service to masters who are to learn how to put the needs of the slaves before their own. Would men line up for subordination if they knew that that would mean giving up their own lives for the purpose of liberation?
+
+### Armour of God
+
+- Paul recasts the warrior by having the community put on the full armour of God. Waist girded with truth, breastplate with justice, feet with peace, shield of faith, helmet of salvation or liberation, Spirit of God, injunction to pray at all times. Isaiah 59, there is nobody fighting, so God puts on the garments
+- Paul places the community of believers into the role of the divine warrior and thus in some ways reverses the tradition from Isaiah 59
+- the principalities and powers encompass both spiritual and political dimensions
+  - powers wirring around in the air
+- the imitation of God extends to the struggle against evil
+- the armour is not worn by the individual but by the comunity of believers, by the "body of Christ"
+- letter is not defensive, but offensive
+- letter closes with a final blessing
