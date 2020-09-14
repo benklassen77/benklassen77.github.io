@@ -7,7 +7,6 @@
 <li><a href="baking/bananachipmuffin.pdf">Banana Chocolate Chip Muffin</a></li>
 <li><a href="baking/cinnamonbun.pdf">Cinnamon Bun</a></li>
 <li><a href="baking/basicroll.pdf">Roll</a></li>
-<li><a href="baking/sourdough.pdf">Sourdough Bread</a></li>
 </ul>
 </p>
 </details>
@@ -18,8 +17,6 @@
 <p>
 <ul>
 <li><a href="breakfast/eggsbenedict.pdf">Eggs Benedict</a></li>
-<li><a href="breakfast/japanesepancake.pdf">Japanese Pancake</a></li>
-<li><a href="breakfast/sourdoughpancake.pdf">Sourdough Pancake</a></li>
 </ul>
 </p>
 </details>
@@ -33,7 +30,6 @@
 <li><a href="dinner/chickenparmesan.pdf">Chicken Parmesan</a></li>
 <li><a href="dinner/mashedpotatoes.pdf">Mashed Potatoes</a></li>
 <li><a href="dinner/mexicansoup.pdf">Mexican Soup</a></li>
-<li><a href="dinner/newyorkpizza.pdf">New York Style Pizza</a></li>
 </ul>
 </p>
 </details>
@@ -46,11 +42,8 @@
 <li><a href="dessert/chocolatecake.pdf">Chocolate Cake</a></li>
 <li><a href="dessert/chocolatechipcookie.pdf">Chocolate Chip Cookies</a></li>
 <li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
-<li><a href="dessert/grebelchocchipcookie.pdf">Grebel Chocolate Chip Cookie</a></li>
-<li><a href="dessert/grebelmolassescookie.pdf">Grebel Ginger Molasses Cookie</a></li>
 <li><a href="dessert/pavlova.pdf">Pavlova</a></li>
 <li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
-<li><a href="dessert/strawberryshortcake.pdf">Strawberry Shortcake</a></li>
 </ul>
 </p>
 </details>

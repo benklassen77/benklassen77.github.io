@@ -7,7 +7,7 @@
   - [May 10 2020](#may-10-2020)
     - [Enlightened & Adopted](#enlightened--adopted)
     - [Now What? 1](#now-what-1)
-    - [Stories](#stories)
+  - [Matthew 13:24-43](#matthew-1324-43)
 
 ## April 19 2020 - Scandalous 1
 
@@ -79,4 +79,10 @@ Our identify is found in the beginning, where the job given to people was to car
 
 - how we respond to emotions has the power to change lives.
 
-### Stories
+## Matthew 13:24-43
+
+1. Kingdom of God starts small and grows big
+2. Kingdom of God will prevail
+3. The Lord's enemies will be destroyed
+
+Weed looks like wheat
