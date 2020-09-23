@@ -1,5 +1,4 @@
 *.md
 !readme.md
-!projectmanagement.md
 *head.html
 *.DS_Store
