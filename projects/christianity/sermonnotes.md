@@ -86,3 +86,28 @@ Our identify is found in the beginning, where the job given to people was to car
 3. The Lord's enemies will be destroyed
 
 Weed looks like wheat
+
+## September 17 2020 - Matthew 14
+
+This is about the Kingdom of God and how it relates to the wicked kingdoms of this world
+
+Kingdom of God advances through suffering, not through war and bloodbath. Kingdom of God is opposed to the things of this world, and always has been.
+
+*Matthew 14:1-12*: points out how evil times were
+
+- kingdoms of evil last for a season, but God's kingdom prevails in the end
+
+Six Characteristics of a corrupt ruler:
+
+1. **Full of guilt**: Herod lived in fear of John the Baptist
+2. **Sexual Immorality**: Herod hated John because John had confronted his sexual immorality. Today, this relates to government acceptance of LGBTQ. John's boldness is how preachers need to act
+3. **Cowardice**: Herod moved which ever way the wind blew
+4. **Lewd**: pleased Herod
+5. **Weak**: recklessly made a promise
+6. **Murderous**: murdered people
+
+Disciples: still faithful in the middle of it
+
+- notify Jesus
+
+While Satan's kingdom looks powerful, we need not fear, because we must be faithful in our generation.
