@@ -1,10 +1,17 @@
-# Project Management
+# [Project Management](http://benjaminklassen.com)
 
 - [Project Management](#project-management)
   - [Resources](#resources)
   - [Unit 1](#unit-1)
   - [Unit 2 - Leadership and Project Management](#unit-2---leadership-and-project-management)
   - [Unit 3 - Starting a Project](#unit-3---starting-a-project)
+  - [Unit 4 - Organizational Structure](#unit-4---organizational-structure)
+    - [Functional Organization](#functional-organization)
+    - [Weak Matrix](#weak-matrix)
+    - [Balanced Matrix](#balanced-matrix)
+    - [Strong Matrix Organization](#strong-matrix-organization)
+    - [Projectized Structure](#projectized-structure)
+    - [Composite Organizations](#composite-organizations)
 
 ## Resources
 
@@ -238,14 +245,14 @@ Project Management Office (PMO)
 
 - more prevalent in organizations that take on a lot of projects
 - typically:
-	- select and supervise operation
-	- provide software training
-	- train and mentor PMs
-	- select a project management methodology
-	- provide guidance and templates for project teams
-	- provide backup administrative help
-	- take an overview of projects
-	- allocate additional resources as needed
+  - select and supervise operation
+  - provide software training
+  - train and mentor PMs
+  - select a project management methodology
+  - provide guidance and templates for project teams
+  - provide backup administrative help
+  - take an overview of projects
+  - allocate additional resources as needed
 
 Key PM skills
 
