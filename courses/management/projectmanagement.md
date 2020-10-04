@@ -133,3 +133,124 @@ Responsibilities
 - need to be sorted out at the start of a project
 - project manager allocates responsibilities
 - if the project manager is unable to do this, they must go to the project sponsor
+
+## Unit 4 - Organizational Structure
+
+### Functional Organization
+
+- project manager has the least power
+- departments are separate
+- very traditional
+- PM depends on other departments
+- PM may report to functional manager. Known as team leader, not project manager
+- PM part time likely
+
+Pros
+
+- ideal for organizations w/ recurring projects
+- everyone knows who's in charge
+- the department has authority and responsibility for the project
+
+Cons
+
+- PM has little power and project authority
+- PM is known as someone who oversees, but doesn't instruct anyone
+
+### Weak Matrix
+
+- employees work for departments but can be assigned projects across the organization
+- report to both PM and manager of department
+- can lead to confusion over allocation of that person's time
+- PM has limited authority
+- project team is part time
+- project coordinator or team leader
+
+Pros
+
+- PM has little authority (departments have some responsibility for ensuring project success)
+
+Cons
+
+- project part of functional department's activities
+- project team resources can be allocated between too many projects at once
+
+### Balanced Matrix
+
+- PM has more time, power, and reasonable level of authority
+- project team members are usually part-time
+- PM is full-time
+- part-time administrative staff
+
+Pros
+
+- PM has balanced project authority with management
+- more efficient use of functional resources
+
+Cons
+
+- conflict between organizational departments
+- may battle for project team's time
+- project team may feel they report to multiple bosses
+
+### Strong Matrix Organization
+
+- PM has stronger role than functional managers
+- power to command time from resources
+- reasonable to high level of power
+- part-time to nearly full-time project team
+- full-time PM and full-tume administrative staff
+
+Pros
+
+- project team may be assigned to a project from 50-90\% of its duration
+
+Cons
+
+- competition over resources
+- costs may increase bc administrative staff allocated to individual projects rather than department
+
+### Projectized Structure
+
+- PM has the most power
+- organization is structured around projects
+- PM has higher level of responsibility
+- high to complete authority over project team
+- high to complete authority over project team
+- works full time on project
+- full time administrative staff
+
+Pros
+
+- PM has decision making authority
+- no need to negotiate w/ functional managers
+
+Cons
+
+- project teams may compete for resources
+- team may lose focus towards end of project
+
+### Composite Organizations
+
+- common in real world
+- few follow organizational structures precisely
+
+Project Management Office (PMO)
+
+- more prevalent in organizations that take on a lot of projects
+- typically:
+	- select and supervise operation
+	- provide software training
+	- train and mentor PMs
+	- select a project management methodology
+	- provide guidance and templates for project teams
+	- provide backup administrative help
+	- take an overview of projects
+	- allocate additional resources as needed
+
+Key PM skills
+
+- leads a project team
+- communicates project info
+- negotiates project terms and conditions
+- active problem solver
+- influences organization
