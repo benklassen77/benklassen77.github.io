@@ -12,6 +12,8 @@
     - [Strong Matrix Organization](#strong-matrix-organization)
     - [Projectized Structure](#projectized-structure)
     - [Composite Organizations](#composite-organizations)
+  - [Unit 5 - Project Scope](#unit-5---project-scope)
+  - [Controlling Time](#controlling-time)
 
 ## Resources
 
@@ -261,3 +263,106 @@ Key PM skills
 - negotiates project terms and conditions
 - active problem solver
 - influences organization
+
+## [Unit 5 - Project Scope](https://benjaminklassen.com/documents/courses/management/projectmanagement/pmunit5.pdf)
+
+**Product Scope**: the features and functions that characterize a product, service, or result
+
+**Project Scope**: the work performed to deliver a product, service, or result with the specified features and functions
+
+**Scope Creep**: the process by which a project grows beyond its originally anticipated size
+
+- eg. National Health Service in UK scrapped at 20B
+
+The iron triangle (triple constraint) consists of time, cost, and scope. Changes of any of these will result in tradeoffs taking place.
+
+Scope Creep happens because:
+
+- bad project scope statement
+- bad definition of project requirements
+- bad project manager control
+- bad stakeholder management
+- bad change control
+- gold plating
+
+How can Scope Creep be fixed?
+
+- good project scope statement
+- good definition of project requirements
+- better project manager control
+- effective stakeholder management
+- disciplined change control
+
+Good Project Scope Statement Includes:
+
+- justification
+- product scope description
+- acceptance criteria
+- deliverables
+- project exclusions (what should the project not achieve)
+- constraints
+- assumptions
+
+Good definition of project requirements
+
+- identify key stakeholders
+- capture stakeholder requirements
+- categorize requirements
+- interpret and record requirements
+- sign-off
+
+Better Project Manager Control
+
+- not about dictating - more like steering a ship
+- have a clear vision of the final project outcome
+- make project visible to monitor progress
+- anticicipate obstances
+- disciplined change control
+
+Effective stakeholder management
+
+- identify stakeholders at the beginning of a project
+- ensure stakeholder understand project deliverables
+- establish project change control with stakeholders
+- good communication with stakeholders
+- keep project vision visible
+- keep stakeholders engaged
+- agree with stakeholders on what *done* means
+- emphasize with stakeholders even if you don't do everything they ask you to do
+
+![Disciplined Change Control Process](https://i.imgur.com/fxluJ60.png?1)
+
+Actions for Managing Project Scope
+
+- good project scope statement
+- good definition of project requirements
+- better project manager control
+- effective stakeholder management
+- disciplined change control
+
+## Controlling Time
+
+Eg. 2014 FIFA World Cup had poor project management
+
+- construction started in 2007, still not completed by 2014
+- plans started late
+- plans not executed well
+- did not follow directions
+- modifications required due to poor safely standards
+
+![Creating a Work Breakdown Structure (WBS)](https://i.imgur.com/07jIudB.png?1)
+
+Gantt Chart
+
+- uses the work breakdown structure
+- lists activities and plots them on the chart
+- monitor and control a project
+- know when activities are supposed to be taking place
+
+![Gantt Chart](https://i.imgur.com/4a7fUbQ.png?1)
+
+Critical Path Method (CPM) and Program Evaluation Review Technique (PERT)
+
+- **critical path** is the path required for certain events to happen when they need to happen
+- used for more advanced projects
+- many automated tools to it like Microsoft Project
