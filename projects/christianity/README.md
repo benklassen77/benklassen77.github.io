@@ -1,4 +1,4 @@
-# [Christianity](http://benjaminklassen.com)
+# [Christianity](https://benjaminklassen.com)
 
 ## [Sermon Notes](sermonnotes.md)
 
