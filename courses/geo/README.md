@@ -1,3 +1,3 @@
-# [Geotechnical Engineering](http://benjaminklassen.com)
+# [Geotechnical Engineering](https://benjaminklassen.com)
 
 ## [Cive 354](cive354.html)
