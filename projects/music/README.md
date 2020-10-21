@@ -1,4 +1,4 @@
-# [Music](http://benjaminklassen.com)
+# [Music](https://benjaminklassen.com)
 
 ## [Music History](musicappreciation.md)
 

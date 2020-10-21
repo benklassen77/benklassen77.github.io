@@ -1,4 +1,4 @@
-# [Mechanics](http://benjaminklassen.com)
+# [Mechanics](https://benjaminklassen.com)
 
 ## [Solid Mechanics](SolidMechanics.html)
 

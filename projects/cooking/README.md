@@ -1,4 +1,4 @@
-# [Recipes](http://benjaminklassen.com)
+# [Recipes](https://benjaminklassen.com)
 
 <div class="something" markdown="1">
 <details><summary>BAKING</summary>

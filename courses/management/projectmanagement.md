@@ -1,4 +1,4 @@
-# [Project Management](http://benjaminklassen.com)
+# [Project Management](https://benjaminklassen.com)
 
 - [Project Management](#project-management)
   - [Resources](#resources)
@@ -17,9 +17,9 @@
 
 ## Resources
 
-[PMBOK](http://benjaminklassen.com/documents/courses/management/projectmanagement/pmbok.pdf)
+[PMBOK](https://benjaminklassen.com/documents/courses/management/projectmanagement/pmbok.pdf)
 
-**CAPM** [1](http://benjaminklassen.com/documents/courses/management/projectmanagement/capm1.pdf) [2](http://benjaminklassen.com/documents/courses/management/projectmanagement/capm2.pdf) [3](http://benjaminklassen.com/documents/courses/management/projectmanagement/capm3.pdf) [13](http://benjaminklassen.com/documents/courses/management/projectmanagement/capm13.pdf)
+**CAPM** [1](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm1.pdf) [2](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm2.pdf) [3](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm3.pdf) [13](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm13.pdf)
 
 ## Unit 1
 
@@ -76,7 +76,7 @@ An opposite view is the human relations school
 
 PMI Code of ethics
 
-![Code of Ethics](http://www.simpleimageresizer.com/_uploads/photos/924493ce/Screen_Shot_2020-09-27_at_8.55.14_PM_1_76.png)
+![Code of Ethics](https://www.simpleimageresizer.com/_uploads/photos/924493ce/Screen_Shot_2020-09-27_at_8.55.14_PM_1_76.png)
 
 - **Responsibility**: take responsibility for the project and your commitments
 - **Respect**: for the clients, stakeholders, and the project team

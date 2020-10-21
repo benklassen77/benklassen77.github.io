@@ -1,4 +1,4 @@
-# [Personal Projects](http://benjaminklassen.com)
+# [Personal Projects](https://benjaminklassen.com)
 
 ## [Christianity](christianity/)
 

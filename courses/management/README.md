@@ -1,4 +1,4 @@
-# [Management](http://benjaminklassen.com)
+# [Management](https://benjaminklassen.com)
 
 ## [Econ](econ.html)
 
