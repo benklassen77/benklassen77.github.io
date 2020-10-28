@@ -23,3 +23,5 @@
 Shift+CenterMouse = rotate model
 
 RollballMouse = zoom in and out
+
+Ctrl+Highlight = select multiple members
