@@ -2,4 +2,4 @@
 
 ## [Music History](musicappreciation.md)
 
-## [Personal Favourites](cd.md)
+## [Jazz Theory](jazz.md)
