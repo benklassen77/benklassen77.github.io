@@ -5,6 +5,8 @@
 
 ## Resources
 
+[Bill Evans - Fakebook](https://benjaminklassen.com/documents/fun/music/billevans-fakebook)
+
 [George Russell - The Lydian Chromatic Concept of Tonal Organization](https://benjaminklassen.com/documents/fun/music/georgerussell-lydianconcept.pdf)
 
 [Mark Levine - The Jazz Theory Book](https://benjaminklassen.com/documents/fun/music/marklevine-jazztheorybook)
