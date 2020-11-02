@@ -14,12 +14,13 @@
     - [Composite Organizations](#composite-organizations)
   - [Unit 5 - Project Scope](#unit-5---project-scope)
   - [Controlling Time](#controlling-time)
+  - [Unit 6 - Controlling Costs](#unit-6---controlling-costs)
+    - [Cost Estimating Tools](#cost-estimating-tools)
+    - [Cost Control](#cost-control)
 
 ## Resources
 
-[PMBOK](https://benjaminklassen.com/documents/courses/management/projectmanagement/pmbok.pdf)
-
-**CAPM** [1](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm1.pdf) [2](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm2.pdf) [3](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm3.pdf) [13](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm13.pdf)
+[PMBOK](https://benjaminklassen.com/documents/courses/management/projectmanagement/pmbok.pdf), **CAPM** [1](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm1.pdf) [2](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm2.pdf) [3](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm3.pdf) [13](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm13.pdf)
 
 ## Unit 1
 
@@ -73,10 +74,9 @@ An opposite view is the human relations school
 
 - Theory X assumes naturally lazy, unable to do job properly without strong supervision
 - Theory Y assumes people want to do a good job, and that a rewarding career motivates people
+- PMI Code of ethics
 
-PMI Code of ethics
-
-![Code of Ethics](https://www.simpleimageresizer.com/_uploads/photos/924493ce/Screen_Shot_2020-09-27_at_8.55.14_PM_1_76.png)
+4 factors
 
 - **Responsibility**: take responsibility for the project and your commitments
 - **Respect**: for the clients, stakeholders, and the project team
@@ -264,7 +264,7 @@ Key PM skills
 - active problem solver
 - influences organization
 
-## [Unit 5 - Project Scope](https://benjaminklassen.com/documents/courses/management/projectmanagement/pmunit5.pdf)
+## Unit 5 - Project Scope
 
 **Product Scope**: the features and functions that characterize a product, service, or result
 
@@ -366,3 +366,47 @@ Critical Path Method (CPM) and Program Evaluation Review Technique (PERT)
 - **critical path** is the path required for certain events to happen when they need to happen
 - used for more advanced projects
 - many automated tools to it like Microsoft Project
+
+## Unit 6 - Controlling Costs
+
+**Cost estimate**: large projects require estimating and budgeting.
+
+Tasks:
+
+Determine the activities needed for the project
+
+- work breakdown structure
+- examine other documents (eg. project management plan)
+
+### Cost Estimating Tools
+
+- analogous estimating
+- resource cost rates
+- bottom-up estimating
+- PM software
+- vendor bid analysis
+- reserve analysis
+
+### Cost Control
+
+- project budget used as baseline
+- produce project performance reports
+- evaluate and approve project cost changes carefully
+- forecasting methods used to anticipate future costs
+
+Why do projecys grow larger than their original plan?
+
+- uncertainty in estimating
+- competitive bids
+  - estimate created for bid to conduct project
+  - often an underestimate of actual costs
+  - does not sufficiently recognize uncertainty
+- weather conditions
+- employment market
+- project resources
+- stakeholders
+- project complexity
+- client behaviour
+- quality management
+- **Systemicity**: the whole produces more than the sum of its parts. combined impact of disruptions to the project is greater than each individually
+- accelerating to compensate
