@@ -1,6 +1,17 @@
 # [Recipes](https://benjaminklassen.com)
 
 <div class="something" markdown="1">
+<details><summary>COOKBOOKS</summary>
+<p>
+<ul>
+<li><a href="https://benjaminklassen.com/documents/fun/cooking/mennonitecommunitycookbook.pdf">Mennonite Cookbook</a></li>
+<li><a href="https://benjaminklassen.com/documents/fun/cooking/moosewoodcookbook.pdf">Moosewood Cookbook</a></li>
+</ul>
+</p>
+</details>
+</div>
+
+<div class="something" markdown="1">
 <details><summary>BAKING</summary>
 <p>
 <ul>
