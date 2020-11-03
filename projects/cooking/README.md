@@ -6,6 +6,7 @@
 <ul>
 <li><a href="https://benjaminklassen.com/documents/fun/cooking/mennonitecommunitycookbook.pdf">Mennonite Cookbook</a></li>
 <li><a href="https://benjaminklassen.com/documents/fun/cooking/moosewoodcookbook.pdf">Moosewood Cookbook</a></li>
+<li><a href="dinner/mealprep.pdf">Mom's Meal Prep</a></li>
 </ul>
 </p>
 </details>
@@ -40,7 +41,6 @@
 <li><a href="dinner/beetborscht.pdf">Beet Borscht</a></li>
 <li><a href="dinner/chickenparmesan.pdf">Chicken Parmesan</a></li>
 <li><a href="dinner/mashedpotatoes.pdf">Mashed Potatoes</a></li>
-<li><a href="dinner/mealprep.pdf">Mom's Meal Prep</a></li>
 <li><a href="dinner/mexicansoup.pdf">Mexican Soup</a></li>
 </ul>
 </p>
