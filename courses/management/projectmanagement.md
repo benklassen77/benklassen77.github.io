@@ -17,6 +17,8 @@
   - [Unit 6 - Controlling Costs](#unit-6---controlling-costs)
     - [Cost Estimating Tools](#cost-estimating-tools)
     - [Cost Control](#cost-control)
+  - [Project Teams](#project-teams)
+  - [International Project Management](#international-project-management)
 
 ## Resources
 
@@ -410,3 +412,110 @@ Why do projecys grow larger than their original plan?
 - quality management
 - **Systemicity**: the whole produces more than the sum of its parts. combined impact of disruptions to the project is greater than each individually
 - accelerating to compensate
+
+## Project Teams
+
+Quality Progress Survey
+
+- The Big Picture: what's happening overall w/ project teams
+- Up Close and Personal: a detailed look at project teams
+- Project Leaders: qualities and weaknesses
+- Pathways to Change: improve the way project teams work
+
+Pathways to Change:
+
+- ensuring team has sufficient resources
+- selecting appropriate leaders
+- establishing training processes for leaders
+- process discipline through project management methodology
+- determine a performance system
+- attention to personal and interpersonal dynamics
+
+Improving Team Leadership
+
+- top management needs to behave appropriately
+- alignment of projects and organizational goals
+- clarity of roles and responsibilities
+- decision rules need to be defined
+- transparency around team progress
+- visible senior management support
+- rewarding success of team members
+
+Performance Management System
+
+- working towards the right project goals
+- team members should be measured on work that supports project goals
+- should allow for feedback so team management can improve
+
+Interpersonal Dynamics
+
+- performance pressure + complex environments: bad team behaviour. Self-interest: conflict
+
+To solve this problem:
+
+- align team
+- team building activities
+- conflict management training
+
+## International Project Management
+
+Issues
+
+- the way design is conducted
+- material sourcing and types
+- equipment sourcing and usage
+- types of labour, skills, and issues
+- type of available maangement
+
+Areas of Concern:
+
+Design
+
+- local building codes
+- weather
+- geology
+
+Materials
+
+- local availability
+- different labour practices influence types and quality
+
+Equipment
+
+- local vs. import
+- pricing
+- availability of spares and stock
+
+Labour
+
+- availability of particular types of skills
+- local productivity
+- how labour is obtained
+- employment taxes
+
+Managers
+
+- being able to obtain effective managers
+- local managers or expats
+- living arrangements
+- service managers requirements
+
+Schedule
+
+- import managers and get up to speed
+- delivery times
+- local weather
+- local holidays
+
+Local Infrastructure
+
+- water, power, internet connectivity
+- transportation conditions
+- custms, payments, taxes, insurance
+- local regulations and requirements
+
+Getting Started w/ international projecrts
+
+- seek out the local department of commerce
+- connect w/ a local partner or consultant who is familiar w/ the local environment
+- become familiar w/ local industry practices
