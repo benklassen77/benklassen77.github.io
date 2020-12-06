@@ -56,6 +56,7 @@
 <li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
 <li><a href="dessert/pavlova.pdf">Pavlova</a></li>
 <li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
+<li><a href="dessert/shortbread.pdf">Shortbread</a></li>
 </ul>
 </p>
 </details>
