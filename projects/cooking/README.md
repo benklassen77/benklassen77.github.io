@@ -1,11 +1,11 @@
-# [Recipes](https://benjaminklassen.com)
+# [Recipes](https://benklassen77.github.io)
 
 <div class="something" markdown="1">
 <details><summary>COOKBOOKS</summary>
 <p>
 <ul>
-<li><a href="https://benjaminklassen.com/documents/fun/cooking/mennonitecommunitycookbook.pdf">Mennonite Cookbook</a></li>
-<li><a href="https://benjaminklassen.com/documents/fun/cooking/moosewoodcookbook.pdf">Moosewood Cookbook</a></li>
+<li><a href="https://benklassen77.github.io/documents/fun/cooking/mennonitecommunitycookbook.pdf">Mennonite Cookbook</a></li>
+<li><a href="https://benklassen77.github.io/documents/fun/cooking/moosewoodcookbook.pdf">Moosewood Cookbook</a></li>
 <li><a href="dinner/mealprep.pdf">Mom's Meal Prep</a></li>
 </ul>
 </p>
@@ -54,6 +54,7 @@
 <li><a href="dessert/chocolatecake.pdf">Chocolate Cake</a></li>
 <li><a href="dessert/chocolatechipcookie.pdf">Chocolate Chip Cookies</a></li>
 <li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
+<li><a href="dessert/hotchocolate.pdf">Hot Chocolate</a></li>
 <li><a href="dessert/pavlova.pdf">Pavlova</a></li>
 <li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
 <li><a href="dessert/shortbread.pdf">Shortbread</a></li>
