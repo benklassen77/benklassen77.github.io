@@ -1,4 +1,4 @@
-# [Mechanics](https://benjaminklassen.com)
+# [Mechanics](https://benklassen77.github.io)
 
 ## [Solid Mechanics](SolidMechanics.html)
 

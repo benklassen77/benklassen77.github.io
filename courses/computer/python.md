@@ -1,4 +1,4 @@
-# [Python](http://benjaminklassen.com)
+# [Python](http://benklassen77.github.io)
 
 - [Python](#python)
   - [Basic Syntax](#basic-syntax)
@@ -359,7 +359,7 @@ Additionally, one can insert values into an array using the below
 - **np.append(a,4)**: inserts the number 4 at the end of array a
 - **np.insert(a,index,7)**: inserts the number 7 at the specified index of array a
 
-[Example for simply supported beam](http://benjaminklassen.com/documents/examples/python/pythonsimplysupported.pdf)
+[Example for simply supported beam](http://benklassen77.github.io/documents/examples/python/pythonsimplysupported.pdf)
 
 ## SymPy
 

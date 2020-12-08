@@ -1,4 +1,4 @@
-# [Management](https://benjaminklassen.com)
+# [Management](https://benklassen77.github.io)
 
 ## [Econ](econ.html)
 

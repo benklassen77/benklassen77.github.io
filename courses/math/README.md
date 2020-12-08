@@ -1,4 +1,4 @@
-# [Mathematics](https://benjaminklassen.com)
+# [Mathematics](https://benklassen77.github.io)
 
 ## [Linear Algebra](linalg.md)
 

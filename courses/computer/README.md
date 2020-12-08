@@ -1,4 +1,4 @@
-# [Computer Languages](https://benjaminklassen.com)
+# [Computer Languages](https://benklassen77.github.io)
 
 ## [Latex](Latex.html)
 

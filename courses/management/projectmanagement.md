@@ -1,4 +1,4 @@
-# [Project Management](https://benjaminklassen.com)
+# [Project Management](https://benklassen77.github.io)
 
 - [Project Management](#project-management)
   - [Resources](#resources)
@@ -22,7 +22,7 @@
 
 ## Resources
 
-[PMBOK](https://benjaminklassen.com/documents/courses/management/projectmanagement/pmbok.pdf), **CAPM** [1](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm1.pdf) [2](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm2.pdf) [3](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm3.pdf) [13](https://benjaminklassen.com/documents/courses/management/projectmanagement/capm13.pdf)
+[PMBOK](https://benklassen77.github.io/documents/courses/management/projectmanagement/pmbok.pdf), **CAPM** [1](https://benklassen77.github.io/documents/courses/management/projectmanagement/capm1.pdf) [2](https://benklassen77.github.io/documents/courses/management/projectmanagement/capm2.pdf) [3](https://benklassen77.github.io/documents/courses/management/projectmanagement/capm3.pdf) [13](https://benklassen77.github.io/documents/courses/management/projectmanagement/capm13.pdf)
 
 ## Unit 1
 
