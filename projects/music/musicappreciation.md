@@ -1,4 +1,4 @@
-# [Music History](http://benjaminklassen.com)
+# [Music History](http://benklassen77.github.io)
 
 - [Music History](#music-history)
   - [Lecture 1 - Music As A Mirror](#lecture-1---music-as-a-mirror)

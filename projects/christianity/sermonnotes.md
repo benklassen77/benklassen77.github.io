@@ -1,4 +1,4 @@
-# [Sermon Notes](http://benjaminklassen.com)
+# [Sermon Notes](http://benklassen77.github.io)
 
 - [Sermon Notes](#sermon-notes)
   - [April 19 2020 - Scandalous 1](#april-19-2020---scandalous-1)

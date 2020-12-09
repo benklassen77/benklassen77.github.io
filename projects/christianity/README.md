@@ -1,4 +1,6 @@
-# [Christianity](https://benjaminklassen.com)
+# [Christianity](https://benklassen77.github.io)
+
+## [Devotions](devotions.md)
 
 ## [Sermon Notes](sermonnotes.md)
 

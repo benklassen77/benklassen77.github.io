@@ -1,4 +1,4 @@
-# [Music](https://benjaminklassen.com)
+# [Music](https://benklassen77.github.io)
 
 ## [Music History](musicappreciation.md)
 

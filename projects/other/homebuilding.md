@@ -1,4 +1,4 @@
-# [Home-building](http://benjaminklassen.com)
+# [Home-building](http://benklassen77.github.io)
 
 - [Home-building](#home-building)
   - [Wall and Floor Framing](#wall-and-floor-framing)
