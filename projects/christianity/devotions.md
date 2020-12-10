@@ -1,5 +1,10 @@
 # Devotions
 
+- [Devotions](#devotions)
+  - [Romans](#romans)
+    - [Romans 1](#romans-1)
+    - [Romans 2](#romans-2)
+
 ## Romans
 
 ### Romans 1
@@ -31,3 +36,31 @@
 32 *Although they know God's righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them*
 
 - It is sinful to approve of sinful acts
+
+### Romans 2
+
+3-4 *So when you, a mere human being, pass judgement on them and yet do the same things, do you think you will escape God's judgement? Or do you show contempt for the riches of his kindness, forbearance and patience, not realizing that God's kindness is intended to lead you to repentance?*
+
+- Our convictions must lead to repentance
+- There shouldn't be judgement for one another
+
+7-11 *To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life. But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger. There will be trouble and distress for every human being who does evil: first for the Jew, then for the Gentile; but glory, honor, and peace for everyone who does good: first for the Jew, then for the Gentile. For God does not show favouritism.
+
+- One needs to persistently do good, seek glory, honour, and immorality
+- It is evil to be self-seeking and reject the Lord's truth
+- God doesn't show favouritism
+
+13-14 *For it is not those who hear the law who are righteous in God's sight, but it is those who obey the law who will be declared righteous. Indeed, when Gentiles, who do not have the law, do by nature things required by the law, they are a law for themselves, even though they do not have the law. They show that the requirements of the law are written on their hearts, their consciences also bearing witness, and their thoughts sometimes accusing them and at other times even defending them
+
+- The Holy Spirit defends and convicts
+- The righteous must obey the law placed on their hearts
+
+23-24 *You who boast in the law, do you dishonour God by breaking the law? As it is written: "God's name is blasphemed among the Gentiles because of you*
+
+- It isn't my place to rely on the law for salvation
+
+28-29 *A person is not a Jew who is one only outwardly, nor is circumcision merely outward and physical. No, a person is a Jew who is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the written code. Such a person's praise is not from other people, but from God.
+
+- The written law doesn't circumcise, but rather the transformation of the heart by the Spirit is circumcision.
+- The Spirit needs to lead our life
+- A person's praise is from God!
