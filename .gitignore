@@ -1,6 +1,4 @@
 *.md
 !readme.md
-!devotions.md
 *head.html
 *.DS_Store
-!citysociety.md
