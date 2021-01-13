@@ -1,29 +1,109 @@
 <!DOCTYPE html>
     <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Structural Analysis</title>
-        <style>
-</style>
-        
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
-<style>
-            body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
-                font-size: 14px;
-                line-height: 1.6;
-            }
-        </style>
-        <style>
-.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
-</style>
-        
-        
-        
+      <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <title>Structural Analysis | Benjamin Klassen</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+        <script>
+            $(document).ready(function() {
+                // wrap everything in bootstrap container
+                str = document.body.innerHTML
+                document.body.innerHTML = "<div class=\"container\"></div>"
+                document.querySelector("body div.container").innerHTML = str
+    
+                // make table look better
+                document.querySelectorAll("table").forEach(function(e) { e.classList += "table table-sm table-bordered col-md-6" })
+                document.querySelectorAll("blockquote").forEach(function(e) { e.classList.add("blockquote") })
+                document.querySelectorAll("img").forEach(function(e) { e.classList.add("img-fluid"); e.classList.add("img-thumbnail"); })
+            })
+        </script>
+    
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
     </head>
     <body class="vscode-body vscode-light">
         <h1 id="structural-analysis">Structural Analysis</h1>
+<h2 id="resources">Resources</h2>
+<p><a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/leetstructuralanalysis.pdf">Leet Textbook</a>, <a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/hibbelerstructuralanalysis.pdf">Hibbeler Textbook</a>, <a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/303syllabus.pdf">Syllabus</a></p>
+<h2 id="lecture-1---introduction"><a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/lec1coursenotes.pdf">Lecture 1 - Introduction</a></h2>
+<p>Structural Design</p>
+<ul>
+<li>governed by codes and standards</li>
+<li>based on limit states design principles
+<ul>
+<li>ultimate and serviceability limit state</li>
+</ul>
+</li>
+<li>ontario building code obc</li>
+<li>wood: CSA 086, steel: CSA 516, concrete: A23.3</li>
+</ul>
+<p>Ultimate Limit State</p>
+<ul>
+<li>Strength, Stability
+<ul>
+<li>includes fatigue (sometimes treated as a separate limit state)</li>
+</ul>
+</li>
+</ul>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>ϕ</mi><mi>R</mi><mo>≥</mo><mo>∑</mo><mrow><msub><mi>α</mi><mi>i</mi></msub><msub><mi>S</mi><mi>i</mi></msub></mrow></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(ULS)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">\phi{R}\ge\sum{\alpha_i{S_i}}\tag{ULS}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">ϕ</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.00773em;">R</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≥</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.6000100000000002em;vertical-align:-0.55001em;"></span><span class="mop op-symbol large-op" style="position:relative;top:-0.000004999999999977245em;">∑</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.0037em;">α</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.0037em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span class="tag"><span class="strut" style="height:1.6000100000000002em;vertical-align:-0.55001em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">U</span><span class="mord">L</span><span class="mord">S</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<p>Serviceability Limit State</p>
+<ul>
+<li>deflections, vibrations</li>
+<li>subjective criteria based on service loads/conditions</li>
+</ul>
+<p>Loads</p>
+<ul>
+<li>Permanent (dead)
+<ul>
+<li>self weight of structure</li>
+<li>superimposed dead loads</li>
+</ul>
+</li>
+<li>Transient (live)
+<ul>
+<li>occupancy (residential 1.9 kPa, assembly 4.8, library 7.2, parking 2.4</li>
+<li>snow</li>
+<li>wind</li>
+<li>earth or water pressure</li>
+<li>earthquake</li>
+<li>rain</li>
+<li>temperature</li>
+<li>strain-induced</li>
+</ul>
+</li>
+</ul>
+<p>Given information:</p>
+<ul>
+<li>applied loads</li>
+<li>imposed deformations</li>
+<li>material properties (yield strength, rupture strength, E, G)</li>
+<li>geometry (span, length, x-section)</li>
+<li>boundary conditions (support conditions, joints)</li>
+</ul>
+<p>Need to know:</p>
+<ul>
+<li>internal forces/stresses</li>
+<li>external reactions</li>
+<li>deflections/deformations/rotations</li>
+</ul>
+<p>Course assumptions:</p>
+<ul>
+<li>static</li>
+<li>linear-elastic behaviour/relatinship between stress and strain is known</li>
+<li>small deformations/small rotations relative to member size/span</li>
+<li>first order analysis</li>
+<li>compatibility of strain</li>
+</ul>
 
     </body>
     </html>
