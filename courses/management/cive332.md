@@ -40,16 +40,29 @@ A **system** is something that transports inputs into outputs. It is a flow
 - eg. respiratory system, highway system, gear, ants in a colony, biodiversity in ecosystem
 - control system, information, mechanical systems, management systems
 
-A **system** is an assemblage ...
+A **system** is an assemblage of parts united into an organized whole. It typically has a purpose
 
-Composed of components, attributes and relationships as follows
+Classification of systems:
 
-- **components**: operating parts of a system consisting of input, process and output
-- **attributes**: the properties ...
-- **relationships**: ..
+1. Natural and human-made systems
+   - **natural** are those naturally occurring
+   - **Human-made** have been made by humans
+2. Physical and conceptual systems
+3. Static and dynamic systems
+4. Closed and Open system
+   - **closed**: do not interact significantly with their environment. Output isolated from input
+   - **open** feedback system allow matters to cross in both directions
 
-Elements of a system: ...
+Composed of components, attributes and relationships
 
-Common principles:
+System design methodology
 
-Organizational paradigms:
+1. Systems design is an iterative process that evolves the design from a simple initial abstract representation to a detailed design that is implemented or communicated.
+2. Design starts with a need, from which the conflicting objectives, scope, constraints, and criteria evolve, as well as the quantitative definitions of the design problem.
+3. Many solutions should be generated and an intuitive and emotional leap to an immediate solution should be avoided.
+4. Solutions are analyzed for feasibility
+5. It is usually worth optimizing one or more solutions, and this will often require very formal and rigorous modeling and analysis
+
+See below for organizational paradigms
+
+![Organizational paradigms](https://i.imgur.com/NB0Qexn.png?1)

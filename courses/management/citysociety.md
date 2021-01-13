@@ -109,3 +109,15 @@ Electrical grid
 ![Social Paradigms](https://i.imgur.com/PGJfRfJ.png?1)
 
 Which paradigm best accounts for a technological change familiar to you, and how so?
+
+News Article
+
+Transit commuters may not return
+
+- bus and rail ridership more sensitive to economic changes than other modes. Financial effects to be felt long time
+- remote working, driving, biking
+- service cuts may prevail, lowering ridership
+- us decline since 2014 because of cheap gas, easy credit, deteriorating infrastructure, uber and lyft
+- lower-income switches to car are greater than discretionary riders (rail) increase
+- essential workers prove that transit is essential. Perhaps more federal funding will come instead of fare reliance
+- traffic hoped to beat traffic, fight climate change, and revitalize communities. However, it provides for those without. Transit rise as social service
