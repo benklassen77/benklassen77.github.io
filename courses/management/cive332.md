@@ -7,6 +7,9 @@
     - [Boundaries and environment](#boundaries-and-environment)
     - [Classification of systems](#classification-of-systems)
     - [2 Methodologies](#2-methodologies)
+  - [Decision Theory](#decision-theory)
+    - [Types of decisions](#types-of-decisions)
+  - [Expected Utility](#expected-utility)
 
 ## Intro
 
@@ -132,3 +135,38 @@ See below for organizational paradigms
 - collapsing markets w/ complex market
 
 ![Reaction to complexity](https://i.imgur.com/A6X563E.png?1)
+
+## Decision Theory
+
+### Types of decisions
+
+How we make decisions is different in real life vs. engineering. Engineering decisions are as objective as possible.
+
+Categories of problems
+
+- decisions under certainty
+- decisions under probabilistic uncertainty
+- decisions under probabilistic imprecision
+- decisions under information imperfection
+- decisions under conflict and cooperation
+- decisions under risk
+
+**Decisions under certainty** have only one possible outcome for each action and this outcome is sure to occur. The decision is made to choose the action that will result in the most desirable outcome (cost or time)
+
+**Decisions under probabilistic uncertainty**: there are several outcomes for each action depending on the state of nature. These states happen with known probabilities. In this category, the outcomes are uncertain but the probabilities associated with these outcomes are known precisely
+
+**Decisions under probabilistic imprecision**: there are several outcomes for each action depending on the state of nature cont.
+
+**Decisions under information imperfection**: there are several outcomes for each action depending on the state of nature. These states happen with imperfect possibilities. In this category, the outcomes are uncertain and the probabilities associated with these outcomes are not known precisely
+
+**Decisions under conflict and cooperation**: there is more than a single decision maker. The objectives of different decision makers may differ and may not be known to other decision makers (game theory and negotiation and nash equilibrium)
+
+**Decisions under risk**: each action results in one of the outcomes with a known probability. The probabilities are assumed to be known to decision makers. The impacts of the outcomes are also assumed to be known
+
+**Decision Matrix**: put alternatives in left hand column, states of nature on top
+
+## Expected Utility
+
+**Utility Function**: add definition here
+
+Eg. Engineering and construction companies have to make estimates of future cash flow for management purposes such as HR and investment planning.

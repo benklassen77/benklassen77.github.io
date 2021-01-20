@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+    <html>
+      <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <title>Shalom | Benjamin Klassen</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+        <script>
+            $(document).ready(function() {
+                // wrap everything in bootstrap container
+                str = document.body.innerHTML
+                document.body.innerHTML = "<div class=\"container\"></div>"
+                document.querySelector("body div.container").innerHTML = str
+    
+                // make table look better
+                document.querySelectorAll("table").forEach(function(e) { e.classList += "table table-sm table-bordered col-md-6" })
+                document.querySelectorAll("blockquote").forEach(function(e) { e.classList.add("blockquote") })
+                document.querySelectorAll("img").forEach(function(e) { e.classList.add("img-fluid"); e.classList.add("img-thumbnail"); })
+            })
+        </script>
+    
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="hydrology">Hydrology</h1>
+<ul>
+<li><a href="#hydrology">Hydrology</a>
+<ul>
+<li><a href="#intro-to-water-resource-engineering">Intro to Water Resource Engineering</a>
+<ul>
+<li><a href="#water-balance">Water Balance</a></li>
+</ul>
+</li>
+<li><a href="#rainfall">Rainfall</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="intro-to-water-resource-engineering">Intro to Water Resource Engineering</h2>
+<ul>
+<li>Water is essential for life</li>
+<li>Fresh potable water is rare</li>
+<li>Periods of too much and too little water can result from natural and anthropogenic causes
+<ul>
+<li>Naturally, availability varies widely</li>
+<li>Humans interrupt water movement</li>
+</ul>
+</li>
+<li>Water resource engineers perform a number of essential services</li>
+<li>Hydrology is the science that encompasses the distribution, movement, and properties of water on our planet</li>
+</ul>
+<p><strong>Precipitation</strong>: ... definitions add</p>
+<p><img src="https://i.imgur.com/WdAStTr.png?1" alt="Hydrologic Cycle"></p>
+<ul>
+<li>Climate change is real and it affects water resource engineering
+<ul>
+<li>Temperature and CO2 are higher than they've been in millions of years</li>
+<li>Canada's warming rate is twice the global mean</li>
+<li>1ºC increase, a 100 year event might occur every 20 years. With a 3ºC increase, extreme events will occur in greater frequency</li>
+</ul>
+</li>
+<li>What does climate change mean for water resource engineering
+<ol>
+<li>Increases uncertainty of our predictions</li>
+<li>Local changes precipitation - less snowmelt, more and more powerful convective storms</li>
+<li>Design should consider impact on carbon dioxide</li>
+</ol>
+</li>
+<li>We define watersheds based on topography to help keep track of water on and under the ground
+<ul>
+<li>A <strong>watershed</strong> is the area enclosed by a topographic divide such that surface runoff drains by gravity</li>
+</ul>
+</li>
+</ul>
+<p>In Southern Ontario, watersheds are managed by conservation authorities. They are mandated to ensure the conservation, restoration, and responsible management of Ontario's water, land and natural habitats through programs that balance human, environmental, and economic needs</p>
+<h3 id="water-balance">Water Balance</h3>
+<p>Inflows (I)</p>
+<ul>
+<li>P: precipitation</li>
+<li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>G</mi><mrow><mi>i</mi><mi>n</mi></mrow></msub></mrow><annotation encoding="application/x-tex">G_{in}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault">G</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">i</span><span class="mord mathdefault mtight">n</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>: groundwater in</li>
+</ul>
+<p>Outflows (O)</p>
+<ul>
+<li>ET: evapotranspiration</li>
+<li>D: diversions from lake</li>
+<li>Q: runoff from watersheds draining directly into lake</li>
+<li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>G</mi><mrow><mi>o</mi><mi>u</mi><mi>t</mi></mrow></msub></mrow><annotation encoding="application/x-tex">G_{out}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault">G</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2805559999999999em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">o</span><span class="mord mathdefault mtight">u</span><span class="mord mathdefault mtight">t</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>: groundwater out</li>
+</ul>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mfrac><mrow><mi mathvariant="normal">Δ</mi><mi>S</mi></mrow><mrow><mi mathvariant="normal">Δ</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>I</mi><mo>−</mo><mi>O</mi></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Water Balance)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">\frac{\Delta{S}}{\Delta{t}}=I-O\tag{Water Balance}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.04633em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">Δ</span><span class="mord"><span class="mord mathdefault">t</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">Δ</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.05764em;">S</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span></span><span class="tag"><span class="strut" style="height:2.04633em;vertical-align:-0.686em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">W</span><span class="mord">a</span><span class="mord">t</span><span class="mord">e</span><span class="mord">r</span><span class="mord"> </span><span class="mord">B</span><span class="mord">a</span><span class="mord">l</span><span class="mord">a</span><span class="mord">n</span><span class="mord">c</span><span class="mord">e</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mrow><mi mathvariant="normal">Δ</mi><mi>S</mi></mrow><mrow><mi mathvariant="normal">Δ</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mo stretchy="false">(</mo><mi>P</mi><mo>+</mo><msub><mi>G</mi><mrow><mi>i</mi><mi>n</mi></mrow></msub><mo stretchy="false">)</mo><mo>−</mo><mo stretchy="false">(</mo><mi>Q</mi><mo>+</mo><mi>E</mi><mi>T</mi><mo>+</mo><msub><mi>G</mi><mrow><mi>o</mi><mi>u</mi><mi>t</mi></mrow></msub><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">\frac{\Delta{S}}{\Delta{t}}=(P+G_{in})-(Q+ET+G_{out})
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.04633em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">Δ</span><span class="mord"><span class="mord mathdefault">t</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">Δ</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.05764em;">S</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathdefault">G</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">i</span><span class="mord mathdefault mtight">n</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathdefault">Q</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mord mathdefault" style="margin-right:0.13889em;">T</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathdefault">G</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2805559999999999em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">o</span><span class="mord mathdefault mtight">u</span><span class="mord mathdefault mtight">t</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></span></p>
+<p>Finding P is easy (rain gauges). Finding Q is easy (pressure gauges). G is hard (tracers). ET is hard (evaporation pans).</p>
+<p>Water budgets are performed on different time scales. Each decade, assessment of urban water use - will we need another reservoir? Annually, assessment of irrigation needs - should we add a pump? Monthly, assessment of dam operations - when should we open/close the gates? Daily, assessment of flood forecasting - when will the river crest? Hourly, assessment of storm water management - how big should the pipe be?</p>
+<p>Performing an annual water budget is a common first step in hydrologic studies</p>
+<p><img src="https://i.imgur.com/5Sb60dA.png?1" alt="NTS"></p>
+<p>How to estimate net basin supply? There are 2 options. The first is the component method</p>
+<p><strong>Component method</strong>: calculate NBS by estimating P, E, and Q for the watershed</p>
+<ul>
+<li>P: need distribution of gauges, including on the lakes (hard)</li>
+<li>E: need to estimate evaporation from the whole lake (hard)</li>
+<li>Q: need to measure all the inflows, but some rivers are ungauged, so tricky</li>
+</ul>
+<p><strong>Residual Method</strong>: see image below</p>
+<p><img src="https://i.imgur.com/CyxtOVV.png?1" alt="Residual"></p>
+<h2 id="rainfall">Rainfall</h2>
+<p>Toowoomba flood details</p>
+<ol>
+<li>Unusually heavy rainfall had occurred in the preceding days, causing the city's waterways to become swollen.</li>
+<li>150 mm of rain fell on 10 January 2011</li>
+<li>Around midday, an intense storm moved in from the northeast, completely overwhelming two tributaries of the river</li>
+<li>Rainfall peak intensive was 144 mm/hr</li>
+<li>The flood resulted in the death of 2 people and caused damage</li>
+</ol>
+<p>Rainfall is measured with tipping buckets, rain gauges, radar, and passive microwave (satellite). Rainfall varies in both intensity and duration (see IDF Curves). A hyetograph of rainfall graphs 4 intervals of precipitation per hour (precipitation per 15 minute). Measured using a tipping bucket. These demonstrate intensity and duration</p>
+<p>Intensity duration pairs are graphed as a <strong>Intensity-Duration-Frequency (IDF) Curve</strong>. This descripes the relationship between rainfall intensity, rainfall duration, and return period at a given location.</p>
+<p>Procedure to construct an IDF curve:</p>
+<ol>
+<li>For a given time interval, or <em>duration</em>, calculate the maximum amount of rain (<strong>Annual Maximum Rainfal AMR</strong>) that fell during that time interval during each year of record</li>
+<li>Order the AMR values from highest to lowest and calculate the <em>return period (T)</em> for each using the Weibull formula (to get the rank). <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>T</mi><mo>=</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mi>m</mi></mfrac></mrow><annotation encoding="application/x-tex">T=\frac{n+1}{m}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">T</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">m</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>. N is period of record (total number of years), T is return period, m is rank.</li>
+<li>Interpolate between calculated values of T to find the depth of rainfall at a desired value of T (at easy return periods)</li>
+<li>Repeat steps 1-2 for a range of durations</li>
+<li>Connect the depth of rainfall/duration pairs for a given T</li>
+<li>Divide each AMR value by the corresponding duration to calculate the average intensity</li>
+</ol>
+<p>IDF curves generally have 2 year, 5 year, 10 year, 25 year, 50 year, and 100 year flood. An IDF curve is for one location. To understand how rainfall varies spatially, we can take use intensity-duration pairs from a bunch of different weather stations and draw contour lines to visualize the spatial patterns.</p>
+<p><strong>Frequency analysis</strong> is used to understand the probability that different types of events will occur within a certain period. This carries 2 key assumptions:</p>
+<ol>
+<li>The types of future rainfall events are the same as historical events</li>
+<li>The same probability distribution fits the entire data set and future data</li>
+</ol>
+<p>If nature of rainfall events change, it's called a <strong>statistically nonstationary time series</strong>. Additionally, if rainfall is generated by different event types, frequency analysis is not statistically correct due to samples from different populations.</p>
+
+    </body>
+    </html>
