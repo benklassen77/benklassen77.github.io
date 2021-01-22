@@ -1,42 +1,42 @@
 <!DOCTYPE html>
     <html>
-    <head>
-      <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-      <title>Structural Analysis | Benjamin Klassen</title>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  
-      <script>
-          $(document).ready(function() {
-              // wrap everything in bootstrap container
-              str = document.body.innerHTML
-              document.body.innerHTML = "<div class=\"container\"></div>"
-              document.querySelector("body div.container").innerHTML = str
-  
-              // make table look better
-              document.querySelectorAll("table").forEach(function(e) { e.classList += "table table-sm table-bordered col-md-6" })
-              document.querySelectorAll("blockquote").forEach(function(e) { e.classList.add("blockquote") })
-              document.querySelectorAll("img").forEach(function(e) { e.classList.add("img-fluid"); e.classList.add("img-thumbnail"); })
-          })
-      </script>
-  
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-  
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
-      <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
-      <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
-  </head>
+      <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <title>Structural Analysis | Benjamin Klassen</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+        <script>
+            $(document).ready(function() {
+                // wrap everything in bootstrap container
+                str = document.body.innerHTML
+                document.body.innerHTML = "<div class=\"container\"></div>"
+                document.querySelector("body div.container").innerHTML = str
+    
+                // make table look better
+                document.querySelectorAll("table").forEach(function(e) { e.classList += "table table-sm table-bordered col-md-6" })
+                document.querySelectorAll("blockquote").forEach(function(e) { e.classList.add("blockquote") })
+                document.querySelectorAll("img").forEach(function(e) { e.classList.add("img-fluid"); e.classList.add("img-thumbnail"); })
+            })
+        </script>
+    
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
     <body class="vscode-body vscode-light">
         <h1 id="structural-analysis">Structural Analysis</h1>
 <ul>
 <li><a href="#structural-analysis">Structural Analysis</a>
 <ul>
 <li><a href="#resources">Resources</a></li>
-<li><a href="#lecture-1">Lecture 1</a></li>
+<li><a href="#general">General</a></li>
 <li><a href="#stability">Stability</a></li>
 </ul>
 </li>
@@ -45,7 +45,7 @@
 <p>Textbooks/Problems:<a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/leetstructuralanalysis.pdf">Leet</a>, <a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/hibbelerstructuralanalysis.pdf">Hibbeler</a>, <a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/303syllabus.pdf">Syllabus</a></p>
 <p>Assignments: <a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/303A1.pdf">1</a></p>
 <p>Course Notes: <a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/lec1coursenotes.pdf">1</a></p>
-<h2 id="lecture-1">Lecture 1</h2>
+<h2 id="general">General</h2>
 <p>Structural Design is governed by codes and standards and based on limit states design principles (ultimate and serviceability limit state). In Ontario, the ontario building code (obc) is used. For wood: CSA 086, steel: CSA 516, concrete: A23.3</p>
 <p><strong>Ultimate Limit State</strong> looks at strength and stability, and includes fatigue (sometimes treated as a separate limit state)</p>
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>ϕ</mi><mi>R</mi><mo>≥</mo><mo>∑</mo><mrow><msub><mi>α</mi><mi>i</mi></msub><msub><mi>S</mi><mi>i</mi></msub></mrow></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(ULS)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">\phi{R}\ge\sum{\alpha_i{S_i}}\tag{ULS}
