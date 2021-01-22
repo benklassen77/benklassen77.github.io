@@ -1,19 +1,20 @@
 # Hydrology
 
 - [Hydrology](#hydrology)
+  - [Resources](#resources)
   - [Intro to Water Resource Engineering](#intro-to-water-resource-engineering)
     - [Water Balance](#water-balance)
   - [Rainfall](#rainfall)
+  - [Isochrones and time of concentration](#isochrones-and-time-of-concentration)
+  - [Frequency-based design storms](#frequency-based-design-storms)
+
+## Resources
+
+Text: [Textbook](https://benklassen77.github.io/documents/courses/fluid/cive382/382textbook.pdf), [Syllabus](https://benklassen77.github.io/documents/courses/fluid/cive382/382syllabus.pdf),
 
 ## Intro to Water Resource Engineering
 
-- Water is essential for life
-- Fresh potable water is rare
-- Periods of too much and too little water can result from natural and anthropogenic causes
-  - Naturally, availability varies widely
-  - Humans interrupt water movement
-- Water resource engineers perform a number of essential services
-- Hydrology is the science that encompasses the distribution, movement, and properties of water on our planet
+Water is essential for life. Fresh potable water is rare. Periods of too much and too little water can result from natural and anthropogenic causes. Naturally, availability varies widely. Humans interrupt water movement. **Hydrology** is the science that encompasses the distribution, movement, and properties of water on our planet
 
 **Precipitation**: ... definitions add
 
