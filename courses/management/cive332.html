@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+    <html>
+      <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <title>Systems | Benjamin Klassen</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+        <script>
+            $(document).ready(function() {
+                // wrap everything in bootstrap container
+                str = document.body.innerHTML
+                document.body.innerHTML = "<div class=\"container\"></div>"
+                document.querySelector("body div.container").innerHTML = str
+    
+                // make table look better
+                document.querySelectorAll("table").forEach(function(e) { e.classList += "table table-sm table-bordered col-md-6" })
+                document.querySelectorAll("blockquote").forEach(function(e) { e.classList.add("blockquote") })
+                document.querySelectorAll("img").forEach(function(e) { e.classList.add("img-fluid"); e.classList.add("img-thumbnail"); })
+            })
+        </script>
+    
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="systems-and-project-management">Systems and Project Management</h1>
+<ul>
+<li><a href="#systems-and-project-management">Systems and Project Management</a>
+<ul>
+<li><a href="#intro">Intro</a></li>
+<li><a href="#systems-theory">Systems Theory</a>
+<ul>
+<li><a href="#systems-and-subsystems">Systems and subsystems</a></li>
+<li><a href="#boundaries-and-environment">Boundaries and environment</a></li>
+<li><a href="#classification-of-systems">Classification of systems</a></li>
+<li><a href="#2-methodologies">2 Methodologies</a></li>
+</ul>
+</li>
+<li><a href="#decision-theory">Decision Theory</a>
+<ul>
+<li><a href="#types-of-decisions">Types of decisions</a></li>
+</ul>
+</li>
+<li><a href="#expected-utility">Expected Utility</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="intro">Intro</h2>
+<p><strong>Objective</strong>: to begin to understand how to design and model systems and then how to use the models to manage and optimize system performance</p>
+<p><strong>Help</strong>: piazza, online social meets. A1 Q2 Gene, A2 Q2 Aida, A3 Q3 Kareem, A4 Q4 Sina</p>
+<ul>
+<li>Start email w/ CIVE 332</li>
+</ul>
+<h2 id="systems-theory">Systems Theory</h2>
+<ul>
+<li>Where do systems fit in the civil engineering body of knowledge? Becoming and being recognized as a professional civil engineer requires both a basic technical education and a broader education acquired through experience and lifelong continuous learning</li>
+</ul>
+<p><img src="https://i.imgur.com/FqAicJV.png?1" alt="Body of Knowledge"></p>
+<ul>
+<li>systems under technical knowledge</li>
+</ul>
+<p>Definitions of Systems</p>
+<ul>
+<li>infrastructure</li>
+<li>transportation</li>
+<li>structural</li>
+<li>water and wastewater</li>
+</ul>
+<p>Less obvious:</p>
+<ul>
+<li>construction project management systems</li>
+<li>building systems</li>
+<li>cloud-based systems</li>
+<li>supply chains</li>
+<li>design work flow management</li>
+</ul>
+<p>Three objectives of a sustainable system: economic, environmental, social. Often have conflict</p>
+<ul>
+<li>eg. water needs to meet people's demands, budget, and environmental standards</li>
+<li>Stella is an example system dynamics modelling tool</li>
+</ul>
+<p>A <strong>system</strong> is something that transports inputs into outputs. It is a flow</p>
+<ul>
+<li>eg. respiratory system, highway system, gear, ants in a colony, biodiversity in ecosystem</li>
+<li>eg. control system, information, mechanical systems, management systems</li>
+<li>eg. biological systems, banking systems, socio-economic systems, political systems</li>
+</ul>
+<p>A <strong>system</strong> is an assemblage of parts united into an organized whole. It typically has a purpose</p>
+<ul>
+<li>made of components, networks, subsystems, inputs, outputs, environmental forces, and a boundary</li>
+<li>anything within boundry is part of whole system. Anything outside is environmental forces</li>
+<li><strong>Components</strong>: operating parts of a system consisting of input, process and output</li>
+<li><strong>Attributes</strong>: the properties or discernible manifestations of the components of a system. They characterize the system</li>
+<li><strong>relationships</strong>: the links between components and attributes. They connect systems and subsystems</li>
+</ul>
+<p><img src="https://i.imgur.com/XEg51Pb.png?1" alt="Elements of a system"></p>
+<h3 id="systems-and-subsystems">Systems and subsystems</h3>
+<ul>
+<li>a component in a given system may also be broken down into smaller componetns that work together in order to achieve a purpose
+<ul>
+<li>this component is then also a system, called a <strong>subsystem</strong></li>
+<li>designation of system, subsystem, and components are relative</li>
+</ul>
+</li>
+</ul>
+<h3 id="boundaries-and-environment">Boundaries and environment</h3>
+<p>Score, limits or boundaries of the system must be clearly specified or defined</p>
+<ul>
+<li>everything that remains outside the boundaries is considered the environment</li>
+<li>systems are rarely isolated from their environments</li>
+<li>it is important to consider the influence of the environment on the system</li>
+</ul>
+<h3 id="classification-of-systems">Classification of systems</h3>
+<ol>
+<li>Natural and human-made systems
+<ul>
+<li><strong>Natural</strong> are those naturally occurring</li>
+<li><strong>Human-made</strong> systems are those that humans have intervened with components, attributes, or relationships</li>
+</ul>
+</li>
+<li>Physical and conceptual systems
+<ul>
+<li><strong>Physical system</strong> are those that manifest themselves in physical forms. They are constructed with physical components and occupy spaces</li>
+<li><strong>Conceptual system</strong> are those in which symbols represent the attributes of components. Ideas, plans, concepts, computer programs and hypotheses</li>
+</ul>
+</li>
+<li>Static and dynamic systems
+<ul>
+<li><strong>static</strong> are those having structure without activity</li>
+<li><strong>dynamic</strong> are those that combine structural components with activity (eg. school)</li>
+</ul>
+</li>
+<li>Closed and Open system
+<ul>
+<li><strong>closed</strong>: do not interact significantly with their environment. Output isolated from input</li>
+<li><strong>open</strong> feedback system allow matters to cross in both directions</li>
+</ul>
+</li>
+</ol>
+<p>Composed of components, attributes and relationships</p>
+<h3 id="2-methodologies">2 Methodologies</h3>
+<p><img src="https://i.imgur.com/LtjKCOt.png?1" alt="1st methodology"></p>
+<p><img src="https://i.imgur.com/K1nK4XP.png?1" alt="2nd methodology"></p>
+<p>System design principles</p>
+<ol>
+<li>Systems design is an iterative process that evolves the design from a simple initial abstract representation to a detailed design that is implemented or communicated.</li>
+<li>Design starts with a need, from which the conflicting objectives, scope, constraints, and criteria evolve, as well as the quantitative definitions of the design problem.</li>
+<li>Many solutions should be generated and an intuitive and emotional leap to an immediate solution should be avoided.</li>
+<li>Solutions are analyzed for feasibility</li>
+<li>It is usually worth optimizing one or more solutions, and this will often require very formal and rigorous modeling and analysis</li>
+</ol>
+<p>See below for organizational paradigms</p>
+<ul>
+<li>Graphs showing networks</li>
+<li>Matrices</li>
+<li>Tables</li>
+</ul>
+<p><img src="https://i.imgur.com/NB0Qexn.png?1" alt="Organizational paradigms"></p>
+<ul>
+<li>star-connected single hop planning, design</li>
+<li>two-tiered hierarchal cluster hub and spoke system for air transportation</li>
+<li>multi-hop mesh structural health sensors on a bridge</li>
+</ul>
+<p><img src="https://i.imgur.com/1Spn0bP.png?1" alt="Issues"></p>
+<p><strong>Complex systems</strong> are systems whose behaviour is intrinsically difficult to model due to the dependencies, competitions, relationships, or other types of interactions between their parts or between a given system and its environment. Systems that are complex have distinct properties that arise from these relationships. Eg. nonlinearity, emergence, spontaneous order, adaptation, feedback loops</p>
+<ul>
+<li>
+<p>intelligent transportation systems</p>
+</li>
+<li>
+<p>mega-projects</p>
+</li>
+<li>
+<p>supply chains and networks</p>
+</li>
+<li>
+<p>commodities (steel, cement etc.) price fluctuations and their impact on project and asset management risk</p>
+</li>
+<li>
+<p>As a result of interdependance, mechanisms that are subjected to positive, reinforcing feedback loops, which cause fat tails. They prevent the working of the central limit theorum where extreme limits on the bell curve are fatter. Extreme events happen more often</p>
+</li>
+<li>
+<p>sudden paralyzing traffic jams w/ complex road system</p>
+</li>
+<li>
+<p>radical price fluctuations w/ complex governments</p>
+</li>
+<li>
+<p>collapsing markets w/ complex market</p>
+</li>
+</ul>
+<p><img src="https://i.imgur.com/A6X563E.png?1" alt="Reaction to complexity"></p>
+<h2 id="decision-theory">Decision Theory</h2>
+<h3 id="types-of-decisions">Types of decisions</h3>
+<p>How we make decisions is different in real life vs. engineering. Engineering decisions are as objective as possible.</p>
+<p>Categories of problems</p>
+<ul>
+<li>decisions under certainty</li>
+<li>decisions under probabilistic uncertainty</li>
+<li>decisions under probabilistic imprecision</li>
+<li>decisions under information imperfection</li>
+<li>decisions under conflict and cooperation</li>
+<li>decisions under risk</li>
+</ul>
+<p><strong>Decisions under certainty</strong> have only one possible outcome for each action and this outcome is sure to occur. The decision is made to choose the action that will result in the most desirable outcome (cost or time)</p>
+<p><strong>Decisions under probabilistic uncertainty</strong>: there are several outcomes for each action depending on the state of nature. These states happen with known probabilities. In this category, the outcomes are uncertain but the probabilities associated with these outcomes are known precisely</p>
+<p><strong>Decisions under probabilistic imprecision</strong>: there are several outcomes for each action depending on the state of nature cont.</p>
+<p><strong>Decisions under information imperfection</strong>: there are several outcomes for each action depending on the state of nature. These states happen with imperfect possibilities. In this category, the outcomes are uncertain and the probabilities associated with these outcomes are not known precisely</p>
+<p><strong>Decisions under conflict and cooperation</strong>: there is more than a single decision maker. The objectives of different decision makers may differ and may not be known to other decision makers (game theory and negotiation and nash equilibrium)</p>
+<p><strong>Decisions under risk</strong>: each action results in one of the outcomes with a known probability. The probabilities are assumed to be known to decision makers. The impacts of the outcomes are also assumed to be known</p>
+<p><strong>Decision Matrix</strong>: put alternatives in left hand column, states of nature on top</p>
+<h2 id="expected-utility">Expected Utility</h2>
+<p><strong>Utility Function</strong>: add definition here</p>
+<p>Eg. Engineering and construction companies have to make estimates of future cash flow for management purposes such as HR and investment planning.</p>
+
+    </body>
+    </html>
