@@ -1,34 +1,27 @@
 <!DOCTYPE html>
     <html>
-      <head>
-        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-        <title>Structural Analysis | Benjamin Klassen</title>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    
-        <script>
-            $(document).ready(function() {
-                // wrap everything in bootstrap container
-                str = document.body.innerHTML
-                document.body.innerHTML = "<div class=\"container\"></div>"
-                document.querySelector("body div.container").innerHTML = str
-    
-                // make table look better
-                document.querySelectorAll("table").forEach(function(e) { e.classList += "table table-sm table-bordered col-md-6" })
-                document.querySelectorAll("blockquote").forEach(function(e) { e.classList.add("blockquote") })
-                document.querySelectorAll("img").forEach(function(e) { e.classList.add("img-fluid"); e.classList.add("img-thumbnail"); })
-            })
-        </script>
-    
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-    
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
-        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+    <head>
+        <meta charset="UTF-8">
+        <title>Structural Analysis</title>
+        <style>
+</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        
         <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+        
     </head>
     <body class="vscode-body vscode-light">
         <h1 id="structural-analysis">Structural Analysis</h1>
@@ -37,7 +30,7 @@
 <ul>
 <li><a href="#resources">Resources</a></li>
 <li><a href="#general">General</a></li>
-<li><a href="#stability">Stability</a></li>
+<li><a href="#stability-and-determinacy">Stability and Determinacy</a></li>
 </ul>
 </li>
 </ul>
@@ -60,9 +53,18 @@
 <li><strong>Pinned</strong>: allows relative rotation between members</li>
 <li><strong>Fixed</strong>: fixed angle is maintained between members</li>
 </ul>
-<h2 id="stability">Stability</h2>
-<p>There are three forms of <a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/stabilityexample.pdf">stability</a>: stable, neutral, and unstable.</p>
-<p><strong>External stability</strong>: three conditions must all be met to achieve external stabliity (2D structures). There must be: 3 reactions, non-concurrent, and non-parallel. They cannot be parallel and concurrent. 2 of three can be parallel, but not concurrent and parallel.</p>
+<h2 id="stability-and-determinacy">Stability and Determinacy</h2>
+<p>When all the forces in a structure can be found w/ equilibrium equations, it is statically determinate. If there are more unknowns than can be found, it is indeterminate. Additional equations are required if indeterminate. These are known as combatibility equations, and exist in equal number to the degree of indeterminacy. With <em>r</em> force and moment reaction components (both reaction and bar) and <em>n</em> parts, the below are used to calculate determinacy (<a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/determinacy.pdf">Example</a>)</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>r</mi><mo>=</mo><mn>3</mn><mi>n</mi></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Statically Determinate)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">r=3n\tag{Statically Determinate}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span><span class="mord mathdefault">n</span></span><span class="tag"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">S</span><span class="mord">t</span><span class="mord">a</span><span class="mord">t</span><span class="mord">i</span><span class="mord">c</span><span class="mord">a</span><span class="mord">l</span><span class="mord">l</span><span class="mord">y</span><span class="mord"> </span><span class="mord">D</span><span class="mord">e</span><span class="mord">t</span><span class="mord">e</span><span class="mord">r</span><span class="mord">m</span><span class="mord">i</span><span class="mord">n</span><span class="mord">a</span><span class="mord">t</span><span class="mord">e</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>r</mi><mo>&gt;</mo><mn>3</mn><mi>n</mi></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Statically Indeterminate)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">r&gt;3n\tag{Statically Indeterminate}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span><span class="mord mathdefault">n</span></span><span class="tag"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">S</span><span class="mord">t</span><span class="mord">a</span><span class="mord">t</span><span class="mord">i</span><span class="mord">c</span><span class="mord">a</span><span class="mord">l</span><span class="mord">l</span><span class="mord">y</span><span class="mord"> </span><span class="mord">I</span><span class="mord">n</span><span class="mord">d</span><span class="mord">e</span><span class="mord">t</span><span class="mord">e</span><span class="mord">r</span><span class="mord">m</span><span class="mord">i</span><span class="mord">n</span><span class="mord">a</span><span class="mord">t</span><span class="mord">e</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mrow><mi>r</mi><mo>&lt;</mo><mn>3</mn><mi>n</mi></mrow></mtd><mtd width="50%"></mtd><mtd><mtext>(Unstable)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">r&lt;3n\tag{Unstable}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span><span class="mord mathdefault">n</span></span><span class="tag"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">U</span><span class="mord">n</span><span class="mord">s</span><span class="mord">t</span><span class="mord">a</span><span class="mord">b</span><span class="mord">l</span><span class="mord">e</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<ul>
+<li>also unstable if concurrent, parallel, or collapsible mechanism</li>
+</ul>
+<p><strong>External stability</strong>: three conditions must all be met to achieve external stability for 2D structures (<a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/stabilityexample.pdf">Example</a>): there must be 3 reactions, which cannot all be concurrent or all be parallel.</p>
 <p><strong>Internal stability</strong>: a structure must have sufficient internal constraints; it must not form a mechanism</p>
 
     </body>
