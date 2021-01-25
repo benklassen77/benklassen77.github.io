@@ -111,3 +111,18 @@ Disciples: still faithful in the middle of it
 - notify Jesus
 
 While Satan's kingdom looks powerful, we need not fear, because we must be faithful in our generation.
+
+## 1 Peter 5:8
+
+*Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour*
+
+The devil is a liar. Here are some of his lies:
+
+1. There is no devil (society believes this)
+	- TV shows like Lucifer
+	- We have physical problems. We used to have spiritual problems (1850s). Problem with pandemic is that people don't recognize that people have these problems, and thus Church is not essential. An example of a spiritual problem misnamed as mental problem is guilt. Spiritual problems can be dealt with by a saviour
+2. God and the devil are equal. Satan is created being. He is not omniscient, omnipresent, or all-powerful. Our God is. Devil's acts are intended to thwart God's plans, but they only further His will.
+3. The devil is noble in his opposition to God. Uprisings for BLM. Abortion. If there are arguments that violate the words of the Bible, they are the words of the devil. The devil's greatest joy is destroying people
+4. The devil is the ruler of Hell. Job 1:7, Satan is of the Earth. Satan will not be the king of Hell, but will be the one who burns in hell.
+
+God's program has never been to raise an army against the government, but has been about the spiritual world. Prayer is our number one weapon.
