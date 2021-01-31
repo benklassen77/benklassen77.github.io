@@ -126,3 +126,12 @@ The devil is a liar. Here are some of his lies:
 4. The devil is the ruler of Hell. Job 1:7, Satan is of the Earth. Satan will not be the king of Hell, but will be the one who burns in hell.
 
 God's program has never been to raise an army against the government, but has been about the spiritual world. Prayer is our number one weapon.
+
+## 1 Peter 5:9-11
+
+*Resist him, steadfast in the faith, knowing that the same sufferings are experienced by your brotherhood in the world. But may the God of all grace, who called us to His eternal glory by Christ Jesus, after you have suffered a while, perfect, establish, strengthen, and settle you.*
+
+1. Peter says to stand firm. Don't be fearful. Like James 4:7, resist, and he will flee from you.
+	- We are motivated by the community
+2. Suffering is temporary. It's typical. Though we're suffering right now, God promises me my best life then, when I'm with Him. When we're in Heaven, we won't compare scars. The scars will be so insignificant.
+3. After we suffer, Christ establishes us, settles us, and strengthens us.
