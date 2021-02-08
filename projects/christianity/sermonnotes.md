@@ -135,3 +135,26 @@ God's program has never been to raise an army against the government, but has be
 	- We are motivated by the community
 2. Suffering is temporary. It's typical. Though we're suffering right now, God promises me my best life then, when I'm with Him. When we're in Heaven, we won't compare scars. The scars will be so insignificant.
 3. After we suffer, Christ establishes us, settles us, and strengthens us.
+
+## 1 Peter 5:1-4
+
+Jesus was the perfect lamb, without blemish. *1 Timothy 3:1-7*
+
+3 tricks churches fall into:
+
+1. Church is a corporation. It is a business
+2. Pastor is an entertainer. Crowds come with a great show
+3. The counsellor, the psychiatrist. The pastor addresses all of our problems
+
+Peter is typically a brash leader. However, he is humble. Here are the messages:
+
+1. Be **humble**. Peter is an apostle, but lowered himself to be a simple elder. He could have demanded the men, but he emphasized with them. The good shepherd lays down his life for the sheep. So many pastors fall in love with their image, but the chief characteristic is humbleness. It is a we.
+2. **Shepherd** the flock of God.
+	- Shepherd makes sure the sheep are cared for and fed (physically and spiritually)
+	- Pastors sometimes argue about things that are irrelevent to God. It's not about our personal opinions, but it is about what God says
+	- Pastors are here to guard you from evil-minded false teachers, leading followers astray.
+	- In Canada, we are a tolerant people. We don't call out false teachers. We SHOULD
+3. What are pastors?
+	- Not by compulsion. Come willingly
+	- Not for shameful gain. Eagerly
+	- There are a lot of domineering pastors, who want to present their ideas on an equal level as the Word of God. There can be "baptist popes". Instead, pastors are called to be examples
