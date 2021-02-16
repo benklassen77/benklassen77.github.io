@@ -158,3 +158,9 @@ Peter is typically a brash leader. However, he is humble. Here are the messages:
 	- Not by compulsion. Come willingly
 	- Not for shameful gain. Eagerly
 	- There are a lot of domineering pastors, who want to present their ideas on an equal level as the Word of God. There can be "baptist popes". Instead, pastors are called to be examples
+
+## 2 Peter 1:1-2
+
+Titus 2:11-14
+
+Our faith is on equal standing to Paul, an apostle. There is no male or female before Jesus Christ, meaning, there is no second class Christians. My sins, the penalty was paid by Christ, and His righteousness was imputted to me. Jesus eternally saves, and saves everyone in the same way. Let our boast be in the Lord
