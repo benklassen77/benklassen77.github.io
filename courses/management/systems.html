@@ -4,7 +4,7 @@
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     
-        <title>System | Benjamin Klassen</title>
+        <title>Systems | Benjamin Klassen</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
         <script>
@@ -55,6 +55,12 @@
 </li>
 <li><a href="#risk-management">Risk management</a></li>
 <li><a href="#project-management-systems">Project Management Systems</a></li>
+<li><a href="#project-planning">Project Planning</a></li>
+<li><a href="#project-scheduling">Project Scheduling</a>
+<ul>
+<li><a href="#critical-path-method">Critical Path Method</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -253,6 +259,48 @@
 <ul>
 <li>Q is quantity of element, u is cost of element (materials, labour, and equipment)</li>
 </ul>
+<h2 id="project-planning">Project Planning</h2>
+<p>Planning includes designing the structure... add to this</p>
+<p>In planning, begin with end result and identify steps required to yield that result.</p>
+<p>Steps to plan:</p>
+<ol>
+<li>Define the work tasks or activities (Work Breakdown Structure WBS)
+<ul>
+<li>Types of activities:<em>Production/Construction</em> relate directly to the physical effort, <em>Procurement</em>: include arranging for the aquisition of materials, equipment, labour, and money</li>
+<li>Work breakdown structure are broken down by area, system, or trade.</li>
+<li><img src="https://i.imgur.com/CR4gZx4.png?1" alt="WBS"></li>
+</ul>
+</li>
+<li>Choose the method and technology (drawings and specifications)</li>
+<li>Define precedence relationships between activities (contract time frames, budget, milestones)
+<ul>
+<li>identify the order in which the activities within a project need to take place. Precedence defined by physical logic, spatial constraints, resource constraints, and skill constraints</li>
+<li>Draw with <em>AON ACtivity on Node</em> diagram. Independent nodes don't have arrows, but dependent activities are depicted with consecutive arrows. There will need to be a starting &quot;dummy point&quot; and an ending &quot;dummy point&quot;</li>
+<li><img src="https://i.imgur.com/gCqliMB.png?1" alt="AON"></li>
+</ul>
+</li>
+<li>Estimate durations and resource requirements (based on previous projects)
+<ul>
+<li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>D</mi><mo>=</mo><mfrac><mi>A</mi><mrow><mi>P</mi><mo>⋅</mo><mi>N</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">D=\frac{A}{P\cdot{N}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.217331em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.13889em;">P</span><span class="mbin mtight">⋅</span><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.10903em;">N</span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>, with A being amount of work, P is average productivity/crew and N is number of crews, D is duration</li>
+</ul>
+</li>
+<li>Name activities (based on historical data)</li>
+<li>Assign responsibilities (materials, equipment, crews)</li>
+</ol>
+<h2 id="project-scheduling">Project Scheduling</h2>
+<p>To create project schedules, there are some practical aspects. The first is rough diagramming on paper. This looks at history and may use post-it notes. It is likely that owners set milestones, the GC ask for schedules from SCs, and the GC merges schedules constrained by milestones. Feedback from subcontractors is given to the owner.</p>
+<p>There are several methods to schedule: gantt, critical path method, short interval planning, and toolbox meetings</p>
+<p>The Critical Path Plan is presented by GC to owner at the beginning of the project, and presented in greater detail later.</p>
+<p>Short interval planning includes weekly meetings between project manager and key project participants</p>
+<h3 id="critical-path-method">Critical Path Method</h3>
+<p><em>D</em>: duration of an activity, <em>ES (early start)</em>: earliest time at which an activity can start, <em>EF (early finish)</em>: the earliest time that the activity can finish, <em>LF (late finish)</em>: latest time that activity can finish</p>
+<ol>
+<li>Forward Pass: to find the earliest possible start time and finish time for each activity</li>
+<li>Backward Pass: to find the latest possible time to start and end each activity</li>
+</ol>
+<p><strong>Total float (TF)</strong>: amount of time by which start or finish of an activity may be delayed without causing the project to last longer. <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>T</mi><mi>F</mi><mo>=</mo><mi>L</mi><mi>S</mi><mo>−</mo><mi>E</mi><mi>S</mi><mo>=</mo><mi>L</mi><mi>F</mi><mo>−</mo><mi>E</mi><mi>F</mi></mrow><annotation encoding="application/x-tex">TF=LS-ES=LF-EF</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">T</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">L</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">L</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span></span></span></span></p>
+<p><strong>Free float (FF)</strong>: amount of time by which start or finish of an activity may be delayed without delaying early start of succeeding activities. <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mi>F</mi><mo>=</mo><mtext>min ES of following activities</mtext><mo>−</mo><mi>E</mi><mi>F</mi><mo>−</mo><mtext>lag</mtext></mrow><annotation encoding="application/x-tex">FF=\textrm{min ES of following activities}-EF-\textrm{lag}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord textrm">min ES of following activities</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord text"><span class="mord textrm">lag</span></span></span></span></span>. <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>T</mi><mi>F</mi><mo>≥</mo><mrow><mi>F</mi><mi>F</mi></mrow></mrow><annotation encoding="application/x-tex">TF\geq{FF}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8193em;vertical-align:-0.13597em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">T</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≥</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span></span></span></span></span></p>
+<p><strong>Critical path</strong>: longest paths in the network. Delay of any activities on the critical path will delay the project finish time. <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mi>F</mi><mo>=</mo><mi>T</mi><mi>F</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">FF=TF=0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">T</span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span></p>
 
     </body>
     </html>
