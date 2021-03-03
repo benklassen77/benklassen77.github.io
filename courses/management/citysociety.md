@@ -11,6 +11,8 @@
     - [Radical Overview](#radical-overview)
     - [Critiques of radical constructivism](#critiques-of-radical-constructivism)
   - [Social shaping (moderate constructivism)](#social-shaping-moderate-constructivism)
+  - [Michael Foucault](#michael-foucault)
+    - [Biopower](#biopower)
 
 ## Sociotechnical Systems
 
@@ -121,3 +123,30 @@ Transit commuters may not return
 - lower-income switches to car are greater than discretionary riders (rail) increase
 - essential workers prove that transit is essential. Perhaps more federal funding will come instead of fare reliance
 - traffic hoped to beat traffic, fight climate change, and revitalize communities. However, it provides for those without. Transit rise as social service
+
+## Michael Foucault
+
+Michael was a homosexual thinker about energy. He adopted a historicographical method, and viewed things as the product of their history. **Problemization**: accumulation of social tensions, which show how social norms are thrown into relief. Unpredictable changes may occur, as well as accepted beliefs are disputed. The development of electricity is a problemization. **Problemize**: dispute
+
+Constructivism: his genealogical method is radical social constructivist
+
+- contextuality: emphasizes historical contingency
+- symmetry: nothing special about the history of technology
+- neutrality: technical and social elements shape each other
+- avoided making general, moral evaluations
+
+### Biopower
+
+Sovereinty: *governmentality* is the set of procedures, analyses and knowledges, techniques, and institutions developed in modern western europe. In pre-modern times, government was based on sovereignty. This exercise a negative control over life. At most, the sovereign owes subjects defense from invaders. Subjects owe the sovereign their allegiance. Sovereignty was undermined in modern thought by ideas of equality, intercontinental commerce, science and technology. Governmentality adopted these ideas to the coordination and regulation of large social groups. It includes positive responsibilities: sovereign was strong and rich if towns thrived, but were governed to offset the risks they harboured.
+
+Biopower is governmentality at the scale of whole populations. Populations are optimized by being analyzed scientifically, supported with education, health care, police, and defended by marginalizing abnormal groups. This ensured a productive society. However, how does food provision to cities constitute biopower?
+
+Discipline analyzes and regularizes populations. Discipline organizes an analytical space. Discipline can also be cognitive: in school, students are taught rationale for the social order. Their own sense of rationality will prompt them to uphold it. In Paris, streets were changed to allow for military flow.
+
+Energopower: in biopower, evolutionary biology was influential of development. After all, life is a struggle for existence. Energy physics influenced development of energypower: a form of governmentality based on identifying, regulating, and optimizing expenditures of energy. The industrial revolution was a key event, as power used to be generated/applied locally, but it could be transmitted through a network.
+
+Daggett argued that while biopower focussed on life, energopower focussed on work. It is applied to human labour, coordination of human and machine, and automated machines. It is extendable to any coordinated activity. Discipline is applied not only to production but also to consumption. We use electricity for consumption and production
+
+Energopower brings new concepts of energy and fuel. Before revolution, energy is detached from animals disposition to exertions. And was abstracted to anything transmissible to do work. Fuel is the thing transmitted for energy: mined, refined, and shipped. Energy was decoupled from work. As biopower works to separate good from bad, energypower separates work from waste. Anything that is nonproductive is seen as waste. Slothfulness is seen as personal failing (depression), and thus those people are also waste.
+
+Energypower and biopower may conflict. Where productivity trumps human well-being, anthropocene: the project to put all the energy on Earth to work. By making electricity as efficient and expensive as possible, it does not benefit humans. Is this a progress trap?
