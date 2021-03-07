@@ -4,7 +4,7 @@
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     
-        <title>Transportation | Benjamin Klassen</title>
+        <title>Transpo | Benjamin Klassen</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
         <script>
@@ -65,6 +65,7 @@
 <li><a href="#user-equilibrium">User Equilibrium</a></li>
 </ul>
 </li>
+<li><a href="#trip-assignment-2">Trip Assignment 2</a></li>
 </ul>
 </li>
 </ul>
@@ -402,6 +403,14 @@
 <li>There is symmetry</li>
 <li>The link performance functions are independent of flow.</li>
 </ul>
+<h2 id="trip-assignment-2">Trip Assignment 2</h2>
+<p>Transportation systems are represented by a network of links (streets, lines) and nodes (intersections, stations, stops).</p>
+<p>A <strong>path</strong> or route is a sequence of transportation network links between an origin and a destination.</p>
+<p>The sets of internal and external zones are established based on study objectives. Zones are represented by a node which is usually termed a centroid. It is possible to have more or less zones than nodes. However, there is only one centroid per zone. Centroids are connected to nodes in zones.</p>
+<p>Movements between zones are illustrated by an <strong>origin-destination (OD) matrix</strong>. If multiple routes use the same link, flows between ODs can be calculated using a link-path incidence matrix</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>min</mtext><mo>=</mo><munder><mo>∑</mo><mi>a</mi></munder><msubsup><mo>∫</mo><mn>0</mn><msub><mi>x</mi><mi>a</mi></msub></msubsup><mrow><msub><mi>t</mi><mi>a</mi></msub><mi>w</mi><mtext> </mtext><mi>d</mi><mi>w</mi></mrow></mrow><annotation encoding="application/x-tex">\textrm{min}=\sum_a\int_0^{x_a}{t_aw\textrm{ }dw}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66786em;vertical-align:0em;"></span><span class="mord text"><span class="mord textrm">min</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.6642970000000004em;vertical-align:-1.250005em;"></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.050005em;"><span style="top:-1.8999949999999999em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">a</span></span></span><span style="top:-3.0500049999999996em;"><span class="pstrut" style="height:3.05em;"></span><span><span class="mop op-symbol large-op">∑</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.250005em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4142920000000003em;"><span style="top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span><span style="top:-3.8129000000000004em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathdefault mtight">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathdefault mtight">a</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9119499999999999em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">a</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="mord text"><span class="mord textrm"> </span></span><span class="mord mathdefault">d</span><span class="mord mathdefault" style="margin-right:0.02691em;">w</span></span></span></span></span></span></p>
+<p>Braees's Paradox: when you add a highway, it might make the travel time longer. Highways with the lowest flow are candidates for removal</p>
 
     </body>
     </html>
