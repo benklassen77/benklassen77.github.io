@@ -105,15 +105,25 @@
 <p>An <em>influence line</em> is used to determine a reaction, internal force or displacement at a specific point in a structure. They are constructed to reflect the effects, at a single point on a structure, of a moving unit load acting anywhere on a structure. They are then used to determine the effects of actual moving loads, or of transient loads</p>
 <p>To find shear influence line:</p>
 <ol>
-<li>Draw shear force diagram with the unit load applied at the point of interest. From this, there are two options.</li>
-<li>a) Connect corners of shear-force diagram with ends of beam, or b) Take mid-way cuts to determine which side is negative and positive</li>
-<li>If complicated, start at point of interest and then do endpoints, followed by midpoints</li>
-<li>To find actual shear at point of interest, multiply the applied forces by the amount of the influence lines at each position and sum them together.</li>
+<li>By statics: draw shear force diagram with the unit load applied at the point of interest. From this, there are two options.
+<ol>
+<li>a) Connect corners of shear-force diagram with ends of beam</li>
+<li>b) Take mid-way cuts to determine which side is negative and positive</li>
+</ol>
+</li>
+<li>If complicated, start at point of interest and then do endpoints, followed by midpoints. By breslau: apply unit deflection of 1 to right of cut and -1 to left of cut. Slopes on the RS and LS of supports must be equal</li>
+<li>To find actual shear at point of interest, multiply the applied forces by the amount of the influence lines at each position and sum them together. If there is an area load, multiply magnitude by area of the influence line</li>
 </ol>
 <p>To find moment influence line:</p>
 <ol>
-<li>Apply load at point of interest, then endpoints and midpoints to create moment influence line</li>
-<li>To find actual moment at point, multiply the applied forces by the amount of the moment lines at each position and sum them together.</li>
+<li>By statics: apply load at point of interest, then endpoints and midpoints to create moment influence line. By breslau: apply a unit rotation <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>θ</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\theta=1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> at point of interest</li>
+<li>To find actual moment at point, multiply the applied forces by the amount of the moment lines at each position and sum them together. If there is an area load, multiply magnitude by area of the influence line</li>
+</ol>
+<p>To find maximum moment (<a href="https://benklassen77.github.io/documents/courses/design/structuralanalysis/influencelinemax.pdf">Example</a>):</p>
+<ol>
+<li>Identify the location of the maximum moment (likely midspan of beam)</li>
+<li>Draw influence line for moment at that point</li>
+<li>Apply loads at positive sections, then at negative sections to check which is bigger</li>
 </ol>
 <p><strong>Muller-Breslau Principle</strong>: The influence line for any reaction or internal force (shear, moment) correstonds to the deflected shape of the structure produced by removing the capacity of the structure to carry that force and then introducing into the modified (or released) structure a unit deformation that corresponds to the restraint removed</p>
 <h2 id="approximate-analysis">Approximate Analysis</h2>
