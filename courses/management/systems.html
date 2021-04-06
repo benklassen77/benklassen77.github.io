@@ -62,7 +62,14 @@
 </ul>
 </li>
 <li><a href="#project-scheduling---resource-levelling-and-allocation">Project Scheduling - Resource Levelling and Allocation</a></li>
-<li><a href="#intro-to-optimization">Intro to Optimization</a></li>
+<li><a href="#optimization">Optimization</a>
+<ul>
+<li><a href="#introduction-to-optimization">Introduction to Optimization</a></li>
+<li><a href="#linear-programming">Linear Programming</a></li>
+<li><a href="#sensitivity-analysis">Sensitivity Analysis</a></li>
+</ul>
+</li>
+<li><a href="#multiple-objective">Multiple-objective</a></li>
 </ul>
 </li>
 </ul>
@@ -339,14 +346,55 @@
 <li>Continue doing this</li>
 <li>Plot on duration/cost graph</li>
 </ol>
-<h2 id="intro-to-optimization">Intro to Optimization</h2>
+<h2 id="optimization">Optimization</h2>
+<h3 id="introduction-to-optimization">Introduction to Optimization</h3>
 <p>Optimization models can be classified as descriptive or prescriptive. For a descriptive model, the input is given and the output can be found. In a prescriptive model, the output is given the input can be found</p>
 <p><strong>Deterministic</strong> models have no variability of the output</p>
 <p><strong>Stochastic</strong> models imply variability of the output</p>
-<p>Linear expressions are not exponential, products, or trig functions. Linear programming starts with an objective. Constraints are then added, with decision variables to be identified to optimize objective</p>
-<p>To solve:</p>
+<h3 id="linear-programming">Linear Programming</h3>
+<p>A linear system is a model of a system based on some kind of linear operator. Linear systems satisfy the property of linear transformation. It is widely used because it states optimization problems in universal form:</p>
+<ul>
+<li>Objective of a single goal</li>
+<li>Constraints must be satisfied by the solution</li>
+<li>Decision variables are to be identified to optimize the objective</li>
+<li>Parameters are involved</li>
+</ul>
+<p>To solve (<a href="https://benklassen77.github.io/documents/courses/management/systems/optimizationexample.pdf">Example</a>):</p>
 <ol>
+<li>Identify decision variables, constraints, objective, and parameters</li>
 <li>Set up a table</li>
+<li>Notate the constraints and create an objective function</li>
+<li>Maximize graphically or analytically</li>
+</ol>
+<p>To solve graphically (2 decision variables), the constraint lines are plotted and the objective function is graphed according to the constraint. Taking a ruler and moving it up or down shows it's maximum and minimum values.</p>
+<p>The feasible region is convex (any point on the segment between 2 feasible points is feasible), compact (the boundary is considered feasible), and continuous. The optimum point is on the boundary.</p>
+<p><strong>Binding constraints</strong>: when the constraints limit the objective function</p>
+<p><strong>Non-binding constraints</strong>: when constrains have no effect on the optimal solutions</p>
+<p><strong>Unique solution</strong>: only one extreme point. <strong>Alternate Optima</strong>: solution contains at least 2 extreme points. <strong>Infeasible</strong>: no feasible region <strong>Unbounded</strong>: not enough constraints</p>
+<p><strong>Slack variables</strong> help find which solutions are feasible and which intersection to try next. If S is positive, the constraint has not been used it, but if it is negative, the constraint has been exceeded. To solve, the following sumplex algorithm can be used:</p>
+<ol>
+<li>Find initial solution</li>
+<li>Move to adjacent corner point that improves objective function</li>
+<li>Repeat until no more improvement possible</li>
+</ol>
+<h3 id="sensitivity-analysis">Sensitivity Analysis</h3>
+<p>There are two kinds of sensitivity analysis: right-hand side and objective function</p>
+<p><strong>RHS</strong>: change in one constraint with all other imput parameters unchanged</p>
+<p><strong>OF</strong>: change in the value of on objective function criterion with all other input parameters unchanged</p>
+<p>The <strong>shadow price</strong> is the marginal cost increass/decrease when switching optimal solutions by OF sensitivity</p>
+<h2 id="multiple-objective">Multiple-objective</h2>
+<p>When trying to maximize different objectives that are inflict, it is considered multi-objective. When they have different units, it is <em>non-commensurate</em></p>
+<p>Multi-objectives have the same formulation to classical programs. However, the objective has a different expression of objective function. The goal is not to identify the best solution, but the quantify the degree of conflict or trade-off amongst the objectives</p>
+<p><strong>Non-inferiority</strong> indicates that there are multiple points that are non-inferior to each other. At each corner, one can check if other points dominate or not</p>
+<p>Weighting Method: <strong>Grand Objective Function</strong> is to be maximized. The number of different sets of weights (number of linear programs to be solved) depends on the complexity of the trade-off surface</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>Z</mi><mi>G</mi></msub><mo>=</mo><msub><mi>w</mi><mn>1</mn></msub><msub><mi>Z</mi><mn>1</mn></msub><mo>±</mo><mrow><msub><mi>w</mi><mn>2</mn></msub><msub><mi>Z</mi><mn>2</mn></msub></mrow><mo>⋯</mo><mrow><msub><mi>w</mi><mi>n</mi></msub><msub><mi>Z</mi><mi>n</mi></msub></mrow></mrow><annotation encoding="application/x-tex">Z_G=w_1Z_1\pm{w_2Z_2}\cdots{w_nZ_n}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">G</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02691em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">±</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02691em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner">⋯</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.02691em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>Procedure for <strong>constraint method</strong> (<a href="https://benklassen77.github.io/documents/courses/management/systems/constraintmethod.pdf">Example</a>)</p>
+<ol>
+<li>Make payoff table with points that optimize <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>Z</mi><mn>1</mn></msub></mrow><annotation encoding="application/x-tex">Z_1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>Z</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">Z_2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></li>
+<li>Reformulate one of the problems by adding the other <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Z</mi></mrow><annotation encoding="application/x-tex">Z</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span></span></span></span> as a constraint and picking r values of that Z</li>
+<li>Solve optimum point at each value of r</li>
+<li>Summarize in table</li>
 </ol>
 
     </body>
