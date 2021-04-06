@@ -67,9 +67,10 @@
 <li><a href="#introduction-to-optimization">Introduction to Optimization</a></li>
 <li><a href="#linear-programming">Linear Programming</a></li>
 <li><a href="#sensitivity-analysis">Sensitivity Analysis</a></li>
+<li><a href="#multiple-objective">Multiple-objective</a></li>
+<li><a href="#network-flow-problems">Network-Flow Problems</a></li>
 </ul>
 </li>
-<li><a href="#multiple-objective">Multiple-objective</a></li>
 </ul>
 </li>
 </ul>
@@ -382,7 +383,7 @@
 <p><strong>RHS</strong>: change in one constraint with all other imput parameters unchanged</p>
 <p><strong>OF</strong>: change in the value of on objective function criterion with all other input parameters unchanged</p>
 <p>The <strong>shadow price</strong> is the marginal cost increass/decrease when switching optimal solutions by OF sensitivity</p>
-<h2 id="multiple-objective">Multiple-objective</h2>
+<h3 id="multiple-objective">Multiple-objective</h3>
 <p>When trying to maximize different objectives that are inflict, it is considered multi-objective. When they have different units, it is <em>non-commensurate</em></p>
 <p>Multi-objectives have the same formulation to classical programs. However, the objective has a different expression of objective function. The goal is not to identify the best solution, but the quantify the degree of conflict or trade-off amongst the objectives</p>
 <p><strong>Non-inferiority</strong> indicates that there are multiple points that are non-inferior to each other. At each corner, one can check if other points dominate or not</p>
@@ -396,6 +397,10 @@
 <li>Solve optimum point at each value of r</li>
 <li>Summarize in table</li>
 </ol>
+<h3 id="network-flow-problems">Network-Flow Problems</h3>
+<p><strong>Shortest Path Problem</strong>: concerned with a set of nodes and a network of connectins between the nodes. The goal is to find the shortest path between a given pair of points within the network. The problem formulation assumes a single unit of flow entering a node an exiting another node by passing through the links in the network</p>
+<p><strong>Binary Programming</strong>: includes zero-one programming, where x is either a 1 or 0 if a path is selected.</p>
+<p><strong>Input-Output Equations</strong>: have all the inputs and outputs at each node</p>
 
     </body>
     </html>
