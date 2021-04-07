@@ -71,6 +71,7 @@
 <li><a href="#network-flow-problems">Network-Flow Problems</a></li>
 </ul>
 </li>
+<li><a href="#integer-programming">Integer Programming</a></li>
 </ul>
 </li>
 </ul>
@@ -400,7 +401,53 @@
 <h3 id="network-flow-problems">Network-Flow Problems</h3>
 <p><strong>Shortest Path Problem</strong>: concerned with a set of nodes and a network of connectins between the nodes. The goal is to find the shortest path between a given pair of points within the network. The problem formulation assumes a single unit of flow entering a node an exiting another node by passing through the links in the network</p>
 <p><strong>Binary Programming</strong>: includes zero-one programming, where x is either a 1 or 0 if a path is selected.</p>
-<p><strong>Input-Output Equations</strong>: have all the inputs and outputs at each node</p>
+<p><strong>Input-Output Equations</strong>: have all the inputs and outputs at each node. In general, with origin being <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>N</mi><mi>A</mi></msub></mrow><annotation encoding="application/x-tex">N_A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">N</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">A</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> (set of j nodes connected to node A), destination <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>N</mi><mi>B</mi></msub></mrow><annotation encoding="application/x-tex">N_B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">N</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.05017em;">B</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> (set of nodes j with direct connection to node B), and nodes in between <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>N</mi><mi>i</mi></msub></mrow><annotation encoding="application/x-tex">N_i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">N</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> (set of nodes j with direct connections to node i), the set of flows into i from all the nodes j that are contained in the set <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>N</mi><mi>i</mi></msub></mrow><annotation encoding="application/x-tex">N_i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">N</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> that is, from all nodes j that are directly connected to node i, is seen below:</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><munder><mo>∑</mo><mrow><mi>j</mi><mi>ϵ</mi><msub><mi>N</mi><mi>i</mi></msub></mrow></munder><msub><mi>x</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub></mrow><annotation encoding="application/x-tex">\sum_{j\epsilon{N_i}}{x_{ij}}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.480449em;vertical-align:-1.430444em;"></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.050005em;"><span style="top:-1.8556639999999998em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.05724em;">j</span><span class="mord mathdefault mtight">ϵ</span><span class="mord mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.10903em;">N</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.10903em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.0500049999999996em;"><span class="pstrut" style="height:3.05em;"></span><span><span class="mop op-symbol large-op">∑</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.430444em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">i</span><span class="mord mathdefault mtight" style="margin-right:0.05724em;">j</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p><strong>Transportation Problem</strong>: distribution problem.</p>
+<p><img src="https://i.imgur.com/x0zvmPa.png?1" alt="Notation"></p>
+<p><strong>Transshipment Problem</strong>: another system of interconnected notes. Goal is to minimize the cost of distribution of the goods. If inputs LS equals outputs RS, the below is used:</p>
+<p><span class="katex-error" title="ParseError: KaTeX parse error: Expected &#x27;}&#x27;, got &#x27;EOF&#x27; at end of input: …n{N_i}}{x_{ij}
+" style="color:#cc0000">\sum_{j\epsilon{N_i}}{x_{ji}}+a_i=\sum_{j\epsilon{N_i}}{x_{ij}
+</span></p>
+<p><img src="https://i.imgur.com/irSvaWh.png?1" alt="Notation Transshipment"></p>
+<p>If there is no source or demand, it is written as input-output=0</p>
+<table>
+<thead>
+<tr>
+<th>Shortest Path</th>
+<th>Transportation</th>
+<th>Transshipment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Inflow node</td>
+<td>Inflow nodes</td>
+<td>Inflow nodes</td>
+</tr>
+<tr>
+<td>Transfer nodes</td>
+<td>Transfer nodes</td>
+<td>Transfer nodes</td>
+</tr>
+<tr>
+<td>Outflow node</td>
+<td>Outflow nodes</td>
+<td>Outflow nodes</td>
+</tr>
+</tbody>
+</table>
+<p>The objective of all of these is the most efficient flow</p>
+<p><strong>Maximum Flow Problem</strong>: maximum amound of flow</p>
+<p><strong>Travelling Salesman Problem</strong>: salesman is going on a tour to n cities to sell his product.</p>
+<ul>
+<li>start and end node are the same</li>
+<li>all nodes must be visited once</li>
+<li>tour is to be completed with the minimum total distance travelled</li>
+</ul>
+<h2 id="integer-programming">Integer Programming</h2>
+<p><strong>Decision variables</strong> must be integer valued</p>
 
     </body>
     </html>
