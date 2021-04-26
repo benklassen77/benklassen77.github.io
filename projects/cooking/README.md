@@ -44,6 +44,7 @@
 <li><a href="dinner/mashedpotatoes.pdf">Mashed Potatoes</a></li>
 <li><a href="dinner/mexicansoup.pdf">Mexican Soup</a></li>
 <li><a href="dinner/tacobeef.pdf">Taco Beef</a></li>
+<li><a href="dinner/tomatosoup.pdf">Tomato Soup</a></li>
 </ul>
 </p>
 </details>
