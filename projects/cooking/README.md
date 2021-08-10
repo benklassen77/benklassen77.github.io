@@ -67,3 +67,13 @@
 </p>
 </details>
 </div>
+
+<div class="something" markdown="1">
+<details><summary>OTHER</summary>
+<p>
+<ul>
+<li><a href="other/zucchinirelish.pdf">Zucchini Relish</a></li>
+</ul>
+</p>
+</details>
+</div>
