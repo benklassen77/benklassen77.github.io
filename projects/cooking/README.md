@@ -72,6 +72,7 @@
 <details><summary>OTHER</summary>
 <p>
 <ul>
+<li><a href="other/pastasauce.pdf">Pasta Sauce</a></li>
 <li><a href="other/zucchinirelish.pdf">Zucchini Relish</a></li>
 </ul>
 </p>
