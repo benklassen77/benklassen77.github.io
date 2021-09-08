@@ -5,3 +5,5 @@
 ## [Structural Design](structuraldesign.html)
 
 ## [Timber](timber.html)
+
+## [Foundation Design](foundationdesign.html)
