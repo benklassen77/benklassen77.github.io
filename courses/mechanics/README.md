@@ -3,3 +3,5 @@
 ## [Solid Mechanics](SolidMechanics.html)
 
 ## [Fluid Mechanics](fluidmechanics.html)
+
+## [Advanced Mechanics](advancedmechanics.html)
