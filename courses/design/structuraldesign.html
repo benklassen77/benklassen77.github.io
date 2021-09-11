@@ -38,6 +38,7 @@
 <li><a href="#course-outline">Course Outline</a></li>
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#structural-system-requirements">Structural System Requirements</a></li>
+<li><a href="#fire-protection">Fire Protection</a></li>
 </ul>
 </li>
 </ul>
@@ -78,13 +79,32 @@
 <p><strong>System design</strong>: a systematic process for defining the problem, establishing alternative concepts and developing design solutions</p>
 <p>To design structural systems, functional, serviceability, and construction requirements are all considerations. Loads are typically found in the buildings code or design standards. Pre-2000, building code was prescriptive based. Now, it is objective based and doesn't need to be as prescriptive.</p>
 <p>Engineers need to have an intuitive feeling for using structural materials and systems, and their behaviour. Approximate analysis is a strong design skill.</p>
-<p>Design starts with <strong>creativity</strong>. Selection of structural system, materials, methods, initial layout and dimensions are required. Next is <strong>verification</strong>. Calculations such as force, moments, and proportioning of members and connections. Finally, <strong>codes and standards</strong> need to be checked. NBCC, CSA S16, CSA A23.3. This is an iterative process. See Table below:</p>
+<p>Design starts with <strong>creativity</strong>. Selection of structural system, materials, methods, initial layout and dimensions are required. Next is <strong>verification</strong>. Calculations such as force, moments, and proportioning of members and connections. Finally, <strong>codes and standards</strong> need to be checked. NBCC, CSA S16, CSA A23.3. This is an iterative process. See Table below and this <a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/designalternatives.pdf">Examples</a>:</p>
 <p><img src="https://i.imgur.com/JcrugUi.png?1" alt="Design Process"></p>
 <h2 id="structural-system-requirements">Structural System Requirements</h2>
 <p><strong>Functional requirements</strong>: relate to the fundamental purpose for which the structure exists</p>
 <p><strong>Spatial function</strong>: may also be referred to as the architectural function or purpose of a structure. Defined in terms of building shape, clear span, clear height, and limitation on structural member size</p>
 <p>Architectural functions are esthetic and economical, while structural are about efficiently supporting loading.</p>
 <p><strong>Load-Carrying function</strong>: the form of the structures defines the load path: the path that loads take from the point of application to the supports</p>
+<p>The structural system must be able to support the applied loads without failure to fulfill its load-carrying function. Strenth is a function of material properties and material arrangement. Strength may also be affected by local and member buckling or instability. Modes of failure for flexural and axial members are illustrated below:</p>
+<p><img src="https://i.imgur.com/mOvEwgs.png?1" alt="Failure Modes"></p>
+<p>Buckling failure comes without any warning, and is hard to predict. Lateral buckling, flexural buckling, or torsion buckling.</p>
+<p>The structural system selected must be stable to ensure static equiliobrium under applied loads. The system and its members must be carefully designed against a sudden geometric change, such as buckling (dealt with bracing) or frame side-sway (must be geometrically stable). The structural system must provide lateral stability for the effect of lateral load on the structure. Lateral stability may be provided by bracing, rigid (moment resisting) joints, shear walls or combinations. These are the three forms of protection, and work to maintain lateral stability and resist lateral loads. The  bracing, moment frame, and shear walls are called <strong>vertical diaphragm</strong> because they can maintain stability of structure by transferring loads to ground. The <strong>horizontal diaphragm</strong> transfers wind loads to locations of a shear wall, which transfers it to the ground. See Figure below and <a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/horizontalresistance.pdf">Examples</a>:</p>
+<p><img src="https://i.imgur.com/JoUEbvj.png?1" alt="Resistance Systems"></p>
+<p>In a unique case of a pin along a beam, the angle <span class="katex-error" title="\alpha\to\0">ParseError: KaTeX parse error: Undefined control sequence: \0 at position 10: \alpha\to\̲0̲</span> would mean nearly infinite force. This is called <strong>instantaneously unstable</strong>. See <a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/instantaneousinstability.pdf">Example</a>.</p>
+<p>Shear wall, bending moment, and axial bracing systems can be combined. However, this is difficult because the distribution of lateral load is difficult to predict. Additionally, seismic load resistance is difficult to evaluate. Larger stiffnesses have more seismic forces; moment frame would have the least and shear walls would have the most.</p>
+<h2 id="fire-protection">Fire Protection</h2>
+<p>Fire protection to:</p>
+<ol>
+<li>Protect people (occupants and responders)</li>
+<li>Protect structure (property and adjacent property)</li>
+</ol>
+<p>Building codes stipulate fire protection according to building's occupancy type and type of construction (noncombustible and combustible material). Fire resistive ratings are expressed in hours and refer to the length of time a structural member can be subjected to a standard fire test without failing. Connections have traditionally not been subjected to these tests, but they should be. Failure may come from three failure modes.</p>
+<p><strong>Transmission failure</strong>: rise of temperature of, or passage of hot gases to, the side opposite the fire. This type of failure may be because of conduction or of holes or cracks forming in the member</p>
+<p><strong>Structural failure at high temperature</strong>: the element must retain sufficient strength to support the building and its contents during the fire. Failure may be one of actual collapse of the element or of excessive deformation resulting in failure of other parts of the structure</p>
+<p><strong>Failure when subjected to a stream of water</strong>: the structure should retain its strength when subjected to a hose stream during or after the fire</p>
+<p>Passive protection can be made with spray, gypsum, or masonry.</p>
+<p>In the Cardington Project, fire was treated as a type of building loading. Columns had fire protection, but beams were found to not need such. Under <em>CSA S16 Design of Steel Structures Annex K</em>, fire is treated as a special load case. Structural Fire Engineering is an emerging discipline</p>
 
     </body>
     </html>
