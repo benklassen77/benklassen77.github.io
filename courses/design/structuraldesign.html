@@ -36,9 +36,14 @@
 <li><a href="#cive-310">CivE 310</a>
 <ul>
 <li><a href="#course-outline">Course Outline</a></li>
-<li><a href="#introduction">Introduction</a></li>
+<li><a href="#introduction">Introduction</a>
+<ul>
 <li><a href="#structural-system-requirements">Structural System Requirements</a></li>
 <li><a href="#fire-protection">Fire Protection</a></li>
+<li><a href="#serviceability-requirements">Serviceability Requirements</a></li>
+</ul>
+</li>
+<li><a href="#structural-systems">Structural Systems</a></li>
 </ul>
 </li>
 </ul>
@@ -81,7 +86,7 @@
 <p>Engineers need to have an intuitive feeling for using structural materials and systems, and their behaviour. Approximate analysis is a strong design skill.</p>
 <p>Design starts with <strong>creativity</strong>. Selection of structural system, materials, methods, initial layout and dimensions are required. Next is <strong>verification</strong>. Calculations such as force, moments, and proportioning of members and connections. Finally, <strong>codes and standards</strong> need to be checked. NBCC, CSA S16, CSA A23.3. This is an iterative process. See Table below and this <a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/designalternatives.pdf">Examples</a>:</p>
 <p><img src="https://i.imgur.com/JcrugUi.png?1" alt="Design Process"></p>
-<h2 id="structural-system-requirements">Structural System Requirements</h2>
+<h3 id="structural-system-requirements">Structural System Requirements</h3>
 <p><strong>Functional requirements</strong>: relate to the fundamental purpose for which the structure exists</p>
 <p><strong>Spatial function</strong>: may also be referred to as the architectural function or purpose of a structure. Defined in terms of building shape, clear span, clear height, and limitation on structural member size</p>
 <p>Architectural functions are esthetic and economical, while structural are about efficiently supporting loading.</p>
@@ -93,7 +98,7 @@
 <p><img src="https://i.imgur.com/JoUEbvj.png?1" alt="Resistance Systems"></p>
 <p>In a unique case of a pin along a beam, the angle <span class="katex-error" title="\alpha\to\0">ParseError: KaTeX parse error: Undefined control sequence: \0 at position 10: \alpha\to\̲0̲</span> would mean nearly infinite force. This is called <strong>instantaneously unstable</strong>. See <a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/instantaneousinstability.pdf">Example</a>.</p>
 <p>Shear wall, bending moment, and axial bracing systems can be combined. However, this is difficult because the distribution of lateral load is difficult to predict. Additionally, seismic load resistance is difficult to evaluate. Larger stiffnesses have more seismic forces; moment frame would have the least and shear walls would have the most.</p>
-<h2 id="fire-protection">Fire Protection</h2>
+<h3 id="fire-protection">Fire Protection</h3>
 <p>Fire protection to:</p>
 <ol>
 <li>Protect people (occupants and responders)</li>
@@ -105,6 +110,91 @@
 <p><strong>Failure when subjected to a stream of water</strong>: the structure should retain its strength when subjected to a hose stream during or after the fire</p>
 <p>Passive protection can be made with spray, gypsum, or masonry.</p>
 <p>In the Cardington Project, fire was treated as a type of building loading. Columns had fire protection, but beams were found to not need such. Under <em>CSA S16 Design of Steel Structures Annex K</em>, fire is treated as a special load case. Structural Fire Engineering is an emerging discipline</p>
+<h3 id="serviceability-requirements">Serviceability Requirements</h3>
+<p><strong>Serviceability</strong> requirements relate to the expected performance of the structure in service. They are detailed design criteria that specify the standards that a structural system must meet in fulfilling its basic purpose. It includes flow-vibration, deflection,</p>
+<p>Excessive structural deflections create: damage to construction and finishes, function problems of non-structural components (doors, windows, machinery), user comfort (visually unacceptable), second order <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mi>δ</mi></mrow><annotation encoding="application/x-tex">P\delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.03785em;">δ</span></span></span></span> or <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mi mathvariant="normal">Δ</mi></mrow><annotation encoding="application/x-tex">P\Delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord">Δ</span></span></span></span> effects, and ponding of water on roof (possible collapse). The first 3 are serviceability issue and bottom 2 are safety issue. Ponding isn't a huge issue in Canada because roofs are designed for snow loads.</p>
+<p>See below for difference between <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mi>δ</mi></mrow><annotation encoding="application/x-tex">P\delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.03785em;">δ</span></span></span></span> and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mi mathvariant="normal">Δ</mi></mrow><annotation encoding="application/x-tex">P\Delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord">Δ</span></span></span></span>.</p>
+<p><img src="https://i.imgur.com/AfNDWdU.png?1" alt=""></p>
+<p>Recommended limits for deflection are provided by the design codes. Deflection limits may also be established based on experience and common practice</p>
+<p>Structural vibrations may result from a number of factors, and may be continuous or transient in nature. Vibrations may be annoying or discomforting to occupants, and may affect the operation or equipment. <strong>Transient vibrations</strong> may be caused by impact, wind, people walking, equipment moving, and vehicles. <strong>Continuous vibrations</strong> may be caused by machinery operation and human activities such as aerobics and dancing.</p>
+<table>
+<thead>
+<tr>
+<th>Acceleration (g)</th>
+<th>Motion</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt;0.5%</td>
+<td>Not perceptible</td>
+</tr>
+<tr>
+<td>0.5%-1.5%</td>
+<td>Perceptible</td>
+</tr>
+<tr>
+<td>1.5%-5%</td>
+<td>Annoying</td>
+</tr>
+<tr>
+<td>5%-15%</td>
+<td>Very Annoying</td>
+</tr>
+<tr>
+<td>&gt;15%</td>
+<td>Unbearable</td>
+</tr>
+</tbody>
+</table>
+<p>Vibration is reduced by proper design of structural systems and members, or by introducing passive or active control damping or isolation. Detailed procedures for analysis and design of structures to minimize vibrations can be found in numerous references, including Commentary D <em>Deflection and Vibration Criteria for Sericeability and Fatigue Limit States</em> of the NBC Structural Commentaries.</p>
+<p>Human-induced vibration is an issue in cold-formed steel flooring systems.</p>
+<p>The durability is the expected service life of the structure, as well as the associated maintenance costs,should be considered in selection of structural system. <strong>Durability</strong> is the ability to resist weathered action, chemical attack, abrasion, insects, or other deterioration processes over time. Eg. corrosion, fatigue, termites. Durable structures retain original form, quality, and serviceability when exposed to the environment over intended service life. Buildings need to last 50 years and bridges 70.</p>
+<p>Steel, concrete, and timber structures see serviceability durability issue: cracking, spalling, staining, increased deflections. Strength and safety issue: loss of x-section, reinforcement, degradation of bond, and spalling</p>
+<p>Thee structural material, form, details, and environment are all durability considerations. The building must be within the building envelope to ensure safety. Cold-formed steel for residential structure is galvanized, as the zinc sacrifices itself. Distance from shoreline is considered in this. The type of board ised is also an important consideration. MGO boards, lightweight in-filled thermal insolation, and others have chlorides, and thus cannot be used with steel. Welded connections are pinned. Rigidity can be made with knee-bracing or by welding both top and bottom of beam to column. See consideration list for design <a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/designrequirementsexample.pdf">here</a></p>
+<h2 id="structural-systems">Structural Systems</h2>
+<p>In most buildings, structural system is broken down into substructures.</p>
+<table>
+<thead>
+<tr>
+<th>Subsystem</th>
+<th>Purpose</th>
+<th>Components</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Horizontal distribution</td>
+<td>distribute vertical loads to vertical support system</td>
+<td>Roof and floor systems</td>
+</tr>
+<tr>
+<td>Lateral distribution</td>
+<td>Distribute lateral loads to lateral support system</td>
+<td>Roof and floor systems</td>
+</tr>
+<tr>
+<td>Vertical support</td>
+<td>Transfer vertical loads from horizontal distribution system to foundation</td>
+<td>Walls, columns</td>
+</tr>
+<tr>
+<td>Lateral support</td>
+<td>transfer lateral loads from lateral distribution system to foundation</td>
+<td>Walls, columns</td>
+</tr>
+<tr>
+<td>Foundation</td>
+<td>Transfer all vertical and lateral loads to the ground</td>
+<td>Footings, piles</td>
+</tr>
+</tbody>
+</table>
+<p>See figure below to illustrate this:</p>
+<p><img src="https://i.imgur.com/badm0ei.png?1" alt="Support Systems"></p>
+<p>The <strong>one-way slab</strong> system is characterized by either having beams on only 2 edges or beams on more than 2 edges AND <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><msub><mi>L</mi><mn>1</mn></msub><msub><mi>L</mi><mn>2</mn></msub></mfrac><mo>≥</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">\frac{L_1}{L_2}\geq{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.3335309999999998em;vertical-align:-0.44509999999999994em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8884309999999999em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4101em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.44509999999999994em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≥</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord"><span class="mord">2</span></span></span></span></span>, with <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>L</mi><mn>1</mn></msub></mrow><annotation encoding="application/x-tex">L_1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> being long dim and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>L</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">L_2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> being short dim. These only have bending in one direction.</p>
+<p>The <strong>two-way slab</strong> is characterized by beams on more than 2 edges and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><msub><mi>L</mi><mn>1</mn></msub><msub><mi>L</mi><mn>2</mn></msub></mfrac><mo>≤</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">\frac{L_1}{L_2}\leq{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.3335309999999998em;vertical-align:-0.44509999999999994em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8884309999999999em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4101em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.44509999999999994em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord"><span class="mord">2</span></span></span></span></span>. This experiences bending in two directions. If <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><msub><mi>L</mi><mn>1</mn></msub><msub><mi>L</mi><mn>2</mn></msub></mfrac><mo>&gt;</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">\frac{L_1}{L_2}&gt;2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.3335309999999998em;vertical-align:-0.44509999999999994em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8884309999999999em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4101em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.44509999999999994em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&gt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span>, there is a combination of one-way and two-way bending. See below to demonstrate the load paths on these types:</p>
+<p>While one-way is simpler, two way system can be more efficient and can be thinner since it is supported by 4 columns, and thus has higher stiffness. There is also more redundancy and less deflection in two-way. One-way is used because it is more efficient, economical, and easier for construction</p>
 
     </body>
     </html>
