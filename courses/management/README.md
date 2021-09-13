@@ -1,5 +1,7 @@
 # [Management](https://benklassen77.github.io)
 
+## [Environmental Engineering Principles](environmentalengprinciples.html)
+
 ## [Econ](econ.html)
 
 ## [Engineering and Sustainability](engineeringsustainability.html)
