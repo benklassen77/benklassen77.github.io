@@ -19,3 +19,5 @@ $$N=\frac{1+\sin\phi}{1-\sin\phi}=\tan^2{(45+\frac{\phi}{2})}\tag{Flow Number}$$
 $$\sigma_{1f}=\sigma_{3f}N+2c\sqrt{N}$$
 
 ## - Mech 3 23-Sept
+
+Simplifications are made in 2D case
