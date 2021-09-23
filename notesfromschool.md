@@ -20,4 +20,6 @@ $$\sigma_{1f}=\sigma_{3f}N+2c\sqrt{N}$$
 
 ## - Mech 3 23-Sept
 
-Simplifications are made in 2D case
+Simplifications are typically made in 2D case. For example, beams assumed to only have bending stress as non-zero. A 3D understanding is req'd to understand the simplifications/
+
+Principal stresses are important bc they introduce the failure criteria. Tresca and Von Mises 
