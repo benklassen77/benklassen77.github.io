@@ -86,7 +86,7 @@ Add wood curve here
 
 Tension Member Design
 
-$$T_r=K_{Zt}\phi min{\{{F_{tn}A_n}|F_{tg}A_g}\}}$$
+$$T_r=K_{Zt}\phi min{\{ F_{tn}A_n|F_{tg}A_g\} }$$
 
 $\phi=0.9$ The net section force is bigger, but the net area is bigger than the gross area. This must not be less than 75% of gross section.
 
