@@ -60,6 +60,13 @@
 <li><a href="#stiffness-and-deformation">Stiffness and deformation</a></li>
 <li><a href="#distribution-of-lateral-forces-to-vertical-elements">Distribution of lateral forces to vertical elements</a></li>
 <li><a href="#statically-determinate-systems">Statically Determinate Systems</a></li>
+<li><a href="#j-hancock-tower">J-Hancock Tower</a></li>
+<li><a href="#structural-loads">Structural Loads</a>
+<ul>
+<li><a href="#dead-loads">Dead Loads</a></li>
+<li><a href="#live-loads">Live Loads</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -413,6 +420,135 @@
 </ul>
 <p>If the stiffness of the vertical planes is varied and the horizontal diaphragm is semi-rigid, then the problem is highly indeterminate. In this case, the diaphragm can be idealized as a continuous beam on flexible supports, or an indeterminate structural analysis can be performed for the entire lateral force-resisting system. If vertical diaphragm stiffness known, use continuous beam on a spring support (vertical diaphragm).</p>
 <p>Misc</p>
+<h2 id="j-hancock-tower">J-Hancock Tower</h2>
+<p>This Boston building is 60 stories and was considered the plywood palace for years. In 1973, the glasses at upper level fell down due to the winds. Myths for this included:</p>
+<ul>
+<li>Tower swayed too much in the wild. In actuality, sway wasn't harming any windows. Two 300-ton weights sit at opposite ends at the 58th floor of the tower. These were designed by William LeMessurier, are known as tuned mass dampener</li>
+<li>The sharp angles of the tower's rhomboid shape were creating &quot;hot spots&quot; where high wind velocities would damage or suck out windows. In actuality, hot spots didn't create window failure</li>
+<li>The tower was settling on its foundations, which stressed the windows. In actuality, this did not stress the windows. The foundation problems were created by the excavation. These impacted the nearby Trinity Church.</li>
+</ul>
+<p>The actual problem was defects in the manufacturing/assembly of the window curtain wall units. Samples of the window panels were being tested in wind tunnel tests. To cut the glare and heat of the sun, a coat of reflective chromium was placed on the inside surface of the outside pane of glass. The window frame was bonded to the chrome with a lead solder. The lead solder bonding too well with the chrome, and was too rigid such that the joint couldn't absorb any movement. But window glass expands and contracts with changes in temperature, and it vibrates with the wind. Window replacement costed $7M</p>
+<p>There were also concerns for the overall stability of the building under certain rare wind loading conditions. Bruno Thurlimann, famous engineer, found that it might fall over on its narrow edge. This is because in earthquake loading, it could move a bit at the foundation which would make it more flexible. Building was stiffened with diagonals for around $5M</p>
+<h2 id="structural-loads">Structural Loads</h2>
+<p>Building codes and design standards are different classifications:</p>
+<ul>
+<li><strong>General building codes</strong>: NBCC, OBC. These have specified service loads, structural design strength, fire, accessibility, HVAC</li>
+<li><strong>Technical design standards</strong>: CSA S16. CSA A23.3. CSA O86. These discuss how to design with steel, concrete, and timber.</li>
+</ul>
+<p>These codes have:</p>
+<ul>
+<li>Legal ordinance enacted by governmental bodies and regulatory agencies, establishing regulations governing building design and construction</li>
+<li>In the technical standards, there are 3 categories of representatives: public interest (regulatory agencies, professors), industry (manufacturers, fabricators), users (consulting engineers). Each of these groups represents one third of the representatives</li>
+<li>They specify minimum design loads to protect public, but it is up to the engineer to consider if the minimum loads are adequate or not</li>
+<li>They specify loads that are generally applicable to routine or regular structures. Non-typical or special structures may be subject to different load types and magnitudes</li>
+<li>Structural engineers must determine the specific loads to be used for a particular structure that may be more or less than the code minimum</li>
+<li>NBC is not a legal document, but a model code for provincial and municipal codes. CSA S16 (Steel) and CSA A23 (Concrete) are referenced by NBC and adopted by OBC. These are updated every 5 and 10 years for steel and concrete, respectively.</li>
+</ul>
+<p>If CSA Standard S16-14 is created in 2014, it is then referenced by NBC in 2015, which is referenced by OBC in 2016. Thus, there is a 2 year difference for it to be a legal document.</p>
+<p>There are two categories of loads: static and dynamic.</p>
+<p><strong>Static loads</strong>: can vary in magnitude and location over time, but these variations are assumed to be gradual and do not induce an inertial response. Includes live load (occupants, snow [not live load since 2000]), dead (selfweight, [finishes and fixtures/non-moving equipment if known well, else live loads]), earth pressure, and restraint actions (settlement, thermal strains, creep, expansion/swelling, shrinkage)</p>
+<p><strong>Dynamic loads</strong>: vary with time in terms in magnitude, direction or position. These induce an inertial response in the structure. Effects may be simplified for design by treating as equivalent static loads</p>
+<ul>
+<li>Continuous dynamic loads are caused by human activity (walking, running, dancing), vehicles and moving equipment, fixed equipment (oscillating), wind, and earthquakes. Wind and earthquakes can be treated as equivalent static loads depending on location, shape, and aspect ratio</li>
+<li>Discrete or impact loads are caused by blasts, vehicles</li>
+</ul>
+<h3 id="dead-loads">Dead Loads</h3>
+<p><strong>Dead loads</strong>: include the weight of the structure and any permanent attachments such as fixed partitions, ceiling, floor and roof coverings, and permanent equipment.</p>
+<ul>
+<li>Self weight of structure</li>
+<li>Superimposed dead load</li>
+<li>May include loads from earth, plants, and trees. Eg. green building</li>
+<li>Construction dead loads may also be present Eg. gypsum board piled up</li>
+</ul>
+<p>Dead loads are static, well defined,and  can be predicted well (lower load factor). Typical material unit weights are used to estimate dead load. CAC handbook tables 1.11 and 1.12 are for finishes and flooring as well. See below:</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Type</th>
+<th>Unit Weight <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mrow><mi>k</mi><mi>N</mi></mrow><msup><mi>m</mi><mn>3</mn></msup></mfrac></mrow><annotation encoding="application/x-tex">\frac{kN}{m^3}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2251079999999999em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8801079999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">m</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03148em;">k</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Concrete</td>
+<td>Low-density</td>
+<td>18.1</td>
+</tr>
+<tr>
+<td></td>
+<td>Semi-low density</td>
+<td>21</td>
+</tr>
+<tr>
+<td></td>
+<td>Plain</td>
+<td>23.5</td>
+</tr>
+<tr>
+<td></td>
+<td>Reinforced</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Steel</td>
+<td></td>
+<td>77</td>
+</tr>
+<tr>
+<td>Wood</td>
+<td>Hardwood</td>
+<td>9.5</td>
+</tr>
+<tr>
+<td></td>
+<td>Softwood</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Aluminum</td>
+<td></td>
+<td>27</td>
+</tr>
+</tbody>
+</table>
+<h3 id="live-loads">Live Loads</h3>
+<p><strong>Live load</strong>: any non-permanent load on the structure produced by building occupants, furniture, storage items, minor equipment, or movable partitions. Defined according to the &quot;occupancy and use&quot; of the building</p>
+<ul>
+<li>short term and possibly variable in magnitude and position. Thus, not easy to predict or quantify</li>
+<li>load factors for live loads are normally higher than for dead loads</li>
+<li><em>Variability in magnitude</em>: To deal with uncertainty of live load magnitude, building codes have enacted conservative values for specified minimum live loads. Use office building surveys conducted in US over past 50 years. Typically use 5% probability of exceedance and engineers judgement
+<ul>
+<li>Loads have decreased over time (less books etc). Can be problem for vibration</li>
+</ul>
+</li>
+<li><em>Variability in position</em>: because live loads are transient, pattern loading must be considered. Maximum force effects in structural members may be produced by patterns of live loading rather than live loads applied on all spans. Influence line used. Snow loads can be partially distributed</li>
+</ul>
+<p>NBC 2015 defines uniformly distributed loads in Table 4.1.5.3 and concentrated loads in Table 4.1.5.9. Where occupancy may vary at different times, the greatest value must be used.</p>
+<p>Pattern or partial loading must also be considered:</p>
+<ul>
+<li>consider patterns of live load on any portion of the loaded area such that the critical force effect is produced (influence line)</li>
+<li>check live load applied uniformly over the entire area</li>
+</ul>
+<p>For use/occupancy not specified in Table 4.1.5.3, live load is determined from an analysis of the weight from the probability of: assembly of persons, accumulation of equipemnt/furnishings, and storage of materials.</p>
+<p>Live load may be reduced to 80% of the specified value if the building is considered to be in the low importance category.</p>
+<p><a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/415359.pdf">Table 4.1.5.3 and 4.1.5.9</a></p>
+<ul>
+<li>arenas without fixed seats have increased ucertainty</li>
+<li>fire escapes always have value as 4.8 kPa because everyone will be in a rush</li>
+<li>roof has 1.0 kPa maintenance live load, which cannot be reduced</li>
+<li>concentated loads are to be located so as to cause maximum force effects. This is up to the engineer</li>
+<li>mechanical units can be either LL or DL. LL more conservative</li>
+<li><em>Variation of live load with tributary area</em>: also known as live load reduction. Building codes permit a reduced live load for individual structural members based on the size of the tributary area contributing loads to the member. This reflects that is unlikely for all floors to be subjected to full LL at the same time</li>
+</ul>
+<p><img src="https://i.imgur.com/8VzxwIT.png?1" alt="LLRF"></p>
+<p>In the above, it is unlikely that each floor will have maximum LL along the tributary area of the middle column. Thus, reduction is ok. However, NO REDUCTION for snow load.</p>
+<p>Common reduction factors seen below:</p>
+<p>Snip of NBC 2015 Article 4.1.5.8</p>
+<ul>
+<li>for A and B, tributary area is in <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>m</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">m^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord mathnormal">m</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></li>
+<li>live loads multiplied by factors</li>
+</ul>
 
     </body>
     </html>
