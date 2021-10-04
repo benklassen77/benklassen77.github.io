@@ -65,7 +65,8 @@
 <ul>
 <li><a href="#dead-loads">Dead Loads</a></li>
 <li><a href="#live-loads">Live Loads</a></li>
-<li><a href="#snow-and-rain-load">Snow and Rain Load</a></li>
+<li><a href="#other-loads">Other Loads</a></li>
+<li><a href="#load-estimation">Load Estimation</a></li>
 </ul>
 </li>
 </ul>
@@ -550,7 +551,7 @@
 <tr>
 <th>Case</th>
 <th>Occupancy and Design LL</th>
-<th>Member <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>T</mi><mi>a</mi></msub></mrow><annotation encoding="application/x-tex">T_a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">a</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></th>
+<th><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>T</mi><mi>a</mi></msub></mrow><annotation encoding="application/x-tex">T_a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">a</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></th>
 <th>LLRF</th>
 </tr>
 </thead>
@@ -599,7 +600,53 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <li>structural drawings must indicate that a LLRF has been applied</li>
 </ul>
 <p>See calculation example <a href="https://benklassen77.github.io/documents/courses/design/structuraldesign/LLDLexample.pdf">here</a></p>
-<h3 id="snow-and-rain-load">Snow and Rain Load</h3>
+<h3 id="other-loads">Other Loads</h3>
+<p><strong>Snow and Rain Loads</strong>: independent of the building occupancy, dependent on location</p>
+<ul>
+<li>Ground snow load is provided in the NBC. However, since most buildings are hidden in the winter, a coefficient of 0.8 is applied to obtain roof snow load</li>
+<li>Drift snow load happens due to different roof elevations, thus the snow density is not uniform. Snow on adjacent building could slide onto its roof</li>
+<li>Unbalanced snow load can result from wind blowing snow off of roof. This could bring a member typically in tension into compression</li>
+<li>Rain on snow effect creates ponding. Must be considered</li>
+</ul>
+<p><strong>Wind Load</strong>: independing of building occupancy, but highly dependent on height, shape, opening, surrounding environment, and location of buildings</p>
+<ul>
+<li>dynamic in nature. Internal/external pressure and suction, uplift, overturning, and vibration</li>
+<li>Treated as static load</li>
+<li>Wind load is primarily related to wind speed: mean wind speed, peak wind speed (gust)</li>
+<li>Higher wind load at corners of building than in the middle as the wind passes through there</li>
+</ul>
+<p><strong>Earthquake Load</strong>: rare, random, and dynamic in nature</p>
+<ul>
+<li>Primary effect: violent ground motions generate lateral and vertical inertia forces resulting building damage or collapse</li>
+<li>Highly dependent on location, self-weight, soil condition (certain conditions amplify loading) and structural system of buildings (unique from other loadings)</li>
+<li>Earthquake load is primarily related to ground motion velocity and acceleration, and fundamental period of structure.</li>
+<li>Equivalent static method; response spectra analysis, and nonlinear time history analysis</li>
+<li>More stiff buildings create large forces because of shorter fundamental period (1st mode of vibration). Flexible systems have longer fundamental period, smaller forces will result. If the structure is too flexible, there is a large <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mo>−</mo><mi mathvariant="normal">Δ</mi></mrow><annotation encoding="application/x-tex">P-\Delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Δ</span></span></span></span> effect.</li>
+</ul>
+<p><img src="https://i.imgur.com/eniavqn.png?1" alt="P- Effect"></p>
+<p>Importance factors are used for snow and wind loads. AT ULS, post-disaster is designed for 1 in 100 years and low, normal, and high at 1 in 50 years. SLS designed for 1 in 30 years</p>
+<h3 id="load-estimation">Load Estimation</h3>
+<p>For first-order, linear-elastic structural behaviour, concrete beams and slabs can be designed to patterned live loading. This can be done with:</p>
+<ul>
+<li>rules for arrangement of live load for continuous beams and slabs</li>
+<li>approximate analysis</li>
+<li>beam tables (CDH Part 1 White Pages)</li>
+<li>structural analysis program</li>
+</ul>
+<p>For continuous beams and other indeterminate structures, pattern live loading must be considered to find maximum force and moment effects. Governing live load patterns are determined using:</p>
+<ul>
+<li>influence lines</li>
+<li>brute force - check all possible LL combinations with software</li>
+<li>CSA rules for continuous beams</li>
+<li>Approximate frame analysis</li>
+</ul>
+<p>For continuous beams and one-way slabs, the arrangements of LLs and DLs may be limited to combinations of:</p>
+<ol>
+<li>Factored DL of the structure and factored permanent superimposed DL on all spans, with factored partition load and factored live load on two adjacent spans. This creates max positive moment <em>at the support</em></li>
+<li>Factored DL of the structure and factored permanent superimposed DL on all spans, with factored partition load and factored LL on alternate spans. This creates max positive moment <em>within span</em></li>
+<li>Factored DL and factored LL on all spans</li>
+</ol>
+<p><img src="https://i.imgur.com/IxP3awY.png?1" alt="Max and minimum combinations"></p>
 
     </body>
     </html>
