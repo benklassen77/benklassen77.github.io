@@ -67,6 +67,7 @@
 <li><a href="#live-loads">Live Loads</a></li>
 <li><a href="#other-loads">Other Loads</a></li>
 <li><a href="#load-estimation">Load Estimation</a></li>
+<li><a href="#loading-concepts">Loading Concepts</a></li>
 </ul>
 </li>
 </ul>
@@ -647,6 +648,51 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <li>Factored DL and factored LL on all spans</li>
 </ol>
 <p><img src="https://i.imgur.com/IxP3awY.png?1" alt="Max and minimum combinations"></p>
+<h3 id="loading-concepts">Loading Concepts</h3>
+<p>Beams in normal use are called &quot;in-service&quot;. In-service beams have self-weight and load due to use and occupancy</p>
+<p><img src="https://i.imgur.com/FNgSunx.png?1" alt="Loading"></p>
+<p>Since the above resistance is greater than the applied load effect, it is safe. Factor of safety demonstrates how safe</p>
+<p><img src="https://i.imgur.com/yKlrkRZ.png?1" alt="Probabilistic Limit State Design"></p>
+<ul>
+<li>In limit state design, designed based on probability of failure</li>
+</ul>
+<p>To ensure that <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi><mo>≥</mo><mi>L</mi></mrow><annotation encoding="application/x-tex">R\geq{L}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8193em;vertical-align:-0.13597em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≥</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathnormal">L</span></span></span></span></span>, follow the following:</p>
+<ol>
+<li>Estimate load effects
+<ul>
+<li>Code specified design loads</li>
+<li>Structural analysis</li>
+</ul>
+</li>
+<li>Estimate resistance</li>
+<li>Account for variability in load effects
+<ul>
+<li>Loads can be difficult to estimate, and may vary in intensity and location</li>
+<li>Structural analysis involves assumptions and approximations. Linear elastic analysis and pinned or fixed connections/ends</li>
+</ul>
+</li>
+<li>Account for variability in resistance
+<ul>
+<li>Variability in concrete  and steel strength</li>
+<li>Differences between designed and constructed dimensions</li>
+<li>Construction errors</li>
+<li>Assumptions and approximations in estimating resistance</li>
+</ul>
+</li>
+<li>Define an acceptable level of safety
+<ul>
+<li>Potential loss of life</li>
+<li>Cost of failure: clean up, lost revenue</li>
+<li>Warning before failure: brittle vs ductile</li>
+<li>Function of building</li>
+<li>Acceptable level. Based on probability of failures</li>
+</ul>
+</li>
+</ol>
+<p>Variability in load effects and resistance can each be represented by a probability distribution curve:</p>
+<p><img src="https://i.imgur.com/pPzfQOl.png?1" alt="PDC"></p>
+<p>Since the variabilities could have large effects, it isn't acceptable to have <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mover accent="true"><mi>R</mi><mo>ˉ</mo></mover><mo>≥</mo><mover accent="true"><mi>S</mi><mo>ˉ</mo></mover></mrow><annotation encoding="application/x-tex">\bar{R}\geq{\bar{S}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.9560799999999999em;vertical-align:-0.13597em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8201099999999999em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span></span><span style="top:-3.25233em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.16666em;"><span class="mord">ˉ</span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≥</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8201099999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8201099999999999em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">S</span></span><span style="top:-3.25233em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.16666em;"><span class="mord">ˉ</span></span></span></span></span></span></span></span></span></span></span>. Thus, nominal values from the code are used.</p>
+<p>Nominal load effect <span class="katex-error" title="S_n\approx{95%}">ParseError: KaTeX parse error: Expected &#039;}&#039;, got &#039;EOF&#039; at end of input: S_n\approx{95%}</span> quartile and nominal resistance <span class="katex-error" title="R_n\approx{5%}">ParseError: KaTeX parse error: Expected &#039;}&#039;, got &#039;EOF&#039; at end of input: R_n\approx{5%}</span> quartile. Then, we say <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϕ</mi><msub><mi>R</mi><mi>n</mi></msub><mo>=</mo><mi>α</mi><msub><mi>S</mi><mi>n</mi></msub></mrow><annotation encoding="application/x-tex">\phi{R_n}=\alpha{S_n}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">ϕ</span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span>. Probability of failure reduced by underestimating resistance and overestimating load</p>
 
     </body>
     </html>
