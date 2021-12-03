@@ -1,6 +1,6 @@
 # Shalom
 
-[![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Email](https://i.imgur.com/PXQRR8U.png?1)](mailto:blklasse@uwaterloo.ca)
+[![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Learn](https://i.imgur.com/xhq9Mlm.png?2)](https://learn.uwaterloo.ca) [![Office 365](https://i.imgur.com/YyYGcJu.png?2)](https://office.com)
 
 ## [Design](courses/design/)
 
