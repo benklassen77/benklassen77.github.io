@@ -140,13 +140,13 @@ Sharing the loss is spreading individual loss through insurance, neighbour/famil
 Reducing the loss is done in a couple different ways:
 
 1. *Total prevention*: see below for some prevention methods. Some hazards, like earthquakes, are beyond total prevention
-	- ![Prevention methods](https://i.imgur.com/cXQeSLa.png?1)
-	- Floods: dams, spillways, levees
-	- Biohazards: public health programs, quarantines/import restrictions
+   - ![Prevention methods](https://i.imgur.com/cXQeSLa.png?1)
+   - - Floods: dams, spillways, levees
+   - Biohazards: public health programs, quarantines/import restrictions
 2. *Magnitude reduction*: done to improve results
-	- Cloudseeding to address drought
-	- Flood reduction with afforestation, diversion channels, stormwater ponds
-	- Wildfre prescribed burns
+   - Cloudseeding to address drought
+   - Flood reduction with afforestation, diversion channels, stormwater ponds
+   - Wildfre prescribed burns
 
 |Storm|Structure|
 |---|---|
@@ -568,7 +568,7 @@ Flood hazard components include:
 River floods are measured with:
 
 1. Height (Stage)
-	- Base -> Water surface
+   - Base -> Water surface
 2. Speed (m/s)
 3. Discharge (Volume)
 4. Frequency (recurrence interval)
@@ -640,13 +640,13 @@ Erosion is caused by:
 
 1. Natural physical processes (wind, water, storms etc)
 2. Natural Causes
-	- Ground disturbance (farming/construction)
-	- Changes in water flod
-	- Vegegation disturbance/removal/change
-		- Deforestation
-		- Grazing
-	- Human Settlement
-	- Climate Change
+   - Ground disturbance (farming/construction)
+   - Changes in water flod
+   - Vegegation disturbance/removal/change
+     - Deforestation
+     - Grazing
+   - Human Settlement
+   - Climate Change
 
 *Creeping* moves mms-cms/year. *Thermal (or thermally-related) erosion*: direct with permafrost melting or indirect with ice cap melt -> sea level rise -> erosion.
 
