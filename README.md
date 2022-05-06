@@ -13,6 +13,7 @@
 ## [Geotechnical Engineering](courses/geo/)
 
 - Soil Mechanics
+- Natural Hazards
 
 ## [Management](courses/management/)
 
