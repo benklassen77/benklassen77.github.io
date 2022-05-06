@@ -4,14 +4,15 @@
 
 ## [Design](courses/design/)
 
+- Timber
 - Structural Analysis
+- Geotechnical
+- Concrete
+- Steel
 
 ## [Geotechnical Engineering](courses/geo/)
 
-- Pile Foundations
-- Retaining Walls
-- Caissons
-- Retaining Walls
+- Soil Mechanics
 
 ## [Management](courses/management/)
 
@@ -19,6 +20,7 @@
 - Engineering Sustainability
 - Civil systems
 - Society and the modern city
+- Law and ethics
 
 ## [Water Engineering](courses/fluid/)
 
@@ -28,6 +30,7 @@
 
 - Solid Mechanics
 - Fluid Mechanics
+- Dynamics
 
 ## [Material Engineering](courses/materials/)
 
@@ -49,6 +52,7 @@
 ## [Computer Languages](courses/computer/)
 
 - Python
+- MATLAB
 
 ## [Personal Projects](projects/)
 
