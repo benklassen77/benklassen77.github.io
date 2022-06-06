@@ -6,7 +6,7 @@
 
 ## [Structural Analysis](structuralanalysis.html)
 
-## [Structural Design](structuraldesign.html)
+## [Structural Design](https://benklassen77.github.io/documents/courses/design/structuraldesign/structuraldesign.pdf)
 
 ## [Timber](timber.html)
 
