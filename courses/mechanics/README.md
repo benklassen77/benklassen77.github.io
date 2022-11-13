@@ -7,3 +7,5 @@
 ## [Advanced Mechanics](advancedmechanics.html)
 
 ## [Dynamics](dynamics.html)
+
+## [Finite Element Analysis](finiteelement.html)
