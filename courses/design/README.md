@@ -1,5 +1,9 @@
 # [Design](https://benklassen77.github.io)
 
+## [Systems](systems.html)
+
+## [Rehab](rehab.html)
+
 ## [Steel](steel.html)
 
 ## [Concrete](concrete.html)
