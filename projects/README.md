@@ -1,9 +1,11 @@
 # [Personal Projects](https://benklassen77.github.io)
 
-## [Christianity](christianity/)
+## [Recipes](cooking/)
 
-## [Home Building](other/homebuilding.md)
+## [Maps](maps/)
 
 ## [Music](music/)
 
-## [Recipes](cooking/)
+## [Christianity](christianity/)
+
+## [Home Building](other/homebuilding.md)
