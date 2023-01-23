@@ -1,5 +1,7 @@
 # [Geotechnical Engineering](https://benklassen77.github.io)
 
-## [Cive 353](cive353.html)
+## [Geotechnical Eng 1](cive353.html)
 
-## [GEOG 306](naturalhazards.md)
+## [Natural Hazards](naturalhazards.md)
+
+## [Foundation Design](foundationdesign.html)
