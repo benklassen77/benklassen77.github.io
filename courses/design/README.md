@@ -30,9 +30,8 @@
 - Structural Loads
 - Introduction to Structural Steel
 - Concrete Structures
-  - Uncracked Analysis and cracked section analysis
-  - Analysis for balanced failureOver-reinforced failure
-- Design of one-way slab
+- Uncracked Analysis and cracked section analysis
+- Analysis for balanced failure, over-reinforced failure
 
 ## [Timber](timber.html)
 
