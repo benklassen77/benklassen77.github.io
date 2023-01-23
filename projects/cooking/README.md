@@ -19,6 +19,7 @@
 <li><a href="baking/bananachipmuffin.pdf">Banana Chocolate Chip Muffin</a></li>
 <li><a href="baking/cinnamonbun.pdf">Cinnamon Bun</a></li>
 <li><a href="baking/basicroll.pdf">Roll</a></li>
+<li><a href="baking/peanutbuttergranolabars.pdf">Roll</a></li>
 </ul>
 </p>
 </details>
@@ -62,6 +63,7 @@
 <li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
 <li><a href="dessert/hotchocolate.pdf">Hot Chocolate</a></li>
 <li><a href="dessert/pavlova.pdf">Pavlova</a></li>
+<li><a href="dessert/peanutbuttercookies.pdf">Peanut Butter Cookies</a></li>
 <li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
 <li><a href="dessert/shortbread.pdf">Shortbread</a></li>
 </ul>
