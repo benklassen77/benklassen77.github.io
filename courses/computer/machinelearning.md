@@ -2,8 +2,7 @@
 
 The following code uses a trained neural network to show how approximates are made to a real set of data.
 
-```Matlab
-
+```py
 data=readmatrix('N:\data2.csv')
 
 T=data(:,1);
@@ -38,8 +37,7 @@ ylabel('Predicted Values')
 
 The following code trains a neural network on spatial data to approximate the snow load given a dataset.
 
-```MATLAB
-
+```py
 data=readmatrix('MATLAB_omitted.csv')
 Lat=data(:,2);
 Long=data(:,3);
