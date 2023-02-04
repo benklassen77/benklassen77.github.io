@@ -3,3 +3,5 @@
 ## [Latex](Latex.html)
 
 ## [Python](python.md)
+
+## [Machine Learning](machinelearning.md)
