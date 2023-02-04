@@ -57,6 +57,4 @@
 - Python
 - MATLAB
 
-{% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping!
- {% endraw %}
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
