@@ -1,5 +1,4 @@
 *.md
 !readme.md
-!machinelearning.md
 *head.html
 *.DS_Store
