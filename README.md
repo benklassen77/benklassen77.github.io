@@ -56,3 +56,5 @@
 
 - Python
 - MATLAB
+
+$$x^2+bx+c$$
