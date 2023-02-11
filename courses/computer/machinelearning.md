@@ -78,3 +78,66 @@ end end
 surf(Lat_plot,Long_plot,Output)
 contourf(Lat_plot,Long_plot,Output)
 ```
+
+The following network trains a dataset to predict FOM based on ROM data
+
+```py
+ROM_strain=ep_ROM;
+ROM_elements=elem_ROM;
+FOM_strain=ep_FOM;
+
+input1=ROM_strain;
+target1=FOM_strain;
+trainFcn = 'trainlm';  % Levenberg-Marquardt backpropagation.
+
+% Create a Fitting Network
+hiddenLayerSize = 6;
+net = fitnet(hiddenLayerSize,trainFcn);
+% Setup Division of Data for Training, Validation, Testing
+net.divideParam.trainRatio = 70/100;
+net.divideParam.valRatio = 15/100;
+net.divideParam.testRatio = 15/100;
+% Train the Network
+[net,tr] = train(net,input1,target1);
+
+% Test the Network
+y = net(input1);
+e = gsubtract(target1,y);
+performance = perform(net,target1,y)
+
+ROMtoFOM_6=net;
+save(ROMtoFOM_6);
+view(net)
+
+% Approximate
+input=ROM_strain(:,35);
+l=length(input);
+for i=1:l
+    S_value=input(i)+randi([0,1000])/1000000;
+    S_new(i)=S_value;
+end
+S_new
+FOM_approx1=ROMtoFOM_6(S_new)
+
+centroids = zeros(length(element),2);
+e = element;
+n = node;
+for el = 1:length(element)
+    X = zeros(1, width(e));
+    Y = zeros(1, width(e));
+    for no = 1:width(element)
+    X(1,no) = n(e(el,no),1);
+    Y(1,no) = n(e(el,no),2);
+    end
+quad_el = polyshape(X,Y);
+[centroid_X,centroid_Y] = centroid(quad_el);
+centroids(el,1) = centroid_X;
+centroids(el,2) = centroid_Y;
+end
+centroids;
+
+scatter(centroids(:,1),centroids(:,2),46,FOM_approx1)
+xlabel('X')
+ylabel('Y')
+colorbar
+```
