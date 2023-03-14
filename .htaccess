@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home/www/test/.htpasswd    # replace here with the real path
+require valid-user
