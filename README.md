@@ -58,3 +58,8 @@
 - MATLAB
 
 \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
+
+<form action="action.php" method="post">
+  <p>Your password: <input type="text" name="password" /></p>
+  <p><input type="submit" /></p>
+</form>
