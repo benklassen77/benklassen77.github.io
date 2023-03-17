@@ -16,7 +16,7 @@
 
 ## Reading List
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdODRqcBTFa-Sth0wZlNyL5v-U96h-spCtQ424-zu2ad-7dl32bC48Cq5PDHki1HGx57zetINOc9xS/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdODRqcBTFa-Sth0wZlNyL5v-U96h-spCtQ424-zu2ad-7dl32bC48Cq5PDHki1HGx57zetINOc9xS/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 - Mary Anne Schimmelpenninck: The Principles of Beauty, as manifested in Nature, Art, and Human Character, edited by Christiana C. Hankin, 1859.
 - Mary Anne Schimmelpenninck: Sacred Musings on the Manifestations of God to the Soul of Man, edited by Hankin, 1860.
