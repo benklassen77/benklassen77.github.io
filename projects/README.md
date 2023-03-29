@@ -11,3 +11,5 @@
 ## [Home Building](other/homebuilding.md)
 
 ## [Literature](literature/)
+
+## [Servant](servant/)
