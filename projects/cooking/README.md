@@ -63,6 +63,7 @@
 <li><a href="dessert/chocolatechipcookie.pdf">Chocolate Chip Cookies</a></li>
 <li><a href="dessert/chocolateglaze.pdf">Chocolate Glaze</a></li>
 <li><a href="dessert/hotchocolate.pdf">Hot Chocolate</a></li>
+<li><a href="dessert/minieggcookie.pdf">Easter Mini Egg Cookie</a></li>
 <li><a href="dessert/pavlova.pdf">Pavlova</a></li>
 <li><a href="dessert/peanutbuttercookies.pdf">Peanut Butter Cookies</a></li>
 <li><a href="dessert/pumpkinroll.pdf">Pumpkin Roll</a></li>
