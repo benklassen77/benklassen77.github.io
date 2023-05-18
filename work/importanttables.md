@@ -7,3 +7,4 @@
 - [Hilti HIT HY 270](https://benklassen77.github.io/documents/work/HILTI-HITHY-270.pdf)
 - [Tapcon](https://benklassen77.github.io/documents/work/TAPCON.pdf)
 - [Steel Stud Span Table](https://benklassen77.github.io/documents/work/steelstudspantable.pdf)
+- [Checkered Plate Span Table](https://benklassen77.github.io/documents/work/checkeredplatespantable.pdf)
