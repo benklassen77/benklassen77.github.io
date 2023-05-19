@@ -9,3 +9,4 @@
 - [Tapcon](https://benklassen77.github.io/documents/work/TAPCON.pdf)
 - [Steel Stud Span Table](https://benklassen77.github.io/documents/work/steelstudspantable.pdf)
 - [Checkered Plate Span Table](https://benklassen77.github.io/documents/work/checkeredplatespantable.pdf)
+- [Dietrich Steel Stud Framing Clips](https://benklassen77.github.io/documents/work/dietricheasyclip.pdf)
