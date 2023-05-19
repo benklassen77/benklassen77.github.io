@@ -12,3 +12,4 @@
 - [Dietrich Steel Stud S Clips (Header)](https://benklassen77.github.io/documents/work/dietricheasyclip.pdf)
 - [Dietrich Steel Stud D Clips (Jamb)](https://benklassen77.github.io/documents/work/dietrichdclips.pdf)
 - [Dietrich FTC5 Deflection Clips](https://benklassen77.github.io/documents/work/dietrichFTC5deflectionclips.pdf)
+- [OBC Deflections](https://benklassen77.github.io/documents/work/OBCdeflections.pdf)
