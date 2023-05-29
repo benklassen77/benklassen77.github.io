@@ -1,7 +1,8 @@
 # General Values
 
 - [General Values](#General-Values)
-  - [Development Length](#Development-Length
+  - [Slope Modifications](#Slope-Modifications)
+  - [Development Length](#Development-Length)
 
 ## Slope Modifications
 
