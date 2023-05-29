@@ -5,6 +5,7 @@
   - [Development Length](#Development-Length)
   - [Min Steel](#Minimum-Steel)
   - [Typical Footing Sizes](#Typical-Footing-Sizes)
+  - [Properties](#Properties)
 
 ## Slope Modifications
 
@@ -208,3 +209,7 @@ Note:
 |	8x8x20	|	9-20M	|
 |	9x9x24	|	7-25M	|
 |	10x10x26	|	8-25M	|
+
+## Properties
+
+![Rebar Sizes](https://i.imgur.com/Ci1vS1A.png)
