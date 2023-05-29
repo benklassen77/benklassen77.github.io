@@ -1,5 +1,10 @@
 # General Values
 
+- [General Values](#General-Values)
+  - [Development Length](#Development-Length
+
+## Slope Modifications
+
 |	rise	|	run	|	angle	|	cosangle	|	1/cosangle	|
 |	---	|	---	|	---	|	---	|	---	|
 |	12	|	12	|	45	|	0.707106781	|	1.414213562	|
@@ -14,6 +19,34 @@
 |	12	|	3	|	14.03624347	|	0.9701425	|	1.030776406	|
 |	12	|	2	|	9.462322208	|	0.986393924	|	1.013793755	|
 |	12	|	1	|	4.763641691	|	0.996545758	|	1.003466215	|
+
+## Development Length
+
+|	Tension Development Length f'c=20 (12.2.3)	|	ld (mm)	|
+|	---	|	---	|
+|	10M	|	370	|
+|	15M	|	520	|
+|	20M	|	630	|
+|	25M	|	1020	|
+|	30M	|	1210	|
+|	Tension Development Length f'c=25 (12.2.3)	|	ld (mm)	|
+|	10M	|	330	|
+|	15M	|	470	|
+|	20M	|	570	|
+|	25M	|	910	|
+|	30M	|	1080	|
+|	Tension Development Length f'c=30 (12.2.3)	|	ld (mm)	|
+|	10M	|	300	|
+|	15M	|	530	|
+|	20M	|	650	|
+|	25M	|	830	|
+|	30M		990	
+
+Applicability:
+
+	- Applicable if min ties (7.6.5) or min stirrup (11.2.8.2) within ld			
+	- Increase if more than 300mm conc below, low density concrete			
+	- Can be multiplied by utilization ratio, except for seismic requirements (21)			
 
 |	Tension Development Length (12.2.2) f'c=20, 1.5" cover	|	ld	|
 |	---	|	---	|
@@ -57,4 +90,3 @@
 |	20M bars, no stirrups	|	420	|
 |	25M bars, no stirrups	|	670	|
 |	30M bars, no stirrups	|	790	|
-![image](https://github.com/benklassen77/benklassen77.github.io/assets/58502093/83d2ceaf-06b2-4582-a8bb-f0f0f1c4bb38)
