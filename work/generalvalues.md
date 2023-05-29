@@ -3,6 +3,8 @@
 - [General Values](#General-Values)
   - [Slope Modifications](#Slope-Modifications)
   - [Development Length](#Development-Length)
+  - [Min Steel](#Minimum-Steel)
+  - [Typical Footing Sizes](
 
 ## Slope Modifications
 
@@ -115,3 +117,94 @@ Hooked Bars
 |	20M	|	360	|
 |	25M	|	470	|
 |	30M	|	550	|
+
+## Minimum Steel
+
+### Slabs
+
+|	SLAB WIDTH (in)	|	MIN STEEL (0.002Ag)	|	SLAB WIDTH (mm)	|	MIN STEEL (0.002Ag)	|
+|	---	|	---	|	---	|	---	|
+|	6	|	100	|	150	|	300	|
+|	8	|	125	|	200	|	400	|
+|	10	|	175	|	250	|	500	|
+|	12	|	200	|	300	|	600	|
+|	14	|	225	|	350	|	700	|
+
+### Walls
+
+Horizontal
+
+|	WALL WIDTH (in)	|	MIN STEEL (0.002Ag)	|	WALL WIDTH (mm)	|	MIN STEEL (0.002Ag)	|
+|	---	|	---	|	---	|	---	|
+|	6	|	100	|	150	|	300	|
+|	8	|	125	|	200	|	400	|
+|	10	|	175	|	250	|	500	|
+|	12	|	200	|	300	|	600	|
+|	14	|	225	|	350	|	700	|
+
+
+Note:
+
+- Spacing max(3x wall thickness, 500mm)
+- Bar diameter must not exceed 1/10 wall diameter
+
+Vertical
+
+|	WALL WIDTH (in)	|	MIN STEEL (0.002Ag)	|	WALL WIDTH (mm)	|	MIN STEEL (0.002Ag)	|
+|	---	|	---	|	---	|	---	|
+|	6	|	75	|	150	|	225	|
+|	8	|	100	|	200	|	300	|
+|	10	|	125	|	250	|	375	|
+|	12	|	150	|	300	|	450	|
+|	14	|	175	|	350	|	525	|
+
+Note:
+
+- Add (2) 15-M min at each end of wall
+- Spacing max(3x wall thickness, 500mm)
+- Bar diameter must not exceed 1/10 wall diameter
+
+### Beams (flexural)
+
+|	WIDTH (in)	|	MIN STEEL (f'c=20)	|	WIDTH (mm)	|	MIN STEEL (f'c=20)	|
+|	---	|	---	|	---	|	---	
+|	6	|	125	|	150	|	350	|
+|	8	|	150	|	200	|	450	|
+|	10	|	175	|	250	|	575	|
+|	12	|	225	|	300	|	675	|
+|	14	|	250	|	350	|	800	|
+|	16	|	300	|	400	|	900	|
+|	18	|	325	|	450	|	1025	|
+|	WIDTH (in)	|	MIN STEEL (f'c=25)	|	WIDTH (mm)	|	MIN STEEL (f'c=25)	|
+|	6	|	125	|	150	|	375	|
+|	8	|	175	|	200	|	500	|
+|	10	|	200	|	250	|	625	|
+|	12	|	250	|	300	|	750	|
+|	14	|	275	|	350	|	875	|
+|	16	|	325	|	400	|	1000	|
+|	18	|	350	|	450	|	1125	|
+|	WIDTH (in)	|	MIN STEEL (f'c=30)	|	WIDTH (mm)	|	MIN STEEL (f'c=30)	|
+|	6	|	150	|	150	|	425	|
+|	8	|	175	|	200	|	550	|
+|	10	|	225	|	250	|	700	|
+|	12	|	275	|	300	|	825	|
+|	14	|	300	|	350	|	975	|
+|	16	|	350	|	400	|	1100	|
+|	18	|	400	|	450	|	1250	|
+
+## Typical Footing Sizes
+
+|	Footing Size	|	Reinforcing	|
+|	---	|	---	|
+|	2.5x2.5x10	|	3-15M	|
+|	3x3x12	|	3-15M	|
+|	3.5x3.5x12	|	4-15M	|
+|	4x4x12	|	4-15M	|
+|	4.5x4.5x12	|	4-15M	|
+|	5x5x14	|	5-15M	|
+|	5.5x5.5x14	|	6-15M	|
+|	6x6x16	|	7-15M	|
+|	7x7x18	|	7-20M	|
+|	8x8x20	|	9-20M	|
+|	9x9x24	|	7-25M	|
+|	10x10x26	|	8-25M	|
