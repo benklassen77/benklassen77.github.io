@@ -4,7 +4,7 @@
   - [Slope Modifications](#Slope-Modifications)
   - [Development Length](#Development-Length)
   - [Min Steel](#Minimum-Steel)
-  - [Typical Footing Sizes](
+  - [Typical Footing Sizes](#Typical-Footing-Sizes)
 
 ## Slope Modifications
 
