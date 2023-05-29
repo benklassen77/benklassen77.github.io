@@ -91,3 +91,26 @@ Applicability:
 |	20M bars, no stirrups	|	420	|
 |	25M bars, no stirrups	|	670	|
 |	30M bars, no stirrups	|	790	|
+
+|	Hooked Development Length f'c=20 (12.5.3)	Dia (mm)	|	ld (mm)	|
+|	---	11.3	|	---	|
+|	10M	11.3	|	260	|
+|	15M	16	|	360	|
+|	20M	19.5	|	440	|
+|	25M	25.2	|	570	|
+|	30M	29.9	|	670	|
+|	Hooked Development Length f'c=25 (12.5.3)	Dia (mm)	|	ld (mm)	|
+|	---	11.3	|	---	|
+|	10M	11.3	|	230	|
+|	15M	16	|	320	|
+|	20M	19.5	|	390	|
+|	25M	25.2	|	510	|
+|	30M	29.9	|	600	|
+|	Hooked Development Length f'c=30 (12.5.3)	Dia (mm)	|	ld (mm)	|
+|	---	11.3	|	---	|
+|	10M	11.3	|	210	|
+|	15M	16	|	300	|
+|	20M	19.5	|	360	|
+|	25M	25.2	|	470	|
+|	30M	29.9	|	550	|
+
