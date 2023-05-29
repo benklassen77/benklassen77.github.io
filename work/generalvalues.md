@@ -131,6 +131,10 @@ Hooked Bars
 |	12	|	200	|	300	|	600	|
 |	14	|	225	|	350	|	700	|
 
+Note:
+
+- Steel not to be spaced less than min(500mm, 5 times slab thickness)
+
 ### Walls
 
 Horizontal
