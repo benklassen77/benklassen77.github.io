@@ -16,7 +16,7 @@
 |	12	|	1	|	4.763641691	|	0.996545758	|	1.003466215	|
 
 |	Tension Development Length (12.2.2) f'c=20, 1.5" cover	|	ld	|
-	---	|	---	|
+|	---	|	---	|
 |	10M bars, no stirrups	|	300	|
 |	15M bars, no stirrups	|	440	|
 |	20M bars, no stirrups	|	650	|
@@ -57,5 +57,4 @@
 |	20M bars, no stirrups	|	420	|
 |	25M bars, no stirrups	|	670	|
 |	30M bars, no stirrups	|	790	|
-
-![image](https://github.com/benklassen77/benklassen77.github.io/assets/58502093/a8a20b35-8b6f-4776-a3a5-84d4ae5f8dff)
+![image](https://github.com/benklassen77/benklassen77.github.io/assets/58502093/83d2ceaf-06b2-4582-a8bb-f0f0f1c4bb38)
