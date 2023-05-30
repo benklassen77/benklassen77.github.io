@@ -7,6 +7,7 @@
   - [Typical Footing Sizes](#Typical-Footing-Sizes)
   - [Properties](#Properties)
   - [Beam Pocket](#Beam-Pocket)
+  - [Baseplate](#Baseplates)
 
 ## Slope Modifications
 
