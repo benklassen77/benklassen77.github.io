@@ -278,5 +278,5 @@ From 10.8.1
 |	380	|	34389.14027	|	203.2	|		|
 |	400	|	36199.09502	|	203.2	|		|
 								
-- For HSS 4x4, (4) 5/8" BOLTS on 7x7 PLATE								
-- For HSS 6X6, (4) 5/8" BOLTS on 10x10 PLATE								
+- For HSS 4x4, (4) 5/8" BOLTS (EG WEDGE ANCHOR) on 7x7 PLATE								
+- For HSS 6X6, (4) 5/8" BOLTS (EG WEDGE ANCHOR) on 9x9 PLATE								
