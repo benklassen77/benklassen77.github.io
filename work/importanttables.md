@@ -14,3 +14,4 @@
 - [Dietrich FTC5 Deflection Clips](https://benklassen77.github.io/documents/work/dietrichFTC5deflectionclips.pdf)
 - [OBC Deflections](https://benklassen77.github.io/documents/work/OBCdeflections.pdf)
 - [GRK-RSS](https://benklassen77.github.io/documents/work/GRK-RSS-Performance-Data.pdf)
+- [Concrete Types](https://benklassen77.github.io/documents/work/CONCRETETYPES.pdf)
