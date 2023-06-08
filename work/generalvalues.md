@@ -280,3 +280,13 @@ From 10.8.1
 								
 - For HSS 4x4, (4) 5/8" BOLTS (EG WEDGE ANCHOR) on 7x7 PLATE								
 - For HSS 6X6, (4) 5/8" BOLTS (EG WEDGE ANCHOR) on 9x9 PLATE								
+
+## Bolts
+
+|	Bolt	|	Spacing	|	Edge distance	|
+|	---	|	---	|	---	|
+|	 1/2	|	1.35	|	1.02	|
+|	 5/8	|	1.69	|	1.10	|
+|	 3/4	|	2.03	|	1.26	|
+|	 7/8	|	2.36	|	1.50	|
+|	1	|	2.70	|	1.73	|
