@@ -74,6 +74,19 @@
 </div>
 
 <div class="something" markdown="1">
+<details><summary>PRESSURE COOKING</summary>
+<p>
+<ul>
+<li><a href="pressurecooking/steelrolledoats.pdf">Steel Rolled Oats</a></li>
+<li><a href="pressurecooking/quinoa.pdf">Quinoa</a></li>
+<li><a href="pressurecooking/hardboiledeggs.pdf">Hard Boiled Eggs</a></li>
+<li><a href="pressurecooking/generaltimetables.pdf">Time Tables</a></li>
+</ul>
+</p>
+</details>
+</div>
+
+<div class="something" markdown="1">
 <details><summary>OTHER</summary>
 <p>
 <ul>
