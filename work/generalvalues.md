@@ -30,7 +30,7 @@ Length increase
 
 Bottom Bearing Length increase
 
-|	Rise	|	Run	|	Angle	|	sinangle	|	1/sinangle	|
+|	Run	|	Rise	|	Angle	|	sinangle	|	1/sinangle	|
 |	---	|	---	|	---	|	---	|	---	|
 |	12	|	12	|	45	|	0.707106781	|	1.414213562	|
 |	12	|	11	|	42.51044708	|	0.675724629	|	1.479892781	|
