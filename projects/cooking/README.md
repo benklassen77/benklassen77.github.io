@@ -44,6 +44,7 @@
 <li><a href="dinner/hermburg.pdf">HermBurgs</a></li>
 <li><a href="dinner/mashedpotatoes.pdf">Mashed Potatoes</a></li>
 <li><a href="dinner/mexicansoup.pdf">Mexican Soup</a></li>
+<li><a href="dinner/porkloin.pdf">Pork Loin/a></li>
 <li><a href="dinner/ribsdinner.pdf">Ribs</a></li>
 <li><a href="dinner/tacobeef.pdf">Taco Beef</a></li>
 <li><a href="dinner/tomatosoup.pdf">Tomato Soup</a></li>
@@ -81,6 +82,16 @@
 <li><a href="pressurecooking/quinoa.pdf">Quinoa</a></li>
 <li><a href="pressurecooking/hardboiledeggs.pdf">Hard Boiled Eggs</a></li>
 <li><a href="pressurecooking/generaltimetables.pdf">Time Tables</a></li>
+</ul>
+</p>
+</details>
+</div>
+
+<div class="something" markdown="1">
+<details><summary>SALAD</summary>
+<p>
+<ul>
+<li><a href="salad/quinoasalad.pdf">Beet Borscht</a></li>
 </ul>
 </p>
 </details>
