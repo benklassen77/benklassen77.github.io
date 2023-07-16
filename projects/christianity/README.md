@@ -6,6 +6,10 @@
 
 ## [Prayer](https://www.challies.com/wp-content/uploads/take-words-with-you.pdf)
 
+## Reflections
+
+- [Anger](https://benklassen77.github.io/documents/fun/christian/anger.pdf)
+
 ## Resources
 
 - [Daily Strength](https://benklassen77.github.io/documents/fun/christian/dailystrength.pdf)
