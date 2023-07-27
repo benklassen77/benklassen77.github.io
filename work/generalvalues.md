@@ -313,3 +313,5 @@ From 10.8.1
 ## Weldments
 
 ![Weldments](https://i.imgur.com/NfHMKxY.png)
+
+f=M/Sw (lbs/in force)
