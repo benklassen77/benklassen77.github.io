@@ -309,3 +309,7 @@ From 10.8.1
 |	 3/4	|	2.03	|	1.26	|
 |	 7/8	|	2.36	|	1.50	|
 |	1	|	2.70	|	1.73	|
+
+## Weldments
+
+![Weldments](https://i.imgur.com/NfHMKxY.png)
