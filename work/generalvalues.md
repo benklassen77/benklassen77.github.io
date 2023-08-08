@@ -316,6 +316,6 @@ From 10.8.1
 
 f=M/Sw (lbs/in force)
 
-## Schedules
+## Nominal Schedules
 
 ![Schedules](https://i.imgur.com/HfvAKDB.png)
