@@ -315,3 +315,7 @@ From 10.8.1
 ![Weldments](https://i.imgur.com/NfHMKxY.png)
 
 f=M/Sw (lbs/in force)
+
+## Schedules
+
+![Schedules](https://i.imgur.com/HfvAKDB.png)
