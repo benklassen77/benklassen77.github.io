@@ -316,6 +316,13 @@ From 10.8.1
 
 f=M/Sw (lbs/in force)
 
+## Self-tapping Screws Steel Stud Values CSSBI Manual
+
+![Self-tap 1](https://i.imgur.com/cWKM2mZ.png)
+
+![Self-tap 2](https://i.imgur.com/P0S3Cmt.png)
+
+
 ## Nominal Schedules
 
 ![Schedules](https://i.imgur.com/HfvAKDB.png)
