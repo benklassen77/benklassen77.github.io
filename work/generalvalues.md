@@ -322,6 +322,7 @@ f=M/Sw (lbs/in force)
 
 ![Self-tap 2](https://i.imgur.com/P0S3Cmt.png)
 
+Phi = 0.4 for these, though
 
 ## Nominal Schedules
 
