@@ -327,3 +327,10 @@ Phi = 0.4 for these, though
 ## Nominal Schedules
 
 ![Schedules](https://i.imgur.com/HfvAKDB.png)
+
+## OBC
+
+Part 9?
+
+- Area > 6455 ft^2 (600 m^2)
+- Max Span of repetitive structural member = 12.2 m (40 ft) [9.4.2.1]
