@@ -334,3 +334,7 @@ Part 9?
 
 - Area > 6455 ft^2 (600 m^2)
 - Max Span of repetitive structural member = 12.2 m (40 ft) [9.4.2.1]
+
+## Stud Wall Selection Table
+
+![SWST](https://i.imgur.com/KK40fQC.jpg)
