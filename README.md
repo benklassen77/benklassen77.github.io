@@ -1,10 +1,5 @@
 # Welcome
 
-<div class="something" markdown="1">
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-zck4" class="countdown-timer" data-textcolor="Black" data-date"2050-10-24 00:00" data-background="Blue" data-digitscolor="Black" data-unitscolor="Black">Countdown Timer</a>
- <\div>
-
 [![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Learn](https://i.imgur.com/xhq9Mlm.png?2)](https://learn.uwaterloo.ca) [![Office 365](https://i.imgur.com/YyYGcJu.png?2)](https://office.com) [Projects](projects/)
 
 ## [Structural Design](courses/design/)
@@ -61,8 +56,6 @@
 
 - Python
 - MATLAB
-
-\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
 <form action="action.php" method="post">
   <p>Your password: <input type="text" name="password" /></p>
