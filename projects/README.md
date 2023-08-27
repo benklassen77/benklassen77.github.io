@@ -2,6 +2,8 @@
 
 ## [Recipes](cooking/)
 
+## [Random](random/)
+
 ## [Maps](maps/)
 
 ## [Music](music/)
