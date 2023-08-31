@@ -338,3 +338,7 @@ Part 9?
 ## Stud Wall Selection Table
 
 ![SWST](https://i.imgur.com/KK40fQC.jpg)
+
+## Foundation Sizes General (Marc)
+
+![Footing Sizes Proper](https://i.imgur.com/SQ2iy5q.jpg)
