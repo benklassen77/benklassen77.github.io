@@ -341,4 +341,4 @@ Part 9?
 
 ## Foundation Sizes General (Marc)
 
-![Footing Sizes Proper](https://i.imgur.com/SQ2iy5q.jpg)
+![Footing Sizes Proper](https://i.imgur.com/U2yVgJe.jpg)
