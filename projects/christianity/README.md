@@ -4,6 +4,8 @@
 
 ## [Sermon Notes](sermonnotes.md)
 
+## [Worship](worship.md)
+
 ## [Prayer](https://www.challies.com/wp-content/uploads/take-words-with-you.pdf)
 
 ## Reflections
