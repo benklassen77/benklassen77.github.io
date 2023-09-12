@@ -16,3 +16,4 @@
 - [GRK-RSS](https://benklassen77.github.io/documents/work/GRK-RSS-Performance-Data.pdf)
 - [Concrete Types](https://benklassen77.github.io/documents/work/CONCRETETYPES.pdf)
 - [Residential Material Weights](https://benklassen77.github.io/documents/work/residentialmaterialweights.pdf)
+- [Earf](https://benklassen77.github.io/documents/work/earthscape.pdf)
