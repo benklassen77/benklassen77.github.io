@@ -82,6 +82,7 @@
 <li><a href="pressurecooking/hardboiledeggs.pdf">Hard Boiled Eggs</a></li>
 <li><a href="pressurecooking/generaltimetables.pdf">Time Tables</a></li>
 <li><a href="pressurecooking/porkloin.pdf">Pork Loin</a></li>
+<li><a href="pressurecooking/instapottomatosauce.pdf">Tomato Sauce</a></li>
 </ul>
 </p>
 </details>
