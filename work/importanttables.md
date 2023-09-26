@@ -18,3 +18,4 @@
 - [Residential Material Weights](https://benklassen77.github.io/documents/work/residentialmaterialweights.pdf)
 - [Earf](https://benklassen77.github.io/documents/work/earthscape.pdf)
 - [Anchor Bolt](https://benklassen77.github.io/documents/work/anchorbolt.pdf)
+- [Almita Pile Capacities](https://benklassen77.github.io/documents/work/almita.pdf)
