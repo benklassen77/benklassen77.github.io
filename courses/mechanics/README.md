@@ -42,6 +42,8 @@
 - Plate Theory
 - [610](https://benklassen77.github.io/documents/courses/solidmechanics/advanced/610LectureNotes.pdf)
 
+## [Fracture Mechanics](fracturemechanics.html)
+
 ## [Structural Analysis](structuralanalysis.html)
 
 - Stability and Determinacy
