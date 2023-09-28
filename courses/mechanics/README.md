@@ -40,6 +40,7 @@
 - Failure Criteria
 - Torsion
 - Plate Theory
+- [610](https://benklassen77.github.io/documents/courses/solidmechanics/advanced/610LectureNotes.pdf)
 
 ## [Structural Analysis](structuralanalysis.html)
 
