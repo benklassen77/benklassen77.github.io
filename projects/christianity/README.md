@@ -1,5 +1,7 @@
 # [Christianity](https://benklassen77.github.io)
 
+## [Greek](greek.md)
+
 ## [Devotions](devotions.md)
 
 ## [Sermon Notes](sermonnotes.md)
