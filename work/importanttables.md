@@ -19,3 +19,4 @@
 - [Earf](https://benklassen77.github.io/documents/work/earthscape.pdf)
 - [Anchor Bolt](https://benklassen77.github.io/documents/work/anchorbolt.pdf)
 - [Almita Pile Capacities](https://benklassen77.github.io/documents/work/almita.pdf)
+- [Galvanic Corrosion Chart](https://benklassen77.github.io/documents/work/galvaniccorrosionchart.pdf)
