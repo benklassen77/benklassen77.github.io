@@ -22,4 +22,4 @@ Work Password = wdeng transrotated
 - [Anchor Bolt](https://benklassen77.github.io/documents/work/anchorbolt.pdf)
 - [Almita Pile Capacities](https://benklassen77.github.io/documents/work/almita.pdf)
 - [Galvanic Corrosion Chart](https://benklassen77.github.io/documents/work/galvaniccorrosionchart.pdf)
-- [Retaining Wall Manual](https://benklassen77.github.io/documents/work/retainingwallmanual.pdf)
+- [Retaining Wall Info](https://benklassen77.github.io/documents/work/retainingwallmanual.pdf)
