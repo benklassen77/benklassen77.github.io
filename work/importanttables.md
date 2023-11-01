@@ -23,3 +23,4 @@ Work Password = wdeng transrotated
 - [Almita Pile Capacities](https://benklassen77.github.io/documents/work/almita.pdf)
 - [Galvanic Corrosion Chart](https://benklassen77.github.io/documents/work/galvaniccorrosionchart.pdf)
 - [Retaining Wall Info](https://benklassen77.github.io/documents/work/retainingwallmanual.pdf)
+- [Simpson Protective Coatings](https://www.strongtie.com/products/connectors/wood-construction-connectors/technical-notes/corrosion-info/materials-and-coatings)
