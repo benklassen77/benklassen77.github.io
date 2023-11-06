@@ -1,6 +1,6 @@
 # Tables
 
-Work Password = wdeng transrotated
+Work Password = wdeng transrotated. Some have $ afterwards
 
 - [LVL Span Tables](https://benklassen77.github.io/documents/work/WeyerheauserLvlTables.pdf)
 - [Brick Lintel OBC](https://benklassen77.github.io/documents/work/bricklintelangletable.pdf)
@@ -18,10 +18,10 @@ Work Password = wdeng transrotated
 - [GRK-RSS](https://benklassen77.github.io/documents/work/GRK-RSS-Performance-Data.pdf)
 - [Concrete Types](https://benklassen77.github.io/documents/work/CONCRETETYPES.pdf)
 - [Residential Material Weights](https://benklassen77.github.io/documents/work/residentialmaterialweights.pdf)
-- [Earf](https://benklassen77.github.io/documents/work/earthscape.pdf)
 - [Anchor Bolt](https://benklassen77.github.io/documents/work/anchorbolt.pdf)
 - [Almita Pile Capacities](https://benklassen77.github.io/documents/work/almita.pdf)
 - [Galvanic Corrosion Chart](https://benklassen77.github.io/documents/work/galvaniccorrosionchart.pdf)
 - [Retaining Wall Info](https://benklassen77.github.io/documents/work/retainingwallmanual.pdf)
 - [Simpson Protective Coatings](https://www.strongtie.com/products/connectors/wood-construction-connectors/technical-notes/corrosion-info/materials-and-coatings)
 - [Bracing Design](https://benklassen77.github.io/documents/work/bracingdesign.pdf)
+- [Earf](https://benklassen77.github.io/documents/work/EARF.pdf)
