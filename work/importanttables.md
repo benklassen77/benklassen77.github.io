@@ -24,3 +24,4 @@ Work Password = wdeng transrotated
 - [Galvanic Corrosion Chart](https://benklassen77.github.io/documents/work/galvaniccorrosionchart.pdf)
 - [Retaining Wall Info](https://benklassen77.github.io/documents/work/retainingwallmanual.pdf)
 - [Simpson Protective Coatings](https://www.strongtie.com/products/connectors/wood-construction-connectors/technical-notes/corrosion-info/materials-and-coatings)
+- [Bracing Design](https://benklassen77.github.io/documents/work/bracingdesign.pdf)
