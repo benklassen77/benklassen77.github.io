@@ -25,3 +25,8 @@ Work Password = wdeng transrotated. Some have $ afterwards
 - [Simpson Protective Coatings](https://www.strongtie.com/products/connectors/wood-construction-connectors/technical-notes/corrosion-info/materials-and-coatings)
 - [Bracing Design](https://benklassen77.github.io/documents/work/bracingdesign.pdf)
 - [Earf](https://benklassen77.github.io/documents/work/EARF.pdf)
+- [Steel Design Procedure Summary](https://benklassen77.github.io/documents/work/steelsummary.pdf)
+- [Tension Only Angle Strength](https://benklassen77.github.io/documents/work/tensiononlyanglestrength.pdf)
+- [Canam Deck](https://benklassen77.github.io/documents/work/canamdeck.pdf)
+- [Min Steel](https://benklassen77.github.io/documents/work/minsteel.pdf)
+- [Apartment Design Summary](https://benklassen77.github.io/documents/work/apartmentdesign.pdf)
