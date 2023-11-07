@@ -86,3 +86,39 @@ Load and displacement change during crack growth, which can be used to estimate 
 Compliance = ??
 
 K and G are brought together through the crack closure integral
+
+## Elastic-Plastic Fracture Mechanics (EPFM)
+
+LEFM is only applicable when deformation is linear-elastic and nonlinear deformation is confined to a small region at the crack tip.
+
+EPFM applies to materials that exhibit time-independent nonlinear deformation. Applicable when plastic deformation is limited to the crack tip region where large scale yielding occurs
+
+EPFM methods either consider *local* deformation around a crack tip or a *global* parameter that represents the propensity of fracture
+
+### J-Integral
+
+The *J-Integral* is interpreted as either a nonlinear energy release rate, J, or as a path independent contour integral. It is a measure of fracture toughness for the onset of cracking for elastic and elasto-plastic materials.
+
+The J-Integral idealises elastic-plastic deformation as nonlinear elastic. This is true for loading but not unloading; thus behaviour is identical if unloading is restricted.
+
+After the derivation, we obtain (with J representing the rate of decrease of potential energy with respect to crack length):
+
+$$J=\int_{\Gamma}(wdy - T_i\frac{\partial{u_i}}{\partial{x}}ds)$$
+
+- For linear-elastic materials, $J=G=\frac{K_I^2}{E}$. Not true for elasto-plastic materials
+
+Formulae for J have been created for load control and displacement control tests based on strain and load change as the crack changes.
+
+Hutchinson developed equations to determine the amplitude of the HRR singularity (stress and strains around crack tip) using J (like stress intensity factor characterising the amplitude of the linear elastic singularity)
+
+The HRR singularity predicts infinite stresses as $r\to{0}$. Note: for small-scale yielding at crack tip, there is the elastic region and the plastic zone as singularly dominated zones. For larger plastic zones, however, the HRR singularity does not persist all the way to the crack tip. Large strains at the crack tip cause the crack to blunt, which reduces local stress triaxiality. Since blunted tip is a free surface, $\sigma_x$ vanishes at r=0
+
+![Effectiveness of J in different cases](https://i.imgur.com/baU8zat.jpg)
+
+The fact is, the tougher the material, the more the crack tip blunts as it opens. Thus, CTOD is sometimes utilised as a measure of fracture toughness. When plastic deformation precedes fracture, the amount of plastic strain at the crack tip region controls fracture. COD is the measure of crack tip plastic strain. Crack extension initiates when CTOD reaches critical $\delta_c$
+
+Some equations are given for $\delta_c$ with Irwin or dugdale based on small-scale yielding. In this case, CDOT, K and G are equivalent. Unfortunately, it is generally limited to infinite plates with central cracks. Some experimental formulae have been developed, though.
+
+Generally, CTOD and J are related by $J=m\sigma_o\delta$
+
+During crack growth, the J-integral must be equal to the material resistance to crack growth $J=J_R$. A J-R curve can be used for ductile materials. Unstable crack growth occurs when $\frac{dJ(P,a)}{da}>\frac{dJ_R(\Delta{a})}{da}$. For ductile materials with larger plastic zones, crack initiation happens when $J=J_{Ic}$
