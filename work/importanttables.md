@@ -30,3 +30,4 @@ Work Password = wdeng transrotated. Some have $ afterwards
 - [Canam Deck](https://benklassen77.github.io/documents/work/canamdeck.pdf)
 - [Min Steel](https://benklassen77.github.io/documents/work/minsteel.pdf)
 - [Apartment Design Summary](https://benklassen77.github.io/documents/work/apartmentdesign.pdf)
+- [Splitting Resistance of Wood](https://benklassen77.github.io/documents/work/splittingresistanceofwood.pdf)
