@@ -344,3 +344,7 @@ Part 9?
 ![Footing Sizes Proper](https://i.imgur.com/U2yVgJe.jpg)
 
 ![Anchor Failure Methods](https://i.imgur.com/oKkMzB9.png)
+
+## Soil Parameters
+
+![Soil Parameters](https://i.imgur.com/EbW0RGH.jpg)
