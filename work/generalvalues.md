@@ -348,3 +348,7 @@ Part 9?
 ## Soil Parameters
 
 ![Soil Parameters](https://i.imgur.com/EbW0RGH.jpg)
+
+## Geogrid Typ
+
+![Typ Geogrid](https://i.imgur.com/fAVlWjU.jpg)
