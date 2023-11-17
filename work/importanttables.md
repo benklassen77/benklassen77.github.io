@@ -31,3 +31,6 @@ Work Password = wdeng transrotated. Some have $ afterwards
 - [Min Steel](https://benklassen77.github.io/documents/work/minsteel.pdf)
 - [Apartment Design Summary](https://benklassen77.github.io/documents/work/apartmentdesign.pdf)
 - [Splitting Resistance of Wood](https://benklassen77.github.io/documents/work/splittingresistanceofwood.pdf)
+- [OBC PART 4](https://benklassen77.github.io/documents/work/PART4.pdf)
+- [OBC PART 9](https://benklassen77.github.io/documents/work/PART9.pdf)
+- [NBCC Commendary](https://benklassen77.github.io/documents/work/nbccommentaries.pdf)
