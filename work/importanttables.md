@@ -34,3 +34,5 @@ Work Password = wdeng transrotated. Some have $ afterwards
 - [OBC PART 4](https://benklassen77.github.io/documents/work/PART4.pdf)
 - [OBC PART 9](https://benklassen77.github.io/documents/work/PART9.pdf)
 - [NBCC Commendary](https://benklassen77.github.io/documents/work/nbccommentaries.pdf)
+- [America FRP Reinforcement Design ACI-4401-R15](https://benklassen77.github.io/documents/work/ACI-4401R15.pdf)
+- [Canada FRP Reinforcement Design ACI-4401-R15](https://benklassen77.github.io/documents/work/CSA-S806.pdf)
