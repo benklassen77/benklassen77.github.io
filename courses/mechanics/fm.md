@@ -1,5 +1,9 @@
 # Fracture Mechanics
 
+Textbooks: [Gdoutos](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/fracturemechanicsgdoutos.pdf) ([Solutions](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/gdoutossolutions.pdf)), [Perez](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/fracturemechanicsperez.pdf)
+
+From the class: [Assignments](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628Assignments.pdf), [Lectures](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/lectures.pdf)
+
 ## LEFM Stress Fields & Intensity Factor
 
 Note: *Airy's stress function* satisfies stress equilibrium and compatibility if the biharmonic equation and traction BCs are satisfied. These are limited to smooth boundaries - thus, stress goes to approx infinite as distance from crack tip goes to zero
