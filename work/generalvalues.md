@@ -15,6 +15,7 @@
 |---|---|---|
 |ksi|MPa|6.895|
 |kN/m^3|pcf|6.366|
+|kPa|psf|20.89|
 
 ## Slope Modifications
 
