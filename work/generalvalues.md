@@ -9,6 +9,12 @@
   - [Beam Pocket](#Beam-Pocket)
   - [Baseplate](#Baseplates)
 
+## Conversions
+
+|Unit 1|Unit 2|Conversion Factor|
+|---|---|---|
+|ksi|MPa|6.895|
+
 ## Slope Modifications
 
 Length increase
