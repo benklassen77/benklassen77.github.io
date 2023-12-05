@@ -42,7 +42,7 @@
 - Plate Theory
 - [610](https://benklassen77.github.io/documents/courses/solidmechanics/advanced/610LectureNotes.pdf)
 
-## [Fracture Mechanics](fracturemechanics.html)
+## [Fracture Mechanics](fm.md)
 
 ## [Structural Analysis](structuralanalysis.html)
 
