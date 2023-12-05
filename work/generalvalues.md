@@ -14,6 +14,7 @@
 |Unit 1|Unit 2|Conversion Factor|
 |---|---|---|
 |ksi|MPa|6.895|
+|kN/m^3|pcf|6.366|
 
 ## Slope Modifications
 
