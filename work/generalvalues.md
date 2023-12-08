@@ -360,3 +360,7 @@ Part 9?
 ## Geogrid Typ
 
 ![Typ Geogrid](https://i.imgur.com/fAVlWjU.jpg)
+
+## CMU Weights
+
+![CMU Weights](https://i.imgur.com/OzGIDn7.jpg)
