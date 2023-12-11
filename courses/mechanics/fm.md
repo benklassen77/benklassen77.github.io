@@ -2,7 +2,9 @@
 
 Textbooks: [Gdoutos](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/fracturemechanicsgdoutos.pdf) ([Solutions](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/gdoutossolutions.pdf)), [Perez](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/fracturemechanicsperez.pdf)
 
-From the class: [Assignments](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628Assignments.pdf), [Lectures](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/lectures.pdf)
+From the class: Assignment [1](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628A1.pdf)[2](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628A2.pdf)[3](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628A3.pdf)[4](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628A4.pdf)[5](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628A5.pdf)[6](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/ME628A6.pdf)
+
+[Lectures](https://benklassen77.github.io/documents/courses/solidmechanics/fracture/lectures.pdf)
 
 ## LEFM Stress Fields & Intensity Factor
 
