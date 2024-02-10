@@ -18,7 +18,8 @@
 
 - [Daily Strength](https://benklassen77.github.io/documents/fun/christian/dailystrength.pdf)
 - [Poetry](https://benklassen77.github.io/documents/fun/christian/oldechristianpoems.pdf)
-
+- [The Psalms of David: with the Ten Commandments, Creed, Lord's Prayer, &c. in metre...for the use of the Reformed Protestant Dutch church of the city of New York](https://hymnary.org/hymnal/PDTC1767)
+- [Tyndale Commentary on the Psalms]()
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-16c68204-ee51-4f67-91c0-f0aa127ca588"></div>
 
