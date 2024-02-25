@@ -21,6 +21,7 @@
 - [The Psalms of David: with the Ten Commandments, Creed, Lord's Prayer, &c. in metre...for the use of the Reformed Protestant Dutch church of the city of New York](https://hymnary.org/hymnal/PDTC1767)
 - [Tyndale Commentary on the Psalms](https://benklassen77.github.io/documents/fun/christian/tremperpsalms.pdf)
 - [Poor Man Commentary Psalms](https://benklassen77.github.io/documents/fun/christian/poormanpsalmcommentary.pdf)
+- [Genevan Psalter](https://benklassen77.github.io/documents/fun/christian/Genevan_Psalter_pages.pdf)
 
 ## Reading List
 
