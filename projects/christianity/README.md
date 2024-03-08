@@ -22,6 +22,7 @@
 - [Tyndale Commentary on the Psalms](https://benklassen77.github.io/documents/fun/christian/tremperpsalms.pdf)
 - [Poor Man Commentary Psalms](https://benklassen77.github.io/documents/fun/christian/poormanpsalmcommentary.pdf)
 - [Genevan Psalter](https://benklassen77.github.io/documents/fun/christian/Genevan_Psalter_pages.pdf)
+- [Open Hymnal](https://benklassen77.github.io/documents/fun/christian/OpenHymnal.pdf)
 
 ## Reading List
 
