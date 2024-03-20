@@ -26,7 +26,8 @@
 
 ## Reading List
 
-- Mary Anne Schimmelpenninck: The Principles of Beauty, as manifested in Nature, Art, and Human Character, edited by Christiana C. Hankin, 1859.
-- Mary Anne Schimmelpenninck: Sacred Musings on the Manifestations of God to the Soul of Man, edited by Hankin, 1860.
-- Timothy Keller: Prayer
-- John Bunyan: Pilgrim's Progress
+- Desiring God (John Piper)
+- The Religious Affections (Jonathan Edwards)
+- The Mortification of Sin (John Owen)
+- The Heart of Christ (Thomas Goodwin)
+- Discourses Upon the Existence and Attributes of God (Stephen Charnock)
