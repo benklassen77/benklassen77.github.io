@@ -27,6 +27,13 @@
 ## Reading List
 
 - Desiring God (John Piper)
+- Holiness (J.C. Ryle)
+- Disciplines of a Godly Man (Hughes, 1991)
+- Don't Sing Songs to a Heavy Heart (Haugk, 2004)
+- Don't Hold Back (Platt, 2024)
+- Intentional (Guindon, 2023)
+- RelationShift (Putman, 2023)
+- real-life discipleship (Putman, 2010)
 - The Religious Affections (Jonathan Edwards)
 - The Mortification of Sin (John Owen)
 - The Heart of Christ (Thomas Goodwin)
