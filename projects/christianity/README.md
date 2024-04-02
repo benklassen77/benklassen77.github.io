@@ -37,6 +37,7 @@
 - George Whitefield (with Bob)
 
 ### Theology
+- Discipling by Mark Dever
 - [Holiness (J.C. Ryle)](https://www.apuritansmind.com/wp-content/uploads/FREEEBOOKS/Holiness-J.C.Ryle.pdf)
 - - Don't Sing Songs to a Heavy Heart (Haugk, 2004)
 - [The Religious Affections (Jonathan Edwards)](https://archive.org/details/treatiseconcern00edwa/page/4/mode/2up)
