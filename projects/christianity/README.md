@@ -33,7 +33,6 @@
 - [Jonathan Edwards](https://archive.org/details/jonathanedwardsg0000hosi)
 - [John Calvin](https://archive.org/details/johncalvinmenoff0000will/page/n9/mode/2up)
 - [CS Lewis](https://archive.org/details/cslewis00swif)
-- 
 - George Whitefield (with Bob)
 
 ### Theology
@@ -43,7 +42,7 @@
 - [The Religious Affections (Jonathan Edwards)](https://archive.org/details/treatiseconcern00edwa/page/4/mode/2up)
 - [The Mortification of Sin (John Owen)](https://archive.org/details/ontemptationmort00owenuoft/mode/2up)
 - [The Heart of Christ (Thomas Goodwin)](https://archive.org/details/isbn_9781941129210/page/n5/mode/2up)
-- - [Disciplines of a Godly Man (Hughes, 1991)](https://archive.org/details/disciplinesofgod0000hugh/page/n295/mode/2up)
+- [Disciplines of a Godly Man (Hughes, 1991)](https://archive.org/details/disciplinesofgod0000hugh/page/n295/mode/2up)
 
 ### Systematic Theology
 
