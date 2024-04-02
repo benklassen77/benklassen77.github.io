@@ -53,4 +53,5 @@
 - Truths We Confess (Sproul (Volume [1](https://archive.org/details/truthsweconfessl0001spro) and [2](https://archive.org/details/truthsweconfessl0002spro)
 - [The History of Christian Doctrines (Berkhof)](https://archive.org/details/historyofchristi0000berk/page/n5/mode/2up)
 - [Systematic Theology (Berkhof)](https://archive.org/details/louise-berkohf-issuu/mode/2up)
+- [Introduction to Systematic Theology (Berkhof)](https://archive.org/details/introductoryvolu0000loui/page/n7/mode/2up)
 - Systematic Theology (Hodge), Volume [1](https://archive.org/details/systematictheolo0000hodg/page/n5/mode/2up), [2](https://archive.org/details/systematictheolo0000hodg_v1e4/page/n7/mode/2up), [3](https://archive.org/details/systematictheolo0000hodg_l2z7/page/n7/mode/2up)
