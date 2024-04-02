@@ -26,15 +26,27 @@
 
 ## Reading List
 
-- Desiring God (John Piper)
-- Holiness (J.C. Ryle)
-- Disciplines of a Godly Man (Hughes, 1991)
-- Don't Sing Songs to a Heavy Heart (Haugk, 2004)
-- Don't Hold Back (Platt, 2024)
-- Intentional (Guindon, 2023)
-- RelationShift (Putman, 2023)
-- real-life discipleship (Putman, 2010)
-- The Religious Affections (Jonathan Edwards)
-- The Mortification of Sin (John Owen)
-- The Heart of Christ (Thomas Goodwin)
-- Discourses Upon the Existence and Attributes of God (Stephen Charnock)
+### Biographies
+- [George Muller](https://archive.org/details/georgemullermano00mill)
+- [John Owen](http://www.onthewing.org/user/Life%20of%20Owen%20-%20Thompson.pdf)
+- [Various Puritans](https://lionandlambapologetics.org/wp-content/uploads/2022/03/Meet-the-Puritans-Beeke-and-Pederson.pdf)
+- [Jonathan Edwards](https://archive.org/details/jonathanedwardsg0000hosi)
+- [John Calvin](https://archive.org/details/johncalvinmenoff0000will/page/n9/mode/2up)
+- [CS Lewis](https://archive.org/details/cslewis00swif)
+- 
+- George Whitefield (with Bob)
+
+### Theology
+- [Holiness (J.C. Ryle)](https://www.apuritansmind.com/wp-content/uploads/FREEEBOOKS/Holiness-J.C.Ryle.pdf)
+- - Don't Sing Songs to a Heavy Heart (Haugk, 2004)
+- [The Religious Affections (Jonathan Edwards)](https://archive.org/details/treatiseconcern00edwa/page/4/mode/2up)
+- [The Mortification of Sin (John Owen)](https://archive.org/details/ontemptationmort00owenuoft/mode/2up)
+- [The Heart of Christ (Thomas Goodwin)](https://archive.org/details/isbn_9781941129210/page/n5/mode/2up)
+- - [Disciplines of a Godly Man (Hughes, 1991)](https://archive.org/details/disciplinesofgod0000hugh/page/n295/mode/2up)
+
+### Systematic Theology
+
+- [Wayne Grudem Systematic Theology](https://archive.org/details/WayneGrudemSystematicTheology/page/n30/mode/1up)
+- [Discourses Upon the Existence and Attributes of God (Stephen Charnock)](https://archive.org/details/discoursesuponex0000char/page/n615/mode/2up)
+- Historical Theology: An Introduction to Christian Doctrine (Allison, Gregg)
+- Institutes of the Christian religion (Vol [1][(https://archive.org/details/institutesofchri01calv_0/page/12/mode/2up](https://archive.org/details/in.ernet.dli.2015.1057/page/n7/mode/2up)) and [2](https://archive.org/details/in.ernet.dli.2015.1058)
