@@ -38,7 +38,7 @@
 ### Theology
 - Discipling by Mark Dever
 - [Holiness (J.C. Ryle)](https://www.apuritansmind.com/wp-content/uploads/FREEEBOOKS/Holiness-J.C.Ryle.pdf)
-- - Don't Sing Songs to a Heavy Heart (Haugk, 2004)
+- Don't Sing Songs to a Heavy Heart (Haugk, 2004)
 - [The Religious Affections (Jonathan Edwards)](https://archive.org/details/treatiseconcern00edwa/page/4/mode/2up)
 - [The Mortification of Sin (John Owen)](https://archive.org/details/ontemptationmort00owenuoft/mode/2up)
 - [The Heart of Christ (Thomas Goodwin)](https://archive.org/details/isbn_9781941129210/page/n5/mode/2up)
