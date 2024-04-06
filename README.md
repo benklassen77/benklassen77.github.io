@@ -57,4 +57,4 @@
 - Python
 - MATLAB
 
-<center><iframe width="500" height="500" src="https://docs.google.com/spreadsheets/d/188DvINYEHAr9Qe6crJ-L_mYpaS11HP72gqjHuXiI5fE/edit?usp=sharing?&amp; rm=minimal&amp; single=true&amp;"></iframe></center>
+<center><iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/188DvINYEHAr9Qe6crJ-L_mYpaS11HP72gqjHuXiI5fE/edit?usp=sharing?&amp; rm=minimal&amp; single=true&amp;"></iframe></center>
