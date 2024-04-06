@@ -58,8 +58,3 @@
 - MATLAB
 
 <center><iframe width="500" height="500" src="https://docs.google.com/spreadsheets/d/188DvINYEHAr9Qe6crJ-L_mYpaS11HP72gqjHuXiI5fE/edit?usp=sharing?&amp; rm=minimal&amp; single=true&amp;"></iframe></center>
-
-<form action="action.php" method="post">
-  <p>Your password: <input type="text" name="password" /></p>
-  <p><input type="submit" /></p>
-</form>
