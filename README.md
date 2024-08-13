@@ -16,6 +16,7 @@ Note: to protect the copyright of book/journal authors, PDFs have been password 
 - Fundamental papers and books useful for design
 - Library of details for reference
 - Papers of interest for hot research topics
+- Online design tables
 - Notes from my design experience
 
 ## [Web Apps](webapps/)
