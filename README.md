@@ -49,8 +49,3 @@
 
 - Airport, highway, and pavement design
 - Microscopic and macroscopic traffic modelling
-
-## [Computer Languages](courses/computer/)
-
-- Python
-- MATLAB
