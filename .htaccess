@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "restricted area"
-AuthUserFile /benklassen77.github.io/_includes/.htpasswd
-require valid-user
