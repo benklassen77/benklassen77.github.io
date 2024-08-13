@@ -1,7 +1,5 @@
 # Welcome
 
-[![Facebook](https://i.imgur.com/gz3Sv99.gif?2)](https://www.facebook.com/ben.klassen.144) [![Linkedin](https://i.imgur.com/d3V3uvM.gif?1)](https://www.linkedin.com/in/benklassen/) [![Learn](https://i.imgur.com/xhq9Mlm.png?2)](https://learn.uwaterloo.ca) [![Office 365](https://i.imgur.com/YyYGcJu.png?2)](https://office.com) [Projects](projects/)
-
 ## [Structural Design](courses/design/)
 
 - Structural Rehabilitation
@@ -56,5 +54,3 @@
 
 - Python
 - MATLAB
-
-<center><iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/188DvINYEHAr9Qe6crJ-L_mYpaS11HP72gqjHuXiI5fE/edit?usp=sharing?&amp; rm=minimal&amp; single=true&amp;"></iframe></center>
