@@ -1,51 +1,14 @@
 # Welcome
 
-## [Structural Design](courses/design/)
+## [Course Notes](courses/)
 
-- Structural Rehabilitation
-- Structural Systems
-- Steel
-- Timber
-- Concrete
-- Connections
+Note: to protect the copyright of University of Waterloo course authors, all course notes have been password protected. To obtain access, please contact my email. Courses included herein include:
 
-## [Mechanics](courses/mechanics/)
+- Structural Design Courses
+- Mechanics Courses
+- Mathematics Courses
+- Miscellaneous Courses
 
-- Advanced Solid Mechanics
-- Fluid Mechanics
-- Structural Dynamics
-- Structural Analysis
-- Finite Element Analysis
+## [Quick Designer Reference](designmaterial/)
 
-## [Mathematics](courses/math/)
-
-- Calculus
-- Linear Algebra
-- Differential Equations
-
-## [Geotechnical Engineering](courses/geo/)
-
-- Soil Mechanics
-- Natural Hazards
-- Foundation Design
-
-## [Management](courses/management/)
-
-- Project Management
-- Law and ethics
-- Economics
-- Engineering Sustainability
-- Society and the modern city
-
-## [Water Engineering](courses/fluid/)
-
-- Hydrology
-
-## [Material Engineering](courses/materials/)
-
-- Metals, Wood and Polymers
-
-## [Transportation Engineering](courses/transpo/)
-
-- Airport, highway, and pavement design
-- Microscopic and macroscopic traffic modelling
+## [Personal Projects](personalprojects/)
